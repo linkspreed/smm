@@ -1,29 +1,29 @@
-# <img align="left" alt="Linkspreed General" width="100px" src="https://www.linkspreed.com/themes/wondertag/img/logo.png" draggable="false" /> Linkspreed's Social Media Marketing ([Click to visit LS 🚀](https://www.linkspreed.com/))([Log 🚀](https://github.com/linkspreed/General_Linkspreed/blob/main/log.md))
+<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
+<h3 align="center">Find our Social Media Posts in this Github Repository! 📱</h3>
 
-# Linkspreed's Social Media Marketing
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=linkspreed&label=Profile%20views&color=0e75b6&style=flat" alt="linkspreed" /> </p>
 
-Welcome to our social media marketing page. You can find all of our social media posts since 1.1.2023 in this repository. Older posts are visible on our social media channels.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linkspreed" alt="linkspreed" /></a> </p>
 
-## 🚀 About Me
-Shape the future 🚀🧡
-- 140+ Web Solutions 🌱💬
-- Decentralized 💯
-- 1 PB Cloud 📱☁️ + LaaS 🎉
-#linkspreed
+<p align="left"> <a href="https://twitter.com/linkspreed" target="blank"><img src="https://img.shields.io/twitter/follow/linkspreed?logo=twitter&style=for-the-badge" alt="linkspreed" /></a> </p>
 
+- 🔭 Follow me on Reddit [https://www.reddit.com/r/linkspreed1](https://www.reddit.com/r/linkspreed1)
 
-## Authors
+- 👯 Follow me on TikTok [https://tiktok.com/@linkspreed1](https://tiktok.com/@linkspreed1)
 
-- [@linkspreed](https://www.github.com/linkspreed)
+- 🤝 Follow me on Pinterest [https://www.pinterest.com/linkspreed1](https://www.pinterest.com/linkspreed1)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/linkspreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linkspreed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/company/linkspreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/linkspreed" height="30" width="40" /></a>
+<a href="https://fb.com/linkspreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="linkspreed" height="30" width="40" /></a>
+<a href="https://instagram.com/linkspreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linkspreed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@linkspreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@linkspreed" height="30" width="40" /></a>
+</p>
 
-## Badges
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linkspreed&show_icons=true&locale=en&layout=compact" alt="linkspreed" /></p>
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linkspreed&show_icons=true&locale=en" alt="linkspreed" /></p>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, email service@linkspreed.com or join us on social media.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linkspreed&" alt="linkspreed" /></p>
