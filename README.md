@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 04.01.2023
+- Topic: Big Cloud News!
+- Directory: /posts/2023/January/04
+- Description: ``` All our #clouds are now #decentralized 🚀 and using #Web3 🌱 #technology!  😍 This makes us even #faster, #safer 💯 and above all #unique!  🧡👻 ```
+
 ### 03.01.2023
 - Topic: What are Spreeds?
 - Directory: /posts/2023/January/03
