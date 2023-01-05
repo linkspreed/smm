@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 05.01.2023
+- Topic: Linkspreed Cloud's Milestones!
+- Directory: /posts/2023/January/05
+- Description: ``` Here you will find the most important #milestones 🚀 for our #cloudapplications.  ☁️ #Web3 is particularly important to us!  🌱🧡 ```
+
 ### 04.01.2023
 - Topic: Big Cloud News!
 - Directory: /posts/2023/January/04
