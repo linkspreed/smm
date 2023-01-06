@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 06.01.2023
+- Topic: StorJ - Linkspreed Cooperation
+- Directory: /posts/2023/January/06
+- Description: ``` I am proud to announce ☁️ that #Linkspreed 🧡 has started a #cooperation 🤝 with #StorJ 🦸‍♀️ for #decentralized #storage #technology 🚀.  Together we build the #Web 🌱 of the #future - #Web3!  📱💯 ```
+
 ### 05.01.2023
 - Topic: Linkspreed Cloud's Milestones!
 - Directory: /posts/2023/January/05
