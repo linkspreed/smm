@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 07.01.2023
+- Topic: Linkspreed Gaming
+- Directory: /posts/2023/January/07
+- Description: ``` You wished for #Linkspreed 🧡 to go into #gaming 🎮 too... so we recently 🌱 started #developments on Linkspreed Gaming! 💯📱 Stay tuned!  👻 ```
+
 ### 06.01.2023
 - Topic: StorJ - Linkspreed Cooperation
 - Directory: /posts/2023/January/06
