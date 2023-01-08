@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 08.01.2023
+- Topic: 1 free Petabyte on Petabyte.ml
+- Directory: /posts/2023/January/08
+- Description: ```It is true!  🎉 On Petabyte.ml you get 🧡 #free 🦸‍♀️ 1PB real and #decentralized #Web3 🚀 #cloudstorage ☁️ for your #files, #videos, #images and everything that can be stored in the #cloud.  😍💪 ```
+
 ### 07.01.2023
 - Topic: Linkspreed Gaming
 - Directory: /posts/2023/January/07
