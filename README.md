@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 09.01.2023
+- Topic: Let's build Web3 together!
+- Directory: /posts/2023/January/09
+- Description: ``` Let's build the #Internet 🚀 of the #Future 🎉 together and shape #Web3. 💯🌱 ```
+
 ### 08.01.2023
 - Topic: 1 free Petabyte on Petabyte.ml
 - Directory: /posts/2023/January/08
