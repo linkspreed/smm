@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 10.01.2023
+- Topic: A social network for eBooks
+- Directory: /posts/2023/January/10
+- Description: ``` We are currently building the first #social #network for #eBooks.  📚🚀 Write your own #story ✨ and publish it to #millions of #readers.  💯🎯 ```
+
 ### 09.01.2023
 - Topic: Let's build Web3 together!
 - Directory: /posts/2023/January/09
