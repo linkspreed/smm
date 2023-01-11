@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 11.01.2023
+- Topic: Linkspreed Play Beta
+- Directory: /posts/2023/January/11
+- Description: ``` It's time!  🎉 #Linkspreed #Play 🧡🎮 is now available in the #beta version 🚀✨ at https://play.linkspreed.com 🔗 #freely available!  🎯 Have fun #playing!  💯 ```
+
 ### 10.01.2023
 - Topic: A social network for eBooks
 - Directory: /posts/2023/January/10
