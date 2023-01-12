@@ -5,6 +5,14 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 12.01.2023
+- Topic: Do more! 
+- Directory: /posts/2023/January/12
+- Description: ``` Save clicks! ✅
+Save time! ✅
+Do more! ✅
+#Linkspreed 🧡 - Shape the #future 🎉🚀 ```
+
 ### 11.01.2023
 - Topic: Linkspreed Play Beta
 - Directory: /posts/2023/January/11
