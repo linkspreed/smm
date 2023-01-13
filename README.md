@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 13.01.2023
+- Topic: Joyn App 
+- Directory: /posts/2023/January/13
+- Description: ``` Soon we at #Linkspreed 🧡 will present you our #decentralized ☁️ social #network 🎉, #Joyn. 🚀💯 ```
+
 ### 12.01.2023
 - Topic: Do more! 
 - Directory: /posts/2023/January/12
