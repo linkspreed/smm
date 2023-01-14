@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 14.01.2023
+- Topic: DSAR
+- Directory: /posts/2023/January/14
+- Description: ``` #DSAR 💪 - Fill out the Data Subject Access Request Form 📃 now conveniently via #Privacy on #Linkspreed 🧡.  🚀💯 ```
+
 ### 13.01.2023
 - Topic: Joyn App 
 - Directory: /posts/2023/January/13
