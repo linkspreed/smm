@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 15.01.2023
+- Topic: Music streaming v1.5.1
+- Directory: /posts/2023/January/15
+- Description: ``` The new #version 1.5.1 🚀 has now been #released for the #platforms #Soundchest, #Musiccloud and #YourPod 🎶🎙️.  🧡💯 ```
+
 ### 14.01.2023
 - Topic: DSAR
 - Directory: /posts/2023/January/14
