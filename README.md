@@ -5,6 +5,11 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 16.01.2023
+- Topic: Slinky
+- Directory: /posts/2023/January/16
+- Description: ``` #Slinky 🧡 - the easiest way to send large #files 📑 securely and quickly by #email 📧 without having to create an #account 🎉.  🤩 ```
+
 ### 15.01.2023
 - Topic: Music streaming v1.5.1
 - Directory: /posts/2023/January/15
