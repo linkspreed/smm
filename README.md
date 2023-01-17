@@ -3,7 +3,7 @@
 
 ## Our Social Media Marketing log :)
 
-## Stay uo to date with our official social media announcements ...
+## Stay up to date with our official social media announcements ...
 
 ### 17.01.2023
 - Topic: Privacy Policy Update
