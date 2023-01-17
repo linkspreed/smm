@@ -5,6 +5,12 @@
 
 ## Stay uo to date with our official social media announcements ...
 
+### 17.01.2023
+- Topic: Privacy Policy Update
+- Directory: /posts/2023/January/17
+- Description: ``` Am 16. Januar 2023 haben wir den #Datenschutz 💯 für alle unsere #Plattformen 🎉 aktualisiert.
+🎯 Lese den neuen Datenschutz hier nach: https://linkspreed.com/terms/privacy-policy 🧡 ```
+
 ### 16.01.2023
 - Topic: Slinky
 - Directory: /posts/2023/January/16
