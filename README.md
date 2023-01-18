@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.01.2023
+- Topic: Slinky File Preview
+- Directory: /posts/2023/January/18
+- Description: ``` Now 👀 look at your #files 🗂️📑 sent to you via #Slinky 🧡☁️ before you #download them.  🎯 ```
+
 ### 17.01.2023
 - Topic: Privacy Policy Update
 - Directory: /posts/2023/January/17
