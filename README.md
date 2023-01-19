@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.01.2023
+- Topic: 900+ Days
+- Directory: /posts/2023/January/19
+- Description: ``` #Linkspreed 🧡 has been around for 900 days now.  🚀
+  We look forward to continuing to redesign the #web for you in the #future 🎉💪.  🎯💯 ```
+
 ### 18.01.2023
 - Topic: Slinky File Preview
 - Directory: /posts/2023/January/18
