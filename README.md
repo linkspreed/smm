@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.01.2023
+- Topic: Subdomainsystem
+- Directory: /posts/2023/January/20
+- Description: ``` #Linkspreed 🧡 flirts with the idea of a #subdomainsystem 🚀🎉 of the own #platforms. 🤝🌱 ```
+
 ### 19.01.2023
 - Topic: 900+ Days
 - Directory: /posts/2023/January/19
