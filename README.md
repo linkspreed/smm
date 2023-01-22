@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.01.2023
+- Topic: Privacy Policy update 21.01.2023
+- Directory: /posts/2023/January/22
+- Description: ``` We have updated our #privacy policy 📑.  🚀 Now read the new #conditions ✅, especially interesting for #users from #Virginia (#USA) 🌎🎯, and follow the patch notes on #GitHub.  👀🙈 ```
+
 ### 21.01.2023
 - Topic: 4 new updates
 - Directory: /posts/2023/January/21
