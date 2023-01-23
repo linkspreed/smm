@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.01.2023
+- Topic: Terms of Use update 22.01.2023
+- Directory: /posts/2023/January/23
+- Description: ``` We've updated our #Terms of Use 📑.  ✅ Read the new #conditions for our #platforms now.  🚀💯
+ https://linkspreed.com/terms/terms 🔗 ```
+
 ### 22.01.2023
 - Topic: Privacy Policy update 21.01.2023
 - Directory: /posts/2023/January/22
