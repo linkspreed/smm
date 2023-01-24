@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.01.2023
+- Topic: EULA update 23.01.2023
+- Directory: /posts/2023/January/24
+- Description: ``` On January 23rd, 2023 we renewed our #EULA 📳.  Read it now!  📑👀
+Link: https://linkspreed.com/site-pages/EULA 🔗✅ ```
+
 ### 23.01.2023
 - Topic: Terms of Use update 22.01.2023
 - Directory: /posts/2023/January/23
