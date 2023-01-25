@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.01.2023
+- Topic: Disclaimer update 22.01.2023
+- Directory: /posts/2023/January/25
+- Description: ``` We released a new #version 🚀 of our #disclaimer 🌱🎯 on January 22nd, 2023 🙈. ```
+
 ### 24.01.2023
 - Topic: EULA update 23.01.2023
 - Directory: /posts/2023/January/24
