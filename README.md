@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.01.2023
+- Topic: Cookie Policy update 10.01.2023
+- Directory: /posts/2023/January/26
+- Description: ``` We have updated our #Cookie 🍪 #Policy.  🌱 Find out now easily and informatively which cookies we use on our #platforms.  📑🚀 ```
+
 ### 25.01.2023
 - Topic: Disclaimer update 22.01.2023
 - Directory: /posts/2023/January/25
