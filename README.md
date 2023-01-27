@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.01.2023
+- Topic: Refund Policy update 22.01.2023
+- Directory: /posts/2023/January/27
+- Description: ``` We released a new #version 🚀 of our #Refund Policy 🌱🎯 on 01/22/2023 🙈. ```
+
 ### 26.01.2023
 - Topic: Cookie Policy update 10.01.2023
 - Directory: /posts/2023/January/26
