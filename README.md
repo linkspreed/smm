@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.01.2023
+- Topic: Acceptable Use Policy
+- Directory: /posts/2023/January/28
+- Description: ``` We have published our Acceptable Use Policy 📑🚀 on our #platforms.🌱 ```
+
 ### 27.01.2023
 - Topic: Refund Policy update 22.01.2023
 - Directory: /posts/2023/January/27
