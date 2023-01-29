@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.01.2023
+- Topic: LinkLab & Plop v22
+- Directory: /posts/2023/January/29
+- Description: ``` We've released #version 22 for #LinkLab. 🚀🌱 The patch notes are on #GitHub 📑 - you can find the #platform here: https://linklab.ga 🔗✅ ``` ; ``` We've released #version 22 for #Plop. 🚀🌱 The patch notes are on #GitHub 📑 - you can find the #platform here: https://plop.tk 🔗✅ ```
+
 ### 28.01.2023
 - Topic: Acceptable Use Policy
 - Directory: /posts/2023/January/28
