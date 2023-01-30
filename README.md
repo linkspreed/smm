@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.01.2023
+- Topic: 256 Bit SSL
+- Directory: /posts/2023/January/30
+- Description: ``` Since the beginning we have been using 256 Bit #SSL #encryption 🔐 on all #platforms 🚀 for a very secure #data exchange 🌱 between you and #Linkspreed.  🧡 ```
+
 ### 29.01.2023
 - Topic: LinkLab & Plop v22
 - Directory: /posts/2023/January/29
