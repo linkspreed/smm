@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.01.2023
+- Topic: Deepage v19 & Rank v2.0.1
+- Directory: /posts/2023/January/31
+- Description: ``` We released #Version 19 for #DeePage on 01/27/2023.  🚀🌱 The patch notes are on #GitHub 📑 - you can find the #platform here: https://deepage.tk 🔗✅ ``` ; ``` We released #Version 2.0.1 for #Rank on 01/27/2023.  🚀🌱 The patch notes are on #GitHub 📑 - you can find the #platform here: https://rank.ga 🔗✅ ```
+
 ### 30.01.2023
 - Topic: 256 Bit SSL
 - Directory: /posts/2023/January/30
