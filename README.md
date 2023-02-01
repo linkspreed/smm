@@ -6,7 +6,7 @@
 ## Stay up to date with our official social media announcements ...
 
 ### 01.02.2023
-- Topic:February with Linkspreed
+- Topic: February with Linkspreed
 - Directory: /posts/2023/February/01
 - Description:  ``` This #February ✨ we set ourselves strong #goals 🎯 at #Linkspreed 🧡.  Have fun on our #platforms.  🚀 ```
 
