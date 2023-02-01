@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.02.2023
+- Topic:February with Linkspreed
+- Directory: /posts/2023/February/01
+- Description:  ``` This #February ✨ we set ourselves strong #goals 🎯 at #Linkspreed 🧡.  Have fun on our #platforms.  🚀 ```
+
 ### 31.01.2023
 - Topic: Deepage v19 & Rank v2.0.1
 - Directory: /posts/2023/January/31
