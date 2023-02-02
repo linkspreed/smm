@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.02.2023
+- Topic: Linkspreed & Mails
+- Directory: /posts/2023/February/02
+- Description:  ``` We continue to expand our #email 📧 #applications ✨ and #develop 🌱 new #solutions for you.  🧡📑 ```
+
 ### 01.02.2023
 - Topic: February with Linkspreed
 - Directory: /posts/2023/February/01
