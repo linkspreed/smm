@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.02.2023
+- Topic: Linkspreed Assistant
+- Directory: /posts/2023/February/03
+- Description:  ``` We are #developing ✨ our #long-term project 🌱🚀 - the #Linkspreed #Assistant.  🧡🎯 ```
+
 ### 02.02.2023
 - Topic: Linkspreed & Mails
 - Directory: /posts/2023/February/02
