@@ -6,6 +6,11 @@
 ## Stay up to date with our official social media announcements ...
 
 ### 04.02.2023
+- Topic: Analytix & Snippite v3.6.1
+- Directory: /posts/2023/February/05
+- Description:  ``` With the new #version 3.6.1 😎 you get deeper #insights 🌱 into the #traffic 🚗 on your #website.  💙  ```
+
+### 04.02.2023
 - Topic: Web4
 - Directory: /posts/2023/February/04
 - Description:  ``` 📆 #Web4 🧡🎉 was created on February 2nd, 2023.  #Linkspreed 🧡✨ is proud to announce the new #generation of the #internet 😎🎯.  🌱 ```
