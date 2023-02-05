@@ -5,7 +5,7 @@
 
 ## Stay up to date with our official social media announcements ...
 
-### 04.02.2023
+### 05.02.2023
 - Topic: Analytix & Snippite v3.6.1
 - Directory: /posts/2023/February/05
 - Description:  ``` With the new #version 3.6.1 😎 you get deeper #insights 🌱 into the #traffic 🚗 on your #website.  💙  ```
