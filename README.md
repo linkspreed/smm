@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.02.2023
+- Topic: Biospreed & Snoogie - 12 new blocks
+- Directory: /posts/2023/February/06
+- Description: ``` There are 12 new #block options ✨ on #BioSpreed, 👀 that you can implement into your #biolink #page now. 🌱🔥 ``` ; ``` There are 12 new #block options ✨ on #Snoogie, 👀 that you can implement into your #biolink #page now. 🌱🔥 ```
+
 ### 05.02.2023
 - Topic: Analytix & Snippite v3.6.1
 - Directory: /posts/2023/February/05
