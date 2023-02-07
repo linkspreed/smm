@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.02.2023
+- Topic: Linkspreed Mails
+- Directory: /posts/2023/February/07
+- Description: ``` Create your own #email 🎯🔥 in 3 seconds 🌱 with #Linkspreed #Mails.  📧🧡 ```
+
 ### 06.02.2023
 - Topic: Biospreed & Snoogie - 12 new blocks
 - Directory: /posts/2023/February/06
