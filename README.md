@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.02.2023
+- Topic: Plugin system
+- Directory: /posts/2023/February/08
+- Description: ``` At #Linkspreed, 🧡 we believe in #developing our own #plugins ✨ for our projects to offer enhanced #security, #speed, and #performance. 🔥🚀🌱 ```
+
 ### 07.02.2023
 - Topic: Linkspreed Mails
 - Directory: /posts/2023/February/07
