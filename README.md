@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.02.2023
+- Topic: SaaS Expanding
+- Directory: /posts/2023/February/09
+- Description: ``` 🚀Excited to announce that we'll be expanding our SaaS platforms to reach new heights 🔝 #SaaS #Expansion #Innovation 💻💡 ```
+
 ### 08.02.2023
 - Topic: Plugin system
 - Directory: /posts/2023/February/08
