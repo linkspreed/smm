@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.02.2023
+- Topic: Linkspreed Lambda
+- Directory: /posts/2023/February/11
+- Description: ``` 🚨 BIG NEWS ALERT 🚨 The future is here and it's all about AI! 🤖👨‍💻 Get ready for a smarter, more intuitive experience with Linkspreed. 💻💡 We're making AI accessible like never before. #LinkspreedAI #ArtificialIntelligence #SmarterTomorrow 🚀 ```
+
 ### 10.02.2023
 - Topic: UpNode
 - Directory: /posts/2023/February/10
