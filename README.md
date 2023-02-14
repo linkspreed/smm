@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.02.2023
+- Topic: Decentralized Clouds
+- Directory: /posts/2023/February/14
+- Description: ``` 🚨Important Announcement🚨 Attention all users of our decentralized clouds! Due to ongoing infrastructure upgrades, we will temporarily be unable to accept new uploads for the next 2 months. But don't worry, this downtime will allow us to improve and monetize our cloud offerings for a better user experience. We can't wait to show you the results of our hard work! #DecentralizedClouds #Upgrades #ImprovedExperience 💻💾🔜 ```
+- Topic: Centralized Clouds
+- Directory: /posts/2023/February/14
+- Description: ``` Good news! During the next 2 months, we are offering our centralized clouds for free! While our decentralized clouds are temporarily not accepting new files, we are taking this opportunity to upgrade our infrastructure and offer even better cloud solutions in the future. Trust us, the wait will be worth it! 💻🔥🚀 #Linkspreed #FreeClouds #CentralizedClouds #Upgrade #BetterTogether 🌟 ```
+
 ### 13.02.2023
 - Topic: Linkspreed Assistant
 - Directory: /posts/2023/February/13
