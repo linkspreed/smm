@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.02.2023
+- Topic: Linkspreed/ForJu/SeedSpreed/Connected v4.1.5
+- Directory: /posts/2023/February/15
+- Description: ``` 🎉Introducing v4.1.5 of Linkspreed! 🚀Check out the Changelog on GitHub to see what's new! #Linkspreed #PlatformLaunch #v4.1.5 ``` ; ``` 💻Exciting news for Connected users! Our v4.1.5 update is now live! 🔍See the Changelog on GitHub for details! #Connected #PlatformUpdate #v4.1.5 ``` ; ``` 📈SeedSpreed just got better! Upgrade to v4.1.5 and experience all the new features! 💻Changelog available on GitHub. #SeedSpreed #PlatformUpgrade #v4.1.5 ``` ; ``` 🔥ForJu just launched v4.1.5 and it's better than ever! 💻Check out the Changelog on GitHub for all the details! #ForJu #PlatformLaunch #v4.1.5 ```
+
 ### 14.02.2023
 - Topic: Decentralized Clouds
 - Directory: /posts/2023/February/14
