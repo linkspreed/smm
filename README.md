@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.02.2023
+- Topic: Survey - Web4
+- Directory: /posts/2023/February/17
+- Description: ``` 📊 Do you think Linkspreed will be fully Web4 compatible by the end of 2023? 🔮
+🤔 Let us know what you think with a simple answer below! 👇
+#Linkspreed #Web4 #compatibility #survey 🚀 ```
+
 ### 16.02.2023
 - Topic: Powerful Cache System
 - Directory: /posts/2023/February/16
