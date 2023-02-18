@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.02.2023
+- Topic: Pixly
+- Directory: /posts/2023/February/18
+- Description: ``` 🎨 Do you know Pixly yet? It's a free, decentralized image editing tool available right in your browser from Linkspreed! No account needed, just head to https://pixly.tk and start creating. Have you tried it out yet? Let us know in the comments! 🖌️👇
+#Pixly #Linkspreed #imageediting #browserbased #decentralized #freeware ```
+
 ### 17.02.2023
 - Topic: Survey - Web4
 - Directory: /posts/2023/February/17
