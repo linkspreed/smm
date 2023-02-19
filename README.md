@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.02.2023
+- Topic: Expansion of Linkspreed's Cloud Services
+- Directory: /posts/2023/February/19
+- Description: ``` 🚀 Exciting News! 🌍 In the next 2 months, Linkspreed is expanding the cloud services to the entire internet! ☁️🌐
+Get ready to access your files, photos, and more from anywhere in the world! 🌎 No more worrying about storage limits or losing your data.
+Stay tuned for updates and get ready to experience the freedom of a decentralized and centralized cloud! 🙌 #Linkspreed #CloudExpansion #Decentralized #InternetFreedom ```
+
 ### 18.02.2023
 - Topic: Pixly
 - Directory: /posts/2023/February/18
