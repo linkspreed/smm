@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.02.2023
+- Topic: The first terabytes
+- Directory: /posts/2023/February/20
+- Description: ``` 🎉 BIG NEWS 🌟 We've successfully stored the first terabytes of files in our clouds! ☁️💾
+With our decentralized and centralized cloud services, you can store your data safely and access it from anywhere in the world. 🌎 Say goodbye to worrying about storage limits and losing your precious files.
+Join us on this journey to the future of cloud storage! 🚀 #Linkspreed #CloudStorage #DecentralizedCloud #CentralizedCloud #Terabytes #DataSecurity ```
+
 ### 19.02.2023
 - Topic: Expansion of Linkspreed's Cloud Services
 - Directory: /posts/2023/February/19
