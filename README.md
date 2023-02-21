@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.02.2023
+- Topic: Url Shorter
+- Directory: /posts/2023/February/21
+- Description: ``` 🔥 Say goodbye to long, clunky links and hello to the power of Linkspreed! Our URL shortener is optimized for maximum impact and our analytics pack a serious punch. 🔎📊
+🚀 Shorten your links with Linkspreed's tools and unlock powerful insights to optimize your online presence. 🌐💪
+#Linkspreed #URLshortener #Analytics #Optimize #OnlinePresence #DigitalMarketing ```
+
 ### 20.02.2023
 - Topic: The first terabytes
 - Directory: /posts/2023/February/20
