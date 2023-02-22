@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.02.2023
+- Topic: Linkspreed Multi Assistant
+- Directory: /posts/2023/February/22
+- Description: ``` 🎉Get ready to elevate your life with @Linkspreed's latest app update!📱🔥 Connect your very own custom voice assistant to simplify your day-to-day tasks like never before.💡 Say goodbye to mundane routines and hello to your personal productivity boost!👋 #Linkspreed #VoiceAssistant ```
+
 ### 21.02.2023
 - Topic: Url Shorter
 - Directory: /posts/2023/February/21
