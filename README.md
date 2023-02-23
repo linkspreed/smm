@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.02.2023
+- Topic: BeYou v3.7 & Kitchat v3.7
+- Directory: /posts/2023/February/23
+- Description: ``` After 3 months of hard work, we're thrilled to announce the release of BeYou Version 3.7! Our team has poured their hearts and souls into this update, and we can't wait for you to try it out. Let's get #BeYou-ing! ``` ; ```The wait is over! Version 3.7 of KitChat is here, and it's better than ever before. Our team has worked tirelessly to bring you the latest and greatest features, so get ready to #KitChat your way to new heights! 🚀💬 #UpgradeNow ```
+
 ### 22.02.2023
 - Topic: Linkspreed Multi Assistant
 - Directory: /posts/2023/February/22
