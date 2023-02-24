@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.02.2023
+- Topic: Flipx - new design
+- Directory: /posts/2023/February/24
+- Description: ``` 🎉 Who said email has to be boring? 💥 Flipx just gave my inbox a makeover and it's looking FRESH! 🚀✨ Say hello to sleek design and easy navigation. 📩👋 #Flipx #EmailMakeover #FreshDesign #InboxGoals ```
+
 ### 23.02.2023
 - Topic: BeYou v3.7 & Kitchat v3.7
 - Directory: /posts/2023/February/23
