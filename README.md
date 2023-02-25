@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.02.2023
+- Topic: Biospreed & Snoogie Email Signature
+- Directory: /posts/2023/February/25
+- Description: ``` 🌿📧🌿 Say goodbye to boring email signatures and hello to Biospreed's new feature! 🙌🏽🌟 Customize your own signature in seconds and make a lasting impression on everyone you email. #Biospreed #EmailSignature #Customize #Easy #Green ``` ; ```🔥 Attention Snoogie users! Your email signature just got a whole lot cooler! 🎉💻📧 With our new feature, creating your own unique signature is a breeze! Try it out today! #Snoogie #EmailSignature #Personalize #Easy ```
+
 ### 24.02.2023
 - Topic: Flipx - new design
 - Directory: /posts/2023/February/24
