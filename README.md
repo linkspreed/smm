@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.03.2023
+- Topic: March with Linkspreed
+- Directory: /posts/2023/March/01
+- Description: ``` Wow, at Linkspreed March is all about technology! 😎 We're excited to show you our latest developments in the field of AI and Machine Learning and how they can give your business the decisive edge. Together, we'll rock the future! 🚀 #LinkspreedTech #AIpower #MachineLearningFTW ```
+
 ### 28.02.2023
 - Topic: We need your feedback!
 - Directory: /posts/2023/February/28
