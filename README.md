@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.03.2023
+- Topic: Subscribe Linkspreed TV on YouTube
+- Directory: /posts/2023/March/02
+- Description: ``` Ready to level up your tech game? Don't forget to hit that subscribe button on Linkspreed TV's YouTube channel for exclusive content and insider tips! 🚀🔥 #tech #YouTube #LinkspreedTVRead ```
+
 ### 01.03.2023
 - Topic: March with Linkspreed
 - Directory: /posts/2023/March/01
