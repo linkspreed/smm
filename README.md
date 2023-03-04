@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.03.2023
+- Topic: Mailspread further work
+- Directory: /posts/2023/March/04
+- Description: ``` We're not slowing down! 🔥 We're constantly working to make Mailspread the ultimate email newsletter platform. Stay tuned for exciting new features and updates that will take your email marketing game to the next level! 🚀📩 #Mailspread #EmailMarketing #Newsletter ```
+
 ### 03.03.2023
 - Topic: PHP 8.0 & PHP 8.1 on all platforms
 - Directory: /posts/2023/March/03
