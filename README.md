@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.03.2023
+- Topic: UpNode - 10 million checks
+- Directory: /posts/2023/March/06
+- Description: ``` Drumroll please! 🥁🎉 UpNode has hit a major milestone - over 10 million checks! 🚀🙌 Our website monitoring tool is hard at work making sure your site is always running smoothly. With real-time alerts and in-depth reports, you can trust UpNode to keep your website in tip-top shape. Thank you for your support, and here's to the next 10 million! 🎈 ```
+
 ### 05.03.2023
 - Topic: Toolkit v14.0.0
 - Directory: /posts/2023/March/05
