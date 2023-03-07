@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.03.2023
+- Topic: Vote now!
+- Directory: /posts/2023/March/07
+- Description: ``` We want to improve our platform for you! Let us know in the comments or via message to our support team which platform you prefer and which features you'd like to see added. We're excited to hear your feedback! 💬🚀 #Feedback #Improvements #Support ```
+
 ### 06.03.2023
 - Topic: UpNode - 10 million checks
 - Directory: /posts/2023/March/06
