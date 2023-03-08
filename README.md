@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.03.2023
+- Topic: Database Search
+- Directory: /posts/2023/March/08
+- Description: ``` 🔍🚀 We're searching for fast and reliable databases to boost the performance of #Linkspreed! Do you have any recommendations? Let us know in the comments! #Databases #Speed ```
+
 ### 07.03.2023
 - Topic: Vote now!
 - Directory: /posts/2023/March/07
