@@ -6,7 +6,7 @@
 ## Stay up to date with our official social media announcements ...
 
 ### 11.03.2023
-- Topic: India - a own social network!
+- Topic: India - an own social network!
 - Directory: /posts/2023/March/11
 - Description: ``` 🎉 Big news 🎉 Linkspreed is planning to build its own social network for India 🇮🇳👥💬 where our Indian community calls home. Get ready for a completely new and exciting platform! 🚀 #Linkspreed #SocialNetwork #India ```
 
