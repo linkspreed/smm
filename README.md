@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.03.2023
+- Topic: New powerful database server!
+- Directory: /posts/2023/March/12
+- Description: ``` The new database server of Linkspreed rocks with 8 CPUs and 32 GB RAM 💻🔥 #webhosting #serverupgrade ```
+
 ### 11.03.2023
 - Topic: India - an own social network!
 - Directory: /posts/2023/March/11
