@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.03.2023
+- Topic: Deepmind
+- Directory: /posts/2023/March/13
+- Description: ``` 🚀 Linkspreed Deepmind is our new project that aims to bring Machine Learning and AI to everyone! 🤖💻 Whether you're a business owner or just curious about how AI can enhance your life - we have the tools and expertise to help you! Let's shape the future together! 🌟 ```
+
 ### 12.03.2023
 - Topic: New powerful database server!
 - Directory: /posts/2023/March/12
