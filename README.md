@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.03.2023
+- Topic: Google Cloud
+- Directory: /posts/2023/March/16
+- Description: ``` 📣 We've leveled up! Our database at Linkspreed.com is now powered by Google Cloud! 🚀 This means even more security and stability for our platform. 😎 ```
+
 ### 15.03.2023
 - Topic: Linkspreed Browser?
 - Directory: /posts/2023/March/15
