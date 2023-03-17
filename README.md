@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.03.2023
+- Topic: Poke Feature
+- Directory: /posts/2023/March/17
+- Description: ``` 🎉 We're excited to announce that the Poke feature is now available on Linkspreed! Say hello to your friends in a whole new way. 🤗 #poke #linkspreed #newfeature ```
+
 ### 16.03.2023
 - Topic: Google Cloud
 - Directory: /posts/2023/March/16
