@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.03.2023
+- Topic: Discussions on Linkspreed
+- Directory: /posts/2023/March/20
+- Description: ``` 📣 It has never been easier to discuss with other users on Linkspreed! 💬 Just click on the chat button and start your conversation! Don't miss out on any important discussions anymore! 🔝 ```
+
 ### 19.03.2023
 - Topic: DNServer
 - Directory: /posts/2023/March/19
