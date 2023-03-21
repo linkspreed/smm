@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.03.2023
+- Topic: AI - The future of Linkspreed
+- Directory: /posts/2023/March/21
+- Description: ``` 🚀 We have been working hard for the past two months to build our artificial intelligence systems and we are proud to announce that they will be launching soon! 😎 At Linkspreed, we are dedicated to providing the best technology for our users. 💻 ```
+
 ### 20.03.2023
 - Topic: Discussions on Linkspreed
 - Directory: /posts/2023/March/20
