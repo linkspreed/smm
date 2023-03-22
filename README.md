@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.03.2023
+- Topic: 1 Week to go
+- Directory: /posts/2023/March/22
+- Description: ``` ⏰ Only 7 days left! We can hardly wait! Soon it's going to be on! 🔥🚀 #countdown #startup #Linkspreed ```
+
 ### 21.03.2023
 - Topic: AI - The future of Linkspreed
 - Directory: /posts/2023/March/21
