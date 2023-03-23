@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.03.2023
+- Topic: Payback comes back
+- Directory: /posts/2023/March/23
+- Description: ``` 📢 Good news for all shop owners! Our Payback solutions are back, offering great discounts to your customers. Sign up with Linkspreed today and start your own Payback program! 💰🛍️ #Payback #Linkspreed #CustomerLoyalty ```
+
 ### 22.03.2023
 - Topic: 1 Week to go
 - Directory: /posts/2023/March/22
