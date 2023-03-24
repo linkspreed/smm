@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.03.2023
+- Topic: Workspreed
+- Directory: /posts/2023/March/24
+- Description: ``` 🎉 Introducing Workspreed, the digital workplace in the cloud! 💼 With Workspreed, you can work from anywhere and access all your files. 🌐 All you need is a computer and an internet connection. 🔐 All your data is securely stored in the cloud. Try it now! #Workspreed #CloudWorkplace #DigitalFuture ```
+
 ### 23.03.2023
 - Topic: Payback comes back
 - Directory: /posts/2023/March/23
