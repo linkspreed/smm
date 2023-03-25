@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.03.2023
+- Topic: AWS - Linkspreed
+- Directory: /posts/2023/March/25
+- Description: ``` 🚀 We have big news: The Linkspreed database is now supported by AWS! This means better performance, higher security, and speed for our platform. 🙌 Thank you to AWS for the amazing collaboration! #Linkspreed #AWS #Database ```
+
 ### 24.03.2023
 - Topic: Workspreed
 - Directory: /posts/2023/March/24
