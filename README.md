@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.03.2023
+- Topic: AI on the launchpad
+- Directory: /posts/2023/March/26
+- Description: ``` 🚀 Hey everyone, it's almost here! Our AI technology at Linkspreed is launchpad ready and we can't wait to fire it into the internet. With our innovative AI technology, we're ready to provide you with the best possible experience. 🤖 Get ready for the next level of the digital world! #AI #Future #Linkspreed ```
+
 ### 25.03.2023
 - Topic: AWS - Linkspreed
 - Directory: /posts/2023/March/25
