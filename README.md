@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.03.2023
+- Topic: Cloud v3.0.9
+- Directory: /posts/2023/March/27
+- Description: ``` It's almost here! Our latest cloud version - Cloud v3.0.9 - is about to launch! 🎉 We've worked hard to bring you the best cloud experience yet. Get ready to take it to the next level! #LinkspreedCloud #ComingSoon #CloudV3.0.9 ```
+
 ### 26.03.2023
 - Topic: AI on the launchpad
 - Directory: /posts/2023/March/26
