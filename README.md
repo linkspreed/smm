@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.03.2023
+- Topic: Linkspreed is a company!
+- Directory: /posts/2023/March/29
+- Description: ``` 🎉🎉🎉We did it! Today, on March 29th, 2023, we officially launched Linkspreed as a company! 🚀 From now on, we are part of the internet family and can't wait to make the web a better place with all of you. 🌐
+A huge thank you to all our users who have supported us on this journey. 🙏 You are the reason why we strive to make the online experience better for everyone every single day. Together, we will revolutionize the internet! 💪 #Linkspreed #Internetrevolution #ThankYouAll ```
+
 ### 28.03.2023
 - Topic: Cloud2Go/Cloudspreed/Linkspreed Drive/Linkspreed Photos/UltiCloud/Petabyte/Metabox v3.0.9
 - Directory: /posts/2023/March/28
