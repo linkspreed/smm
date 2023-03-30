@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.03.2023
+- Topic: Linkspreed is 80% faster ...
+- Directory: /posts/2023/March/30
+- Description: ``` 🚀🎉 Linkspreed is now a whopping 80% faster! 🎉🚀 No more waiting, no more missed opportunities - take off with Linkspreed! 🔥 #LinkBuilding #SEO #OnlineMarketing  ```
+
 ### 29.03.2023
 - Topic: Linkspreed is a company!
 - Directory: /posts/2023/March/29
