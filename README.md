@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.03.2023
+- Topic: Moderators
+- Directory: /posts/2023/March/31
+- Description: ``` 📣 We're looking for you! 🙋‍♀️🙋‍♂️
+We want to provide the best experience for our Linkspreed community, and we need your help! We're looking for volunteer moderators to help us review reported posts and keep our community safe and respectful. If you're interested in joining our team, send us a DM and become part of the Linkspreed community! 💪 ```
+
 ### 30.03.2023
 - Topic: Linkspreed is 80% faster ...
 - Directory: /posts/2023/March/30
