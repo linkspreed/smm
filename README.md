@@ -5,6 +5,15 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.04.2023
+- Topic: April
+- Directory: /posts/2023/April/01
+- Description: ``` 🎉 Welcome April! 🎉
+It's finally happening! We've been waiting for this moment for so long and it's finally here! 😍
+At Linkspreed, we believe in individuality! 💪🏼 That's why we have some exciting changes planned for you that you won't want to miss! 🤩
+Stay tuned! 🙌🏼 More information is coming soon. 😉
+#Linkspreed #April #Individuality #Staytuned  ```
+
 ### 31.03.2023
 - Topic: Moderators
 - Directory: /posts/2023/March/31
