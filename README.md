@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.04.2023
+- Topic: Terms update
+- Directory: /posts/2023/April/02
+- Description: ``` Hey guys! 🤗 We wanted to let you know that as of April 1st, we updated our privacy policy, EULA, terms of use, and other policies to make them compliant with our business. We value the protection of your data and always strive to provide you with the best user experience possible. 🚀 For more information, check out our website. Stay tuned! 😉 ```
+
 ### 01.04.2023
 - Topic: April
 - Directory: /posts/2023/April/01
