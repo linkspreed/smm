@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.04.2023
+- Topic: Cloud Tags
+- Directory: /posts/2023/April/03
+- Description: ``` 🌥️🔖 We've introduced cloud tags on our cloud platforms! With cloud tags, you can now work even more productively and structure your files even better. It's now possible to quickly find, edit, and stay organized with large files across multiple terabytes. 🚀 ```
+
 ### 02.04.2023
 - Topic: Terms update
 - Directory: /posts/2023/April/02
