@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.04.2023
+- Topic: BeYou v3.8 & KitChat v3.8
+- Directory: /posts/2023/April/04
+- Description: ``` Attention all BeYou users! 📣 We're excited to announce that our platform has been updated to version 3.8. 🚀 Head over to our website to see all the new features, enhancements, and bug fixes we've added to make your experience on BeYou even more amazing! 😍💻 #BeYou #Version3.8 #AmazingExperience ``` ; ``` Kitchat version 3.8 is now live! 🎉 Check out all the changes on our Github page. We've added lots of new features, updated existing ones, and fixed bugs to make your chatting experience even better! 💬👀 #Kitchat #Version3.8 #ChattingExperience ```
+
 ### 03.04.2023
 - Topic: Cloud Tags
 - Directory: /posts/2023/April/03
