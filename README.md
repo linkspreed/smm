@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.04.2023
+- Topic: LinkLab v23.0.0 & Plop v23.0.0
+- Directory: /posts/2023/April/05
+- Description: ``` #LinkLab just got even better! 🤩👩‍💻💻 Version 23.0.0 is now up and running with all the new features, bug fixes, and updates you've been waiting for. Head over to our GitHub to see all the changes. Time to level up your LinkLab game! ``` ; ``` 🎉🚀 Version 23.0.0 is LIVE! 🎉🚀 We've launched our latest update and fixed all the pesky bugs and added some awesome new features! Check out all the changes on #Plop23.0.0 now. 💻🔍 ```
+
 ### 04.04.2023
 - Topic: BeYou v3.8 & KitChat v3.8
 - Directory: /posts/2023/April/04
