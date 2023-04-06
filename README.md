@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.04.2023
+- Topic: 32 CPU & 128GB RAM
+- Directory: /posts/2023/April/06
+- Description: ``` Linkspreed is proud to introduce our new database server with 32 CPUs and 128 gigabytes of RAM! 🧡 We are ready for the future and look forward to providing you with the best possible performance! #Linkspreed #Server #Performance ```
+
 ### 05.04.2023
 - Topic: LinkLab v23.0.0 & Plop v23.0.0
 - Directory: /posts/2023/April/05
