@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.04.2023
+- Topic: Linkspreed Helpdesk
+- Directory: /posts/2023/April/08
+- Description: ``` 🎉 Exciting News! 🚀 We can't contain our excitement as we gear up to unveil the highly-anticipated Linkspreed Helpdesk for all your support inquiries! 💪🏼🔧 Say goodbye to hassle and hello to exceptional support with our state-of-the-art system that's designed to exceed your expectations. Stay tuned for more updates! #LinkspreedHelpdesk #Support #ComingSoon #ExceptionalService ```
+
 ### 07.04.2023
 - Topic: Cloud2Go/Cloudspreed/Linkspreed Drive/Linkspreed Photos/UltiCloud/Petabyte/Metabox v3.1.0
 - Directory: /posts/2023/April/07
