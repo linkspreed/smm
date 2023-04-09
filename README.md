@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.04.2023
+- Topic: Happy Easter
+- Directory: /posts/2023/April/09
+- Description: ``` Wishing all our users a Happy Easter! 🐰🌷🐣 Check out our platforms to see if there's anything new to discover. We have some Easter surprises in store for you! 🎉😍 #HappyEaster #DiscoverNewThings #Platforms ```
+
 ### 08.04.2023
 - Topic: Linkspreed Helpdesk
 - Directory: /posts/2023/April/08
