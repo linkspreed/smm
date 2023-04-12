@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.04.2023
+- Topic: B2B
+- Directory: /posts/2023/April/12
+- Description: ``` We're stepping into the B2B game! 💼🚀 Offering the perfect software solution for companies and start-ups to streamline their processes. 👩‍💻👨‍💻 Interested in our products? Feel free to reach out to us via social media, email, WhatsApp Business, LinkedIn, and more! 📲📧 #B2B #Software #Efficiency #Companies #Startups #ContactUs #EarlyInterest ```
+
 ### 11.04.2023
 - Topic: Linkspreed AI
 - Directory: /posts/2023/April/11
