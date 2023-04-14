@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.04.2023
+- Topic: Spring cleaning on Linkspreed
+- Directory: /posts/2023/April/14
+- Description: ``` 🌼🌷 Spring Cleaning Time on Linkspreed! 🌱🌞
+Have you done your spring cleaning on our Linkspreed platforms yet? 🧹🧽 It's time to tidy up those old posts, share fresh content, and fill our feed with a breath of fresh air! 💨💻
+#SpringCleaning #Linkspreed #Platforms #FreshAir #TidyingUp #NewContent ```
+
 ### 13.04.2023
 - Topic: 5 outlooks on Linkspreed AI
 - Directory: /posts/2023/April/13
