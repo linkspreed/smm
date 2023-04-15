@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.04.2023
+- Topic: Do you follow us on Linkspreed?
+- Directory: /posts/2023/April/15
+- Description: ``` 🌟 Are you following us on Linkspreed yet? 🤔 If not, it's time to hit that follow button! 🚀 Get exclusive insights into our latest developments and innovations. 💡 Don't miss out, follow us now! 😍 #Linkspreed #Follow #Innovation #Technology #Emojis ```
+
 ### 14.04.2023
 - Topic: Spring cleaning on Linkspreed
 - Directory: /posts/2023/April/14
