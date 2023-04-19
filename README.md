@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.04.2023
+- Topic: Linkspreed Play v1.6.0
+- Directory: /posts/2023/April/19
+- Description: ``` 🎉 It's finally here! 🚀 We launched Linkspreed Play version 1.6.0! 🎮🔥 Packed with even more features, enhancements, and amazing content! 🌟 #LinkspreedPlay #Update #NewVersion #Gaming #Excitement #Fun #GamerLife #ComingSoon ```
+
 ### 18.04.2023
 - Topic: Toolkit.ga v15.0.0 - 470+ tools
 - Directory: /posts/2023/April/18
