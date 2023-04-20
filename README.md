@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.04.2023
+- Topic: LS Clouds
+- Directory: /posts/2023/April/20
+- Description: ``` Get ready to experience cloud storage like never before! 🔥 In just a few days, we'll be launching the Linkspreed cloud system - the most innovative, dynamic, and user-friendly cloud storage solution on the market. 💻 Say goodbye to expensive and complicated storage options and hello to a hassle-free experience. Join Linkspreed and upgrade to our cloud systems! #Linkspreed #CloudStorage #Innovative #Dynamic #UserFriendly ```
+
 ### 19.04.2023
 - Topic: Linkspreed Play v1.6.0
 - Directory: /posts/2023/April/19
