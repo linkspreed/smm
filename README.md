@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.04.2023
+- Topic: LS Cloud - Countdown
+- Directory: /posts/2023/April/21
+- Description: ``` The countdown is on - only 10 days until we release our game-changing cloud solutions! 🚀💻 Are you ready for the future of data management? We sure are! Stay tuned for more information and exciting updates. #Cloudrevolution #FutureofData #CountdownIsOn #ComingSoon ```
+
 ### 20.04.2023
 - Topic: LS Clouds
 - Directory: /posts/2023/April/20
