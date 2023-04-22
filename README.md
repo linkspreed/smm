@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.04.2023
+- Topic: LI Chat
+- Directory: /posts/2023/April/22
+- Description: ``` Hey you! 👋 We have some exciting news to share! Linkspreed AI now has a super-intelligent chat system, just like ChatGPT! 😎🤖 Why don't you give it a try and let us know what you think! 💬 #LinkspreedAI #ChatGPT #artificialintelligence #chatbot ```
+
 ### 21.04.2023
 - Topic: LS Cloud - Countdown
 - Directory: /posts/2023/April/21
