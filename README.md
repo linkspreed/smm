@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.04.2023
+- Topic: BioX API Documentation
+- Directory: /posts/2023/April/23
+- Description: ``` 📖🤓 Calling all developers! The official documentation for the BioX API is now available for reading. 🧐 Get started on your next project today. #BioXAPI #developer #documentation system, just like ChatGPT! 😎🤖 Why don't you give it a try and let us know what you think! 💬 #LinkspreedAI #ChatGPT #artificialintelligence #chatbot ```
+
 ### 22.04.2023
 - Topic: LI Chat
 - Directory: /posts/2023/April/22
