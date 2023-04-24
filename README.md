@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.04.2023
+- Topic: Oxygen - first announcement
+- Directory: /posts/2023/April/24
+- Description: ``` 🔍 We're breathing in new tech! 🌬️💻 Oxygen, our very own browser, is in the works. Stay tuned! #Browser #Technology #Innovation ```
+
 ### 23.04.2023
 - Topic: BioX API Documentation
 - Directory: /posts/2023/April/23
