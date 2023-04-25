@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.04.2023
+- Topic: B2C
+- Directory: /posts/2023/April/25
+- Description: ``` 🌐🏗️ B2C at Linkspreed stands for building the new internet for everyone! Who's with us? #Linkspreed #newinternet #B2C ```
+
 ### 24.04.2023
 - Topic: Oxygen - first announcement
 - Directory: /posts/2023/April/24
