@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.04.2023
+- Topic: Become a moderator
+- Directory: /posts/2023/April/26
+- Description: ``` 📢👋🏼🤔
+Want to become a moderator for Linkspreed? 🤔
+We are looking for motivated moderators to help us make our platform more secure and user-friendly. 💪🏼
+If you're interested, feel free to message us! 📩 ```
+
 ### 25.04.2023
 - Topic: B2C
 - Directory: /posts/2023/April/25
