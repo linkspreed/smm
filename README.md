@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.04.2023
+- Topic: Linkspreed Mails
+- Directory: /posts/2023/April/27
+- Description: ``` 🔒📧👀 Want to register somewhere without using your real email address? Check us out: Linkspreed Mails (mails.linkspreed.com) or Flipx (flipx.tk). ```
+
 ### 26.04.2023
 - Topic: Become a moderator
 - Directory: /posts/2023/April/26
