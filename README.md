@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.04.2023
+- Topic: 1000 days of Linkspreed
+- Directory: /posts/2023/April/29
+- Description: ``` 🎉🎊 We're celebrating 1000 days of Linkspreed! 🎊🎉
+🙌 We want to thank our users who have made us who we are today. Without you, we wouldn't be here! 🙏
+Thank you for your support and trust in our internet startup. We're working hard to continue providing you with the latest trends and developments in the digital world! 💻🌐
+#1000Days #Linkspreed #InternetStartup #DigitalWorld ```
+
 ### 28.04.2023
 - Topic: LinkLab / Plop
 - Directory: /posts/2023/April/28
