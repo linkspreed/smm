@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.04.2023
+- Topic: Thank you - Moderators
+- Directory: /posts/2023/April/30
+- Description: ``` 🙌 Thanks to everyone who has signed up for our moderator project! 🙏 You are helping us make our platforms safer and better. Together we are strong! 💪 #Moderatorprogram #Security #Unity #Linkspreed ```
+
 ### 29.04.2023
 - Topic: 1000 days of Linkspreed
 - Directory: /posts/2023/April/29
