@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.05.2023
+- Topic: Slurch - Resumed development work
+- Directory: /posts/2023/May/02
+- Description: ``` 🚀🎉 After a 2-year hiatus, we've resumed development of our social media management tool Slurch! We're ready to take your social media strategy to the next level! #Slurch #SocialMediaMarketing #Innovation ```
+
 ### 01.05.2023
 - Topic: May with Linkspreed
 - Directory: /posts/2023/May/01
