@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.05.2023
+- Topic: Linkspreed version 4.2
+- Directory: /posts/2023/May/03
+- Description: ``` 📢 The wait is almost over! We are thrilled to announce the release of Linkspreed version 4.2! 🎉🚀 With new features and improvements, your experience on our platform will be even better. Stay tuned! #Linkspreed #Update #NewFeatures ```
+
 ### 02.05.2023
 - Topic: Slurch - Resumed development work
 - Directory: /posts/2023/May/02
