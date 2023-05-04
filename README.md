@@ -5,6 +5,17 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.05.2023
+- Topic: Biospreed v33.0.0 & Snoogie v33.0.0
+- Directory: /posts/2023/May/04
+- Description: ``` 🎉📢 We're thrilled to announce that we've just released version 33.0.0 of Biospreed platform! 🚀🎊
+🆕 All the latest and greatest features are now available for you to enjoy! 🤩 Plus, we've unfrozen the changelogs and updated all the plugins, making Biospreed better than ever! 💪👌
+So what are you waiting for? 🤔 Come and check out the new and improved Biospreed platform today! 🔥
+#Biospreed #Version33.0.0 #NewFeatures #Changelogs #PluginUpdates #BetterThanEver #SocialMedia #ExcitingUpdates #DigitalTransformation #TechUpdate ``` ; ``` 🎉📢 Big news for all our Snoogie users! 🚀🎊 We are excited to announce that we have just released version 33.0.0 of our platform!
+🆕 All the latest features are now available for you to enjoy! 🤩 We have also unfrozen the changelogs and updated all the plugins, making Snoogie even better than before! 💪👌
+Don't wait any longer, come and check out the new and improved Snoogie platform today! 🔥
+#Snoogie #Version33.0.0 #NewFeatures #Changelogs #PluginUpdates #BetterThanEver #SocialMedia #ExcitingUpdates #DigitalTransformation #TechUpdate ```
+
 ### 03.05.2023
 - Topic: Linkspreed version 4.2
 - Directory: /posts/2023/May/03
