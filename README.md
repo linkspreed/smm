@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.05.2023
+- Topic: Biospreed & Snoogie API
+- Directory: /posts/2023/May/07
+- Description: ``` 🎉 Attention everyone! The Linkspreed Research Lab has just released the official API for Biospreed and Snoogie! 🔥 From now on, all users of Biospreed and Snoogie have free access to a wealth of useful features and applications 🙌. What's your favorite feature of the new API? Let us know in the comments! 💬 #LinkspreedResearchLab #Biospreed #Snoogie #API #free #features #NewRelease ```
+
 ### 06.05.2023
 - Topic: AI + Social Networks
 - Directory: /posts/2023/May/06
