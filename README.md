@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.05.2023
+- Topic: ForJu - new design
+- Directory: /posts/2023/May/08
+- Description: ``` 🚀 Exciting news everyone! 🎉 The new design of ForJu is finally here and it looks absolutely stunning! 😍💫 Now, we have a question for you: Should we introduce this breathtaking design to Linkspreed as well? 🌐 We want to hear your opinion! Let us know in the comments if you would like to see the new design on Linkspreed. 🤔💙 #ForJuDesign #LinkspreedUpgrade #YourOpinionMatters ```
+
 ### 07.05.2023
 - Topic: Biospreed & Snoogie API
 - Directory: /posts/2023/May/07
