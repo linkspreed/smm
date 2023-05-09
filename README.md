@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.05.2023
+- Topic: ShareNode - Purchase Cheap Cloud Storage
+- Directory: /posts/2023/May/09
+- Description: ``` It's finally here! 🥳 ShareNode is now online and offering you the opportunity to purchase cheap and secure cloud storage. With ShareNode, you can quickly and anonymously encrypt and store your data. Say goodbye to expensive cloud providers and join us! 😎 ```
+
 ### 08.05.2023
 - Topic: ForJu - new design
 - Directory: /posts/2023/May/08
