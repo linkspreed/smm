@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.05.2023
+- Topic: Ebertlang Partnership
+- Directory: /posts/2023/May/10
+- Description: ``` 📣 Big news! 🎉 We have partnered with Ebertlang Distribution and can now offer even more secure and reliable cloud storage options for our users! 🔒💾 #CloudStorage #Partnership #Security #Reliability ```
+
 ### 09.05.2023
 - Topic: ShareNode - Purchase Cheap Cloud Storage
 - Directory: /posts/2023/May/09
