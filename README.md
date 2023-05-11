@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.05.2023
+- Topic: ShareNode - affordable cloud storage
+- Directory: /posts/2023/May/11
+- Description: ``` 🔒🎉 Looking for an affordable cloud storage with 100% anonymity and security? Look no further than ShareNode! 🙌 Our storage options are unbeatable! 💪 What data do you want to store securely? 💭 #ShareNode #CloudStorage #Anonymity #Security #DataPrivacy ```
+
 ### 10.05.2023
 - Topic: Ebertlang Partnership
 - Directory: /posts/2023/May/10
