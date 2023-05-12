@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.05.2023
+- Topic: Streamvalley v3.0 + Shortcut v3.0 + Showit v3.0 + Ples v3.0
+- Directory: /posts/2023/May/12
+- Description: ``` 🎥 Attention all Streamvalley users! 📢 We've just released Version 3.0 of our streaming platform and it's better than ever. Get ready to elevate your streaming game with our latest update. #Streamvalley #NewUpdate #Version3 ``` ; ``` 🚀 We're excited to announce that Version 3.0 of our streaming platform is finally here! 🎉 Showit users, get ready for an even better streaming experience with our latest update. #Showit #StreamWithEase #Version3 ``` ; ``` 🎬 Shortcut users, the wait is over! Version 3.0 of our streaming platform has arrived. 🎉 Get ready for a seamless streaming experience with our latest update. #Shortcut #NewUpdate #StreamWithEase #Version3 ``` ; ``` 👀 Ples users, have you heard? Version 3.0 of our streaming platform is now available! 🙌 Get ready to take your streaming experience to the next level with our latest update. #Ples #StreamWithEase #NewVersion ```
+
 ### 11.05.2023
 - Topic: ShareNode - affordable cloud storage
 - Directory: /posts/2023/May/11
