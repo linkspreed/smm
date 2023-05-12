@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.05.2023
+- Topic: ShareNode: 1TB = 8€
+- Directory: /posts/2023/May/13
+- Description: ``` 📣 Hey everyone! Do you need more storage space for your files and photos? Check out ShareNode! For only 8€ per month, you can get a whole terabyte of cloud storage. And if you need even more affordable storage, just send us a message! Visit us at https://sharenode.tk to learn more. 🚀 #cloudstorage #affordable #ShareNode ```
+
 ### 12.05.2023
 - Topic: Streamvalley v3.0 + Shortcut v3.0 + Showit v3.0 + Ples v3.0
 - Directory: /posts/2023/May/12
