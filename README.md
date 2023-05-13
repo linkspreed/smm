@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.05.2023
+- Topic: Linkspreed v4.2 + ForJu v4.2 + Seedspreed v4.2 + Netavark v4.2
+- Directory: /posts/2023/May/14
+- Description: ``` Linkspreed 4.2 is here! 🚀🎉 We've integrated a lot of AI in our platform to give you an even better experience. 🔍🤖 Try it out and let us know what you think! #Linkspreed #AI #Upgrade ``` ; ``` Say hello to ForJu 4.2! 🙌🎉 Our latest version is packed with AI integration to make your browsing smoother and more personalized. 🔍🤖 Upgrade now and see the difference! #ForJu #AI #Upgrade ``` ; ``` Seedspreed just got even better with version 4.2! 🚀🎉 Our AI integration means faster and more accurate search results, tailored to your interests. 🔍🤖 Update now and see the difference! #Seedspreed #AI #Upgrade ``` ; ``` Netavark 4.2 is here and it's smarter than ever! 🙌🎉 Our AI integration means a more intuitive and personalized browsing experience. 🔍🤖 Upgrade now and see the difference! #Netavark #AI #Upgrade ```
+
 ### 13.05.2023
 - Topic: ShareNode: 1TB = 8€
 - Directory: /posts/2023/May/13
