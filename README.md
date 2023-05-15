@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.05.2023
+- Topic: Gender on Linkspreed
+- Directory: /posts/2023/May/15
+- Description: ``` 🎉 Stat Update 🎉
+Our female users (♀️) now make up 50.32% of our community, while our male users (♂️) make up 49.56%! Diversity (🌈) is also an important part of our community, making up 0.15% of our users. Thank you for being a part of Linkspreed! 💻 #Linkspreed #UserStatistics #Diversity #Community #ThankYou ```
+
 ### 14.05.2023
 - Topic: Linkspreed v4.2 + ForJu v4.2 + Seedspreed v4.2 + Netavark v4.2
 - Directory: /posts/2023/May/14
