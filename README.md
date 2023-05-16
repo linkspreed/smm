@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.05.2023
+- Topic: Linkspreed Notifications
+- Directory: /posts/2023/May/16
+- Description: ``` 📣 ATTENTION: Important notification! 🚨
+Starting now, we'll be sending platform notifications from notifications@linkspreed.com, not service@linkspreed.com 📧 Please note that this email address is a no-reply address and we won't be able to check any replies. 🔒 ```
+
 ### 15.05.2023
 - Topic: Gender on Linkspreed
 - Directory: /posts/2023/May/15
