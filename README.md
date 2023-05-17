@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.05.2023
+- Topic: Welcome to Linkspreed Franchise
+- Directory: /posts/2023/May/17
+- Description: ``` 🎉 We have some exciting news to share! We are proud to announce the launch of our first-ever franchise program at Linkspreed 🤝 If you've been dreaming of owning your own business and being a part of our success story, this is your chance! We're looking for talented and motivated individuals who want to grow with us. Contact us now to learn more about how you can become a part of our team 🚀 #LinkspreedFranchise #SuccessStory #Entrepreneurship ```
+
 ### 16.05.2023
 - Topic: Linkspreed Notifications
 - Directory: /posts/2023/May/16
