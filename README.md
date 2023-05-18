@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.05.2023
+- Topic: The Open Source LLM Search Engine
+- Directory: /posts/2023/May/18
+- Description: ``` 🔍 We are excited to introduce our brand new Open Source LLM Search Engine, developed by the Linkspreed Research Lab! 🌟 This innovative search engine consists of less than 100 lines of Python code and yet delivers impressive results. Give it a try and discover the power of LLM search! 💡💻 #LLMSearchEngine #OpenSource #LinkspreedResearchLab ```
+
 ### 17.05.2023
 - Topic: Welcome to Linkspreed Franchise
 - Directory: /posts/2023/May/17
