@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.05.2023
+- Topic: Linkspreed News on Twitter
+- Directory: /posts/2023/May/19
+- Description: ``` 📢 Hey there! 👋 Have you joined the incredible journey of #LinkspreedNews on Twitter yet? 🚀📰 We're all about sharing important announcements and documenting every single step of our startup in real-time. 📝💡 Don't miss out! Follow us now! ✅✨ ```
+
 ### 18.05.2023
 - Topic: The Open Source LLM Search Engine
 - Directory: /posts/2023/May/18
