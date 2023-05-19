@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.05.2023
+- Topic: Linkspreed, Seedspreed, ForJu, Netavark -> v4.2.1
+- Directory: /posts/2023/May/20
+- Description: ``` Exciting news to share! 📣🚀 Version 4.2.1 is now available for Linkspreed, Seedspreed, ForJu, and Netavark! 🎉🌟 In this new release, we've fixed numerous reported bugs and improved stability. 💪🔧 Get the update now and enjoy an optimized performance! 📲💻✨ #Linkspreed #Seedspreed #ForJu #Netavark #Update #BugFixes #Stability ```
+
 ### 19.05.2023
 - Topic: Linkspreed News on Twitter
 - Directory: /posts/2023/May/19
