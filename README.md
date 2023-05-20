@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.05.2023
+- Topic: Connected v4.2.1
+- Directory: /posts/2023/May/21
+- Description: ``` 🌐 We are thrilled to announce that our decentralized social network Connected has been updated to version 4.2.1! 🚀🔥 Explore the new features, enhanced security, and an even smoother user experience. Be a part of the Connected community and experience social networking in a whole new way! 💫💻 #Connected #Update #DecentralizedNetwork ```
+
 ### 20.05.2023
 - Topic: Linkspreed, Seedspreed, ForJu, Netavark -> v4.2.1
 - Directory: /posts/2023/May/20
