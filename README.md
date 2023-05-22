@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.05.2023
+- Topic: More than 150 platforms
+- Directory: /posts/2023/May/22
+- Description: ``` 📢🌐 More than 150 platforms! 🎉
+No matter what you're looking for, we have the perfect software solution for both B2B and B2C markets, as well as our Linkspreed franchise system! 💻💼 Let's shape the future together! 🔮✨
+#Linkspreed #SoftwareSolution #B2B #B2C #Franchise #ShapingTheFuture ```
+
 ### 21.05.2023
 - Topic: Connected v4.2.1
 - Directory: /posts/2023/May/21
