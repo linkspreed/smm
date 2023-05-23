@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.05.2023
+- Topic: Be an influencer
+- Directory: /posts/2023/May/24
+- Description: ``` 🎉👥📈 Become an #Influencer with #Linkspeed now! Whether you love talking about fashion, travel or technology, Linkspeed allows you to share your passion. Register now and start your career as an influencer! 🚀 #Easy #Fast #Effective 💻📱 ```
+
 ### 23.05.2023
 - Topic: Anonymous - Linkspreed
 - Directory: /posts/2023/May/23
