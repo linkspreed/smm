@@ -6,7 +6,7 @@
 ## Stay up to date with our official social media announcements ...
 
 ### 23.05.2023
-- Topic: Become an influencer on Linkspreed
+- Topic: Anonymous - Linkspreed
 - Directory: /posts/2023/May/23
 - Description: ``` 🔒💻 At Linkspreed, we prioritize user anonymity and privacy! 🤐💫 We take pride in providing a secure environment where our users can navigate freely and without worry. 🌐🚀 Your data belongs to you and remains protected with us! No compromises! 💪🔐 #Anonymity #Privacy #Linkspreed #DataProtection #Freedom ```
 
