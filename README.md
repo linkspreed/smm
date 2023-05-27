@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.05.2023
+- Topic: Linkspreed Office
+- Directory: /posts/2023/May/27
+- Description: ``` 🚀 Pay attention! 🎉 We proudly present Linkspreed Office - the digital workplace straight from the cloud! ☁️💼💻 Work flexibly from anywhere, without being tied to a specific office or city. 🌍🌤️ With Linkspreed Office, you have all the tools you need to be productive and creative. 🙌💪 Discover the benefits now and become part of our community! Link: https://office.linkspreed.com #LinkspreedOffice #WorkingInTheCloud #Flexibility ```
+
 ### 26.05.2023
 - Topic: Shape The Future
 - Directory: /posts/2023/May/26
