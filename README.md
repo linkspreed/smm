@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.05.2023
+- Topic: Linkspreed Deepmind
+- Directory: /posts/2023/May/28
+- Description: ``` 📢🚀 Exciting news! 🎉 We are thrilled to introduce our new project, Linkspreed Deepmind. 🤖💡 This summer, we will be releasing groundbreaking machine learning tools that will revolutionize your life. 🔥🌟 With Linkspreed Deepmind, you can take your knowledge to a whole new level. 📚🔍 Whether you're searching for information, looking to optimize your work, or just curious, our tools provide incredible possibilities. 💪💻 #LinkspreedDeepmind #MachineLearning #Innovation #SummerProject #Revolution ```
+
 ### 27.05.2023
 - Topic: Linkspreed Office
 - Directory: /posts/2023/May/27
