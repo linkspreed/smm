@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.05.2023
+- Topic: Safe Browsing API
+- Directory: /posts/2023/May/29
+- Description: ``` Safety is our top priority! 🔒✅ That's why we utilize the Google Safe Browsing API in Linkspreed and all our software solutions to provide you with enhanced protection. 🌟🔍 Surf with peace of mind and without worries with us! 😊🌐 #Linkspreed #Safety #GoogleSafeBrowsingAPI #Protection #WorryFreeSurfing ```
+
 ### 28.05.2023
 - Topic: Linkspreed Deepmind
 - Directory: /posts/2023/May/28
