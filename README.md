@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.06.2023
+- Topic: June with Linkspreed
+- Directory: /posts/2023/June/01
+- Description: ``` 🌞 Summer is here and Linkspreed is ready! 🌴🏖️💻 Are you ready too? Get ready for an exciting time with lots of amazing platforms and updates. 🚀🌈 #Linkspreed #SummerTime #Updates #Excitement ```
+
 ### 31.05.2023
 - Topic: Toolkit - Benefits of a free account
 - Directory: /posts/2023/May/31
