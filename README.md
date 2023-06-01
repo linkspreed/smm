@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.06.2023
+- Topic: Qizz
+- Directory: /posts/2023/June/02
+- Description: ``` Have you ever thought about creating your own quiz? 🤔✨ With Qizz, it's a piece of cake and a lot of fun! 😄📝Simply choose your topic, add questions and answers, and voilà - you already have a cool quiz that you can share with your friends! 🎉📚💡 ```
+
 ### 01.06.2023
 - Topic: June with Linkspreed
 - Directory: /posts/2023/June/01
