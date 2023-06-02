@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.06.2023
+- Topic: Video streaming v3.0.1
+- Directory: /posts/2023/June/03
+- Description: ``` 🎉📺 We just updated our video streaming platform to version 3.0.1, and we couldn't be more thrilled! Now you can enjoy our videos in even better quality and interact with new features. So grab your popcorn bowl and get ready for hours of streaming fun! 🍿💻 #VideoStreaming #Update #NewFeatures #PopcornTime ```
+
 ### 02.06.2023
 - Topic: Qizz
 - Directory: /posts/2023/June/02
