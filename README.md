@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.06.2023
+- Topic: UpNode is back!
+- Directory: /posts/2023/June/09
+- Description: ``` 🌐🔥 UpNode is back! Our website monitoring platform is now online and fully operational. Monitor your websites 24/7 and receive crucial real-time information. Never miss outages or performance issues again! Visit https://upnode.cf and try it out yourself! 💪😊 #WebsiteMonitoring #UpNode #Online ```
+
 ### 08.06.2023
 - Topic: Hello Oxygen
 - Directory: /posts/2023/June/08
