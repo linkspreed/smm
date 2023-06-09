@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.06.2023
+- Topic: Hello Joyn
+- Directory: /posts/2023/June/10
+- Description: ``` 📱🌐 You can now download the Joyn Social Network App at joyn.linkspreed.com! 🎉📲🔥 Don't miss the opportunity to join our community and stay connected with friends and family. 💙🤝🌍 #JoynApp #SocialMedia #Communication #Connection ```
+
 ### 09.06.2023
 - Topic: UpNode is back!
 - Directory: /posts/2023/June/09
