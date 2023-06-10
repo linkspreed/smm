@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.06.2023
+- Topic: 3 UpNode facts
+- Directory: /posts/2023/June/11
+- Description: ``` Dive into the captivating world of UpNode! 🌟✨ Here are three mind-blowing facts that will leave you in awe! 😲 Are you ready? Let's get started! 🚀💥 ```
+
 ### 10.06.2023
 - Topic: Hello Joyn
 - Directory: /posts/2023/June/10
