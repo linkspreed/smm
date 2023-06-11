@@ -8,7 +8,7 @@
 ### 12.06.2023
 - Topic: BeYou & KitChat v3.9 Patch 3
 - Directory: /posts/2023/June/12
-- Description: ``` 💥 We are excited to present to you the latest update for #BeYou! 🎉📲 With Version 3.9 Patch 3, your social networking experience will be taken to a whole new level! 🚀💫 Get the update now and discover the exciting new features and improvements! 💪💯 Join us and become part of the #BeYou community! 💃💚 #NewUpdate #SocialMedia #Creativity ``` - ``` 📢🔥 Attention! Version 3.9 Patch 3 is here for #Kitchat! 😍🔧 Now your social media experience will be even better! 📲💫 Get the update and discover exciting new features and improvements! 💪💯 #NewUpdate #Kitchat39 #SocialMedia ```
+- Description: ``` 💥 We are excited to present to you the latest update for #BeYou! 🎉📲 With Version 3.9 Patch 3, your social networking experience will be taken to a whole new level! 🚀💫 Get the update now and discover the exciting new features and improvements! 💪💯 Join us and become part of the #BeYou community! 💃💚 #NewUpdate #SocialMedia #Creativity ``` ; ``` 📢🔥 Attention! Version 3.9 Patch 3 is here for #Kitchat! 😍🔧 Now your social media experience will be even better! 📲💫 Get the update and discover exciting new features and improvements! 💪💯 #NewUpdate #Kitchat39 #SocialMedia ```
 
 ### 11.06.2023
 - Topic: 3 UpNode facts
