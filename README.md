@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.06.2023
+- Topic: LinkLab & Plop v25.0.0
+- Directory: /posts/2023/June/13
+- Description: ``` 🎉 Big announcement! 🚀 We're thrilled to announce the release of version 25.0.0 of LinkLab! Discover the exciting new enhancements that will take your networking game to the next level! 🌟🔗💡📲 Update to the latest version and enjoy seamless connections and improved user experience. 💪🌐📈💻 Want to know every single change we've made? You can find the entire changelog on Github. Dive deep into the details! 🕵️‍♀️📚🔍 #LinkLab25 #NetworkingUpgrade #SeamlessConnections #GetConnected #ExploreChangelog ``` ; ``` 🎉 Exciting news! 🚀 We've just released version 25.0.0 of Plop, and it's packed with amazing new features! 🎊🌟 Explore the latest update and unleash your creativity with our enhanced editing tools. ✏️💡💪 Get the update now and experience the power of Plop! 💥💯👉 Check out the complete changelog on Github. All the changes, big and small, are there for you to explore! 📚🔍 #Plop25 #NewFeatures #CreativityUnleashed #UpgradeNow ```
+
 ### 12.06.2023
 - Topic: BeYou & KitChat v3.9 Patch 3
 - Directory: /posts/2023/June/12
