@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.06.2023
+- Topic: Toolkit v16.0.0
+- Directory: /posts/2023/June/14
+- Description: ``` 📣 New update alert! 🚀 We are thrilled to announce that we have just released Toolkit v16! 🎉🥳 This version will make all your social media dreams come true! 💪🌟 #Toolkitv16 #NewUpdate #AllForSocialMedia #BetterThanEver #ReachYourGoals ```
+
 ### 13.06.2023
 - Topic: LinkLab & Plop v25.0.0
 - Directory: /posts/2023/June/13
