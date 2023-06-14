@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.06.2023
+
+- Topic: SnapLink - +1500% growth
+
+- Directory: /posts/2023/June/15
+
+- Description: ``` 🚀🔗 SnapLink is a total hit with our users! We've seen a growth of +1500%! Have you tried it yet? #SnapLink #Growth #Popular ```
+
 ### 14.06.2023
 - Topic: Toolkit v16.0.0
 - Directory: /posts/2023/June/14
