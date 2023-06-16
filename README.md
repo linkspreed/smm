@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.06.2023
+- Topic: Linkspreed Assistant - 2 options
+- Directory: /posts/2023/June/17
+- Description: ``` 🔍📱🤝 Dive into the ultimate showdown between our two options! 🌟 Which one will capture your heart? 🤔💭 ```
+
 ### 16.06.2023
 - Topic: Hello Linkspreed Assistant
 - Directory: /posts/2023/June/16
