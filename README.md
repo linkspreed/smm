@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.06.2023
+- Topic: Hello Linkspreed Assistant
+- Directory: /posts/2023/June/16
+- Description: ``` We are thrilled to announce that the Linkspreed Assistant is now available for download on our website assistant.linkspreed.com! 🚀💻 Elevate your browsing experience to new heights! The Linkspreed Assistant helps you optimize your internet speed and surf faster than ever before. 🌐💨 What are you waiting for? Visit our website and get the Linkspreed Assistant today! 🙌🔥 #Linkspreed #Assistant #Download #InternetSpeed #SurfLikeAPro ```
+
 ### 15.06.2023
 - Topic: SnapLink - +1500% growth
 - Directory: /posts/2023/June/15
