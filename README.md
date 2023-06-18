@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.06.2023
+- Topic: Don't rely on just one platform!
+- Directory: /posts/2023/June/18
+- Description: ``` 📣 Ever wondered why we're so reliant on a few platforms in our daily lives and at work? Linkspreed offers creative solutions to reduce this dependence. Let's explore the possibilities! 💪🌐 #Linkspreed #Innovation #Diversity #CreativeSolutions ```
+
 ### 17.06.2023
 - Topic: Linkspreed Assistant - 2 options
 - Directory: /posts/2023/June/17
