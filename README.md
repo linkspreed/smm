@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.06.2023
+- Topic: Subdomain System
+- Directory: /posts/2023/June/19
+- Description: ``` 📢 Exciting news! 🌟🎉 At #Linkspreed, we're building a subdomain system to present all our platforms uniformly under the Linkspreed brand. 🔗✨ But don't worry, there will be no changes for you, the users! You can still access all your familiar features. 😊 We're working hard to provide you with an even better user experience! 🙌 Stay tuned for more updates! ✨ #Uniformity #Improvements #LinkspreedCommunity ```
+
 ### 18.06.2023
 - Topic: Don't rely on just one platform!
 - Directory: /posts/2023/June/18
