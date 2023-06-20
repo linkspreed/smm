@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.06.2023
+- Topic: Linkspreed - Machine Learning
+- Directory: /posts/2023/June/21
+- Description: ``` Explore the top software solutions for #MachineLearning and #AI at Linkspreed! 🤖💡✨ Dive into innovative projects and experience the fascinating world of artificial intelligence! 🚀🧠 #Innovation #Linkspreed ```
+
 ### 20.06.2023
 - Topic: Linkspreed Research Lab
 - Directory: /posts/2023/June/20
