@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.06.2023
+- Topic: Hutty relaunch
+- Directory: /posts/2023/June/22
+- Description: ``` 📣🚀 Exciting news alert! We are thrilled to announce that we have RELAUNCHED Hutty, our groundbreaking platform for quick and easy website building! 🎉💻 It's been a few days since it went live again, and we can't wait for you to experience it. 🌟✨ Visit us now and embark on your online adventure: hutty.linkspreed.com #Hutty #Website #Relaunch #Simplicity #Creativity ```
+
 ### 21.06.2023
 - Topic: Linkspreed - Machine Learning
 - Directory: /posts/2023/June/21
