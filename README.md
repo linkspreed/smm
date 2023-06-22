@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.06.2023
+- Topic: Bot Detection with Machine Learning
+- Directory: /posts/2023/June/23
+- Description: ``` 🚀🌐 At #Linkspreed, we're harnessing cutting-edge #technology to protect our #websites against #bots! With #MachineLearning, we identify and analyze bot networks. 🤖💪 No more worries about automated attacks! #Cybersecurity #Innovation #Security ```
+
 ### 22.06.2023
 - Topic: Hutty relaunch
 - Directory: /posts/2023/June/22
