@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.06.2023
+- Topic: Firelaps is back online!
+- Directory: /posts/2023/June/24
+- Description: ``` 🔥📣 Firelaps is back and available online! 🎉🌐 Now you can once again make use of our fantastic platform and connect with like-minded individuals. 🤝💻 Whether you're seeking inspiration, looking to share your passions, or eager to make new connections, Firelaps is the perfect place to do it all! 🌟✨ Let's unleash the power of social media together and explore the world of Firelaps. Join us and let your creativity bloom! 💥😃 #FirelapsIsBack #OnlineCommunity #ConnectAndInspire ```
+
 ### 23.06.2023
 - Topic: Bot Detection with Machine Learning
 - Directory: /posts/2023/June/23
