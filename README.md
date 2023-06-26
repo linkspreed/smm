@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.06.2023
+- Topic: Profilio
+- Directory: /posts/2023/June/27
+- Description: ``` 📣 Have you heard about #Profilio? 😎📲 It's the ultimate platform to enhance your online presence! 💪🚀 Visit now and discover how to professionally showcase yourself. 🤩💼 Let us know if you're already a Pro at Profilio! 😉✨ #OnlinePresence #SelfPromotion #Networking ```
+
 ### 26.06.2023
 - Topic: The journey is the destination!
 - Directory: /posts/2023/June/26
