@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.06.2023
+- Topic: Linkspreed Search
+- Directory: /posts/2023/June/28
+- Description: ``` 🌟 Have you tried Twig yet? Our popular search engine has been around for a while, but we have exciting news: Introducing Linkspreed Search! 🚀🔍 With our new search engine, you can search for information even faster and more efficiently. Whether you need the latest news, entertainment, or expert knowledge, Linkspreed Search delivers the most relevant results in no time! So, what are you waiting for? Give Linkspreed Search a chance and explore a new world of searching! 🔎✨ Share the news with your friends and use the hashtag #LinkspreedSearch to share your experiences. 🤩🌐💙 #SearchEngine #Innovation #LinkspreedSearch #FastResults #Explore #Efficient ```
+
 ### 27.06.2023
 - Topic: Profilio
 - Directory: /posts/2023/June/27
