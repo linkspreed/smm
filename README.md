@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.06.2023
+- Topic: Grown v3
+- Directory: /posts/2023/June/29
+- Description: ``` 📣 Exciting news! 🎉 We are thrilled to unveil Version 3.0.0 of our platform Grown! 🌱💪
+Now, connecting with like-minded individuals, sharing ideas, and growing together is even easier. 🤝✨
+#GrownV3.0.0 #GrowingTogether #ProudAsAPeacock ```
+
 ### 28.06.2023
 - Topic: Linkspreed Search
 - Directory: /posts/2023/June/28
