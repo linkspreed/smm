@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.06.2023
+- Topic: Linkspreed Search Mobile
+- Directory: /posts/2023/June/30
+- Description: ``` 📢🔍 Attention, everyone! 🎉 Get your hands on the brand-new official app of Linkspreed Search! 📱🚀 Search the web in a blink of an eye and find all the information you need. 💡💻 #LinkspreedSearch #AppLaunch #Innovation ```
+
 ### 29.06.2023
 - Topic: Grown v3
 - Directory: /posts/2023/June/29
