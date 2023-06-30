@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.07.2023
+- Topic: Linkspreed & July
+- Directory: /posts/2023/July/01
+- Description: ``` 🎉🌟 Exciting times ahead as we welcome July at Linkspreed! 🌱🚀 We've got a bunch of new products and goals to achieve. 💪🔥 Get ready for thrilling developments and innovations! ✨💼 Together, let's make this month a blast! 🙌 #Linkspreed #July #NewProducts #Goals #Innovation ```
+
 ### 30.06.2023
 - Topic: Linkspreed Search Mobile
 - Directory: /posts/2023/June/30
