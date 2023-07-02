@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.07.2023
+- Topic: L2B
+- Directory: /posts/2023/July/02
+- Description: ``` 🚀 Level up your business game! Introducing L2B (Linkspreed to Business), a collection of popular B2B platforms designed specifically for startups and businesses. 💼💪 #Linkspreed #L2B #BusinessBoost #Startups #B2B #Success ```
+
 ### 01.07.2023
 - Topic: Linkspreed & July
 - Directory: /posts/2023/July/01
