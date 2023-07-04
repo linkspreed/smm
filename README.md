@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.07.2023
+- Topic: Linkspreed & Calendly
+- Directory: /posts/2023/July/05
+- Description: ``` 📢 News! 🎉 Linkspreed is now on Calendly! 🗓️🕰️
+You can now easily book a meeting with us! Visit our Calendly link and find the perfect time to talk to us. 🤝💼
+We look forward to meeting you soon! 😊✨ #Linkspreed #Meetings #Calendly ```
+
 ### 04.07.2023
 - Topic: Linkspreed License
 - Directory: /posts/2023/July/04
