@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.07.2023
+- Topic: We finished our Subdomain System
+- Directory: /posts/2023/July/06
+- Description: ``` 📢 Exciting news! 🎉🌐 We've completed our subdomain system after a month of hard work! All our websites now redirect to .linkspreed.com. No data loss, business as usual for you, the end-users! 😍👌 #SubdomainUpdate #Linkspreed #Redirection #NewSystem ```
+
 ### 05.07.2023
 - Topic: Linkspreed & Calendly
 - Directory: /posts/2023/July/05
