@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.07.2023
+- Topic: Linkspreed is 100% transparent
+- Directory: /posts/2023/July/07
+- Description: ``` 📢 Hey folks! 🌟 At Linkspreed, we're dedicated to ensuring 100% transparency to strengthen the trust of our users. 🙌💯 Because your trust means everything to us! 💪💙 #Linkspreed #Transparency #Trust #UserLove ```
+
 ### 06.07.2023
 - Topic: We finished our Subdomain System
 - Directory: /posts/2023/July/06
