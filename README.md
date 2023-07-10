@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.07.2023
+- Topic: Clouds v3.1.1
+- Directory: /posts/2023/July/11
+- Description: ``` 📢🚀 Woohoo! 🎉 We've just released the latest version 3.1.1 of our cloud services! Check out all the details and changes on Github. 💻✨ Enjoy the enhanced performance and discover the new features! 😍💪 #CloudServices #Version3.1.1 #Github ```
+
 ### 10.07.2023
 - Topic: FL-APP_171
 - Directory: /posts/2023/July/10
