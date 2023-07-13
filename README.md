@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.07.2023
+- Topic: Transparency
+- Directory: /posts/2023/July/14
+- Description: ``` 📢 Hey there! Did you know that at Linkspreed, we've been sharing our development progress on Github for over a year? 🚀📚 You can always check out what we're currently working on! Transparency is our middle name. 😎🔍 Have you ever followed a project's progress on Github? Let us know! #development #transparency #Github ```
+
 ### 13.07.2023
 - Topic: SaaS
 - Directory: /posts/2023/July/13
