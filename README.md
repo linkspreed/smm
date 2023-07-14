@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.07.2023
+- Topic: Cloud Storage - Contact us
+- Directory: /posts/2023/July/15
+- Description: ``` Looking for an affordable cloud storage solution? Look no further! 💾💻🌤️ Just send a quick message to marc.herdina@linkspreed.com and get access to our amazing cloud storage service. 🌟🚀 Don't miss out on this opportunity! #CloudStorage #AffordableSolution #Linkspreed ```
+
 ### 14.07.2023
 - Topic: Transparency
 - Directory: /posts/2023/July/14
