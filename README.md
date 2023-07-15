@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.07.2023
+- Topic: AI - Contact us
+- Directory: /posts/2023/July/16
+- Description: ``` 🎉 If you're interested in trying out our artificial intelligence from Linkspreed during the Beta phase, get in touch with us! Just email us at marc.herdina@linkspreed.com. 💻📧 #AI #BetaPhase #Linkspreed #ArtificialIntelligence #Testing ```
+
 ### 15.07.2023
 - Topic: Cloud Storage - Contact us
 - Directory: /posts/2023/July/15
