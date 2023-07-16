@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.07.2023
+- Topic: Linkspreed AIDA
+- Directory: /posts/2023/July/17
+- Description: ``` 🚀 Introducing our new project: Linkspreed AIDA! 🤖💡 AIDA stands for "Artificial Intelligence for daily applications" and it's a groundbreaking AI system that will revolutionize our everyday lives. 🌟 With AIDA, we can harness artificial intelligence in daily applications, making our lives easier and more efficient. 🌐📱 Whether it's productivity, communication, or entertainment, AIDA has got you covered! 😎 Do you have any ideas on how AIDA could enhance your daily tasks? 💭 Share them with us and let's shape the future together! 👥💪 #LinkspreedAIDA #AI #Innovation #Future #Technology ```
+
 ### 16.07.2023
 - Topic: AI - Contact us
 - Directory: /posts/2023/July/16
