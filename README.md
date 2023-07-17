@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.07.2023
+- Topic: Linkspreed on Telegram
+- Directory: /posts/2023/July/18
+- Description: ``` 📢 Hey everyone! We've got some exciting news to share! 🥳 Starting today, Linkspreed now has a brand new Telegram group and a broadcast channel on Telegram! 📣📡
+📲 Never miss out on important updates and stay in the loop with our activities and announcements. 😎 Join now and share your thoughts and ideas with our community. 💬💡 ```
+
 ### 17.07.2023
 - Topic: Linkspreed AIDA
 - Directory: /posts/2023/July/17
