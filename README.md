@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.07.2023
+- Topic: Birthday Reminder
+- Directory: /posts/2023/July/19
+- Description: ``` 🎉 Only 13 days left until we celebrate the third birthday of Linkspreed! 🎂🥳 We can't wait to party with all of you and look back on three years of innovation and success. 🚀💪 Tag your friends who have been part of our journey and let's share the excitement with the hashtag #LinkspreedBirthdayParty! 🎈🎁 #Birthday #Anniversary #Innovation ```
+
 ### 18.07.2023
 - Topic: Linkspreed on Telegram
 - Directory: /posts/2023/July/18
