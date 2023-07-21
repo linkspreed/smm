@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.07.2023
+- Topic: Plop v26.0.0
+- Directory: /posts/2023/July/22
+- Description: ``` 🎉🚀 #ExcitingNews #Update #PlopVersion26 is out now! 🎉🚀 Explore the latest features and enhancements on our platform! 💻💪 We've worked tirelessly to bring you the best experience. 🌟 #Innovation #Technology #LetItPlop #PlatformLove ```
+
 ### 21.07.2023
 - Topic: Feedback
 - Directory: /posts/2023/July/21
