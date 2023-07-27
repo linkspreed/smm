@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.07.2023
+- Topic: Linkspreed.com logo change
+- Directory: /posts/2023/July/28
+- Description: ``` 🎉🚀 Exciting news! 🎉 We've made a slight modification to our logo at Linkspreed.com, and we can't wait to reveal it to all of you! 🤩 What do you think? 🤔 Share your feedback with us and let us know how you like the new design! 💬 #Linkspreed #LogoUpdate #FeedbackWanted #NewDesign ```
+
 ### 27.07.2023
 - Topic: CRM Demo Linkspreed
 - Directory: /posts/2023/July/27
