@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.07.2023
+- Topic: Linkspreed.com color change
+- Directory: /posts/2023/July/29
+- Description: ``` 🎨🌈 Hey, dear community! 🌟 We've changed the color code at @linkspreed - did you notice? 🔍 We're excited to hear your feedback! 💬 #DesignUpdate #Linkspreed #FeedbackWelcome ```
+
 ### 28.07.2023
 - Topic: Linkspreed.com logo change
 - Directory: /posts/2023/July/28
