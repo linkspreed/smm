@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.07.2023
+- Topic: Logo Competition
+- Directory: /posts/2023/July/30
+- Description: ``` 🚀🔎 Hey everyone out there! 🌟 It's time for an exciting #Logocomparison! 🎉 Take a look at how our classic, the official logo of Linkspreed GROUP, stacks up against the brand new and stylish logo of linkspreed.com! 🤩 Which logo do you prefer? Vote now! 👍 for the classic logo and ❤️ for the new one! #Linkspreed #Logo #NewAndStylish #VoteNow ```
+
 ### 29.07.2023
 - Topic: Linkspreed.com color change
 - Directory: /posts/2023/July/29
