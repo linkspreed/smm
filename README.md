@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.08.2023
+- Topic: August with Linkspreed
+- Directory: /posts/2023/August/01
+- Description: ``` 🌞 Hello August! 🔥☀️ Summer isn't over yet, and we're kicking off the month with #Linkspreed! 🚀😎 Get ready for some scorching announcements in the fields of Artificial Intelligence, L2B, Franchise, and other product categories! 🤩 Stay tuned for the excitement! 👀 #Innovation #AI #L2B #Franchise #NewReleases ```
+
 ### 31.07.2023
 - Topic: L2B Website
 - Directory: /posts/2023/July/31
