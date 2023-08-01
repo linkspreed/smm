@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.08.2023
+- Topic: Linkspreed Uptime
+- Directory: /posts/2023/August/02
+- Description: ``` 🚀 Great news for all website owners out there! 🌐 Easily monitor your website's status with Linkspreed Uptime! 😎 No more worries if your site goes offline - we'll keep you informed in no time! 👀 Get all the info for free at https://uptime.linkspreed.com! #Website #Monitoring #LinkspreedUptime ```
+
 ### 01.08.2023
 - Topic: August with Linkspreed
 - Directory: /posts/2023/August/01
