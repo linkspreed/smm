@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.08.2023
+- Topic: Linkspreed Status
+- Directory: /posts/2023/August/03
+- Description: ``` Hey folks! 🌟 Exciting news from #Linkspreed! 🚀 Now you can easily check whether our services and platforms are online at https://status.linkspreed.com. No more worries about downtime! 😎 #OnlineStatus #TechNews ```
+
 ### 02.08.2023
 - Topic: Linkspreed Uptime
 - Directory: /posts/2023/August/02
