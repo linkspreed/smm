@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.08.2023
+- Topic: Linkspreed on Crunchbase
+- Directory: /posts/2023/August/04
+- Description: ``` 🚀 Big news! 🎉 We are excited to announce that Linkspreed is now listed on the online database Crunchbase. 🌐💼 Drop by to learn more about our company and follow our journey! #Linkspreed #Crunchbase #Startup #Database #Success Here's the link: https://www.crunchbase.com/organization/linkspreed ```
+
 ### 03.08.2023
 - Topic: Linkspreed Status
 - Directory: /posts/2023/August/03
