@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.08.2023
+- Topic: 200 platforms by the end of 2023?
+- Directory: /posts/2023/August/06
+- Description: ``` 📢🌐 Hey folks! Quick update: We've got over 150 platforms on board with @Linkspreed. 🚀🔗 Do you reckon we'll hit the 200 mark by the end of 2023? 🤔 We want to know what you think – drop us a line! 💬💪 #Linkspreed #Goal200Platforms ```
+
 ### 05.08.2023
 - Topic: Linkspreed CaLM
 - Directory: /posts/2023/August/05
