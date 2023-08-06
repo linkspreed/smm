@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.08.2023
+- Topic: LI, AIDA & CaLM
+- Directory: /posts/2023/August/07
+- Description: ``` 🚀 Explore the future with #Linkspreed's AI platforms! 🌟 Experience the magic of #LI - Linkspreed Intelligence, unleash boundless creativity with #AIDA - Artificial Intelligence for Daily Applications, and get ready to be amazed by #CaLM! 🔮 #Innovations #Technology ```
+
 ### 06.08.2023
 - Topic: 200 platforms by the end of 2023?
 - Directory: /posts/2023/August/06
