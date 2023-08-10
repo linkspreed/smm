@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.08.2023
+- Topic: CaLM
+- Directory: /posts/2023/August/11
+- Description: ``` 🚀 Explore the future of AI with Linkspreed CaLM! 🤖✨ 4 unbeatable advantages are waiting for you. 😎 #AIInnovation #LinkspreedCaLM ```
+
 ### 10.08.2023
 - Topic: Discover LaaS
 - Directory: /posts/2023/August/10
