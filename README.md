@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
+
+### 12.08.2023
+- Topic: Linkspreed GROUP
+- Directory: /posts/2023/August/12
+- Description: ``` 🚀 Explore the exciting universe of #LinkspreedGROUP! 🌐 Don't miss out on the opportunity to join our innovative community. It's all about #Connection and #Collaboration here. 🤝 Learn more about us and our mission at https://group.linkspreed.com. Be part of it! 💡✨ #Networking #Innovation #Community ```
+
 ### 11.08.2023
 - Topic: CaLM
 - Directory: /posts/2023/August/11
