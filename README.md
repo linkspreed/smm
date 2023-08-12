@@ -5,6 +5,10 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.08.2023
+- Topic: Linkspreed on Startbase
+- Directory: /posts/2023/August/13
+- Description: ``` 🎉 We're thrilled to announce that you can now find the Linkspreed GROUP on Startbase. 🌐🔍 Dive in to learn more about our innovative company! 💡👥 #LinkspreedGROUP #Innovations #DiscoverStartbase ```
 
 ### 12.08.2023
 - Topic: Linkspreed GROUP
