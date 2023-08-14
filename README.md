@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.08.2023
+- Topic: Linkspreed Family
+- Directory: /posts/2023/August/15
+- Description: ``` 🤝 Our partners are simply awesome – they're all part of the Linkspreed Family! Thanks for your support and collaboration. Together, we've got this! 👏🚀 #Teamwork #LinkspreedFamily ```
+
 ### 14.08.2023
 - Topic: Linkspreed Franchise for students
 - Directory: /posts/2023/August/14
