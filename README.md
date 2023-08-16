@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.08.2023
+- Topic: Linkspreed Partner
+- Directory: /posts/2023/August/16
+- Description: ``` 🤝 Starting today, all our partners have exclusive access to our brand-new Partner Portal: https://partners.linkspreed.com 🌐 Find all the crucial resources and tools to take your business to the next level. 🚀 #Partnerships #Success #Linkspreed ```
+
 ### 15.08.2023
 - Topic: Linkspreed Family
 - Directory: /posts/2023/August/15
