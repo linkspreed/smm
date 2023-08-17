@@ -5,6 +5,20 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.08.2023
+- Topic: Download our L2B Pitch
+- Directory: /posts/2023/August/18
+- Description: ``` 🎉 The presentation for our L2B Pitch is now up for grabs! 📊🔥 Snag it right here: https://L2B.linkspreed.com. We're really eager to hear what you think. Drop us a line on how it resonates with you! 💼🤝 #L2BPitch #Presentation #FeedbackWelcome ```
+
+- ### 17.08.2023
+- Topic: Linkspreed Franchise - 2 new documents
+- Directory: /posts/2023/August/17
+- Description: ``` 🆕 Fresh downloads just dropped! Visit https://franchise.linkspreed.com for 2 cool docs up for grabs! 📥
+1️⃣ Pitch Presentation - Get the lowdown on our system! 👀
+2️⃣ Linkspreed Franchise Offer for Students - Your shot! 🎓💼
+Don't miss out! Hurry to our page, grab your downloads. Let's do this! 💪
+#Franchise #Linkspreed #NewDocs Hey everyone! ```
+
 ### 16.08.2023
 - Topic: Linkspreed Partner
 - Directory: /posts/2023/August/16
