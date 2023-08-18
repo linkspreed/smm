@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.08.2023
+- Topic: L2B Platform Syntax
+- Directory: /posts/2023/August/19
+- Description: ``` 📣🚀 Hey, guys! Have you tried the official demo of our L2B product yet? You can now access it using the following syntax: https://L2B.linkspreed.com/{$PRODUKTNAME} 💻✨ Let us know how you like the demo! #L2B #Demo #Product #Innovation ```
+
 ### 18.08.2023
 - Topic: Download our L2B Pitch
 - Directory: /posts/2023/August/18
