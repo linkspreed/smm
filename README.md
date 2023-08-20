@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.08.2023
+- Topic: Linkspreed Apps
+- Directory: /posts/2023/August/21
+- Description: ``` 🚀 Attention, dear digital enthusiasts! 📱💻 We've conjured up a place where your app dreams come true: Welcome to https://app.linkspreed.com! 🌐🎉 Now you can download and experience our lightning-fast native apps for both Android and Desktop. 🚀✨ #LinkspreedApps #SwiftAsTheWind #AppExperience ```
+
  ### 20.08.2023
 - Topic: Linkspreed Reality
 - Directory: /posts/2023/August/20
