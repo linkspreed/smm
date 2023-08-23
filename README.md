@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.08.2023
+- Topic: LinkLab v27.0.0 & Plop v27.0.0
+- Directory: /posts/2023/August/24
+- Description: ``` 🚀🎉 Exciting News! 🎊✨ We're thrilled to announce the arrival of LinkLab v27.0.0! Get ready to experience a new level of efficiency and innovation. 🔗🌟 Upgrade now and unlock endless possibilities! #LinkLabUpgrade #NextGenProductivity ``` ; ```  🚀🌈 Drumroll, please! 🥳✨ Presenting Plop v27.0.0 - where imagination takes flight! 💡🚀 Embrace a world of seamless creation and make your ideas come to life like never before. Dive into the future of innovation! #PlopV27 #UnleashCreativity ```
+
 ### 23.08.2023
 - Topic: Partners.linkspreed.com
 - Directory: /posts/2023/August/23
