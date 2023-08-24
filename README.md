@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.08.2023
+- Topic: Biospreed v36.0.0 & Snoogie v36.0.0
+- Directory: /posts/2023/August/25
+- Description: ``` 🚀 Exciting News! Introducing Biospreed v36.0.0! 🌱✨ Our fastest version yet is here to elevate your browsing experience! Say goodbye to loading delays and hello to seamless surfing. 🌐📲 Update now and feel the speed! #BiospreedV36 #FasterBrowsing #UpgradeToday ``` ; ``` 🎉 Hey Snoogie lovers! We're thrilled to announce the arrival of Snoogie v36.0.0! 🛋️✨ Dive into a world of coziness like never before. Snuggle up with enhanced comfort and smoother navigation. 📺🍿 Update now for endless entertainment! #SnoogieV36 #UltimateRelaxation #UpgradeNow ```
+
 ### 24.08.2023
 - Topic: LinkLab v27.0.0 & Plop v27.0.0
 - Directory: /posts/2023/August/24
