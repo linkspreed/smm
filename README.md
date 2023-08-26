@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.08.2023
+- Topic: L2B Slush Demo
+- Directory: /posts/2023/August/27
+- Description: ``` Big news! Our cutting-edge L2B application called Slush is officially live, all set to take the world by storm! 🌍💥 We can't contain our excitement as we get ready to showcase the demo and unveil how Slush can revolutionize your life. 💡🤝 ```
+
 ### 26.08.2023
 - Topic: Project SkyUp
 - Directory: /posts/2023/August/26
