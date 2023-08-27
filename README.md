@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.08.2023
+- Topic: 365 Day Streak on Github
+- Directory: /posts/2023/August/28
+- Description: ``` 🎉🚀 Reached a 365-day streak on GitHub! 🎂🥳 We're thrilled to have been working on open source projects every single day for a whole year. 💻🔓 Open collaboration drives innovation forward! Thanks to our incredible community for the ongoing support! 👏🙌 #OpenSource #GitHubStreak #Innovation #CommunityPower ```
+
 ### 27.08.2023
 - Topic: L2B Slush Demo
 - Directory: /posts/2023/August/27
