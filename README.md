@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.08.2023
+- Topic: Discover the past - WayBack Machine
+- Directory: /posts/2023/August/29
+- Description: ``` 🚀 Let's dive into the history of #Linkspreed together! 🕒🔍 Using the WayBack Machine, we can explore old web archives and witness the evolution of Linkspreed. 🌐🔗 Remember the beginnings? #WebArchiveMagic #ThrowbackThursday 📅 ```
+
 ### 28.08.2023
 - Topic: 365 Day Streak on Github
 - Directory: /posts/2023/August/28
