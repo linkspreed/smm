@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.08.2023
+- Topic: Summer End Sale (70%)
+- Directory: /posts/2023/August/31
+- Description: ``` 🌞🛍️ Wrapping up summer with a bang at Linkspreed! 🌴🔥 Bid farewell to the season with a whopping 70% off! Get ready for a scorching deal: enjoy an incredible 70% discount on our license costs for the first 3 months of your contract term! 😱💸 But remember, this offer is valid only from 01.09.2023 to 07.09.2023. Seize the opportunity and supercharge your business across our L2B platforms! 🚀📈 #SummerSale #LinkspreedDeals #L2B #BusinessBoost ```
+
 ### 30.08.2023
 - Topic: Biospreed v37.0.0 & Snoogie v37.0.0
 - Directory: /posts/2023/August/30
