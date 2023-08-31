@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.09.2023
+- Topic: September with Linkspreed
+- Directory: /posts/2023/September/01
+- Description: ``` 🍂🎉 Welcome September! 🍁✨ This month at Linkspreed, get ready for a whirlwind of exciting updates. 🚀 Stay tuned and don't miss out on any announcements! 💥 #NewMonthNewBeginnings #LinkspreedNews #FallVibes ```
+
 ### 31.08.2023
 - Topic: Summer End Sale (70%)
 - Directory: /posts/2023/August/31
