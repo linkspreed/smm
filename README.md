@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.09.2023
+- Topic: Linkspreed Franchise & Commission
+- Directory: /posts/2023/September/02
+- Description: ``` 🚀 Join us at Linkspreed and earn commissions as our partner! 💼🌟 We're looking for driven individuals to help expand our franchise network. 💪🌐 Contact us today and become a part of our success team! 👉 #Franchise #CommissionPartner #Linkspreed ```
+
 ### 01.09.2023
 - Topic: September with Linkspreed
 - Directory: /posts/2023/September/01
