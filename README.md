@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.09.2023
+- Topic: Zero Trust
+- Directory: /posts/2023/September/03
+- Description: ``` 🔒 At Linkspreed, we're all about Zero Trust technology to fortify our defenses against cyberattacks! 💪 It's not just about securing our platforms, but also safeguarding our team and workplace. 🏢 #Cybersecurity #ZeroTrust #SafetyFirst ```
+
 ### 02.09.2023
 - Topic: Linkspreed Franchise & Commission
 - Directory: /posts/2023/September/02
