@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.09.2023
+- Topic: Zero Trust II
+- Directory: /posts/2023/September/05
+- Description: ``` 🌐 Our Zero Trust network spans 350 locations, safeguarding the Linkspeed team, our users, and our platform with ironclad security. Thanks to @Cloudflare, your safety is our top priority! 💪🔒 #ZeroTrust #Security #Cloudflare #Linkspreed ```
+
 ### 04.09.2023
 - Topic: Linkspreed Lambda
 - Directory: /posts/2023/September/04
