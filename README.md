@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.09.2023
+- Topic: Linkspreed - Slack
+- Directory: /posts/2023/September/06
+- Description: ``` 🚀 At Linkspreed, we utilize various communication channels to provide you with the best support. 💬📞📧 One of them? Slack! 👥💻 Stay connected and find out how we can assist you. 💡🤝 #Linkspreed #Support #Communication #Slack ```
+
 ### 05.09.2023
 - Topic: Zero Trust II
 - Directory: /posts/2023/September/05
