@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.09.2023
+- Topic: Biospreed & Snoogie v38.0.0
+- Directory: /posts/2023/September/07
+- Description: ``` 🚀 Exciting news! We've just dropped Biospreed Version 38.0.0! 🎉 Check out all the latest changes on GitHub. #Biospreed #UpdateAlert #Release38 ``` ; ``` 🚀 Amazing news, Snoogie fans! We've just released Snoogie Version 38.0.0! 🎉 Head over to GitHub for a full rundown of all the fantastic updates. #Snoogie #NewRelease #Version38 ```
+
 ### 06.09.2023
 - Topic: Linkspreed - Slack
 - Directory: /posts/2023/September/06
