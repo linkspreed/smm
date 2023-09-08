@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.09.2023
+- Topic: KitChat & BeYou v3.9.1
+- Directory: /posts/2023/September/09
+- Description: ``` 🎉 Exciting News! 📢 We just dropped #KitchatVersion3.9.1! Get ready for some sizzling updates! 🔥 ``` ; ``` 🎉 Exciting News! 📢 We just dropped #BeYouVersion3.9.1! Get ready for some sizzling updates! 🔥 ```
+
 ### 08.09.2023
 - Topic: Linkspreed Franchise - Application
 - Directory: /posts/2023/September/08
