@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.09.2023
+- Topic: Linkspreed Franchise - Application
+- Directory: /posts/2023/September/08
+- Description: ``` 🌟 Ready for an exciting business opportunity? Join our team at Linkspreed! 🚀 You can now apply to become a franchise partner. 🤝 Just download the questionnaire at https://documents.linkspreed.com and get started. 📋💼 #Franchise #Linkspreed #BusinessOpportunity #Application ```
+
 ### 07.09.2023
 - Topic: Biospreed & Snoogie v38.0.0
 - Directory: /posts/2023/September/07
