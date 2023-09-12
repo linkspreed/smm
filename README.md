@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.09.2023
+- Topic: L2B Classic New
+- Directory: /posts/2023/September/12
+- Description: ``` 🚀🆕 Big news! L2B Classic 3 just got a major update and it's now up to date with the latest features! 🔥 Discover all the exciting new features and improvements. The old version is still accessible if you're feeling nostalgic - just add /old to your domain! 👴👾 #L2BClassic3 #Update #New #OldIsGold ```
+
 ### 11.09.2023
 - Topic: Is that all you need? Yes!
 - Directory: /posts/2023/September/11
