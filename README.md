@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.09.2023
+- Topic: KitChat & BeYou v3.10
+- Directory: /posts/2023/September/13
+- Description: ``` KitChat 3.10 is here! 🚀📱 Get ready to experience a whole new level of messaging with our latest update. 🎉 Explore exciting new features and improvements that will make your chats even more awesome. 💬✨ Upgrade now and stay connected with style! #KitChat #NewRelease #Upgrade #MessagingApp ``` ; ``` BeYou just dropped an amazing update! 🌟📲 Discover the magic of BeYou 3.10 with fantastic new features and enhancements that will elevate your social experience. ✨🤩 Don't miss out – update today and unlock endless possibilities! #BeYou #SocialApp #NewVersion #Upgrade ```
+
 ### 12.09.2023
 - Topic: L2B Classic New
 - Directory: /posts/2023/September/12
