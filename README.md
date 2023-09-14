@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.09.2023
+- Topic: Linkspreed Press
+- Directory: /posts/2023/September/14
+- Description: ``` 🚀 We've launched a brand-new press area for Linkspreed! 📰 Get all the info the press needs to reach out to us. 📩 As a user, you'll also find interesting articles we recommend to dive deeper into Linkspreed. 🔗 #Press #Linkspreed #News #Contact #Recommendations ```
+
 ### 13.09.2023
 - Topic: KitChat & BeYou v3.10
 - Directory: /posts/2023/September/13
