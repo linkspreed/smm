@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.09.2023
+- Topic: 2 new AI applications
+- Directory: /posts/2023/September/15
+- Description: ``` 🚀 Exciting News Alert! 🚀 We're currently working on two brand-new AI applications and can't wait to share them with you soon! 🤖📈🔵 Are you ready to dive into the future of AI with us? Stay tuned for updates! 💡 #AIInnovation #ComingSoon #FutureTech ```
+
 ### 14.09.2023
 - Topic: Linkspreed Press
 - Directory: /posts/2023/September/14
