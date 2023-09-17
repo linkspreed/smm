@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.09.2023
+- Topic: Linkspreed Commission
+- Directory: /posts/2023/September/18
+- Description: ``` 🚀 Exciting news from Linkspreed! 👥 Introducing our new referral program. 🤝 Refer a partner to us and receive a customized commission! 💰 Share in our success and earn with us. 🌟 #ReferralProgram #Commission #Recommendations #Earnings ```
+
 ### 17.09.2023
 - Topic: Linkspreed Apps
 - Directory: /posts/2023/September/17
