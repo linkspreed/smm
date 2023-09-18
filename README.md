@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.09.2023
+- Topic: Linkspreed & IPv6
+- Directory: /posts/2023/September/19
+- Description: ``` 🌐🚀 We're embracing #IPv6 to support the latest technology! 😃 With IPv6, we're future-ready for the internet of tomorrow. 🌟 ```
+
 ### 18.09.2023
 - Topic: Linkspreed Commission
 - Directory: /posts/2023/September/18
