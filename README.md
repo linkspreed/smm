@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.09.2023
+- Topic: Data protection update
+- Directory: /posts/2023/September/20
+- Description: ``` Our data protection is now compliant with the new Quebec's Law 25 and the Swiss Federal Act on Data Protection (FADP). 👍🔒 Your data is safe with us! 😊💼 #DataProtection #Compliance #QuebecLaw25 #SwissFADP ```
+
 ### 19.09.2023
 - Topic: Linkspreed & IPv6
 - Directory: /posts/2023/September/19
