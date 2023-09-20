@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.09.2023
+- Topic: Linkspreed Commission
+- Directory: /posts/2023/September/21
+- Description: ``` 🚀 Get easy cash! Our commission model offers 15-40% for every referred customer or partner! 💰👏 ```
+
 ### 20.09.2023
 - Topic: Data protection update
 - Directory: /posts/2023/September/20
