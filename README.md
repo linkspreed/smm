@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.09.2023
+- Topic: WhatsStore
+- Directory: /posts/2023/September/22
+- Description: ``` 🎉 We're excited to introduce our brand-new solution: WhatsStore! 🛒 Dive into the world of modern shopping with #WhatsStore. Stay tuned for more details! #New #Shopping #Excitement ```
+
 ### 21.09.2023
 - Topic: Linkspreed Commission
 - Directory: /posts/2023/September/21
