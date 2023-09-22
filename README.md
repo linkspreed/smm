@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.09.2023
+- Topic: AlgoX
+- Directory: /posts/2023/September/23
+- Description: ``` 🤖 AlgoX - our fifth AI application is finally here and ready to make a mark in the world of AI! 💥 Have you taken a look yet? 👀 Share your thoughts! #AlgoX #AI #Innovation ```
+
 ### 22.09.2023
 - Topic: WhatsStore
 - Directory: /posts/2023/September/22
