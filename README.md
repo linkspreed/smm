@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.09.2023
+- Topic: Event #1 - CFAL
+- Directory: /posts/2023/September/24
+- Description: ``` 🚀 Exciting news! Join us on October 1, 2023, from 11 AM to 12 PM for our first Linkspreed event! 🤖 Learn how we're revolutionizing code production and delivering it to our clients and partners within just 7 days. 🌟 It's FREE! Register on LinkedIn now! 💼 #CFAL #CodeProduction #Innovation #TechEvent ```
+
 ### 23.09.2023
 - Topic: AlgoX
 - Directory: /posts/2023/September/23
