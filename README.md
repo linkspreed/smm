@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.09.2023
+- Topic: Biospreed & Snoogie v39.0.0
+- Directory: /posts/2023/September/25
+- Description: ``` 🚀 Exciting news! We've just dropped Biospreed Version 39! 🎉 Get ready for a smoother, faster experience. Upgrade now and feel the difference. #Biospreed #Upgrade #NewRelease ``` ; ``` 🔥 Big news from Snoogie! Introducing Snoogie Version 39! 🙌 Explore new features and improvements. Don't miss out, update today! #Snoogie #NewRelease #Upgrade ```
+
 ### 24.09.2023
 - Topic: Event #1 - CFAL
 - Directory: /posts/2023/September/24
