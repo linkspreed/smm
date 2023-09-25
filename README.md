@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.09.2023
+- Topic: L2B Classic Plugins
+- Directory: /posts/2023/September/26
+- Description: ``` 🚀 Big news! At Linkspreed, we're hard at work developing a range of new, high-quality plugins for L2B Classic. 🛠️ Get ready to take your business to the next level! #Innovation #L2BClassic #Linkspreed #Enhancements ```
+
 ### 25.09.2023
 - Topic: Biospreed & Snoogie v39.0.0
 - Directory: /posts/2023/September/25
