@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.09.2023
+- Topic: Autumn
+- Directory: /posts/2023/September/28
+- Description: ``` 🍂 Fall is just around the corner! 🍁 Escape the chill and kickstart your journey with my own #Linkspeed franchise. 🚀 Be your own boss today and launch your own start-up. 💼💪 #AutumnVibes #Entrepreneurship #Success ```
+
 ### 27.09.2023
 - Topic: Global Rank
 - Directory: /posts/2023/September/27
