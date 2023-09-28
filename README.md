@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.09.2023
+- Topic: L2B Helpdesk
+- Directory: /posts/2023/September/29
+- Description: ``` 🚀 Exciting news! Ready to kickstart your own helpdesk? With L2B, it's a breeze! 💼 Our powerful solution empowers businesses, startups, and developers to build their own helpdesk - no technical expertise, time, or high costs required. 💪 #L2BHelpdesk #CustomerSupport #MakeItSimple ```
+
 ### 28.09.2023
 - Topic: Autumn
 - Directory: /posts/2023/September/28
