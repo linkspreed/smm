@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.09.2023
+- Topic: Big Autumn Sale
+- Directory: /posts/2023/September/30
+- Description: ``` 🍂 Fall has arrived, and so has our big Autumn Sale! 🍁 Until 10/15/2023, you can enjoy incredible discounts of up to 60% off on L2B and franchise platforms. 😲🛍️ Just get in touch with our Linkspreed Team if you want to learn more. 📞💼 #AutumnSale #SpecialOffers #Linkspreed ```
+
 ### 29.09.2023
 - Topic: L2B Helpdesk
 - Directory: /posts/2023/September/29
