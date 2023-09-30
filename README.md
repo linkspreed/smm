@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.10.2023
+- Topic: Linkspreed October
+- Directory: /posts/2023/October/01
+- Description: ``` 🌴🍂 Welcome to October at Linkspreed! 🍂🌴 We're kicking off the month with sizzling deals and some super cool announcements. 🎉🌟 Get ready for a tropical autumn filled with surprises! 🏝️😎 #October #Linkspreed #TropicalFall ```
+
 ### 30.09.2023
 - Topic: Big Autumn Sale
 - Directory: /posts/2023/September/30
