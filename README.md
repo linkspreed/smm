@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.10.2023
+- Topic: Event #1 - CFAL
+- Directory: /posts/2023/October/02
+- Description: ``` 🎉 Reflecting on our first live event at Linkpreed on October 1, 2023! CFAL was a huge success. For those who couldn't join us live, we streamed the entire event on YouTube. 📺 Watch the video now and relive the highlights! 👉 #CFAL #LinkpreedLive #YouTube #Flashback ```
+
 ### 01.10.2023
 - Topic: Linkspreed October
 - Directory: /posts/2023/October/01
