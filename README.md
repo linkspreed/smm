@@ -5,8 +5,13 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.10.2023
+- Topic: Q3/2023 Recap
+- Directory: /posts/2023/October/04
+- Description: ``` 🚀📊🎉 Our Q3 Recap is here! In the past quarter, we've witnessed astounding record numbers in user requests and bandwidth. 📈💬💻 And that's not all – we're thrilled to announce the launch of numerous exciting new products. 🚀✨ #Q3Recap #RecordNumbers #NewProducts #Growth ```
+
 ### 03.10.2023
-- Topic: Event #1 - CFAL
+- Topic: Event Q4/2023 Goals
 - Directory: /posts/2023/October/03
 - Description: ``` We've kicked off the fourth quarter with a bang and have some exciting goals in mind! 💥 Here are a few of our top priorities:🌐 Forge new partnerships📈 Enhance our platform🌱 Promote sustainability🌟 Strengthen our communityYour support fuels our drive! Together, we'll achieve these goals! 💼🙌 #Success #Teamwork ```
 
