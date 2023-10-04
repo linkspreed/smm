@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.10.2023
+- Topic: Privacy Policy Update
+- Directory: /posts/2023/October/05
+- Description: ``` 🌐 Update alert! On October 3, 2023, we've revamped our privacy policy to align with global data protection standards. Your privacy matters! 🛡️ Thank you for your trust! #PrivacyMatters #NewUpdate ```
+
 ### 04.10.2023
 - Topic: Q3/2023 Recap
 - Directory: /posts/2023/October/04
