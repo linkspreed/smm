@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.10.2023
+- Topic: Advertising
+- Directory: /posts/2023/October/06
+- Description: ``` 🎉 We've been hard at work behind the scenes crafting our brand-new advertising strategy! 📈 Stay tuned for more details coming soon. Get ready for the future of our brand! 🤩 #AdvertisingStrategy #ExcitingNews #StayTuned ```
+
 ### 05.10.2023
 - Topic: Privacy Policy Update
 - Directory: /posts/2023/October/05
