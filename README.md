@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.10.2023
+- Topic: L2B Classic + Plugins
+- Directory: /posts/2023/October/07
+- Description: ``` 🚀 Upgrading from L2B Classic to L2B Premium is so yesterday! 🌟 We're taking your business to the fast lane with our expanding plugin fleet for L2B Classic. 🚤💨 #L2BClassic #Upgrade #BusinessBoost #Innovation ```
+
 ### 06.10.2023
 - Topic: Advertising
 - Directory: /posts/2023/October/06
