@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.10.2023
+- Topic: Linkspreed & Zero Trust
+- Directory: /posts/2023/October/08
+- Description: ``` 🚀 Discover how we at Linkspreed incorporate the latest Zero Trust technology into our business processes for maximum security! 🔒 #Cybersecurity #ZeroTrust #Innovation ```
+
 ### 07.10.2023
 - Topic: L2B Classic + Plugins
 - Directory: /posts/2023/October/07
