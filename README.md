@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.10.2023
+- Topic: Linkspreed Documents
+- Directory: /posts/2023/October/09
+- Description: ``` 📚 Explore our Documents page! 📊 Get free access to documents, presentations, analyses, business plans, and pilot project presentations. Dive deep into Linkspreed and discover valuable resources! 👉 #Linkspreed #Documents #Download ```
+
 ### 08.10.2023
 - Topic: Linkspreed & Zero Trust
 - Directory: /posts/2023/October/08
