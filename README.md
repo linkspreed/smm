@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.10.2023
+- Topic: CFAL
+- Directory: /posts/2023/October/12
+- Description: ``` 🚀 Explore the future of coding with CFAL! 💻 Here are 4 ways to learn more about our groundbreaking model and how we produce code like a well-oiled machine. 🔥 ```
+
 ### 11.10.2023
 - Topic: Linkspreed Franchise - Free Test Runs
 - Directory: /posts/2023/October/11
