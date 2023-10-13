@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.10.2023
+- Topic: Linkspreed is agile!
+- Directory: /posts/2023/October/14
+- Description: ``` 🚀 We're all about speed at Linkspreed! Proud to work with agility, and we want YOU to run your startup or business just as smoothly. 💼💡 #AgileWorking #StartupSuccess #Linkspreed #Innovation ```
+
 ### 13.10.2023
 - Topic: Linkspreed Franchise
 - Directory: /posts/2023/October/13
