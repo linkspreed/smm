@@ -5,9 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
-### 14.10.2023
-- Topic: Linkspreed is agile!
-- Directory: /posts/2023/October/14
+### 16.10.2023
+- Topic: LinkLab v29 / Plop v29
+- Directory: /posts/2023/October/16
+- Description: ``` Exciting news! 🚀 We've just dropped Version 29.0.0 for LinkLab, and it's packed with awesome features. 🌟 Check it out now and let us know what you think! 💡 #LinkLab #NewRelease ``` ; ``` Double the excitement! 🎉 Version 29.0.0 is now live for Plop too! 🙌 Get ready to experience all the amazing updates we've prepared for you. Don't miss out! 🚀 #Plop #NewRelease ```
+
+### 15.10.2023
+- Topic: LinkLav v28 / Plop v28 / Biospreed v40 / Snoogie v40
+- Directory: /posts/2023/October/15
 - Description: ``` 🚀 Wir haben soeben Version 40.0.0 für #Biospreed veröffentlicht! 🌟 Neuer Features und Verbesserungen warten auf dich - jetzt aktualisieren und erleben! 📲💡 ``` ; ``` 🎉 Snoogie v40.0.0 ist da! 🚁 Lass dich von den brandneuen Funktionen überraschen und erlebe eine noch bessere Performance. Jetzt updaten! 🚀📱 ``` ; ``` 📢 Plop v28.0.0 ist jetzt verfügbar! 🛠️ Mit vielen aufregenden Neuerungen und Fehlerbehebungen. Hol dir das Update jetzt! 💥📲 ``` ; ``` 🌐 LinkLab v28.0.0 ist live! 📚 Entdecke die neuesten Features und Verbesserungen - jetzt aktualisieren und loslegen! 🚀🔗 ```
 
 ### 14.10.2023
