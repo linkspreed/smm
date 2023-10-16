@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.10.2023
+- Topic: L2B Classic + WhatsApp Business Plugin
+- Directory: /posts/2023/October/17
+- Description: ``` 🚀 New at L2B Classic! 📣 Now available: The WhatsApp Business Plugin 📱💼. The ultimate solution for better communication and customer engagement. 🤝✅ Easy integration ✅ Fast customer communication ✅ Improved CRM features. Boost your efficiency and customer satisfaction with the WhatsApp Business Plugin! 💪#L2BClassic #WhatsAppBusiness #CustomerCommunication #Efficiency #CRM #Innovation #CustomerSatisfaction 📈 ```
+
 ### 16.10.2023
 - Topic: LinkLab v29 / Plop v29
 - Directory: /posts/2023/October/16
