@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.10.2023
+- Topic: Linkspreed Meet
+- Directory: /posts/2023/October/18
+- Description: ``` 🚀 Discover the future of video meetings with #LinkspreedMeet! 🔗Say goodbye to connectivity issues and hello to seamless meetings. 📹💬Try it out now and experience video conferences in a whole new dimension! 💥 ```
+
 ### 17.10.2023
 - Topic: L2B Classic + WhatsApp Business Plugin
 - Directory: /posts/2023/October/17
