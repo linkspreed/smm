@@ -5,6 +5,15 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.10.2023
+- Topic: PMCR
+- Directory: /posts/2023/October/20
+- Description: ``` 🚀 New customer management standard! 🛠️ #PMCR
+We use PMCR internally, our all-in-one platform for customer, project, and team management. Say goodbye to complex tools! 💼
+Whether you're a startup or an established company, PMCR is for everyone. You should know that PMCR is an exclusive system developed by us and offered externally as L2B Classic.
+Fast, flexible, and cost-effective - let us show you how PMCR can elevate your business! 💪
+#CustomerManagement #ProjectManagement #Efficiency #Teamwork ```
+
 ### 19.10.2023
 - Topic: After Demo Sale
 - Directory: /posts/2023/October/19
