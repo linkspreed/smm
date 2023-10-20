@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.10.2023
+- Topic: X25519+KYBER post-quantum cryptography
+- Directory: /posts/2023/October/21
+- Description: ``` 🔐 Linkspreed has embraced the latest technology! 👨‍💻 With X25519+KYBER post-quantum cryptography, we're now unbeatably secure and ready for the future. 💪 #Security #Innovation #PostQuantum #LinkspreedTech ```
+
 ### 20.10.2023
 - Topic: PMCR
 - Directory: /posts/2023/October/20
