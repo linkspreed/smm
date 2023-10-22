@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.10.2023
+- Topic: Carbon Report 2022
+- Directory: /posts/2023/October/23
+- Description: ``` 🌍 Our 2022 Carbon Report is in! Thanks to Cloudflare, we've saved 52 kg of carbon emissions - that's like having a light bulb on for 7 extra weeks - compared to 2021, where it was only 5 kg. 💡🌿 #Sustainability #Environment ```
+
 ### 22.10.2023
 - Topic: Your own advertising network!
 - Directory: /posts/2023/October/22
