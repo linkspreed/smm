@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.10.2023
+- Topic: Linkspreed Meet & CallCloud
+- Directory: /posts/2023/October/24
+- Description: ``` 🎥 Making video calls a breeze! With Linkspreed Meet & CallCloud, you can dive into video conferences hassle-free, no sign-up required. No fuss, just smooth meetings! 🚀 #VideoMeeting #LinkspreedMeet #CallCloud ```
+
 ### 23.10.2023
 - Topic: Carbon Report 2022
 - Directory: /posts/2023/October/23
