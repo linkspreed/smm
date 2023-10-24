@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.10.2023
+- Topic: Linkspreed & Cloudflare - ECH
+- Directory: /posts/2023/October/25
+- Description: ``` 🔐 We're teaming up with Cloudflare to bring ECH (Encrypted Client Hello) to Linkspreed for enhanced data privacy! Your privacy is our top priority. 🌐🛡️ #Privacy #Linkspreed #Cloudflare #ECH ```
+
 ### 24.10.2023
 - Topic: Linkspreed Meet & CallCloud
 - Directory: /posts/2023/October/24
