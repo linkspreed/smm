@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.10.2023
+- Topic: Privacy Policy update - UCPA & Utah
+- Directory: /posts/2023/October/26
+- Description: ``` 🛡️ Our privacy policies just got a boost, tailored to enhance the UCPA experience for our Utah pals. 🌟 Your data is in safe hands with us! #Privacy #UCPAUpdate #Utah ```
+
 ### 25.10.2023
 - Topic: Linkspreed & Cloudflare - ECH
 - Directory: /posts/2023/October/25
