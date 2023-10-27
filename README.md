@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.10.2023
+- Topic: October record
+- Directory: /posts/2023/October/28
+- Description: ``` 📈 October was our record month! 🚀 Our traffic skyrocketed - thanks to all of you! 🙌🎉 #RecordTraffic #Success #Community #October2023 ```
+
+### 27.10.2023
+- Topic: October record
+- Directory: /posts/2023/October/27
+- Description: ``` 🚀 We've got some exciting news! 🌟 Our team has been hard at work to take Linkspeed Franchise SaaS to the next level. With a fresh update, our plugins are now better than ever! 🔌💡🔗 Enhanced linking features, 📊 comprehensive analytics, and a 🌐 seamless user experience await you!#Linkspeed #FranchiseSaaS #Update #Enhancements #PluginPower #Innovation ```
+
 ### 26.10.2023
 - Topic: Privacy Policy update - UCPA & Utah
 - Directory: /posts/2023/October/26
