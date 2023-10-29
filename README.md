@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.10.2023
+- Topic: B2TF_2021
+- Directory: /posts/2023/October/29
+- Description: ``` 🔙 Looking back to 2021 and relaunching our exciting project! 🚀 Old ideas come back to life. Join us! 👏 #Project2021 #Linkspreed #Creativity #Restart ```
+
 ### 28.10.2023
 - Topic: October record
 - Directory: /posts/2023/October/28
