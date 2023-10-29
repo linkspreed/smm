@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.10.2023
+- Topic: Linkspreed's History
+- Directory: /posts/2023/October/30
+- Description: ``` 🚀 From 2020 till today: Our journey at Linkspreed! 👏 Steps of change and growth we've shared with you. 📈 #LinkspreedStory #Growth #Success ```
+
 ### 29.10.2023
 - Topic: B2TF_2021
 - Directory: /posts/2023/October/29
