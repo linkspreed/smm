@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.10.2023
+- Topic: Linkspreed's History
+- Directory: /posts/2023/October/31
+- Description: ``` 🎃👻 Happy Halloween, dear Linkspreed users! 🎃👻 We wish you a spooky day filled with candy and thrilling moments. 🍬🕷️ Don't let the ghosts scare you, but rather enjoy the eerie atmosphere. 👀✨ And don't forget to show us your best Halloween costumes using the hashtag #LinkspreedHalloween! 🎭📸 We can't wait to see them! 🧛‍♂️🧟‍♀️ #HappyHalloween #TrickOrTreat ```
+
 ### 30.10.2023
 - Topic: Linkspreed's History
 - Directory: /posts/2023/October/30
