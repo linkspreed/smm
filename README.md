@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.11.2023
+- Topic: Linkspreed - November
+- Directory: /posts/2023/November/01
+- Description: ``` 🚀 Hello dear @Linkspreed community! 🌟 We hope you're all as excited about November as we are! 🍂 In our #startup, we have 20 new projects in the pipeline, and we're working hard on them. 💼🔧 November is going to be anything but boring - let's achieve greatness together! 💪🏆 #Innovation #NewProjects #LinkspreedNovember #Teamwork ```
+
 ### 31.10.2023
 - Topic: Linkspreed's History
 - Directory: /posts/2023/October/31
