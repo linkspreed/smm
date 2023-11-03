@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.11.2023
+- Topic: Linkspreed Start - Shape The Future
+- Directory: /posts/2023/November/04
+- Description: ``` 🚀 Shape the Future with #Linkspreed! Explore the future at start.linkspreed.com and let's create something great together. 💡 #Innovation #ShapingTheFuture ```
+
 ### 03.11.2023
 - Topic: Your own Ads
 - Directory: /posts/2023/November/03
