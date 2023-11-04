@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.11.2023
+- Topic: Linkspreed Start
+- Directory: /posts/2023/November/05
+- Description: ``` 🔗 With Linkspreed Start, you get a comprehensive overview of all the possibilities that Linkspreed offers. Whether it's news, shopping, or social media – everything in one place! ```
+
 ### 04.11.2023
 - Topic: Linkspreed Start - Shape The Future
 - Directory: /posts/2023/November/04
