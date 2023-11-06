@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.11.2023
+- Topic: L2B Classic - Mailbox Plugin
+- Directory: /posts/2023/November/07
+- Description: ``` 📧 Calling all L2B Classic users! 🚀 You can now read and send emails directly through our new Email Plugin. No more switching between apps - everything in one place! 🙌 #ProductUpdate #EmailPlugin #BoostProductivity ```
+
 ### 06.11.2023
 - Topic: Contribution
 - Directory: /posts/2023/November/06
