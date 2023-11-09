@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.11.2023
+- Topic: L2B Space
+- Directory: /posts/2023/November/09
+- Description: ``` 🚀 Exciting News! 🌟 L2B Classic is now available as a SaaS version under L2B Space! 🚀 Perfect for all customers without their own domain. 🌐 Experience the power of L2B in the cloud. 👏 #L2BClassic #L2BSpace #SaaSVersion #Innovation ```
+
 ### 08.11.2023
 - Topic: L2B Classic SaaS
 - Directory: /posts/2023/November/08
