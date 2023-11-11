@@ -5,15 +5,20 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.11.2023
+- Topic: PWA Plugin
+- Directory: /posts/2023/November/12
+- Description: ``` 🚀 Exciting news alert! 🌟 We've just dropped a game-changer for our franchise partners – the long-awaited PWA Plugin is officially live! 🎉 Elevate your online shop experience to new heights. 💻✨ #Innovation #Success #FranchisePower #PWAAwesomeness ```
+
 ### 11.11.2023
 - Topic: Teambuilding @Linkspreed
 - Directory: /posts/2023/November/11
-- Description: ``` 🚀 Exciting news at Linkspreed! 🌐 We're assembling an unbeatable Power Team to elevate our success to new heights. 💪 #Teamwork #ScalingUp #LinkspreedPower #UnstoppableTogether  ```
+- Description: ``` 🚀 Exciting news at Linkspreed! 🌐 We're assembling an unbeatable Power Team to elevate our success to new heights. 💪 #Teamwork #ScalingUp #LinkspreedPower #UnstoppableTogether ```
 
 ### 10.11.2023
 - Topic: CFAL ++
 - Directory: /posts/2023/November/10
-- Description: ``` 🚀 Attention Team! 🌟 We're working tirelessly on CFAL++ to launch your projects at warp speed! 💼🔥 Let's break speed limits together! 💨 #Innovation #CFALplusplus #FasterThanFast  ```
+- Description: ``` 🚀 Attention Team! 🌟 We're working tirelessly on CFAL++ to launch your projects at warp speed! 💼🔥 Let's break speed limits together! 💨 #Innovation #CFALplusplus #FasterThanFast ```
 
 ### 09.11.2023
 - Topic: L2B Space
