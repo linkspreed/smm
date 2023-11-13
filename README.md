@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.11.2023
+- Topic: Reddit Alternative
+- Directory: /posts/2023/November/13
+- Description: ``` 🚀 Exciting news! 🌐 We've embarked on a journey at Linkspreed to create an alternative to Reddit – a space where diverse communities thrive! Join us in shaping the future of online interaction. 🌈✨ #Linkspreed #CommunityFirst #NextGenReddit #InnovationInProgress 🚀 ```
+
 ### 12.11.2023
 - Topic: PWA Plugin
 - Directory: /posts/2023/November/12
