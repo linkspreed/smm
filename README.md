@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.11.2023
+- Topic: L2B Classic on Github
+- Directory: /posts/2023/November/18
+- Description: ``` 🚀 Big News! 🎉 L2B Classic is now live on GitHub! 🌐 Check it out and drop a star ⭐️ if you like what you see! 🚀 #L2BClassic #OpenSource #GitHub ```
+
 ### 17.11.2023
 - Topic: Black Friday Deal
 - Directory: /posts/2023/November/17
