@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.11.2023
+- Topic: Black Friday Deal
+- Directory: /posts/2023/November/17
+- Description: ``` 🌟 The Black Friday Deal is live! 🎉 Get up to 50% off on all L2B products and franchise models until November 24, 2023, 11:59 PM! 🚀 Don't miss out! #BlackFridayDeals #Discounts #L2B ```
+
 ### 16.11.2023
 - Topic: help.linkspreed.com
 - Directory: /posts/2023/November/16
