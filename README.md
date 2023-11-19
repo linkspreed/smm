@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.11.2023
+- Topic: Linkspreed on TikTok
+- Directory: /posts/2023/November/19
+- Description: ``` 🚀 Exciting news! 🎉 Linkspreed is now the proud owner of an official Business Account on TikTok! 📈 Follow us for exclusive insights and exciting content. 🚀👀 #Linkspreed #TikTokBusiness #FollowUs ```
+
 ### 18.11.2023
 - Topic: L2B Classic on Github
 - Directory: /posts/2023/November/18
