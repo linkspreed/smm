@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.11.2023
+- Topic: Oxygen Browser
+- Directory: /posts/2023/November/22
+- Description: ``` 🚀🌍 Our very own browser by Linkspreed, Oxygen, is now available for download! 😍🎉 The wait is over: With Oxygen, we have completed the first stable and fully capable version of our browser. 🥳🎉 Experience the internet in a breath of fresh air. 🌐💨 Download Oxygen now and enjoy a fast and seamless browsing experience! 💻🚀 #OxygenBrowser #Download #Linkspreed #SurfFast ```
+
 ### 21.11.2023
 - Topic: Biospreed v41.0.0 & Snoogie v41.0.0
 - Directory: /posts/2023/November/21
