@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.11.2023 - Post 2
+- Topic: Linkspreed Domain Day (3)
+- Directory: /posts/2023/November/24
+- Description: ``` 🎉 Today, we're not just celebrating #BlackFriday, but also our 3rd Domain Anniversary! 🎂🎈 Exactly 3 years ago, we proudly took over the domain linkspreed.com. 🚀 It's not our birthday, but definitely a reason to celebrate! 🥳 #Linkspreed #Anniversary #DomainLove ```
+
+- ### 24.11.2023 - Post 1
+- Topic: Linkspreed v4.3
+- Directory: /posts/2023/November/24
+- Description: ``` 🚀 Exciting news! 🌟 We've just released Linkspreed v4.3 – our power-packed update that takes your user experience to a whole new level! 🚀🔥 Get ready for a slew of new and cool features! 🌊✨ Surf the web like never before with Linkspreed! 🏄‍♂️🌐 #LinkspreedUpgrade #BrowsingRevolution #TechMagic #Version4Point3Magic ✨🚀 ```
+
 ### 23.11.2023
 - Topic: Oxygen Browser on Github
 - Directory: /posts/2023/November/23
