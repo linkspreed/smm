@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.11.2023
+- Topic: Friedberg / Ingolstadt Office
+- Directory: /posts/2023/November/27
+- Description: ``` 🚀 Exciting day at the Linkspreed HQ in Friedberg! 🏢✨ Join us on a virtual tour of our buzzing office where innovation meets creativity. From brainstorming sessions to coffee breaks, this space is where magic happens! 🌟 #LinkspreedLife #OfficeVibes #InnovationHub #Friedberg ``` ;  ``` 📍 Did you know we also have a cozy corner in Ingolstadt? 🏡💼 While smaller, it's filled with the same energy and passion for what we do. Join us on a quick peek into our Ingolstadt office! 🚀 #IngolstadtOffice #SmallButMighty #TeamSpirit #Ingolstadt ```
+
 ### 26.11.2023
 - Topic: Communities for everyone!
 - Directory: /posts/2023/November/26
