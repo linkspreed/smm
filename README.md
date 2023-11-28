@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.11.2023
+- Topic: Web4 Vision Docs
+- Directory: /posts/2023/November/28
+- Description: ``` 🚀 Exciting News Alert! 🌐 We've just dropped our latest doc on the future of the web - Web4! 🚀 Dive deep into our vision for the next-gen internet. 🌍✨ Download it now for FREE! 📥 #Web4Vision #FutureOfTech #InnovationJourney #DigitalRevolution ```
+
 ### 27.11.2023
 - Topic: Friedberg / Ingolstadt Office
 - Directory: /posts/2023/November/27
