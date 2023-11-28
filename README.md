@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.11.2023
+- Topic: Linkspreed vCard
+- Directory: /posts/2023/November/29
+- Description: ``` 🌐 Explore the future of business cards! 🚀 Introducing Linkspreed vCard – effortlessly create your own digital business card. 👔 Fast, easy, and hassle-free – embrace the change! 💼 #DigitalNetworking #Innovation #Linkspreed #BusinessRevolution ```
+
 ### 28.11.2023
 - Topic: Web4 Vision Docs
 - Directory: /posts/2023/November/28
