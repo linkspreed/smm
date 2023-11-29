@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.11.2023
+- Topic: Hey Devs!
+- Directory: /posts/2023/November/30
+- Description: ``` 👩‍💻👨‍💻 Hey Devs! 🌐🚀 We're on the lookout for tech enthusiasts ready to amp up the code of Linkspreed! 💻💡 Join our team and let's write some tech history together! 🚀🌐 #TechHeroes #CodeFam #LinkspreedDev #DevelopersWanted ```
+
 ### 29.11.2023
 - Topic: Linkspreed vCard
 - Directory: /posts/2023/November/29
