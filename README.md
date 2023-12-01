@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.12.2023
+- Topic: December with Linkspreed
+- Directory: /posts/2023/December/01
+- Description: ``` 🎄 December has arrived, and at Linkspreed, we're excited for a festive season! 🌟 We aim to bring even more communities together and celebrate the marathon until Christmas together. 🚀 Join us and make December unforgettable! 🎅 #LinkspreedMagic #CelebrateTogether #DecemberVibes ```
+
 ### 30.11.2023
 - Topic: Hey Devs!
 - Directory: /posts/2023/November/30
