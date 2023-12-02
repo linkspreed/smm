@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.12.2023
+- Topic: Linkspreed v4.3.1
+- Directory: /posts/2023/December/03
+- Description: ``` 🚀 Attention! Proudly introducing Linkspreed Version 4.3.1! 🎉 We've fixed all reported bugs and taken the app to a whole new level! 🛠️ Grab the update and see for yourself what's improved! 💻 #LinkspreedUpdate #BugFixes #Version4.3.1 ```
+
 ### 02.12.2023
 - Topic: web4.linkspreed.com
 - Directory: /posts/2023/December/02
