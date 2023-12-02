@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.12.2023
+- Topic: web4.linkspreed.com
+- Directory: /posts/2023/December/02
+- Description: ``` 🚀 Welcome to web4.linkspreed.com! 🌐 Explore the next chapter of the internet: Web4! 🌈 Our dream of a groundbreaking, open, and secure network is becoming a reality. 🚀 Click the link now and dive into the future of the internet: web4.linkspreed.com 🚀 #Web4 #Innovation #NewInternet ```
+
 ### 01.12.2023
 - Topic: December with Linkspreed
 - Directory: /posts/2023/December/01
