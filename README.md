@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.12.2023
+- Topic: Linkspreed is a brand!
+- Directory: /posts/2023/December/04
+- Description: ``` 🎉🚀 We've achieved something incredible! 📢✨ Starting from December 1st, 2023, Linkspreed is officially a registered trademark at the German Patent and Trademark Office (DPMA)! 🙌💼💡 This is a milestone we can be proud of and that deserves a proper celebration! 🎉🥂🎊 A huge thank you to all of you for your support on this exciting journey! 🤝✨ #Linkspreed #Trademark #DPMA #Success #Celebrate #Proud ```
+
 ### 03.12.2023
 - Topic: Linkspreed v4.3.1
 - Directory: /posts/2023/December/03
