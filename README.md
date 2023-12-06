@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.12.2023
+- Topic: Oxygen v2 in development
+- Directory: /posts/2023/December/06
+- Description: ``` 🚀 Let's level up! 🌐 We're hard at work on Version 2 of our Oxygen browser. 🛠️ Expect new features, lightning-fast speed, and loads of fun! 💻 #OxygenBrowser #Innovation #TechUpdate ```
+
 ### 05.12.2023
 - Topic: Social Networks for everyone!
 - Directory: /posts/2023/December/05
