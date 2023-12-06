@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.12.2023
+- Topic: Mailspread for partners
+- Directory: /posts/2023/December/07
+- Description: ``` 🚀 Exciting News Alert! 🎉 As an official business partner, you now get exclusive unlimited newsletter delivery with Linkspreed Mailspread! 📧💼 Don't miss out on this opportunity to elevate your communication game. 🚀 #Partnership #Newsletter #LinkspreedMailspread #BusinessBoost ```
+
 ### 06.12.2023
 - Topic: Oxygen v2 in development
 - Directory: /posts/2023/December/06
