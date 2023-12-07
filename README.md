@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.12.2023
+- Topic: Linkspreed is on Fiverr
+- Directory: /posts/2023/December/08
+- Description: ``` 🚀 Exciting News Alert! 🌐 Linkspreed is now on Fiverr! 🎉 Need the perfect social network? Look no further! We've got one gig that'll build your dream social platform. 🔗💻 Explore our Fiverr page and let's turn your vision into reality! ✨ #LinkspreedOnFiverr #SocialNetworkBuilder #DreamsComeTrue ```
+
 ### 07.12.2023
 - Topic: Mailspread for partners
 - Directory: /posts/2023/December/07
