@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.12.2023
+- Topic: Web4
+- Directory: /posts/2023/December/09
+- Description: ``` 🚀 Explore the cutting-edge #Web4! 🌐 Now even more seamless and intuitive at https://web4.linkspreed.com. 🚀 Be part of the future of the internet! 💻🌈 #Innovation #Linkspreed ```
+
 ### 08.12.2023
 - Topic: Linkspreed is on Fiverr
 - Directory: /posts/2023/December/08
