@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.12.2023
+- Topic: Your social network before Christmas
+- Directory: /posts/2023/December/10
+- Description: ``` 🌐 Dreaming of your own social network? 🚀 Get 20% off until 20.12.2023! 🤩 Bring your ideas to life starting 24.12.2023! 🎁 #OwnNetwork #DreamComeTrue #SpecialOffer ```
+
 ### 09.12.2023
 - Topic: Web4
 - Directory: /posts/2023/December/09
