@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.12.2023
+- Topic: Linkspreed v4.3.2
+- Directory: /posts/2023/December/11
+- Description: ``` 🚀 The latest and most thrilling version of Linkspreed is finally here! 🌟 Dive into the world of 4.3.2 and discover what's new. 🚀 Now faster, more intuitive than ever – innovation knows no bounds! 🚀 #Linkspreed432 #UpgradeYourSurfExperience #Innovation ```
+
 ### 10.12.2023
 - Topic: Your social network before Christmas
 - Directory: /posts/2023/December/10
