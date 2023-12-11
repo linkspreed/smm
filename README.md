@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.12.2023
+- Topic: Linkspreed AR
+- Directory: /posts/2023/December/12
+- Description: ``` 🚀 Dive into the future with us! 🌐📱 At Linkspreed, we're pushing the boundaries of Augmented Reality (AR). 🤖 Our latest research is gearing up your phone camera for an exciting new reality! 📷🔍 #AR #Innovation #LinkspreedResearch #FutureNow ```
+
 ### 11.12.2023
 - Topic: Linkspreed v4.3.2
 - Directory: /posts/2023/December/11
