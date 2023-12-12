@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.12.2023
+- Topic: Christmas communities
+- Directory: /posts/2023/December/13
+- Description: ``` 🎄 This is the season to connect! 🌟 The holiday season is the perfect time of the year to grow together and build communities. 🤝 Explore the magic of Web4 networks and reach your audience during the festivities. 🚀 Create your own festive community! 🎁 #CommunityBuilding #HolidaySeason #Web4Networking #AudienceMagic ```
+
 ### 12.12.2023
 - Topic: Linkspreed AR
 - Directory: /posts/2023/December/12
