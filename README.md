@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.12.2023
+- Topic: Linkspreed - UG in 2024
+- Directory: /posts/2023/December/14
+- Description: ``` 🚀 Embarking on a new journey! 🌍 Exciting news: In early 2024, we'll be transforming Linkspreed into a German limited liability company, a UG. 🇩🇪 This marks the next chapter in our thrilling adventure! 🚀 #CompanyUpdate #Expansion #BusinessNews #LinkspreedUG ```
+
 ### 13.12.2023
 - Topic: Christmas communities
 - Directory: /posts/2023/December/13
