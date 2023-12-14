@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.12.2023
+- Topic: Linkspreed Shop
+- Directory: /posts/2023/December/15
+- Description: ``` 🚀 New year, new possibilities! 💻 Ready for a fresh start in a brand-new online lifestyle? 🌐 We're considering launching an online shop for social networks, specifically for Linkspreed and Web4. 🤔💬 Your opinion matters! Should we go for it? 🚀 #OnlineShop #SocialMediaRevolution #NewYearNewLifestyle ```
+
 ### 14.12.2023
 - Topic: Linkspreed - UG in 2024
 - Directory: /posts/2023/December/14
