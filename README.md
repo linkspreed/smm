@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.12.2023
+- Topic: Discover the new wave of social networks
+- Directory: /posts/2023/December/16
+- Description: ``` 🚀 Time for a change! 🌐 Say goodbye to the old social networks. 📲 Explore a new era of Social Media with Linkspreed and Web4! 💫 Together, we create connections that shape the future. #Linkspreed #Web4 #NewHorizons #SocialMediaRevolution 🚀 ```
+
 ### 15.12.2023
 - Topic: Linkspreed Shop
 - Directory: /posts/2023/December/15
