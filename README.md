@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.12.2023
+- Topic: Web4 - Businessplan
+- Directory: /posts/2023/December/17
+- Description: ``` 🚀 Exciting News! 🌐 We've just dropped the 🔍 Businessplan for Web4 on documents.linkspreed.com! 📑🔗 Dive into our vision and download it now to be part of the innovation journey! 🚀 #Web4Vision #InnovationUnleashed #BusinessPlanReveal #DownloadNow 🌐✨ ```
+
 ### 16.12.2023
 - Topic: Discover the new wave of social networks
 - Directory: /posts/2023/December/16
