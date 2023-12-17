@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.12.2023
+- Topic: Hamburger Community
+- Directory: /posts/2023/December/18
+- Description: ``` 🍔🎉🔥 Hey Burger enthusiasts! 🍟 Are you ready for something amazing? 🤩 The first online community for Burger fans is launching soon! 🙌 Who's as excited as I am? 🚀 #BurgerLove #CommunityLaunchingSoon #ExcitementBuilding ```
+
 ### 17.12.2023
 - Topic: Web4 - Businessplan
 - Directory: /posts/2023/December/17
