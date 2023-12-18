@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.12.2023
+- Topic: Hamburger License
+- Directory: /posts/2023/December/19
+- Description: ``` 🚀 It has never been easier to launch your own social network! 🌐🤩 #Linkspreed makes it possible! 🚀 Get your license now and join the Social Media Revolution! 🌟 Contact us for your ticket! 🎫 Don't worry, we don't bite! 😉 #SocialMediaRevolution #OwnYourNetwork #LinkspreedMagic 🚀 ```
+
 ### 18.12.2023
 - Topic: Hamburger Community
 - Directory: /posts/2023/December/18
