@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.12.2023
+- Topic: Linkspreed for 1234 days
+- Directory: /posts/2023/December/20
+- Description: ``` 🎉🚀 Time to celebrate! 🎈 Linkspreed has been rocking it for 1234 days! 🥳🎂 Thanks to our amazing community for your support! 🙌💙 #Linkspreed1234 #Anniversary #Grateful #CommunityPower ```
+
 ### 19.12.2023
 - Topic: Hamburger License
 - Directory: /posts/2023/December/19
