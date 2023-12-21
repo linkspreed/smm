@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.12.2023
+- Topic: LinkLab v31 & Plop v31
+- Directory: /posts/2023/December/22
+- Description: ``` Guess what, Linklab enthusiasts? 🎉 Brace yourselves for greatness because Linklab just dropped its latest bombshell - Version v31! 🚀 Unleash the power of seamless connectivity and cutting-edge innovations. Link up and level up! 🔗💻 #Linklabv31 #ConnectInStyle #InnovationUnleashed ``` ; ``` Plop v31 is here! 🚀 Dive into the awesomeness with our latest version, packed with mind-blowing features and smoother-than-ever performance. 🌟 Upgrade now and let the Plop magic unfold! ✨ #Plopv31 #UpgradeJoy #TechMagic ```
+
 ### 21.12.2023
 - Topic: Biospreed v42 & Snoogie v42
 - Directory: /posts/2023/December/21
