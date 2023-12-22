@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.12.2023
+- Topic: Merry Christmas for all communities
+- Directory: /posts/2023/December/23
+- Description: ``` 🎄✨ Spreading festive magic with the Linkspreed team! 🌟 Wishing all our amazing communities out there a Merry Christmas and a joy-filled holiday season! 🎅🎁 Let's sleigh this festive vibe together! 🚀🌈 #FroheWeihnachten #MerryChristmas #LinkspreedLove 🎉🤗 ```
+
 ### 22.12.2023
 - Topic: LinkLab v31 & Plop v31
 - Directory: /posts/2023/December/22
