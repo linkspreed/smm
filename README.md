@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.12.2023
+- Topic: Merry Christmas - Gift chance
+- Directory: /posts/2023/December/24
+- Description: ``` 🎄🎁 Merry Christmas and happy holidays to all! 🎅 Have you heard about our holiday special? 🌟 Win your own social network for 6 months - for free! 🚀 Send us a DM with your message by 26.12.2023 to enter the draw! 🎉 Valid only for new social networks. Good luck! 🍀 #MerryChristmas #Giveaway #SocialMediaMagic ```
+
 ### 23.12.2023
 - Topic: Merry Christmas for all communities
 - Directory: /posts/2023/December/23
