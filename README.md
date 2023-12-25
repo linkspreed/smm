@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.12.2023
+- Topic: Year in review
+- Directory: /posts/2023/December/25
+- Description: ``` 🚀 Time to reflect! 🎉 Linkspreed has achieved great things this year. 🌐 Explore our year in review on GitHub: https://github.com/linkspreed/smm 📈 #Linkspreed #YearInReview #Success ```
+
 ### 24.12.2023
 - Topic: Merry Christmas - Gift chance
 - Directory: /posts/2023/December/24
