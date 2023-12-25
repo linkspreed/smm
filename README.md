@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.12.2023
+- Topic: Last chance to win!
+- Directory: /posts/2023/December/26
+- Description: ``` 🚨 Don't miss out on your last chance! 🚨 Today is the final opportunity to win your own social network for 6 months free! 🌐 Drop us a quick DM and shape your digital world! 💻✨ #Giveaway #DigitalDreams #YourNetwork #JoinNow ```
+
 ### 25.12.2023
 - Topic: Year in review
 - Directory: /posts/2023/December/25
