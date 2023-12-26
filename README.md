@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.12.2023
+- Topic: Linkspreed + AWS
+- Directory: /posts/2023/December/27
+- Description: ``` 🚀 Attention, social media enthusiasts! 🌐 Now you can get our top-notch social network software in licensing form and host your own network on Amazon AWS! 🌟🔒 Maximum performance and reliability guaranteed. 💻💡 Be the pioneer in your own digital world! 🚀🌐 #SocialNetwork #AWSHosting #DigitalInnovation ```
+
 ### 26.12.2023
 - Topic: Last chance to win!
 - Directory: /posts/2023/December/26
