@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.12.2023
+- Topic: Web4 pitch deck
+- Directory: /posts/2023/December/29
+- Description: ``` 🌐 Exciting News! 🚀 We've just dropped the Web4 Pitchdeck in both German 🇩🇪 and English 🇬🇧 on documents.linkspreed.com! 📊 Dive into the future of the web with us. Check it out now! #Web4 #PitchDeck #InnovationJourney 🚀💻✨ ```
+
 ### 28.12.2023
 - Topic: 2023 Review
 - Directory: /posts/2023/December/28
