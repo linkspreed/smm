@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.12.2023
+- Topic: 2023 Review
+- Directory: /posts/2023/December/28
+- Description: ``` 🚀 As 2023 comes to a close, we want to hear from you! What announcements from Linkspreed stood out to you this year? 😍 Was it a groundbreaking new product or an innovative concept? Your opinion matters! 💬 Share what excited you the most and what wishes you have for our journey into 2024! 🌟 #LinkspreedReview #Innovation #FeedbackWanted #LookingAhead2024 ```
+
 ### 27.12.2023
 - Topic: Linkspreed + AWS
 - Directory: /posts/2023/December/27
