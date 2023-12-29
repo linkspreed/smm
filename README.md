@@ -5,6 +5,17 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.12.2023
+- Topic: 2023 Review
+- Directory: /posts/2023/December/30
+- Description: ``` 🚀 Wrapping up an exhilarating year! 🎉 Presenting our Top 5 announcements from 2023:
+1️⃣ Rank 1: Embrace the Web4 Revolution! 🌐💻
+2️⃣ Rank 2: Decentralized storage is becoming a reality! 🔄🔒
+3️⃣ Rank 3: Exciting updates on the horizon! 🆕🚀
+4️⃣ Rank 4: New products in the pipeline! 🛠️📈
+5️⃣ Rank 5: Company updates - Growth and the UG launch in 2024! 🌱🚀
+Thanks for your incredible support! 💙 #Linkspreed2023 #Web4 #Innovations #DecentralizedStorage #CompanyGrowth #UGLaunch202 ```
+
 ### 29.12.2023
 - Topic: Web4 pitch deck
 - Directory: /posts/2023/December/29
