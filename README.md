@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.12.2023
+- Topic: Bye bye 2023!
+- Directory: /posts/2023/December/31
+- Description: ``` 🎉 Happy New Year! 🎊 Wishing everyone an amazing transition into 2024! 🚀 May this year be filled with success, happiness, and unforgettable moments. See you in 2024 as we shape the future of today with new and current technology. 🌐 #HappyNewYear #NewYear2024 #Innovation #Technology #ShapingTheFuture ```
+
 ### 30.12.2023
 - Topic: 2023 Review
 - Directory: /posts/2023/December/30
