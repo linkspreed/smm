@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.01.2024
+- Topic: Linkspreed vCard - vcard.linkspreed.com
+- Directory: /posts/2024/January/02
+- Description: ``` 🌟 Unlock the power of networking with our free Business Card Generator! 🌐📇 Visit vcard.linkspreed.com and craft your personalized card in a snap. 🚀 No cost, just pure creativity! 💼✨ #Linkspreed #BusinessCards #Networking #Freebie ```
+
 ### 01.01.2024
 - Topic: January with Linkspreed
 - Directory: /posts/2024/January/01
