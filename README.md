@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.01.2024
+- Topic: January with Linkspreed
+- Directory: /posts/2024/January/01
+- Description: ``` 🎉 New Year, new adventures! 🌍 Hope you kicked off 2024 on a high note, no matter where you are in the world! 🚀 We're super excited for a whole year of thrilling moments, especially looking forward to an exciting January with Linkspreed! 🎊 #HappyNewYear #LinkspreedAdventures #2024 ```
+
 ### 31.12.2023
 - Topic: Bye bye 2023!
 - Directory: /posts/2023/December/31
