@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.01.2024
+- Topic: Accounting Plugin for L2B Classic in development
+- Directory: /posts/2024/January/03
+- Description: ``` 🚀 Big news from Linkspreed! 🌐 We're developing a brand new accounting plugin for our PMCR and all L2B Classic customers, stemming from our self-use initiative. 💼💡 Stay tuned and let's shape the future together! #LinkspreedInnovation #AccountingPlugin #ShapingTheFuture ```
+
 ### 02.01.2024
 - Topic: Linkspreed vCard - vcard.linkspreed.com
 - Directory: /posts/2024/January/02
