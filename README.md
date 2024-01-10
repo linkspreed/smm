@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.01.2024
+- Topic: Project: Skynet
+- Directory: /posts/2024/January/10
+- Description: ``` 🚀 Together, we're shaping the future of aviation! With our #Skynet project, we're setting new standards for innovative drone technology. 🌐 Aerial surveillance has never been this advanced and promising. Join us on this exciting journey into the future! 🛰️💡 #ShapingTheFuture #DroneInnovation ```
+
 ### 09.01.2024
 - Topic: Developed from Linkspreed
 - Directory: /posts/2024/January/09
