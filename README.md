@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.01.2024
+- Topic: Accounting plugin for L2B Classic
+- Directory: /posts/2024/January/11
+- Description: ``` 🚀 Exciting News! 📚 We're thrilled to announce that we've just completed the accounting plugin for L2B Classic! 🎉📊 Calling all L2B customers, this is a game-changer! 💼💻 Ready to streamline your bookkeeping? 😎✨ DM us now and let's chat! 📩 #L2BClassic #BookkeepingPlugin #EfficiencyBoost #BusinessSolutions 🚀 ```
+
 ### 10.01.2024
 - Topic: Project: Skynet
 - Directory: /posts/2024/January/10
