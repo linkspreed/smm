@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.01.2024
+- Topic: community.linkspreed.com
+- Directory: /posts/2024/January/13
+- Description: ``` 🌐 Explore our new platform for community exchange at community.linkspreed.com. We are excited to strengthen the Linkspreed community and invite you to check it out. 🤝💻 #Linkspreed #CommunityExchange ```
+
 ### 12.01.2024
 - Topic: Shape The Future
 - Directory: /posts/2024/January/12
