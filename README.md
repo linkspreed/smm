@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.01.2024
+- Topic: Your ideas!
+- Directory: /posts/2024/January/14
+- Description: ``` 🚀 Exciting times ahead! 🌌 Are you ready to shape the future with us? 🌐💡 We're thrilled to receive your futuristic ideas that can shape our tomorrow. 🚀✨ DM us or email marc.herdina@linkspreed.com with your innovative thoughts. Let's build something extraordinary together! 🌍🤝 #FutureBuilders #InnovationJourney #ShapeTomorrow #CollaborateForChange 🚀 ```
+
 ### 13.01.2024
 - Topic: community.linkspreed.com
 - Directory: /posts/2024/January/13
