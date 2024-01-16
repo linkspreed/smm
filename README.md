@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.01.2024
+- Topic: Shape Linkspreed's Future
+- Directory: /posts/2024/January/16
+- Description: ``` 🚀 If you're passionate, dedicated, and ready for fresh challenges, you might be the missing piece in our team! 🤝💼 Learn more and apply now to be part of our success story. 📩👥 #TeamExpansion #CareerOpportunities ```
+
 ### 15.01.2024
 - Topic: More AI
 - Directory: /posts/2024/January/15
