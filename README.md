@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.01.2024
+- Topic: Shape the IT
+- Directory: /posts/2024/January/17
+- Description: ``` 🌐 Together, we shape the future of the internet! Choose Web4 today and let us demonstrate how we can shape the IT of tomorrow. 🚀 #Web4 #TogetherStrong #ShapeTheFuture ```
+
 ### 16.01.2024
 - Topic: Shape Linkspreed's Future
 - Directory: /posts/2024/January/16
