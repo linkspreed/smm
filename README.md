@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.01.2024
+- Topic: Build your own social network
+- Directory: /posts/2024/January/18
+- Description: ``` 🌐 Hey folks! 🚀 Freedom of speech starts when you can shape your own discussion space! 💬 Start building your own social network today with Linkspreed! 🌟 Create, share, and discuss on your terms! #FreedomOfSpeech #Linkspreed #YourRules ```
+
 ### 17.01.2024
 - Topic: Shape the IT
 - Directory: /posts/2024/January/17
