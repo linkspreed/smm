@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.01.2024
+- Topic: Project SkyNet
+- Directory: /posts/2024/January/21
+- Description: ``` 🌐🚀 We're taking off with #ProjectSkyNet! 🚁🛰️ Envisioning a future where the sky is as vibrant as our streets. 💡 Together, we're creating an era where drones conquer the sky! 🌌🔗 #Innovation #Future #Aviation ```
+
 ### 20.01.2024
 - Topic: 1 Cent Model
 - Directory: /posts/2024/January/20
