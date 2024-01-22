@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.01.2024
+- Topic: Web4 Shop?
+- Directory: /posts/2024/January/22
+- Description: ``` 🚀 New idea, fresh perspective! 🌐 What do you think about a Web4 online shop? 🤔 Social networks could be auctioned and offered here! 💻 No need to start from scratch, just buy from Linkspreed's Web4! 🔄💬 Your thoughts? 🚀 #Web4OnlineShop #SocialMediaAuction #LinkspreedInnovation  ```
+
 ### 21.01.2024
 - Topic: Project SkyNet
 - Directory: /posts/2024/January/21
