@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.01.2024
+- Topic: Data Privacy Day @Linkspreed
+- Directory: /posts/2024/January/24
+- Description: ``` 🔒 Today is Data Privacy Day at Linkspreed! 🌐 At our end, #Web4 means ultimate protection for your data. Discover how we safeguard it in a decentralized way, anytime, anywhere. Your privacy matters to us! 👥💻 #DataPrivacyDay #Linkspreed #Web4Security ```
+
 ### 23.01.2024
 - Topic: Web4 vs Web 1,2,3
 - Directory: /posts/2024/January/23
