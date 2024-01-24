@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.01.2024
+- Topic: Data Protection & Web4
+- Directory: /posts/2024/January/25
+- Description: ``` 🚀 Attention! With Web4, personalized ads are a thing of the past – your data stays completely secure! 🔒 No more worries about privacy! 😎 Intrigued? Contact our Sales Team! #Web4 #PrivacyProtection #Innovation ```
+
 ### 24.01.2024
 - Topic: Data Privacy Day @Linkspreed
 - Directory: /posts/2024/January/24
