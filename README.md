@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.01.2024
+- Topic: Become The Moderator
+- Directory: /posts/2024/January/26
+- Description: ``` 🚀 Become the moderator of your own community effortlessly with #Web4! 💻🌐 Shape and manage your platform with ease. No stress, just fun! 🎉 #CommunityManagement #Web4Moderator #BuildCommunityTogether ```
+
 ### 25.01.2024
 - Topic: Data Protection & Web4
 - Directory: /posts/2024/January/25
