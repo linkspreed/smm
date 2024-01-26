@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.01.2024
+- Topic: Web4 & the next big step
+- Directory: /posts/2024/January/27
+- Description: ``` 🌐 At Web4, we're gearing up for the next big leap in expansion! 🌍💼 Thrilled to announce that we now open our doors to collaborations with consulting firms! 🤝💡 Join us as we shape the future together! #Web4Expansion #Innovation #Collaborations #Consulting #NextLevel 🚀 ```
+
 ### 26.01.2024
 - Topic: Become The Moderator
 - Directory: /posts/2024/January/26
