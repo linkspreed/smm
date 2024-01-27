@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.01.2024
+- Topic: Linkspreed Team
+- Directory: /posts/2024/January/28
+- Description: ``` 🌐🚀 Hey folks! Exciting news from Linkspreed! We're on the lookout for talented team members! 💼 Building a global developer team with profit sharing and launching a nationwide commission network in Germany. Ready for an adventure? Apply now and let's embark on this journey together! 👩‍💻👨‍💻 #Linkspreed #JoinUs #GlobalTeam #Development #ProfitSharing #CommissionNetwork #LetsGo ```
+
 ### 27.01.2024
 - Topic: Web4 & the next big step
 - Directory: /posts/2024/January/27
