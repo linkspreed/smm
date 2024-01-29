@@ -1,9 +1,14 @@
-<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
+a<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
 <h3 align="center">Find our Social Media Posts in this Github Repository! 📱</h3>
 
 ## Our Social Media Marketing log :)
 
 ## Stay up to date with our official social media announcements ...
+
+### 29.01.2024
+- Topic: 40% Commission
+- Directory: /posts/2024/January/29
+- Description: ``` 🚀 Incredible news! 🌟 We're rewarding our commission partners with an amazing offer: for the next 6 months, we're paying out commissions of up to 40%! 😱💸 Have you ever heard of such a generous deal? 🎉 Join us and experience the magic of collaboration! #Commission #Partnership #AbsolutelyAwesome ```
 
 ### 28.01.2024
 - Topic: Linkspreed Team
