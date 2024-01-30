@@ -1,9 +1,14 @@
-a<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
+<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
 <h3 align="center">Find our Social Media Posts in this Github Repository! 📱</h3>
 
 ## Our Social Media Marketing log :)
 
 ## Stay up to date with our official social media announcements ...
+
+### 30.01.2024
+- Topic: Web4 - Decentralized, easy & secure
+- Directory: /posts/2024/January/30
+- Description: ``` 🌐 Let's shape the future of social networks together! 🚀 With Web4, our goal is to make decentralized platforms as simple and secure as possible. 💻🔒 Join us and advocate for more privacy and user control! 🌈 #Web4 #Decentralized #Privacy #Innovation #SocialMedia ```
 
 ### 29.01.2024
 - Topic: 40% Commission
