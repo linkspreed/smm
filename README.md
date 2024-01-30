@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.01.2024
+- Topic: Follow Linkspreed on Crunchbase
+- Directory: /posts/2024/January/31
+- Description: ``` 🚀 Exciting News! 🌐 Did you know we're making waves in the tech world? 🚀 Follow us on Crunchbase for all the latest updates and insights! 📈🔍 #Linkspreed #TechInnovation #CrunchbaseAdventure ```
+
 ### 30.01.2024
 - Topic: Web4 - Decentralized, easy & secure
 - Directory: /posts/2024/January/30
