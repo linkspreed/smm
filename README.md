@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.02.2024
+- Topic: Linkspreed in February
+- Directory: /posts/2024/January/31
+- Description: ``` 🚀✨ Exciting News! In February, we're making a big splash with Linkspreed's Web4! 🌐💻 You're cordially invited to join us and shape the future of the internet together. 🌍💙 #LinkspreedWeb4 #NewInternet #Innovation #TechRevolution ```
+
 ### 31.01.2024
 - Topic: Follow Linkspreed on Crunchbase
 - Directory: /posts/2024/January/31
