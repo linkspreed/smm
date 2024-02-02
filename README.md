@@ -5,9 +5,14 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.02.2024
+- Topic: Munich or Frankfurt for our upcoming Linkspreed UG
+- Directory: /posts/2024/February/02
+- Description: ``` 🌟 We're in the midst of gearing up for our UG founding! 🚀🏢 But here's the scoop – we need your help! 🙌 We're on the lookout for the perfect business address, and it's a toss-up between Munich and Frankfurt. 🏙️ Which city do you think is the ideal backdrop for our new venture? 🤔💼 We're leaning towards Munich, but honestly, we're open to suggestions! 👀💬 Share your thoughts with us! 🚀 #StartupLife #BusinessAddress #MunichOrFrankfurt #DecisionsDecisions ```
+
 ### 01.02.2024
 - Topic: Linkspreed in February
-- Directory: /posts/2024/January/31
+- Directory: /posts/2024/February/01
 - Description: ``` 🚀✨ Exciting News! In February, we're making a big splash with Linkspreed's Web4! 🌐💻 You're cordially invited to join us and shape the future of the internet together. 🌍💙 #LinkspreedWeb4 #NewInternet #Innovation #TechRevolution ```
 
 ### 31.01.2024
