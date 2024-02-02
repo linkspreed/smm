@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.02.2024
+- Topic: Linkspreed on Startup Insider
+- Directory: /posts/2024/February/03
+- Description: ``` 🚀 Exciting News! 🌟 We're thrilled to announce that Linkspreed is now featured on Startup Insider! 🚀 Check out our brand-new company profile and dive into the world of innovation. 🌐💼 Let's connect and explore the future together! 🚀 #LinkspreedOnStartupInsider #InnovationJourney #StartupLife 🌈✨ ```
+
 ### 02.02.2024
 - Topic: Munich or Frankfurt for our upcoming Linkspreed UG
 - Directory: /posts/2024/February/02
