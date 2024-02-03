@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.02.2024
+- Topic: The New Linkspreed.com
+- Directory: /posts/2024/February/04
+- Description: ``` 🌟 New vibes, same community feels! 🚀 Dive into the revamped linkspreed.com for the ultimate overview! 🤯 Say goodbye to chaos – hello clear structure! 👀 Where to find our partner demos? Explore the all-new Linkspreed Club at linkspreed.club! 🎉 #LinkspreedUpgrade #KeepItOrganized #LinkspreedVibes 🌐 ```
+
 ### 03.02.2024
 - Topic: Linkspreed on Startup Insider
 - Directory: /posts/2024/February/03
