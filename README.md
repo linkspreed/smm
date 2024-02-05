@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.02.2024
+- Topic: Linkspreed - Spring cleaning
+- Directory: /posts/2024/February/06
+- Description: ``` 🌸 Spring cleaning at Linkspreed! 🧹 We're tidying up and saying goodbye to all .tk, .cf, .ml domains. 💻 Time for a fresh start and order! 🚀 #SpringCleaning #Linkspreed #Restart ```
+
 ### 05.02.2024
 - Topic: Linkspreed II
 - Directory: /posts/2024/February/05
