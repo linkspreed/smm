@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.02.2024
+- Topic: Linkspreed Newsletter
+- Directory: /posts/2024/February/07
+- Description: ``` Exciting news ahead! 🚀 Our much-awaited Linkspreed newsletter is almost here! 📬🎉 Get your updates via #Linkspreed even more conveniently straight to your inbox! 📧 Sign up now and stay ahead of the game! 💡 #Newsletter #Updates ```
+
 ### 06.02.2024
 - Topic: Linkspreed - Spring cleaning
 - Directory: /posts/2024/February/06
