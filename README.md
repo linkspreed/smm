@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.02.2024
+- Topic: Facebook removed the Goups API
+- Directory: /posts/2024/February/08
+- Description: ``` 🚨 Attention, Social Media Folks! 🚨 Facebook just announced they'll soon remove the Facebook Groups API! 😱 This means businesses won't be able to manage their groups automatically anymore. But fret not! 😎 It's the perfect time to switch to Linkspreed and build your own social network! 💪🌐 #Linkspreed #SocialNetwork #FacebookGroupsAPI #NewHorizons ```
+
 ### 07.02.2024
 - Topic: Linkspreed Newsletter
 - Directory: /posts/2024/February/07
