@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.02.2024
+- Topic: Grab your free demo!
+- Directory: /posts/2024/February/09
+- Description: ``` 🚀 Interested in having your own social network? 🌐💬 We at Linkspreed are here to help bring your vision to life! 💡 Just reach out to us for a personalized demo! 📲✨ #SocialNetwork #Demo #Innovation ```
+
 ### 08.02.2024
 - Topic: Facebook removed the Goups API
 - Directory: /posts/2024/February/08
