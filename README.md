@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.02.2024
+- Topic: We regulary test our software
+- Directory: /posts/2024/February/10
+- Description: ``` 🚀 Quality is our priority at Linkspreed! 🔍 We regularly put our software to the test to ensure it runs smoothly. 💻💡 Two crucial testing methods we employ: Unit Testing and Regression Testing. 💪 #QualityAssurance #SoftwareTesting ```
+
 ### 09.02.2024
 - Topic: Grab your free demo!
 - Directory: /posts/2024/February/09
