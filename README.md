@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.02.2024
+- Topic: Happy New Year to China
+- Directory: /posts/2024/February/11
+- Description: ``` Happy New Year to China! 🎉 May the Year of the Dragon bring joy and success! 🐉 #ChineseNewYear #YearOfTheDragon #Linkspreed ```
+
 ### 10.02.2024
 - Topic: We regulary test our software
 - Directory: /posts/2024/February/10
