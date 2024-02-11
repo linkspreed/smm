@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.02.2024
+- Topic: Build your own version of Linkspreed
+- Directory: /posts/2024/February/12
+- Description: ``` 🚀 Who needs mainstream when you can have something unique? 🌟 With #Web4, let's build your very own version of Linkspreed together! 🌐💡Become a verified Web4 partner and dive into the future of social networking! 💻🔗 #Individual #Innovation #Future ```
+
 ### 11.02.2024
 - Topic: Happy New Year to China
 - Directory: /posts/2024/February/11
