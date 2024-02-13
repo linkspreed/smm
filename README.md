@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.02.2024
+- Topic: New pricing model
+- Directory: /posts/2024/February/13
+- Description: ``` 🚀 Exciting news coming your way soon! 🎉 We're about to unveil our new pricing model! 🌟 Get ready for more flexibility and amazing offers! 💼 #NewPricing #Flexibility #Offers #Innovation ```
+
 ### 12.02.2024
 - Topic: Build your own version of Linkspreed
 - Directory: /posts/2024/February/12
