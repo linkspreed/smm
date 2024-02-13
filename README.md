@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.02.2024
+- Topic: PHP 8.1 Upgrade
+- Directory: /posts/2024/February/14
+- Description: ``` 🚀 Safety first! Starting today, all our projects are running on at least PHP 8.1 💻💡 It's our commitment to ensuring a safer online experience for everyone. #Safety #PHP8.1 #OnlineSecurity ```
+
 ### 13.02.2024
 - Topic: New pricing model
 - Directory: /posts/2024/February/13
