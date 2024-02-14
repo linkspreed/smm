@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.02.2024
+- Topic: Verified networks
+- Directory: /posts/2024/February/15
+- Description: ``` 🔒 Safety first! 🔒 At Linkspreed, we take the protection of our community seriously. That's why we verify every social network we launch to ensure it's not being abused. With our verification, we guarantee you a secure experience. Should any network still be misused, we'll step in and delete it immediately. Together, let's create a safe online environment! 💪 #Safety #Verification #CommunityFirst ```
+
 ### 14.02.2024
 - Topic: PHP 8.1 Upgrade
 - Directory: /posts/2024/February/14
