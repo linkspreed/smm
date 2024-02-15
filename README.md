@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.02.2024
+- Topic: Brand: Linkspreed
+- Directory: /posts/2024/February/16
+- Description: ``` 🚀 We've just registered the brand Linkspreed and we can't wait to v it even more in the internet sector! 💪 #Linkspreed #NewBeginnings #Proud ```
+
 ### 15.02.2024
 - Topic: Verified networks
 - Directory: /posts/2024/February/15
