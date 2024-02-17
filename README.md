@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.02.2024
+- Topic: Build your social network
+- Directory: /posts/2024/February/18
+- Description: ``` 🚀🌟 Did you know that with Linkspreed, you can effortlessly build your own social network? 🌐💬 Whether it's for your community, your business, or your hobby – Linkspreed makes it a breeze! 🤝💡 Learn more and kickstart your network today! #Linkspreed #SocialNetwork #BuildYourOwnCommunity ```
+
 ### 17.02.2024
 - Topic: Brand: Web4
 - Directory: /posts/2024/February/17
