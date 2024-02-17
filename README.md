@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.02.2024
+- Topic: Brand: Web4
+- Directory: /posts/2024/February/17
+- Description: ``` We've successfully protected the Web4 brand at Linkspreed, safeguarding our vision of the new internet. 💪🌐 #Web4 #Linkspreed #NewInternet #Protection #Future ```
+
 ### 16.02.2024
 - Topic: Brand: Linkspreed
 - Directory: /posts/2024/February/16
