@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.02.2024
+- Topic: Invoice with Odoo
+- Directory: /posts/2024/February/19
+- Description: ``` 🎉 Exciting news for our valued Linkspreed partners! 🎉 Starting now, you'll receive invoices not only through our PMCR tool but also via Odoo. This means more transparency and easier accounting for you! 💼💳 #Linkspreed #Partner #Odoo #Transparency ```
+
 ### 18.02.2024
 - Topic: Build your social network
 - Directory: /posts/2024/February/18
