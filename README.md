@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.02.2024
+- Topic: PPD (Product Pipeline Day)
+- Directory: /posts/2024/February/20
+- Description: ``` 🎉 Are you ready for the big thing? It's time for our #ProductPipelineDay 🚀 We're charting the course for the future, enhancing and restructuring our product pipeline! 💼 Let's exchange ideas and drive innovation together. #Innovation #Future #ProductDevelopment ```
+
 ### 19.02.2024
 - Topic: Invoice with Odoo
 - Directory: /posts/2024/February/19
