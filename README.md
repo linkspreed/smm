@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.02.2024
+- Topic: DSA (Digital Services Act) & Linkspreed
+- Directory: /posts/2024/February/21
+- Description: ``` At Linkspreed, we're ready for the future! 💪 The new EU DSA regulations are no obstacle for us - we actively shape them! 🌍 #Linkspreed #DSARegulation #Innovation ```
+
 ### 20.02.2024
 - Topic: PPD (Product Pipeline Day)
 - Directory: /posts/2024/February/20
