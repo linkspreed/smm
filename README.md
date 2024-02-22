@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.02.2024
+- Topic: Linkspreed & Agencies
+- Directory: /posts/2024/February/23
+- Description: ``` 🚀🎉 Exciting news! Starting today, we're opening our doors to consulting and marketing agencies! 🌟 We're proud to embark on new partnerships and revolutionize the world of social media together. 💼💡 Let's collaborate to make "Social Networks as a Service" accessible to every business! 💪🔥 #Partnerships #SocialMedia #Marketing #Consulting #Innovation ```
+
 ### 22.02.2024
 - Topic: Web4 Demo
 - Directory: /posts/2024/February/22
