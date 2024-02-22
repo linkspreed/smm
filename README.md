@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.02.2024
+- Topic: Web4 Demo
+- Directory: /posts/2024/February/22
+- Description: ``` 🌟 Ready for an innovative Web4 partnership? 🚀 With Linkspreed, you could build your own social network! 💻 Request a free and no-obligation demo from our Sales Team today and explore the possibilities! #Web4 #Partnership #Linkspreed ```
+
 ### 21.02.2024
 - Topic: DSA (Digital Services Act) & Linkspreed
 - Directory: /posts/2024/February/21
