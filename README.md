@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.02.2024
+- Topic: Build your own privacy-compliant social network
+- Directory: /posts/2024/February/24
+- Description: ``` With #Linkspreed, you can now build a privacy-compliant social network for your organization, business, or club! 🚀 Protect your data while building a robust online community! 💪 #Privacy #SocialNetwork #Security ```
+
 ### 23.02.2024
 - Topic: Linkspreed & Agencies
 - Directory: /posts/2024/February/23
