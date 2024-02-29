@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.02.2024
+- Topic: Your own social network starts today!
+- Directory: /posts/2024/February/29
+- Description: ``` 🌐 Let's do this together! 💻📱 Create your own social network and make your mark! 🌈 #YourOwnNetwork #SocialMediaService ```
+
 ### 28.02.2024
 - Topic: Save 70% of your advertising budget
 - Directory: /posts/2024/February/28
