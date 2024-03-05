@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.03.2024
+- Topic: Did you already support a small social network today?
+- Directory: /posts/2024/March/05
+- Description: ``` Have you supported a small social network today that actively advocates for #FreeSpeech? 🌐💬 Every contribution matters! Let's stand together for a diverse online community! 💪 #SupportSmallNetworks ```
+
 ### 04.03.2024
 - Topic: Build your social network today.
 - Directory: /posts/2024/March/04
