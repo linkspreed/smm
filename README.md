@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.03.2024
+- Topic: Your Community! Your social network!
+- Directory: /posts/2024/March/06
+- Description: ``` 🎉🚀 Exciting News! 🚀🎉 Want to reach your community better? 📢 With our own social network, it's now possible! 🌟 At Linkspreed, we're building your very own network for you! 💻💬 Let's achieve great things together! 💪 #SocialNetwork #Community #Linkspreed #Innovation ```
+
 ### 05.03.2024
 - Topic: Did you already support a small social network today?
 - Directory: /posts/2024/March/05
