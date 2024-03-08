@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.03.2024
+- Topic: Tiered of social media outages?
+- Directory: /posts/2024/March/08
+- Description: ``` 🚀🌐 Fed up with the constant outages on Facebook, Instagram, and even LinkedIn? It might be time for you to rethink your dependence on the big social networks. With Linkspreed, you could build your own network! 💡 #Linkspreed #SocialNetwork #DigitalTransformation ```
+
 ### 07.03.2024
 - Topic: Cheap Social Networks
 - Directory: /posts/2024/March/07
