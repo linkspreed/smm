@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.03.2024
+- Topic: City Marketing - Linkspreed
+- Directory: /posts/2024/March/09
+- Description: ``` 🌟 Explore the future of connectivity with us! 🌐 As #Linkspreed, we're excited to provide social networks for German cities, bringing citizens, tourists, and local businesses closer together. 💼🏙️ What features would you love to see in your city? 💬 #CityMarketing #Networking ```
+
 ### 08.03.2024
 - Topic: Tiered of social media outages?
 - Directory: /posts/2024/March/08
