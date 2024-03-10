@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.03.2024
+- Topic: Web4 brand
+- Directory: /posts/2024/March/10
+- Description: ``` 🌐 At #Linkspreed, we’re proud to own the #Web4 brand! 🚀 You can name your own social network a Web4 node! But psst… the key is in using our #Linkspreed technology! 😉 #Web4Node #SocialNetwork ```
+
 ### 09.03.2024
 - Topic: City Marketing - Linkspreed
 - Directory: /posts/2024/March/09
