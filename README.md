@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.03.2024
+- Topic: Partnerships for regional social networks
+- Directory: /posts/2024/March/11
+- Description: ``` At #Linkspreed, we’re proud to be forging partnerships to establish targeted regional social networks in cities 🏙️. We believe in the power of community and are excited to share this journey with you. Let’s collaborate to make our cities more connected and stronger! 🤝 #Collaboration #SocialNetworks #UrbanDevelopment ```
+
 ### 10.03.2024
 - Topic: Web4 brand
 - Directory: /posts/2024/March/10
