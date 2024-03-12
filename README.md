@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.03.2024
+- Topic: #ZeroHate 
+- Directory: /posts/2024/March/12
+- Description: ``` 🌐 No room for hate and discrimination in #Web4! 🚫 Our admins and moderators review content, #Linkspreed verifies each new network. If abuse occurs, the platform will be deleted. #NoHate #NoDiscrimination 💪🏽🤝 ```
+
 ### 11.03.2024
 - Topic: Partnerships for regional social networks
 - Directory: /posts/2024/March/11
