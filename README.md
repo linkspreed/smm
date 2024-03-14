@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.03.2024
+- Topic: Build your own social network for your club
+- Directory: /posts/2024/March/14
+- Description: ``` 🚀 Build your own social network for your club now! 🎉 With #Linkspreed, it’s easier than ever! 💪 Join our team and let’s work together! 🤝 #ClubNetwork #EasyBuild ```
+
 ### 13.03.2024
 - Topic: web4.linkspreed.com
 - Directory: /posts/2024/March/13
