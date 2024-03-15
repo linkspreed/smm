@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.03.2024
+- Topic: Define your own social network
+- Directory: /posts/2024/March/15
+- Description: ``` Unleash your creativity with Linkspreed 🌐! Design your social network your way. Easily apply your own use case. You’re in control! 🎮 #Linkspreed #Freedom ```
+
 ### 14.03.2024
 - Topic: Build your own social network for your club
 - Directory: /posts/2024/March/14
