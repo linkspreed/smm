@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.03.2024
+- Topic: Schools in Web4
+- Directory: /posts/2024/March/16
+- Description: ``` 🎓🌐 Every school can now be on #Web4! With their own community network, they’re ready to shape the digital future. Is your school on board yet? #SchoolOnWeb4 #DigitalTransformation 🚀 ```
+
 ### 15.03.2024
 - Topic: Define your own social network
 - Directory: /posts/2024/March/15
