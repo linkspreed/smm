@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.03.2024
+- Topic: Web4 & Coffee
+- Directory: /posts/2024/March/17
+- Description: ``` 📣 We’re still looking for #Web4Partners! Do you run a local coffee shop? ☕️ Then bring your business into Web4 and win your customers as a community! 🚀 Interested? Just drop us a line! 💌 #Web4Business #CommunityBuilding ```
+
 ### 16.03.2024
 - Topic: Schools in Web4
 - Directory: /posts/2024/March/16
