@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.03.2024
+- Topic: Web4 - Cheap license
+- Directory: /posts/2024/March/18
+- Description: ``` 🚀🌐 Web4 is here! Just a few cents for a license, depending on your network size. Make the leap into the future of the internet with us! #Web4 #FutureNow 🎉🔑 ```
+
 ### 17.03.2024
 - Topic: Web4 & Coffee
 - Directory: /posts/2024/March/17
