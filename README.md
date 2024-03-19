@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.03.2024
+- Topic: Web4 is cheaper than traditional marketing!
+- Directory: /posts/2024/March/19
+- Description: ``` Why spend money on marketing when you can build your own social network? 🏦 Your community is ready and waiting for you. It’s time to take the leap and take control! 🚀 With your own network, you can communicate directly without any extra costs. #SaveOnMarketing #OwnCommunity #DirectCommunication ```
+
 ### 18.03.2024
 - Topic: Web4 - Cheap license
 - Directory: /posts/2024/March/18
