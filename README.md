@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.03.2024
+- Topic: Web4 is here, the internet of social networks!
+- Directory: /posts/2024/March/20
+- Description: ``` Welcome to the future! 🚀 Web4 is here, the internet of social networks! 🌐 Connect, share, and discover like never before. #Web4 #SocialNetworks #FutureIsNow 🎉 ```
+
 ### 19.03.2024
 - Topic: Web4 is cheaper than traditional marketing!
 - Directory: /posts/2024/March/19
