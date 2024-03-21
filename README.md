@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 21.03.2024
+- Topic: Let's liberate social networks!
+- Directory: /posts/2024/March/21
+- Description: ``` 🌐 Social networks are the foundation of communication and networking today. But beware! Monopolies control and manipulate major platforms. 🕹️ It’s time for a change! Come to Web4 and build your own social network! 🚀 #Web4 #OwnNetwork #TimeForChange ```
+
 ### 20.03.2024
 - Topic: Web4 is here, the internet of social networks!
 - Directory: /posts/2024/March/20
