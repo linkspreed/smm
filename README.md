@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.03.2024
+- Topic: Rethink Social Networks
+- Directory: /posts/2024/March/22
+- Description: ``` 🌐🔍 It's time to rethink social networks! 💭 Move away from mass surveillance, towards more freedom and safety for all users. 🛡️💻 Let's strengthen local communities and foster real connections. 💬👫 #NewPaths #Privacy #LocalConnections ```
+
 ### 21.03.2024
 - Topic: Let's liberate social networks!
 - Directory: /posts/2024/March/21
