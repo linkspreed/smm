@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.03.2024
+- Topic: Linkspreed's Drone Community
+- Directory: /posts/2024/March/23
+- Description: ``` We’re building a global open drone community with #Web4 at #Linkspreed! 🌐🚁 This will lay the foundation for #SnaxNox, our major drone project. Join us and fly into the future! 🚀 #Drones #Future ```
+
 ### 22.03.2024
 - Topic: Rethink Social Networks
 - Directory: /posts/2024/March/22
