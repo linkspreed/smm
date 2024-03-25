@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.03.2024
+- Topic: SnaxNox
+- Directory: /posts/2024/March/25
+- Description: ``` 🚀🍿 Time for something exciting! 🎉 We are thrilled to officially announce SnaxNox for the first time - the brand-new project by Linkspreed! 🌟 With the unique vision of integrating drones into our daily lives, we're bringing you a revolutionary experience! 🛸 Stay tuned! #SnaxNox #Linkspreed #Innovation #Drones #Future ```
+
 ### 24.03.2024
 - Topic: Ads on your Web4 network
 - Directory: /posts/2024/March/24
