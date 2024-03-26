@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.03.2024 (II)
+- Topic: 2 Factor Authentication
+- Directory: /posts/2024/March/26
+- Description: ``` 🔒 Security is our top priority! With our own social platform and proven technologies like Google's 2-factor authentication, we ensure maximum security. Your data is safe with us! 💪 #Privacy #Security #SocialMedia ```
+
 ### 26.03.2024
 - Topic: No technical know-how required for Web4
 - Directory: /posts/2024/March/26
