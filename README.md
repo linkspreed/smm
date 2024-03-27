@@ -5,6 +5,15 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.03.2024 (announcement)
+- 🔒 Ensuring neutrality at every level! 🌐 We're finalizing licensing agreements at Linkspreed to safeguard Web4's integrity and prepare for our UG launch. 💼 Excited to be part of this journey? Drop a 🚀 below! #Web4 #Neutrality #StartupLife
+
+### 27.03.2024 (announcement Web4)
+- 🌐 Ready to shape the future of the web? 💻 Join us on our quest for Web4 partners! 🚀 If you're passionate about innovation and collaboration, this is your chance to shine. 💫 Drop a 💬 or tag someone who might be interested! Let's build the next generation of the internet together! 🌟 #Web4 #Partnership
+
+### 27.03.2024 (announcement SnaxNox)
+- 🚀 Are you ready to be a part of something revolutionary? Join us in shaping the future of drone technology with #SnaxNox! 🛸 We're on the lookout for passionate individuals who share our vision. Interested? Drop a comment below or DM us to learn more! Let's make history together! 🌟 #TeamWork #Innovation
+
 ### 26.03.2024 (II)
 - Topic: 2 Factor Authentication
 - Directory: /posts/2024/March/26
