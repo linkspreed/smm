@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.03.2024
+- Topic: New Price Model for Web4
+- Directory: /posts/2024/March/28
+- Description: ``` 🎉🌐 The wait is over! 🌟 Our brand new pricing model for Web4 is finally here and ready for you to explore! 💻🚀 Check it out at https://web4.linkspreed.com to uncover all the details! 💰💡 Cent amounts are flexible and can be tailored to fit your company or vision. 🔄💼 #Web4 #PricingModel #Innovation #Flexibility ```
+
 ### 27.03.2024
 - Topic: Cheap and efficient communities with Web4
 - Directory: /posts/2024/March/27
