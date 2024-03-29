@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.03.2024
+- Topic: April 5th, 2024 - Linkspreed UG
+- Directory: /posts/2024/March/29
+- Description: ``` 🎉🚀 Big news alert! 🚀🎉 We've got some major announcements today! 📢 Excitingly, we're thrilled to announce that the founding date for Linkspreed UG is soon approaching on April 5, 2024! 🗓️ As a UG, we're diving into the new quarter with full force, gearing up to establish a stronger presence in the market! 💪🔝 With our innovative products straight from the future, we're ready to revolutionize the industry! 🚀 #LinkspreedUG #Innovation #Future #FoundingDate #April5th2024 ```
+
 ### 28.03.2024
 - Topic: New Price Model for Web4
 - Directory: /posts/2024/March/28
