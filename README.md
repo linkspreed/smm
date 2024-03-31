@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.03.2024
+- Topic: Happy Easter
+- Directory: /posts/2024/March/31
+- Description: ``` 🐰🌷🐣 On this sunny Easter Sunday, we're here for you at Linkspreed! Let's shape the innovative future together. Happy Easter to you all! 🎉🥚 #Easter #Innovation #Future #Linkspreed ```
+
 ### 30.03.2024
 - Topic: Grow your business - Own social Network
 - Directory: /posts/2024/March/30
