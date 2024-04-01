@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.04.2024
+- Topic: April with Linkspreed
+- Directory: /posts/2024/April/01
+- Description: ``` 🎉 We can't wait to see what April has in store! 🚁 Explore the latest in SnaxNox's drone technology and our vision for a new internet with Web4! 🌐 Join us on Linkspreed - directly for you! #SnaxNox #Web4 #Innovation 🚀✨ ```
+
 ### 31.03.2024
 - Topic: Happy Easter
 - Directory: /posts/2024/March/31
