@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.04.2024
+- Topic: snaxnox.linkspreed.com
+- Directory: /posts/2024/April/02
+- Description: ``` 🚀🛸 Dive into all the key details about our drone project at Linkspreed! 🤩 Visit our brand-new SnaxNox website and learn more: https://snaxnox.linkspreed.com 🌐 #Innovation #Drones #SnaxNox #Linkspreed ```
+
 ### 01.04.2024
 - Topic: April with Linkspreed
 - Directory: /posts/2024/April/01
