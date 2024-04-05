@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.04.2024
+- Topic: Linkspreed UG
+- Directory: /posts/2024/April/05
+- Description: ``` 🎉 Today marks a milestone for Linkspreed! 🚀 We've officially founded Linkspreed UG in Germany! 💼 We're now geared up to shape the future with our awesome technology! 💪 #LinkspreedUG #CompanyFormation #Innovation #Future  ```
+
 ### 04.04.2024
 - Topic: Web4 = global
 - Directory: /posts/2024/April/04
