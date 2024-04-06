@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.04.2024
+- Topic: Global Web4 Communities
+- Directory: /posts/2024/April/06
+- Description: ``` 🌍 Together we're unstoppable! Building global communities with Linkspreed in Web4, connecting people worldwide. 💻💬 Join us in our mission to bring the world closer together! #Community #Web4 #Connection #Future  ```
+
 ### 05.04.2024
 - Topic: Linkspreed UG
 - Directory: /posts/2024/April/05
