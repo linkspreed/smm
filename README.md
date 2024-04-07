@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.04.2024
+- Topic: Linkspreed & Parties
+- Directory: /posts/2024/April/07
+- Description: ``` 🚀 We're launching something BIG! 🎶 Introducing #Web4 - connecting party-goers like never before in EVERY city! 🌆💃🕺 Don't miss out on the hottest parties and connect with like-minded people in your area! 🌐 #PartyTime #SocialNetworking #Innovation ```
+
 ### 06.04.2024
 - Topic: Global Web4 Communities
 - Directory: /posts/2024/April/06
