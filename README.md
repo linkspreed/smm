@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.04.2024
+- Topic: We love Communities
+- Directory: /posts/2024/April/08
+- Description: ``` 🎉🌍 Today we're celebrating at Linkspreed Communities around the world! 🌟 From Germany to Japan, from the USA to Australia – our global community is thriving and growing! 🌐💫 But that's not all, we also support non-profit communities worldwide by donating social networks to them! 🤝💻 Together, we can make a positive impact! 💪 #Linkspreed #Community #DoGood #GlobalCommunity ```
+
 ### 07.04.2024
 - Topic: Linkspreed & Parties
 - Directory: /posts/2024/April/07
