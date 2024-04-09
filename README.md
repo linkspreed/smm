@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.04.2024
+- Topic: Web4 Demo
+- Directory: /posts/2024/April/09
+- Description: ``` 🌟 Explore the revolutionary Web4 network! 🚀 Check out our demo at https://linkspreed.club and take a glimpse into the future of the internet. 💻 Interested in a tailor-made demo? Contact us now! #Web4 #Demo #Future #Linkspreed ```
+
 ### 08.04.2024
 - Topic: We love Communities
 - Directory: /posts/2024/April/08
