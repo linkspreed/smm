@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.04.2024
+- Topic: Intranet
+- Directory: /posts/2024/April/10
+- Description: ``` 🚀 Unlock the potential of #Web4! 💻 Not just for public networks, but also as a powerful intranet for your company! 🌐 Connect teams, share resources, and streamline internal communication! 💼 #DigitalTransformation #Innovation ```
+
 ### 09.04.2024
 - Topic: Web4 Demo
 - Directory: /posts/2024/April/09
