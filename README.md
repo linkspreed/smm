@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.04.2024
+- Topic: Sports Clubs & Web4
+- Directory: /posts/2024/April/11
+- Description: ``` 🌟 Exciting news ahead! We're connecting sports clubs like never before! 🏀⚽️🎾 Stay tuned for our demo, showing you how to strengthen your club with its own social network. 🚀 #SportsClubs #Networking #SocialNetwork #Demo #Community ```
+
 ### 10.04.2024
 - Topic: Intranet
 - Directory: /posts/2024/April/10
