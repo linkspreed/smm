@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.04.2024
+- Topic: intranet.linkspreed.com
+- Directory: /posts/2024/April/12
+- Description: ``` 🌐 Explore the ultimate Intranet solution by Linkspreed! 🚀🔍 All the info you need is now available at https://intranet.linkspreed.com. 📲💼 Build your internal social network and let's make it big together later! 💪 #Intranet #Linkspreed #Networking 🌟 ```
+
 ### 11.04.2024
 - Topic: Sports Clubs & Web4
 - Directory: /posts/2024/April/11
