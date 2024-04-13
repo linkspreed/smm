@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.04.2024
+- Topic: Intranet vs. Opennet
+- Directory: /posts/2024/April/13
+- Description: ``` 🔍🌐 In our latest post, we've delved into the differences between intranets and public Open Nets in Linkspreed's Web4! What advantages do you see in each? Share your thoughts! #Intranet #Web4 #Linkspreed 🚀 ```
+
 ### 12.04.2024
 - Topic: intranet.linkspreed.com
 - Directory: /posts/2024/April/12
