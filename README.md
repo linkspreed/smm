@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.04.2024
+- Topic: SnaxNox - We're looking for you!
+- Directory: /posts/2024/April/14
+- Description: ``` 🚀🛸 At SnaxNox, we're on the lookout for talented individuals like you, ready to shape the future of delivery drones with us! 💼👨‍💻 Join our team and be part of changing the world! 🌍💥 #SnaxNox #DeliveryDrones #FutureMakers ```
+
 ### 13.04.2024
 - Topic: Intranet vs. Opennet
 - Directory: /posts/2024/April/13
