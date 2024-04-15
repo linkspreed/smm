@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.04.2024
+- Topic: Drone Delivery Future
+- Directory: /posts/2024/April/15
+- Description: ``` 🚀 At #Linkspreed, we're tirelessly working on our drone project #SnaxNox to revolutionize the future of package delivery! 📦💨 Let's soar high together and reshape the world from above! #Innovation #Tech #Future ```
+
 ### 14.04.2024
 - Topic: SnaxNox - We're looking for you!
 - Directory: /posts/2024/April/14
