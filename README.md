@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.04.2024
+- Topic: Free Web4 platforms for non-profit communities
+- Directory: /posts/2024/April/16
+- Description: ``` Our mission? Empowering non-profit communities to achieve their visions! 🌐💡 Apply now for our free community platform on Web4 and let's make a difference together! 🚀 #NonProfit #Community #Web4 #FreePlatform ```
+
 ### 15.04.2024
 - Topic: Drone Delivery Future
 - Directory: /posts/2024/April/15
