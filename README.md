@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.04.2024
+- Topic: Web4 - Demo Center
+- Directory: /posts/2024/April/17
+- Description: ``` 🌐🚀 Ready to dive into Web4? We sure are! 😎 That's why we're building a brand new Demo Center just for you, so you can explore the diverse networks and communities of Web4. 🌟 Come on over and experience the future of the internet! #Web4 #Future #DemoCenter ```
+
 ### 16.04.2024
 - Topic: Free Web4 platforms for non-profit communities
 - Directory: /posts/2024/April/16
