@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.04.2024
+- Topic: Web4 > Web3
+- Directory: /posts/2024/April/18
+- Description: ``` 🌐✨ Introducing Web4! Simpler than Web3 and it's all about bringing PEOPLE and COMMUNITIES back to the core of the internet! 🙌💡 #Web4Revolution #CommunityPower ```
+
 ### 17.04.2024
 - Topic: Web4 - Demo Center
 - Directory: /posts/2024/April/17
