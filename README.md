@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.04.2024
+- Topic: Web4 is more than broadcasting
+- Directory: /posts/2024/April/19
+- Description: ``` 🌐 Explore the new era of social media in Web4 with Linkspreed! 🚀 It's not just about broadcasting here, but about real communication and direct exchange within specific communities. 💬 Join this change and experience social media in a whole new way! #Web4 #Linkspreed #CommunityFirst ```
+
 ### 18.04.2024
 - Topic: Web4 > Web3
 - Directory: /posts/2024/April/18
