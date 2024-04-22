@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.04.2024
+- Topic: Knowledge Base
+- Directory: /posts/2024/April/22
+- Description: ``` 📚 We've set up a brand new Knowledge Base for you, so you can stay in the know! 🚀 Here, we'll be regularly publishing new articles to help you with any questions you may have. 🤔💡 Dive in and find the answers you're looking for! 👉 https://linkspreed.tawk.help/ #KnowledgeBase #Support #Help ```
+
 ### 21.04.2024
 - Topic: For Germany, Linkspreed is in German
 - Directory: /posts/2024/April/21
