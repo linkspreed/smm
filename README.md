@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.04.2024
+- Topic: Web4 Demo Center
+- Directory: /posts/2024/April/23
+- Description: ``` 🎉 The wait is over! Our Web4 Democenter is finally live! 🚀 Experience the future of the internet now at linkspreed.com! 😍 Dive into our demos at demo.linkspreed.com and discover the power of Web4! 💪 #Web4 #DemoCenter #Innovation ```
+
 ### 22.04.2024
 - Topic: Knowledge Base
 - Directory: /posts/2024/April/22
