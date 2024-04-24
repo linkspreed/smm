@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.04.2024
+- Topic: LI
+- Directory: /posts/2024/April/24
+- Description: ``` 🚀 At Linkspreed, we're kicking it into high gear! 💪 We're ramping up efforts to build Linkspreed Intelligence #LI to enhance our unique AI #USP, which we'll be unveiling in the coming days. Exciting times ahead! 🌟 #Innovation #AI #Linkspreed ```
+
 ### 23.04.2024
 - Topic: Web4 Demo Center
 - Directory: /posts/2024/April/23
