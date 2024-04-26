@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.04.2024
+- Topic: Web4 Smartphone
+- Directory: /posts/2024/April/26
+- Description: ``` 📱🚀 What do you think about a #Web4 smartphone? 🤔 Let's dream and discuss! What would be your ultimate Web4 feature? 🌟 #Future #Innovation ```
+
 ### 25.04.2024
 - Topic: Web4 & AI
 - Directory: /posts/2024/April/25
