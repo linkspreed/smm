@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.04.2024
+- Topic: Web4 - Our Promise
+- Directory: /posts/2024/April/27
+- Description: ``` 🌐 Since the inception of Web4’s code, we’ve made you a promise: a secure and perpetually accessible internet for freedom of expression. Hence, we won’t sell any shares in Web4 to external parties, ensuring that no biased entities influence a free internet powered by Linkspreed. 🚀🔒 #Web4 #FreedomOfSpeech #Linkspreed ```
+
 ### 26.04.2024
 - Topic: Web4 Smartphone
 - Directory: /posts/2024/April/26
