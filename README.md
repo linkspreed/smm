@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.04.2024
+- Topic: Join the team
+- Directory: /posts/2024/April/28
+- Description: ``` 🚀 Exciting news at Linkspreed! 💼 We're expanding our team and looking for talented individuals in sales, AI, or drone technology to join us. 🤝 Ready to be part of a thriving startup? Get in touch! #Jobs #Career #Startup #Team #Sales #AI #Drones ```
+
 ### 27.04.2024
 - Topic: Web4 - Our Promise
 - Directory: /posts/2024/April/27
