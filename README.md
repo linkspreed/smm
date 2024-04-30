@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.04.2024
+- Topic: Feedback Day - Rebranding
+- Directory: /posts/2024/April/30
+- Description: ``` 📣 Today is Feedback Day at Linkspreed! 📝 We value your feedback immensely, so let us know what you think about the rebranding we introduced via our website about 2 months ago. Comment below or shoot us a message! #FeedbackDay #Rebranding 🚀 ```
+
 ### 29.04.2024
 - Topic: AI + MySQL = Web4 USP
 - Directory: /posts/2024/April/29
