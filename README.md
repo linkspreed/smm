@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.05.2024
+- Topic: Drones & Letters
+- Directory: /posts/2024/May/02
+- Description: ``` 🚀 Soon your letters could be flying through the air! 📨 At SnaxNox, we're shaping the future of mail delivery - automated and swift through drone post! 🤖💨 Our first prototype is already in the works! #Innovation #DroneDelivery #SnaxNox ```
+
 ### 01.05.2024
 - Topic: May with Linkspreed
 - Directory: /posts/2024/May/01
