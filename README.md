@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.05.2024
+- Topic: Web4 - A New Hope
+- Directory: /posts/2024/May/03
+- Description: ``` A new chapter unfolds in the internet galaxy! 🌐 With Web4, there's a new hope for a better online world. 💻 Let's harness the power of the web to forge connections and explore the galaxy of the internet together! #Web4 #NewHope #OnlineRevolution ```
+
 ### 02.05.2024
 - Topic: Drones & Letters
 - Directory: /posts/2024/May/02
