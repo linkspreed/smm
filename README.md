@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.05.2024
+- Topic: Free eBook
+- Directory: /posts/2024/May/04
+- Description: ``` 🎁 SURPRISE! 📚 Get ready to grab our free eBook on Community Management from our website soon! No email required! 😍 #Freebie #Community #EBook #Gift #NoEmailNeeded #Excited ```
+
 ### 03.05.2024
 - Topic: Web4 - A New Hope
 - Directory: /posts/2024/May/03
