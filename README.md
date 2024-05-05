@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.05.2024
+- Topic: Linkspreed On-Domain Community
+- Directory: /posts/2024/May/05
+- Description: ``` 🌐 Dive into the future of the internet! We're building On-Domain platforms in Web4 to liberate communities from the shackles of traditional social networks. #Web4 #OnDomain #Future #Freedom 💻 ```
+
 ### 04.05.2024
 - Topic: Free eBook
 - Directory: /posts/2024/May/04
