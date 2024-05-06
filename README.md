@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.05.2024
+- Topic: Build Your Intranet
+- Directory: /posts/2024/May/06
+- Description: ``` 🚀 Want a cutting-edge intranet for your startup, company, or organization? With Web4, it's a breeze! Unlock the potential of Linkspreed at https://intranet.linkspreed.com 💻 #Intranet #Web4 #Linkspreed ```
+
 ### 05.05.2024
 - Topic: Linkspreed On-Domain Community
 - Directory: /posts/2024/May/05
