@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.05.2024
+- Topic: Intranet vs. Opennet
+- Directory: /posts/2024/May/08
+- Description: ``` 🌐 Web4 is revolutionizing the internet! 🚀 Now you can choose between Intranets (closed communities) and Opennets (open platforms) - all with the same software! 💻 Learn more at https://web4.linkspreed.com #Web4 #Internet #Intranet #Opennet 🌐 ```
+
 ### 07.05.2024
 - Topic: Web4 powered by AI
 - Directory: /posts/2024/May/07
