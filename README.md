@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.05.2024
+- Topic: Community reports with AI
+- Directory: /posts/2024/May/09
+- Description: ``` 🚀 At Linkspreed, we make trends visible! 💡 With our AI, we can generate detailed reports and analyses for any community. 📊 #AI #Trends #Analysis #Linkspreed ```
+
 ### 08.05.2024
 - Topic: Intranet vs. Opennet
 - Directory: /posts/2024/May/08
