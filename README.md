@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.05.2024
+- Topic: ai.linkspreed.com
+- Directory: /posts/2024/May/10
+- Description: ``` 🚀 Our new website is finally live! Explore more about AI at Linkspreed on https://ai.linkspreed.com 🤖💻 #artificialintelligence #newwebsite #linkspreed ```
+
 ### 09.05.2024
 - Topic: Community reports with AI
 - Directory: /posts/2024/May/09
