@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.05.2024
+- Topic: Shape.xyz partnership
+- Directory: /posts/2024/May/11
+- Description: ``` 🚀 Exciting news! We've partnered with shape.xyz to bring you a powerful AI! Analyze your social network database in Web4 with Linkspreed! Interested? Contact us for more info or visit https://ai.linkspreed.com! 💻🔗 #AI #partnership ```
+
 ### 10.05.2024
 - Topic: ai.linkspreed.com
 - Directory: /posts/2024/May/10
