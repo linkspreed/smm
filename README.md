@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.05.2024
+- Topic: Shape Your Community
+- Directory: /posts/2024/May/12
+- Description: ``` 🚀 Be part of the digital revolution! Today is the perfect day to build your own community on Web4 and reap the benefits of smart community management, customer support, and AI analytics! 🌐💬 Learn more at https://web4.linkspreed.com and join the future! 💡 #Web4 #CommunityBuilding #AI #DigitalTransformation ```
+
 ### 11.05.2024
 - Topic: Shape.xyz partnership
 - Directory: /posts/2024/May/11
