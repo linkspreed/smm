@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.05.2024
+- Topic: Oxygen v2
+- Directory: /posts/2024/May/13
+- Description: ``` 🚀 Our Oxygen Browser is now even faster and more powerful with the release of Version 2.0! 🌐 Experience an optimized browsing experience with Linkspreed adjustments. Download the upgrade now and enjoy the best of the web! 💻✨ #OxygenBrowser #UpgradeNow ```
+
 ### 12.05.2024
 - Topic: Shape Your Community
 - Directory: /posts/2024/May/12
