@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.05.2024
+- Topic: Web4 gives you the independence you deserve
+- Directory: /posts/2024/May/15
+- Description: ``` 🌐 With Web4, our community grows bigger and our business becomes more independent! 💼💻 Now, we can operate with greater flexibility and push our vision even further. Are you ready? #Web4 #Independence #CommunityExpansion 🚀 ```
+
 ### 14.05.2024
 - Topic: Oxygen + Linkspreed Search
 - Directory: /posts/2024/May/14
