@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.05.2024
+- Topic: Web4 ecosystem
+- Directory: /posts/2024/May/16
+- Description: ``` 🌐 Exciting times ahead at Linkspreed! We're hard at work on our revolutionary Web4 architecture, initially aimed at communities. But that's just the beginning! 🚀 We believe this lays the groundwork for an entire ecosystem for a new internet to emerge. 🌍 Join us and help build a free internet! 💻 #Linkspreed #Web4 #FreeInternet #Revolution #Community ```
+
 ### 15.05.2024
 - Topic: Web4 gives you the independence you deserve
 - Directory: /posts/2024/May/15
