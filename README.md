@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.05.2024
+- Topic: Linkspreed News - Newsletter
+- Directory: /posts/2024/May/17
+- Description: ``` 🚀 At #Linkspreed, we're launching our new newsletter! It brings Linkspreed News and all info straight to your inbox! 📬✨ Stay in the loop! 🔥 #Innovation #Community #StayTuned ```
+
 ### 16.05.2024
 - Topic: Web4 ecosystem
 - Directory: /posts/2024/May/16
