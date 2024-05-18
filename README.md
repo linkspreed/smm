@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.05.2024
+- Topic: Linkspreed & Web4
+- Directory: /posts/2024/May/18
+- Description: ``` 🌐🚀 Web4 is a powerful brand by Linkspreed UG, offering an unbeatable deal for non-profit communities! 🌟✨ Discover the possibilities! #Web4 #Linkspreed #NonProfit #CommunityPower ```
+
 ### 17.05.2024
 - Topic: Linkspreed News - Newsletter
 - Directory: /posts/2024/May/17
