@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.05.2024
+- Topic: news.linkspreed.com
+- Directory: /posts/2024/May/19
+- Description: ``` 🚀 Stay ahead of the curve! Sign up for our newsletter now and get the late<st trends and insider news straight to your inbox! 💌 👉 https://news.linkspreed.club #LinkspreedNews #StayInformed #Newsletter ```
+
 ### 18.05.2024
 - Topic: Linkspreed & Web4
 - Directory: /posts/2024/May/18
