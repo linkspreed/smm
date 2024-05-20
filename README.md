@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.05.2024
+- Topic: Linkspreed's Web4 v4.3.4
+- Directory: /posts/2024/May/20
+- Description: ``` ✨ Linkspreed v4.3.4 is live! 🚀 All reported bugs are history! 🎉 Try the new version and let us know how it’s running. 🐞➡️👍 Your feedback matters! #Linkspreed #Update #BugFix 🔧💬 ```
+
 ### 19.05.2024
 - Topic: news.linkspreed.com
 - Directory: /posts/2024/May/19
