@@ -6,6 +6,11 @@
 ## Stay up to date with our official social media announcements ...
 
 ### 20.05.2024
+- Topic: Web4 Changelog
+- Directory: /posts/2024/May/21
+- Description: ``` 🚀🎉 We are now publishing the entire changelog of our Web4 platform on our websites! 43 pages of patch notes! 🛠️📄 Check it out to see all the updates! 🌐💻 #Web4 #TechUpdate #PatchNotes #Innovation ```
+
+### 20.05.2024
 - Topic: Linkspreed's Web4 v4.3.4
 - Directory: /posts/2024/May/20
 - Description: ``` ✨ Linkspreed v4.3.4 is live! 🚀 All reported bugs are history! 🎉 Try the new version and let us know how it’s running. 🐞➡️👍 Your feedback matters! #Linkspreed #Update #BugFix 🔧💬 ```
