@@ -5,7 +5,12 @@
 
 ## Stay up to date with our official social media announcements ...
 
-### 20.05.2024
+### 22.05.2024
+- Topic: Web4.0
+- Directory: /posts/2024/May/22
+- Description: ``` 🚀🌐 At Linkspreed, we're gearing up for Web4.0, the next generation of the internet! 🌟🌐 Returning to the diverse communities that once connected us. Join us and experience the revolution! #Web4 #Linkspreed #FutureOfInternet #CommunityPower ```
+
+### 21.05.2024
 - Topic: Web4 Changelog
 - Directory: /posts/2024/May/21
 - Description: ``` 🚀🎉 We are now publishing the entire changelog of our Web4 platform on our websites! 43 pages of patch notes! 🛠️📄 Check it out to see all the updates! 🌐💻 #Web4 #TechUpdate #PatchNotes #Innovation ```
