@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.05.2024
+- Topic: Discover Communities
+- Directory: /posts/2024/May/23
+- Description: ``` 🚀✨ We're working hard to create a platform where Web4 communities can showcase themselves and users can explore new Web4 communities. 🌐👥 With our white-label solution, Web4 will shine! 🌟 #Web4 #CommunityPower #Innovation #Linkspreed ```
+
 ### 22.05.2024
 - Topic: Web4.0
 - Directory: /posts/2024/May/22
