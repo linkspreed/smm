@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.05.2024
+- Topic: Friends & Follower
+- Directory: /posts/2024/May/24
+- Description: ``` 🎉 In Linkspreed's Web4, YOU get to choose! Use a friends system like Facebook or a followers system like Instagram. 🌐 Build your community your way! 🚀 #Web4 #Linkspreed #CommunityPower #Innovation ```
+
 ### 23.05.2024
 - Topic: Discover Communities
 - Directory: /posts/2024/May/23
