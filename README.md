@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.05.2024
+- Topic: Web4.one
+- Directory: /posts/2024/May/25
+- Description: ``` Ready for a new era? 🚀🎉 For the first time, we warmly welcome our new domain web4.one! 🌐💡 It currently redirects to web4.linkspreed.com, but that will change soon 😉 #Web4 #Innovation #Linkspreed #Future ```
+
 ### 24.05.2024
 - Topic: Friends & Follower
 - Directory: /posts/2024/May/24
