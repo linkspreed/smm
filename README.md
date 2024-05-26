@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.05.2024
+- Topic: Web4 Surprise
+- Directory: /posts/2024/May/26
+- Description: ``` 🚀✨ Big news! We're working on a very special surprise for #Web4. Once we release (it will take some time), it will bring a massive change to our Web4. Stay tuned! 🌐🔥 #Innovation #TechRevolution #StayTuned #Linkspreed ```
+
 ### 25.05.2024
 - Topic: Web4.one
 - Directory: /posts/2024/May/25
