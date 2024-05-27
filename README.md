@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.05.2024
+- Topic: Web4 Open
+- Directory: /posts/2024/May/27
+- Description: ``` 🚀🌐 With Web4 Open, anyone can build a community for their school club, organization, small business, or any small group within 30 seconds in the future – completely free! 🌟💼🎉 #Web4 #Community #Future #Innovation ```
+
 ### 26.05.2024
 - Topic: Web4 Surprise
 - Directory: /posts/2024/May/26
