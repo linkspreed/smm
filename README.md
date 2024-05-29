@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.05.2024
+- Topic: Web4 Go
+- Directory: /posts/2024/May/29
+- Description: ``` 🌐 At Linkspreed, we're always here to help you build your Web4 network! 💡🚀 Let's bring your visions to life together! 💪 #Web4 #Consulting #Innovation ```
+
 ### 28.05.2024
 - Topic: Web4 Enterprise
 - Directory: /posts/2024/May/28
