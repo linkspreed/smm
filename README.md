@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.05.2024
+- Topic: Join The Team
+- Directory: /posts/2024/May/30
+- Description: ``` 🚀🌟 Join Linkspreed and shape the future with us! We are looking for passionate shapers in Sales, Marketing, Development, and Web Design. 💡📈 Want to be part of the profit-sharing journey? Just email us at joinus@linkspreed.com. Let's innovate together! 💪✨ #Linkspreed #Team #Jobs #Innovation #TechFuture ```
+
 ### 29.05.2024
 - Topic: Web4 Go
 - Directory: /posts/2024/May/29
