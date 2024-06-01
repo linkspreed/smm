@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.06.2024
+- Topic: June with Linkspreed
+- Directory: /posts/2024/June/01
+- Description: ``` 🌞🚀 Celebrate June with us at Linkspreed! 🎉 During the first week of June, we’re offering up to 50% off our Enterprise Web4 Network for the first 6 months. 🌐💻 Now’s the perfect time to boost your community! 💪 #Linkspreed #Web4 #Enterprise #Offer ```
+
 ### 31.05.2024
 - Topic: Web4 = Community
 - Directory: /posts/2024/May/31
