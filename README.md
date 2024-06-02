@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.06.2024
+- Topic: Support your favorite Web4 community
+- Directory: /posts/2024/June/02
+- Description: ``` 🌐✨ Support your favorite Web4 community! 💖 Let's boost communities that avoid social media and leverage the future for greater security, privacy, and intelligence. #FutureOfCommunication #Security #Privacy #Web4Revolution 🚀🔒 ```
+
 ### 01.06.2024
 - Topic: June with Linkspreed
 - Directory: /posts/2024/June/01
