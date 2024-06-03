@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.06.2024
+- Topic: Web4 = Freedom of Speech
+- Directory: /posts/2024/June/03
+- Description: ``` Web4 aims to truly realize freedom of speech, not just a pseudonym! 🚀 Join the conversation: What does true freedom of speech look like online? 🌐💬 #Web4 #FreedomOfSpeech #Innovation #Linkspreed ```
+
 ### 02.06.2024
 - Topic: Support your favorite Web4 community
 - Directory: /posts/2024/June/02
