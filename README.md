@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.06.2024
+- Topic: Web4 = Infrastructure
+- Directory: /posts/2024/June/04
+- Description: ``` 🌐🚀 Web4 is here! 🚀🌐 A community-based infrastructure that combines and revolutionizes the best of Web1, Web2, and Web3. Join us in shaping the future and experience the new era of the internet! 🌟✨ #Web4 #Innovation #Community #FutureOfWeb #TechRevolution ```
+
 ### 03.06.2024
 - Topic: Web4 = Freedom of Speech
 - Directory: /posts/2024/June/03
