@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.06.2024
+- Topic: 80% are young people in the Web4
+- Directory: /posts/2024/June/05
+- Description: ``` 🚀 Did you know 80% of Web4 users are from the younger generations? Web4 has the potential to shape the future. Check it out now: https://web4.one 🌐 #Web4 #Future #Innovation #Linkspreed 💡👩‍💻👨‍💻 ```
+
 ### 04.06.2024
 - Topic: Web4 = Infrastructure
 - Directory: /posts/2024/June/04
