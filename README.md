@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 06.06.2024
+- Topic: Vision Web4 - Video
+- Directory: /posts/2024/June/06
+- Description: ``` Dive into our vision for Web4! 🌐✨ We've released our video on https://web4.one and YouTube. Click here to see how we're building the internet of the future: https://youtu.be/3AEunWIgius 🚀 #Web4 #Innovation #FutureTech ```
+
 ### 05.06.2024
 - Topic: 80% are young people in the Web4
 - Directory: /posts/2024/June/05
