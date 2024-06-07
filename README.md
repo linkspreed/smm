@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 07.06.2024
+- Topic: Linkspreed Maintenance
+- Directory: /posts/2024/June/07
+- Description: ``` 🚧🔧 On June 13, 2024, Linkspreed will undergo maintenance! 🚀🔄 We're upgrading our server infrastructure's operating system. Expect delays and outages of up to one hour. Thanks for your understanding, and get ready for even more powerful servers! 💪🌐 #Linkspreed #Maintenance #Upgrade #TechUpdate ```
+
 ### 06.06.2024
 - Topic: Vision Web4 - Video
 - Directory: /posts/2024/June/06
