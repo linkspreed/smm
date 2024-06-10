@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.06.2024
+- Topic: Web4 Apps
+- Directory: /posts/2024/June/10
+- Description: ``` 🚀🌐 Together with our partners and in-house teams, we're working to enable you to create apps and applications for our Web4 platform in under 2 minutes! Fast, flexible, and easy. Stay tuned! 💡✨ #Web4 #Innovation #TechRevolution #Linkspreed ```
+
 ### 09.06.2024
 - Topic: Web4 = 200+ Social Media Features
 - Directory: /posts/2024/June/09
