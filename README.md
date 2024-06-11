@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 11.06.2024
+- Topic: Explore Web4 - Soon available
+- Directory: /posts/2024/June/11
+- Description: ``` 🚀🌐 The wait is almost over! We're launching Web4 Explore in its beta phase! Promote your communities or discover new Web4 groups. Stay tuned! #Web4Explore #CommunityPower #Innovation #BetaPhase #Linkspreed 🚀🌐 ```
+
 ### 10.06.2024
 - Topic: Web4 Apps
 - Directory: /posts/2024/June/10
