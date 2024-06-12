@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.06.2024
+- Topic: Explore Web4 - Entry Point
+- Directory: /posts/2024/June/12
+- Description: ``` 🚀🌐 Discover Web4 with explore.web4.one! We're offering you an easy entry point into Web4 and promoting direct exchange between users and Web4 communities. Join us and shape the future! 💬🤝 #Web4 #Innovation #Community #ExploreWeb4 ```
+
 ### 11.06.2024
 - Topic: Explore Web4 - Soon available
 - Directory: /posts/2024/June/11
