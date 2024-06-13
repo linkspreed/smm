@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 13.06.2024
+- Topic: Web4 - Infrastructure Maintenance
+- Directory: /posts/2024/June/13
+- Description: ``` 🛠️ Just a reminder: Today, we're performing maintenance to upgrade our hardware and server infrastructure at Linkspreed. Expect brief downtimes. Thanks for your patience! 🙏✨ #Linkspreed #Maintenance #TechUpdate ```
+
 ### 12.06.2024
 - Topic: Explore Web4 - Entry Point
 - Directory: /posts/2024/June/12
