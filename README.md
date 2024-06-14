@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.06.2024
+- Topic: Meet the Linkspreed Team - Strom aufwärts Festival Ingolstadt
+- Directory: /posts/2024/June/14
+- Description: ``` 🚀 Hey #Ingolstadt! Today and tomorrow (June 14-15), you can meet the @Linkspreed team at the Stromaufwärts Festival! Stop by and experience the future of #Web4Community 🌐✨ More info on the event organizer's page. #Stromaufwärts #TechEvent #MeetTheTeam ```
+
 ### 13.06.2024
 - Topic: Web4 - Infrastructure Maintenance
 - Directory: /posts/2024/June/13
