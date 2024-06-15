@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.06.2024
+- Topic: Web4 ... YOU
+- Directory: /posts/2024/June/15
+- Description: ``` 🚀🌐 Web4: The Internet of users, people, and communities! 🌍✨ It’s YOUR Internet of the future! Join us and shape it! #Web4 #Future #Community #YourInternet #Innovation 🚀👥 ```
+
 ### 14.06.2024
 - Topic: Meet the Linkspreed Team - Strom aufwärts Festival Ingolstadt
 - Directory: /posts/2024/June/14
