@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 17.06.2024
+- Topic: Web4 Free
+- Directory: /posts/2024/June/17
+- Description: ``` 🌐 Imagine a world where Web4 is for EVERYONE! ✨ At Linkspreed, we're making it happen—non-profit and accessible to all. 🤝❤️ Join the conversation about the future! What are your thoughts? 💬 #Web4All #Linkspreed #FutureTech #InclusiveInnovation ```
+
 ### 16.06.2024
 - Topic: Web4 Enterprise
 - Directory: /posts/2024/June/16
