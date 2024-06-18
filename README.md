@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.06.2024
+- Topic: Always Free Tier - Web4
+- Directory: /posts/2024/June/18
+- Description: ``` 🚀💡 We're working on an "Always Free Tier"! With certain guidelines and restrictions, we'll soon offer our Web4 platforms completely free. Stay tuned for more updates! 🌐✨ #Innovation #AlwaysFree #Web4 #Linkspreed ```
+
 ### 17.06.2024
 - Topic: Web4 Free
 - Directory: /posts/2024/June/17
