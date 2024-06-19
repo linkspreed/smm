@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 19.06.2024
+- Topic: Linkspreed presents Web4 Explore
+- Directory: /posts/2024/June/19
+- Description: ``` 🚀🌐 We're proud to present #Web4 Explore from @Linkspreed! The first public #Web4 application is now live! Check it out at https://explore.web4.one 🌟🎉 #Innovation #TechRevolution #Linkspreed ```
+
 ### 18.06.2024
 - Topic: Always Free Tier - Web4
 - Directory: /posts/2024/June/18
