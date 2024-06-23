@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.06.2024
+- Topic: Maintenance work on July 30, 2024
+- Directory: /posts/2024/June/23
+- Description: ``` 🚧📅 Important update! We have maintenance at Linkspreed on 30.07.2024. Mark this date in your calendar! 🔧✨ #Linkspreed #Maintenance #SaveTheDate #TechUpdate 🚀 ```
+
 ### 22.06.2024
 - Topic: Web4 Blog
 - Directory: /posts/2024/June/22
