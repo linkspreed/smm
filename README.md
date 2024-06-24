@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 24.06.2024
+- Topic: Super App + Web4
+- Directory: /posts/2024/June/24
+- Description: ``` 🚀🌐 Dive into the future with Web4! Build your own Super App, just like those in China. Create a massive platform for your community and target audience. More info at https://web4.one. #Web4 #SuperApp #Innovation #Community #TechRevolution ```
+
 ### 23.06.2024
 - Topic: Maintenance work on July 30, 2024
 - Directory: /posts/2024/June/23
