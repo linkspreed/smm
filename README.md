@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 25.06.2024
+- Topic: A simple way into the web
+- Directory: /posts/2024/June/25
+- Description: ``` 🚀 In just a few days, you'll be able to order your own permanently free Web4 platform via a simple form at https://web4.one/free! 🌐 Stay tuned! ✨ #Web4 #Free #Innovation #Future ```
+
 ### 24.06.2024
 - Topic: Super App + Web4
 - Directory: /posts/2024/June/24
