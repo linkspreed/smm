@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 26.06.2024
+- Topic: Web4 - Build your social network
+- Directory: /posts/2024/June/26
+- Description: ``` 🚀🌐 Build your own social network with #Web4? Super easy! 🛠️👥 Web4 is the Internet of Communities – connect, create your own world! 🌍✨ #Innovative #Future #CommunityPower #TechRevolution ```
+
 ### 25.06.2024
 - Topic: A simple way into the web
 - Directory: /posts/2024/June/25
