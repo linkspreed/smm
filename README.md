@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.06.2024
+- Topic: Web4.one/free
+- Directory: /posts/2024/June/27
+- Description: ``` 🚀🌐 Exciting news! We've released all the info about our Web4 Always Free Tier. Now you can order your own Web4 network COMPLETELY FREE in just 2 minutes! 👉 https://web4.one/free 💻✨ #Web4 #TechRevolution #Linkspreed #AlwaysFree ```
+
 ### 26.06.2024
 - Topic: Web4 - Build your social network
 - Directory: /posts/2024/June/26
