@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 28.06.2024
+- Topic: Web4 order process
+- Directory: /posts/2024/June/28
+- Description: ``` 🚀 We’ve reduced the ordering process for our Web4 community from a waitlist to just 2 minutes! 🌐 Order your free Web4 network today at Linkspreed: https://web4.one/free. #Innovation #Web4 #TechRevolution #Linkspreed ```
+
 ### 27.06.2024
 - Topic: Web4.one/free
 - Directory: /posts/2024/June/27
