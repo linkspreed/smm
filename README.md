@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 03.07.2024
+- Topic: Linkspreed & Google PLay
+- Directory: /posts/2024/July/03
+- Description: ``` 🚀✨ Linkspreed is coming back to the Google Play Store soon! 🎉 This time as Web4 with some really cool applications! 📱🔗 Get ready for the future! #Linkspreed #Web4 #TechRevolution #ComingSoon ```
+
 ### 02.07.2024
 - Topic: Your Free Community
 - Directory: /posts/2024/July/02
