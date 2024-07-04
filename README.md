@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.07.2024
+- Topic: Linkspreed Maintenance
+- Directory: /posts/2024/July/04
+- Description: ``` Yesterday, we conducted maintenance at Linkspreed and moved our server location from Ashburn, Virginia to Hillsboro, Oregon. 🚀 We now guarantee more performance and security! 🔒 All websites are back online. 💻 Stay tuned for more updates! 🌐 #Linkspreed #Maintenance #ServerMigration #Performance #Security ```
+
 ### 03.07.2024
 - Topic: Linkspreed & Google PLay
 - Directory: /posts/2024/July/03
