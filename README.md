@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 05.07.2024
+- Topic: Independence Day + Web4
+- Directory: /posts/2024/July/05
+- Description: ``` Happy Independence Day to all Americans from Linkspreed! 🎆✨ As you celebrate freedom, we're working on making the internet more independent. Join us in creating a freer Web4! 🌐🤝 #IndependenceDay #Web4 #Decentralization ```
+
 ### 04.07.2024
 - Topic: Linkspreed Maintenance
 - Directory: /posts/2024/July/04
