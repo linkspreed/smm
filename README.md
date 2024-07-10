@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 10.07.2024
+- Topic: linkspreed.medium.com
+- Directory: /posts/2024/July/10
+- Description: ``` ✨📚 Treat yourself to a cozy reading break every week with our Web4 articles on Medium! 😌🚀 Don’t miss out—subscribe to our channel. #Web4 #ReadingJoy #MediumMoments 🌟 ```
+
 ### 09.07.2024
 - Topic: Web4 Launch on Product Hunt
 - Directory: /posts/2024/July/09
