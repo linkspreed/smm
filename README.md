@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 12.07.2024
+- Topic: Web4 global
+- Directory: /posts/2024/July/12
+- Description: ``` 🚀 Web4 is taking over the internet! We host Web4 networks for communities from Europe 🌍, Asia 🏯, Africa 🐘, South 🌎 & North America 🗽 Only the North & South Poles are still untouched 🐧❄️ Help us reach everywhere & make Web4 huge! 🌐💪✨ #Web4 #GlobalCommunity #Innovation #Future ```
+
 ### 11.07.2024
 - Topic: web4.one
 - Directory: /posts/2024/July/11
