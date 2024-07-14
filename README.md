@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 14.07.2024
+- Topic: Web4 - No Censorship
+- Directory: /posts/2024/July/14
+- Description: ``` 🚀 Welcome to the future of the internet with Web4! 🌐 No censorship as long as the content is legal. 🗣️ Share freely, express your opinions, and discuss topics that interest you. #Web4 #Freedom #Innovation #NoCensorship ```
+
 ### 13.07.2024
 - Topic: Dev.to article - Web4
 - Directory: /posts/2024/July/13
