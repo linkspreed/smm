@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 15.07.2024
+- Topic: Web4 - Native App
+- Directory: /posts/2024/July/15
+- Description: ``` 🚀 New at Linkspreed! 🌐 We are offering a fully native application for Web4 starting at a fixed price of only 1,000 Euros! 📱✨ Available for the Play Store and Apple App Store. For those who prefer flexibility, there’s always the free option to build a WebView app for your own WebView network. 🌍🤝 We're also working on exciting partnerships! For larger communities, there’s the complete premium native alternative. 🏆🔝 #Linkspreed #Innovation #WIPs #NativeApp #WebView #Communities #TechNews ```
+
 ### 14.07.2024
 - Topic: Web4 - No Censorship
 - Directory: /posts/2024/July/14
