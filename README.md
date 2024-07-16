@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 16.07.2024
+- Topic: Build your free social network
+- Directory: /posts/2024/July/16
+- Description: ``` 🚀 Discover the future of social networking with Linkspreed! Build your own network like Facebook with our free Web4 at https://web4.one/free 🆓. Start now and be part of the revolution! #Web4 #Linkspreed #Future #SocialNetworking 🌐 ```
+
 ### 15.07.2024
 - Topic: Web4 - Native App
 - Directory: /posts/2024/July/15
