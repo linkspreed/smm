@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 18.07.2024
+- Topic: Invite partners into your Web4 network
+- Directory: /posts/2024/July/18
+- Description: ``` 🌐🚀 Invite your partners to the future! With Linkspreed, you can now bring your business and advertising partners into our innovative Web4 community. Let's reshape the digital world together! 🌟 #Linkspreed #Web4 #Community #ShapeTheFuture ```
+
 ### 17.07.2024
 - Topic: Personalization with AI on the Web4
 - Directory: /posts/2024/July/17
