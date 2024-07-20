@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 20.07.2024
+- Topic: Get to know your community
+- Directory: /posts/2024/July/20
+- Description: ``` 🚀📊 With Web4 and your own community, you can understand customers and fans much better and more easily, independently of analytics! 🌐👥 More info at https://web4.one #Web4 #Community #Innovation #CustomerInsight ```
+
 ### 19.07.2024
 - Topic: AI Data-Driven Decisions Thanks to Web4
 - Directory: /posts/2024/July/19
