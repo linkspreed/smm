@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 22.07.2024
+- Topic: Web4 Merch
+- Directory: /posts/2024/July/22
+- Description: ``` 🎉🌟 Show off your unique Web4 merch! 🚀📸 Share your creations in Web4 communities and use #web4merch. Print your T-shirts with Web4.one and bring Web4 to the streets! 👕✨ #Web4 #TechStyle #CreateTheFuture ```
+
 ### 21.07.2024
 - Topic: A social network for your supply chain
 - Directory: /posts/2024/July/21
