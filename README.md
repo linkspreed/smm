@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 23.07.2024
+- Topic: Project 4.0
+- Directory: /posts/2024/July/23
+- Description: ``` 🚀 At Linkspreed, we're launching "4.0" projects! 🌐 From Free Press & Media 4.0 to Supply Chain 4.0, we're integrating Web4 across the board! 🔥 #Innovation #Web4 #Future #Linkspreed ```
+
 ### 22.07.2024
 - Topic: Web4 Merch
 - Directory: /posts/2024/July/22
