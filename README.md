@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 27.07.2024
+- Topic: Olympic Games 2024
+- Directory: /posts/2024/July/27
+- Description: ``` 🏅 We at Linkspreed wish all athletes successful & fair Olympic Games! 🎉 Starting from the next Olympics, some social networks will surely run on the Web4 network. #Olympics2024 #Web4 #Innovation #Linkspreed 🚀 ```
+
 ### 26.07.2024
 - Topic: Web4 -> Automation
 - Directory: /posts/2024/July/26
