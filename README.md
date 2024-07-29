@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 29.07.2024
+- Topic: Web4 abroad
+- Directory: /posts/2024/July/29
+- Description: ``` 🌍🚀 We're expanding! With our own Web4 software solution, we're now conquering the international market. Stay updated and get all the news at web4.one! #Web4 #Innovation #GlobalExpansion #TechRevolution 🌐✨ ```
+
 ### 28.07.2024
 - Topic: #Web4
 - Directory: /posts/2024/July/28
