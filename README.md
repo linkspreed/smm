@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 30.07.2024
+- Topic: Web4 Documentation
+- Directory: /posts/2024/July/30
+- Description: ``` 🌐🚀 Big news! We've created a step-by-step guide to help anyone, even without technical knowledge, build a social network in Web4! 🌟 Check out the guide here: https://web4.one/docs 📚✨ #Web4 #SocialNetworks #DIY #Tech4All #Innovation ```
+
 ### 29.07.2024
 - Topic: Web4 abroad
 - Directory: /posts/2024/July/29
