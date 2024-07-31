@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 31.07.2024
+- Topic: Web4 Lite becomes Open Source
+- Directory: /posts/2024/July/31
+- Description: ``` 🚀 Web4 LITE will be 100% Open Source! 🌐 Everyone can host and run their own instance completely decentralized and independent of Linkspreed. 🌍🔗 #Web4LITE #OpenSource #Decentralization #TechRevolution ```
+
 ### 30.07.2024
 - Topic: Web4 Documentation
 - Directory: /posts/2024/July/30
