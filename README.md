@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 01.08.2024
+- Topic: August with Linkspreed & Web4
+- Directory: /posts/2024/August/01
+- Description: ``` 🌴🌺 August kicks off with #Linkspreed! We’re going #Web4First and have lots of exciting new things planned. We’re eager for your feedback! Visit https://web4.one now 🌴🌞 #Web4 #Innovation #Tech #Future ```
+
 ### 31.07.2024
 - Topic: Web4 Lite becomes Open Source
 - Directory: /posts/2024/July/31
