@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 02.08.2024
+- Topic: Web4 Instance
+- Directory: /posts/2024/August/02
+- Description: ``` 🚀 Soon, everyone can host their own Web4 instance! 🌐 Web4 is becoming even more transparent and decentralized. Get ready for the future of digital freedom! 💡🔗 #Web4 #Decentralization #Transparency #Future #TechRevolution ```
+
 ### 01.08.2024
 - Topic: August with Linkspreed & Web4
 - Directory: /posts/2024/August/01
