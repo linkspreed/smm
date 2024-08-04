@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 04.08.2024
+- Topic: Web4 Lite will be open source
+- Directory: /posts/2024/August/04
+- Description: ``` 🌐🚀 We're excited to unveil the progress of Web4 Lite! 🎉 Our open-source solution is the foundation for many creative social networks in Web4. 🌟🌍 #Web4Lite #OpenSource #Innovation #Future #SocialNetworks ```
+
 ### 03.08.2024
 - Topic: Web4 Explore
 - Directory: /posts/2024/August/03
