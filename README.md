@@ -1,4 +1,4 @@
-0<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
+<h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
 <h3 align="center">Find our Social Media Posts in this Github Repository! 📱</h3>
 
 ## Our Social Media Marketing log :)
