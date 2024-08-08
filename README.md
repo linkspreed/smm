@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 08.08.2024
+- Topic: 3 x Web4
+- Directory: /posts/2024/August/08
+- Description: ``` 🚀🌐 At Linkspreed, we're excited to soon launch three versions of Web4! With Web4 Enterprise (https://web4.one), we offer a powerful solution for businesses. Web4 Lite will soon be released as an open-source version, forming the foundation for innovative projects. Finally, there's Web4 Free (https://web4.one/free), a free version accessible to everyone. #Web4 #Innovation #Future #OpenSource #Enterprise #Tech ```
+
 ### 07.08.2024
 - Topic: Supply Chain 4.0
 - Directory: /posts/2024/August/07
