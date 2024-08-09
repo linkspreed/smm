@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements ...
 
+### 09.08.2024
+- Topic: Let's shape Web4
+- Directory: /posts/2024/August/09
+- Description: ``` 🌐 The future of the internet starts now! Together, we’re building Web4 and shaping the digital world of tomorrow. Do you have what it takes? Reach out and discover how your skills and knowledge can help us on this mission! 🚀 #Web4 #ShapingTheFuture #TechRevolution ```
+
 ### 08.08.2024
 - Topic: 3 x Web4
 - Directory: /posts/2024/August/08
