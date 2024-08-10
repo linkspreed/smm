@@ -3,7 +3,12 @@
 
 ## Our Social Media Marketing log :)
 
-## Stay up to date with our official social media announcements ...
+## Stay up to date with our official social media announcements 
+
+### 10.08.2024
+- Topic: Web4 is decentralized
+- Directory: /posts/2024/August/10
+- Description: ``` Looking to create your own social network without needing technical expertise or blockchain? Web4 makes decentralized networking simple: https://web4.one & https://web4.one/free. 🚀✨ #Decentralized #Web4 #Simplified ```
 
 ### 09.08.2024
 - Topic: Let's shape Web4
