@@ -3,7 +3,12 @@
 
 ## Our Social Media Marketing log :)
 
-## Stay up to date with our official social media announcements 
+## Stay up to date with our official social media announcements
+
+### 11.08.2024
+- Topic: Web4 without algorithms
+- Directory: /posts/2024/August/11
+- Description: ``` 🔗 Web4 is the future! 🚀 No algorithms steering your interests. Choose your own communities, connect with like-minded people, and decide what you see. No more filter bubbles! 🌐💬 #Web4 #CommunityFirst #AlgorithmFree ```
 
 ### 10.08.2024
 - Topic: Web4 is decentralized
