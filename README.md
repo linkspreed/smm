@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.08.2024
+- Topic: Digital City 4.0
+- Directory: /posts/2024/August/12
+- Description: ``` 🌍🚀 Welcome to the future with Digital City 4.0! Cities are evolving into vibrant communities where citizens and tourists seamlessly connect through Web4. 🏙️💡 Let's build smart, sustainable, and innovative cities together. The future starts now! 🔥💻 #DigitalCity40 #Web4 #SmartCity #Innovation #ShapingTheFuture ```
+
 ### 11.08.2024
 - Topic: Web4 without algorithms
 - Directory: /posts/2024/August/11
