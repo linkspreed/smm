@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.08.2024
+- Topic: CX 4.0
+- Directory: /posts/2024/August/13
+- Description: ``` 🚀 We're launching Project CX 4.0! With #Web4, we're taking Customer Experience to the next level and revolutionizing interactions in your company. The future starts now! 🌐💡 #Innovation #CustomerExperience #Linkspreed ```
+
 ### 12.08.2024
 - Topic: Digital City 4.0
 - Directory: /posts/2024/August/12
