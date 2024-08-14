@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.08.2024
+- Topic: Hello Web4
+- Directory: /posts/2024/August/14
+- Description: ``` 🚀 At Linkspreed, we firmly believe in the potential of Web4! More and more people are joining the revolution of the new internet. Are you ready to be a part of it? 🌐 #Web4 #Future #Linkspreed #NewInternet ```
+
 ### 13.08.2024
 - Topic: CX 4.0
 - Directory: /posts/2024/August/13
