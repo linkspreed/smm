@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.08.2024
+- Topic: Digital City 4.0 - A global project
+- Directory: /posts/2024/August/15
+- Description: ``` 🇪🇺🌍 Our Digital City 4.0 project isn’t just for Germany—we’re thinking bigger from the start! First Europe, then the world. 🚀 Who's ready to shape the future with us? #DigitalCity40 #Innovation #GlobalVision ```
+
 ### 14.08.2024
 - Topic: Hello Web4
 - Directory: /posts/2024/August/14
