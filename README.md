@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.08.2024
+- Topic: Intranets for the public
+- Directory: /posts/2024/August/16
+- Description: ``` ✨ Our motivation? A network of open intranets, created by the community for the community. With Web4, we want to build something that belongs to everyone! 🤝🚀 What would you like to help shape? #Web4 #CommunityPower #Future ```
+
 ### 15.08.2024
 - Topic: Digital City 4.0 - A global project
 - Directory: /posts/2024/August/15
