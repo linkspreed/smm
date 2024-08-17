@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.08.2024
+- Topic: Web4 Free
+- Directory: /posts/2024/August/17
+- Description: ``` 🚀 Web4 is here – and we're offering you the full solution FOR FREE! 😍🔗 Just join our waitlist at web4.one/free and our team will build your platform for you! #Web4 #Innovation #Free #Future ```
+
 ### 16.08.2024
 - Topic: Intranets for the public
 - Directory: /posts/2024/August/16
