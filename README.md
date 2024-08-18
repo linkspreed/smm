@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.08.2024
+- Topic: Forget Web3
+- Directory: /posts/2024/August/18
+- Description: ``` 🚀 Forget #Web3! The new trend is all about Web4 & decentralized communities! 🌐🔗 Ready for the next evolution? 👉 Discover more at web4.one #Web4 #Decentralization #FutureIsNow ```
+
 ### 17.08.2024
 - Topic: Web4 Free
 - Directory: /posts/2024/August/17
