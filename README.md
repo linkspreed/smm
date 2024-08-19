@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.08.2024
+- Topic: Web4 Logo
+- Directory: /posts/2024/August/19
+- Description: ``` The wait is over! 🎉 We're thrilled to unveil the brand-new Web4 logo! 🌐✨ A symbol of innovation and the future of the internet. What do you think? Your feedback matters! 👇 #Web4 #Future #Design ```
+
 ### 18.08.2024
 - Topic: Forget Web3
 - Directory: /posts/2024/August/18
