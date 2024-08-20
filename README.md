@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.08.2024
+- Topic: Make Social Media 'Social' Again
+- Directory: /posts/2024/August/20
+- Description: ``` 🌐🤝💬 Let’s make Social Media "social" again! Together, we create real relationships. #SocialMedia #Community #Networking #MakeSocialMediaSocialAgain ```
+
 ### 19.08.2024
 - Topic: Web4 Logo
 - Directory: /posts/2024/August/19
