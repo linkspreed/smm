@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.08.2024
+- Topic: Build Your Own Social Network
+- Directory: /posts/2024/August/21
+- Description: ``` 🚀 Ever dreamt of building your own social network? Now you can! 🌐 Create your own community, connect with like-minded people, and shape your digital world! 💡 #YourNetwork #CommunityPower #ShapeTheFuture ```
+
 ### 20.08.2024
 - Topic: Make Social Media 'Social' Again
 - Directory: /posts/2024/August/20
