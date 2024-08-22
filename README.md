@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.08.2024
+- Topic: web4.one/decentralized
+- Directory: /posts/2024/August/22
+- Description: ``` 🚀🌐 Linkspreed is already shaping Web4! Discover how we’re building decentralized structures without blockchains. 🔗✨ Learn more at: web4.one/decentralized #Linkspreed #Web4 #Decentralization #Innovation ```
+
 ### 21.08.2024
 - Topic: Build Your Own Social Network
 - Directory: /posts/2024/August/21
