@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.08.2024
+- Topic: Web4 on Crunchbase
+- Directory: /posts/2024/August/23
+- Description: ``` 🎉 We're thrilled to welcome Web4 as a suborganization on Crunchbase! 🚀 Dive into the future of the internet and check out our profile: https://www.crunchbase.com/organization/web4 #Web4 #Innovation #Future #TechCommunity ```
+
 ### 22.08.2024
 - Topic: web4.one/decentralized
 - Directory: /posts/2024/August/22
