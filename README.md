@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.08.2024
+- Topic: Web4 Values
+- Directory: /posts/2024/August/24
+- Description: ``` We’ve summarized our key goals and values with Web4 at Linkspreed 📝✨. Transparency is our key – check out what we’re working on and what we stand for! 💡🌍 #Linkspreed #Web4 #Transparency #Future ```
+
 ### 23.08.2024
 - Topic: Web4 on Crunchbase
 - Directory: /posts/2024/August/23
