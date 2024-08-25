@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.08.2024
+- Topic: Web4 - Your digital footprint
+- Directory: /posts/2024/August/25
+- Description: ``` 🕵️‍♂️ Jeder hinterlässt einen digitalen Fußabdruck, aber nur im Web4 kannst du ihn wirklich verwischen. 🌐 Deine Daten, deine Kontrolle – werde anonym, egal wie viel du gepostet hast. Web4 ist die Zukunft! 🚀 Erfahre mehr unter http://web4.one #Web4 #Datenschutz #Anonymität #Zukunft ```
+
 ### 24.08.2024
 - Topic: Web4 Values
 - Directory: /posts/2024/August/24
