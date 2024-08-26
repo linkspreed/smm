@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.08.2024
+- Topic: Web4 Foundation
+- Directory: /posts/2024/August/26
+- Description: ``` 🚀 The Web4 Foundation by Linkspreed UG is bringing fresh ideas to the web! 🌐 With Web4 Lite as our open-source foundation, we're empowering the digital community and driving innovation. 🌍 Join us in shaping the future! #Web4 #Innovation #OpenSource #Linkspreed ```
+
 ### 25.08.2024
 - Topic: Web4 - Your digital footprint
 - Directory: /posts/2024/August/25
