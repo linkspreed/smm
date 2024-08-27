@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.08.2024
+- Topic: Build-Social-Networks Day
+- Directory: /posts/2024/August/27
+- Description: ``` 🚀 #Linkspreed is going all out! Twice a month, we’ll spend the entire day building social networks and then give them away to YOU – totally free! 🎁🔥 Who’s in? #Web4 #CommunityPower #Giveaway #Innovation ```
+
 ### 26.08.2024
 - Topic: Web4 Foundation
 - Directory: /posts/2024/August/26
