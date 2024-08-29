@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.08.2024
+- Topic: Web4 - External Communities
+- Directory: /posts/2024/August/29
+- Description: ``` 🚀 With #Web4, you can build your own external community as a company! 🌐 Connect customers, employees, partners, and more in a dynamic space. Grow together, innovate together! 💡 Learn more: web4.one #CommunityBuilding #DigitalTransformation #FutureNow ```
+
 ### 28.08.2024
 - Topic: Web4 will expand!
 - Directory: /posts/2024/August/28
