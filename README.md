@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.08.2024
+- Topic: Web4 - Internal Communities
+- Directory: /posts/2024/August/30
+- Description: ``` 🚀 With Linkspreed's Web4 solution, building a closed community is super easy! 🌐 Start now and create your own secure and interactive platform: web4.one/free 💬 #Web4 #CommunityBuilding #Linkspreed #DigitalTransformation ```
+
 ### 29.08.2024
 - Topic: Web4 - External Communities
 - Directory: /posts/2024/August/29
