@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.09.2024
+- Topic: September with Linkspreed
+- Directory: /posts/2024/September/01
+- Description: ``` 🚀 We’re fired up for September! 🔥 We're pushing Web4 forward, seeking new partners, and evolving the tech with our Web4 Foundation. 💡 Plus, Web4 Lite is dropping as Open Source this month! 💻 Big plans and new talents are coming on board. 🌍 Let’s go! #Web4 #Innovation #TechRevolution #OpenSource #TeamSpirit ```
+
 ### 31.08.2024
 - Topic: Web4 Moderation
 - Directory: /posts/2024/August/31
