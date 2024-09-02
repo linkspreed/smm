@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.09.2024
+- Topic: Web4 & Niche Communities
+- Directory: /posts/2024/September/02
+- Description: ``` Connect  with your community and give them a voice! ️ Web4 makes it happen. ✨ #Web4 #CommunityLove #Linkspreed ```
+
 ### 01.09.2024
 - Topic: September with Linkspreed
 - Directory: /posts/2024/September/01
