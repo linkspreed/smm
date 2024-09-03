@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.09.2024
+- Topic: Web4 is LEAN
+- Directory: /posts/2024/September/03
+- Description: ``` 🌐💡 #Web4 is LEAN! What does that mean? It’s a platform that’s easy to manage and moderate, packed with innovative features. 🚀✨ Enhance your community and be part of the future! 🔥 #Innovation #CommunityBuilding #TechRevolution #LeanTech ```
+
 ### 02.09.2024
 - Topic: Web4 & Niche Communities
 - Directory: /posts/2024/September/02
