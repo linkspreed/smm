@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.09.2024
+- Topic: Web4 Lite License
+- Directory: /posts/2024/September/04
+- Description: ``` 🚀 Exciting news! We're making great progress with Web4 Lite and will soon release it on GitHub! 🎉 The software will be under the Creative Commons BY-NC-SA 4.0 license – meaning you can use and adapt it freely as long as it's non-commercial and you share your changes. 📜 More details coming soon! 🔜💡 #Web4 #OpenSource #TechNews #Innovation #CreativeCommons ```
+
 ### 03.09.2024
 - Topic: Web4 is LEAN
 - Directory: /posts/2024/September/03
