@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.09.2024
+- Topic: Your ticket into Web4
+- Directory: /posts/2024/September/05
+- Description: ``` 🌐🚀 Step into the future of the internet! We’re inviting YOU to be part of Web4 – a limitless space made up of over 150,000 social community networks! 🔗🤝 Join the movement that’s reshaping the web. Are you ready for the revolution? 🚀💡 #Web4 #InternetRevolution #CommunityDriven #FutureTech ```
+
 ### 04.09.2024
 - Topic: Web4 Lite License
 - Directory: /posts/2024/September/04
