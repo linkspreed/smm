@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.09.2024
+- Topic: Denmark - Join Web4
+- Directory: /posts/2024/September/06
+- Description: ``` 🚀🌍 Denmark, we’re launching! 🇩🇰🎉 We invite all Community Managers and innovators from Denmark to connect with our team and discuss the future of Web4 in your country! 💬💡 Let’s shape the future together! 🌱👥 #Denmark #Web4 #CommunityPower #ShapingTheFuture ```
+
 ### 05.09.2024
 - Topic: Your ticket into Web4
 - Directory: /posts/2024/September/05
