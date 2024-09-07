@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.09.2024
+- Topic: Your Web4 Feedback!
+- Directory: /posts/2024/September/07
+- Description: ``` 🚀 #Web4 is taking over the community world! We've already helped many communities transition into #Web4. 🌐 Is your community or club part of it yet? 🤔 Share your experiences and stories with us! 💬 We're excited to hear from you! 👇 #FutureOfCommunity #TechForGood #Innovation #YourStoryMatters ```
+
 ### 06.09.2024
 - Topic: Denmark - Join Web4
 - Directory: /posts/2024/September/06
