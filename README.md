@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.09.2024
+- Topic: Core Dev Team
+- Directory: /posts/2024/September/08
+- Description: ``` 🚀 We’re building a core development team of three for a MEGA Web4 project! 💻🔗 Ready to shape the future of the internet? 🌍 We're looking for 1-2 developers to complete our team. 🔥 Join us and let’s create something big together! 🙌 #Web4 #Developers #TechRevolution #StartupVibes ```
+
 ### 07.09.2024
 - Topic: Your Web4 Feedback!
 - Directory: /posts/2024/September/07
