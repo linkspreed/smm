@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.09.2024
+- Topic: Web4 Focus
+- Directory: /posts/2024/September/09
+- Description: ``` 👥 In #Web4, it’s all about communities and their social networks! The tech? Just the tool – the real focus is on the people. 🌐 Let’s build relationships, not just platforms! 💡 #CommunityFirst #SocialNetworks #Linkspreed ```
+
 ### 08.09.2024
 - Topic: Core Dev Team
 - Directory: /posts/2024/September/08
