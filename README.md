@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.09.2024
+- Topic: We love social networks
+- Directory: /posts/2024/September/10
+- Description: ``` 🚀🌐 At Linkspreed, we’re building the future of social networks! Whether for businesses, organizations, or cities – we love communities and are set to become the largest provider in the field. #SocialNetworks #Web4 #CommunityPower #Linkspreed 🌍💡 ```
+
 ### 09.09.2024
 - Topic: Web4 Focus
 - Directory: /posts/2024/September/09
