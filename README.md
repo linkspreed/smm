@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.09.2024
+- Topic: Web4 & Denmark 4.0
+- Directory: /posts/2024/September/11
+- Description: ``` 🌍🚀 We’re diving deep into the Denmark 4.0 project to connect 98 municipalities and local businesses in Denmark to #Web4! 💡🤝 The future of digital communities starts NOW. Join us! #Innovation #Digitalization #Community #Future ```
+
 ### 10.09.2024
 - Topic: We love social networks
 - Directory: /posts/2024/September/10
