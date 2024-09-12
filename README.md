@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.09.2024
+- Topic: Web4.one
+- Directory: /posts/2024/September/12
+- Description: ``` 🌐 #Web4 is the Internet of social networks and communities! 🤝🚀 We’re connecting deeper, more interactively, and authentically. #FutureIsNow #Linkspreed #CommunityFirst ```
+
 ### 11.09.2024
 - Topic: Web4 & Denmark 4.0
 - Directory: /posts/2024/September/11
