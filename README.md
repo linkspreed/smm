@@ -8,6 +8,11 @@
 ### 12.09.2024
 - Topic: Web4.one
 - Directory: /posts/2024/September/12
+- Description: ``` 🚀✨ We're taking #Web4 to the next level by making it Open Source soon! 🛠️🔓 Our commitment is growing, and we want YOU to be part of the future. Stay tuned for what's coming! 🌐 #Linkspreed #OpenSource #TechInnovation #CommunityDriven #Web4Revolution ```
+
+### 12.09.2024
+- Topic: Web4.one
+- Directory: /posts/2024/September/12
 - Description: ``` 🌐 #Web4 is the Internet of social networks and communities! 🤝🚀 We’re connecting deeper, more interactively, and authentically. #FutureIsNow #Linkspreed #CommunityFirst ```
 
 ### 11.09.2024
