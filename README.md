@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.09.2024
+- Topic: Web4 - Social Network Provider
+- Directory: /posts/2024/September/14
+- Description: ``` 🚀 Web4 is on a mission to become the largest social network provider! 🌍✨ Whether it's a city, company, or club – we offer the platform to create your own social network for your community. 💻💬 #Web4 #CommunityPower #FutureOfTheNet #SocialNetworks #Innovation ```
+
 ### 13.09.2024
 - Topic: Web4 - Open Source
 - Directory: /posts/2024/September/13
