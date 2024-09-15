@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.09.2024
+- Topic: Web4.one/denmark
+- Directory: /posts/2024/September/15
+- Description: ``` 🚀🇩🇰 Denmark 4.0 is live! We’ve launched our landing page with a pitch deck: https://web4.one/denmark 💻🎯 Discover how we’re taking all 98 municipalities into Web4 and join the revolution! 🌍🤝#Denmark4 #Web4 #Future #Innovation #Communities #Pitchdeck ```
+
 ### 14.09.2024
 - Topic: Web4 - Social Network Provider
 - Directory: /posts/2024/September/14
