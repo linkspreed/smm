@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.09.2024
+- Topic: Join the Web4
+- Directory: /posts/2024/September/16
+- Description: ``` 🌐🚀 Join Web4 and create your own platform for your niche community! Whether it's an animal protection group 🐶, a soccer club ⚽, or a school club 🎓 – shape your own platform! Sign up now and get started! #Web4 #NicheCommunity #YourPlatform ```
+
 ### 15.09.2024
 - Topic: Web4.one/denmark
 - Directory: /posts/2024/September/15
