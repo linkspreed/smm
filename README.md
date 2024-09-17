@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.09.2024
+- Topic: Web4 DELTA
+- Directory: /posts/2024/September/17
+- Description: ``` 🚀🌐 We're hard at work on Web4 DELTA – our vision for the next generation of social networks built on the Web4 foundation. Stay tuned for the future of digital connection! #Web4DELTA #Innovation ```
+
 ### 16.09.2024
 - Topic: Join the Web4
 - Directory: /posts/2024/September/16
