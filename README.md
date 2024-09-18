@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.09.2024
+- Topic: We like non-profits
+- Directory: /posts/2024/September/18
+- Description: ``` At Linkspreed, we value non-profit organizations and startups striving to shape the future without profit! 🚀💡 These organizations receive a free #Web4 Enterprise Network with Enterprise Support, no strings attached. 🌐✨ Contact us at hello@web4.one! #ShapingTheFuture #NonProfit #Startups #Innovation ```
+
 ### 17.09.2024
 - Topic: Web4 DELTA
 - Directory: /posts/2024/September/17
