@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.09.2024
+- Topic: Request Your Social Network Demo
+- Directory: /posts/2024/September/20
+- Description: ``` Your own social network is just a click away! 🚀 Get your free demo today – easy, anonymous, and hassle-free. Drop us an email at 📧 hello@web4.one or fill out the form at 🌐 web4.one/free! #Web4 #SocialNetwork #CommunityPower ```
+
 ### 19.09.2024
 - Topic: 100,000 active users
 - Directory: /posts/2024/September/19
