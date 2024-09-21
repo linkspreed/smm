@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.09.2024
+- Topic: Web4 Lite is Open Source
+- Directory: /posts/2024/September/21
+- Description: ``` 🚀🎉 It’s finally here! At Linkspreed, we’ve launched #Web4 Lite as an open-source project on GitHub! 🛠️👩‍💻 Discover the future of social networks: https://github.com/Web4-Organisation/Web4-Lite/ 🌍💡 #Web4 #OpenSource #Linkspreed #TechForGood ```
+
 ### 20.09.2024
 - Topic: Request Your Social Network Demo
 - Directory: /posts/2024/September/20
