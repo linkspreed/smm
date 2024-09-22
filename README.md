@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.09.2024
+- Topic: Web4 Lite Fork
+- Directory: /posts/2024/September/22
+- Description: ``` 🚀 Build your own social network in just a few steps! Fork Web4 Lite on GitHub, leave a ⭐, and launch your fully decentralized network! 👉 License: CC BY-NC-SA 4.0 #Web4 #Decentralized #OpenSource #SocialNetwork #GitHub #DeveloperCommunity ```
+
 ### 21.09.2024
 - Topic: Web4 Lite is Open Source
 - Directory: /posts/2024/September/21
