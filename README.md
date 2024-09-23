@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.09.2024
+- Topic: Web4 Web2App
+- Directory: /posts/2024/September/23
+- Description: ``` 🚀 Big news for the #Web4Community! We've released a second repo on GitHub: https://github.com/Web4-Organisation/Web4-Web2App 🛠️ Easily convert your Web4 browser-based network into a native #AndroidApp. 🌐📱 Take your network mobile! 🔥 #Innovation #Web4 #OpenSource ```
+
 ### 22.09.2024
 - Topic: Web4 Lite Fork
 - Directory: /posts/2024/September/22
