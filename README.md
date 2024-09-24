@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.09.2024
+- Topic: Shape Your Community
+- Directory: /posts/2024/September/24
+- Description: ``` 🚀 Build your own community – effortlessly with our Web4 technology! 💻 Whether you're a business or organization, we provide the tools to bring your community to life! 🌐💬 Start connecting now. 💡 #Web4 #Linkspreed #CommunityFirst #FutureOfCommunication ```
+
 ### 23.09.2024
 - Topic: Web4 Web2App
 - Directory: /posts/2024/September/23
