@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.09.2024
+- Topic: Gaming Communities in Web4
+- Directory: /posts/2024/September/26
+- Description: ``` 🎮🌟 With Web4, you can easily create your own gaming community for your favorite game! Connect with like-minded players, share strategies, and experience gaming like never before! 🚀✨ #Web4 #GamingCommunity #JoinUs ```
+
 ### 25.09.2024
 - Topic: Every 11 minutes, ...
 - Directory: /posts/2024/September/25
