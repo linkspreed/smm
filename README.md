@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.09.2024
+- Topic: Web4 = Experience
+- Directory: /posts/2024/September/27
+- Description: ``` In a Web4 community, you don’t just share knowledge—you experience real two-way communication! 💡🔄 Knowledge is cool, but experience is priceless. 💪🌍 #Web4 #Community #SharingExperience #FutureNow ```
+
 ### 26.09.2024
 - Topic: Gaming Communities in Web4
 - Directory: /posts/2024/September/26
