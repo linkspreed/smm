@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.09.2024
+- Topic: Daily Communities
+- Directory: /posts/2024/September/29
+- Description: ``` 🚀 Starting September 29th, 2024, we’ll be building a new Web4 community every single day! 🌐 Join the revolution and witness the future of social networks taking shape. 🛠️ #Web4 #Community #ShapingTheFuture #Innovation #Linkspreed ```
+
 ### 28.09.2024
 - Topic: We build, You operate
 - Directory: /posts/2024/September/28
