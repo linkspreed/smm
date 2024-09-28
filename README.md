@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.09.2024
+- Topic: We build, You operate
+- Directory: /posts/2024/September/28
+- Description: ``` We're already building full communities on vital topics like #AntiHate, #AntiBullying, and #FreedomOfSpeech! 🌍💬 Organizations & individuals can now request moderation and admin rights or apply to become community owners. Join us! 🙌 #CommunityBuilding #Linkspreed #BringPower2ThePeople ```
+
 ### 27.09.2024
 - Topic: Web4 = Experience
 - Directory: /posts/2024/September/27
