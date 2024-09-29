@@ -6,6 +6,11 @@
 ## Stay up to date with our official social media announcements
 
 ### 29.09.2024
+- Topic: Coffee Community
+- Directory: /posts/2024/September/29
+- Description: ``` ☕️🎉 The first Daily Community is here! 🚀 We've built a community for coffee lovers! Share your passion for coffee and discover new brews with like-minded people. Check it out: coffee.web4.one #CoffeeLovers #DailyCommunity #Web4 ```
+
+### 29.09.2024
 - Topic: Daily Communities
 - Directory: /posts/2024/September/29
 - Description: ``` 🚀 Starting September 29th, 2024, we’ll be building a new Web4 community every single day! 🌐 Join the revolution and witness the future of social networks taking shape. 🛠️ #Web4 #Community #ShapingTheFuture #Innovation #Linkspreed ```
