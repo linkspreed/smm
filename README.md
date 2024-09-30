@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.09.2024
+- Topic: Anti Hate Community
+- Directory: /posts/2024/September/30
+- Description: ``` 🚀 We’ve launched the Anti-Hate Community on #Web4! 🌍 Join the movement at anti-hate.web4.one and stand for a positive, respectful world. 💬 Find us on #Web4Explore – This platform is ready for a new moderator! 🙌 Discover and shape it now! 💡 #NoHate #CommunityPower #SocialImpact ```
+
 ### 29.09.2024
 - Topic: Coffee Community
 - Directory: /posts/2024/September/29
