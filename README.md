@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.10.2024
+- Topic: October with Linkspreed
+- Directory: /posts/2024/October/01
+- Description: ``` 🎉🍂 Hello October! At Linkspreed, we’re moving full steam ahead with Web4 Lite 💡. We're launching hundreds of new communities and building 31 Daily Communities this month! Stay tuned for more 🚀. #Web4 #Linkspreed #CommunityPower #DailyCommunities ```
+
 ### 30.09.2024
 - Topic: Anti Hate Community
 - Directory: /posts/2024/September/30
