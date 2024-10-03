@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.10.2024
+- Topic: German Unity Day
+- Directory: /posts/2024/October/03
+- Description: ``` On German Unity Day, we’ve launched two new community networks: germany.web4.one and deutschland.web4.one! 🎉 Connect with people across the country and celebrate unity in Web4. 🌍 #GermanUnityDay #Web4 #Community #Germany ```
+
 ### 02.10.2024
 - Topic: Not 1, But 2 Communities per day!
 - Directory: /posts/2024/October/02
