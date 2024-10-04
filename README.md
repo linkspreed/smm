@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.10.2024
+- Topic: linkspreed.club -> linkspreed.web4.one
+- Directory: /posts/2024/October/04
+- Description: ``` 🎉 Linkspreed.club is now linkspreed.web4.one! 🚀 Welcome to our largest Web4 community – where you help shape the future! 🌐💬 #LinkspreedClub #Web4 #CommunityPower #ShapingTheFuture ```
+
 ### 03.10.2024
 - Topic: German Unity Day
 - Directory: /posts/2024/October/03
