@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.10.2024
+- Topic: Be smart and start your community 
+- Directory: /posts/2024/October/05
+- Description: ``` 🚀 Be smart and start your own community! With our platform solution, you can build your social network in just a few steps – designed your way! 🔥🌍 #BuildYourCommunity #BeSmart #Web4 #Linkspreed ```
+
 ### 04.10.2024
 - Topic: linkspreed.club -> linkspreed.web4.one
 - Directory: /posts/2024/October/04
