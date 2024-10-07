@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.10.2024
+- Topic: Web4 Explore
+- Directory: /posts/2024/October/07
+- Description: ``` 🌍 Discover new #Web4 communities every day! 🚀 At explore.web4.one, YOU can dive into niche networks and be part of the future. What’s YOUR next favorite community? 🔍💬 #CommunityDriven #Linkspreed #ExploreNow ```
+
+### 06.10.2024
+- Topic: 14 Communities per Week
+- Directory: /posts/2024/October/06
+- Description: ``` 🚀 In just 1 week, we're launching at least 14 new communities on the topics that matter most to all of us! 🌍 Join the movement and be part of the change. ✨💬 #CommunityPower #Web4 #ShapingTheFuture #LetsGo ```
+
 ### 05.10.2024
 - Topic: Be smart and start your community 
 - Directory: /posts/2024/October/05
