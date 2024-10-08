@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.10.2024
+- Topic: Linkspreed supports free speech
+- Directory: /posts/2024/October/08
+- Description: ``` 🌍 At Linkspreed, we stand for free speech and limitless community! 💬 With our platform Web4, we empower open exchange of ideas and perspectives. ✊ Join the movement and discover the power of connection! 🚀 #Linkspreed #Web4 #FreedomOfSpeech #CommunityPower #Innovation ```
+
 ### 07.10.2024
 - Topic: Web4 Explore
 - Directory: /posts/2024/October/07
