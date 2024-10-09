@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.10.2024
+- Topic: CommuniTEA
+- Directory: /posts/2024/October/09
+- Description: ``` 🍵 Welcome to the CommuniTEA! 🌍💬 Jump in and test our brand-new community with ease. We're launching 2 daily niche communities – perfect for you! Join us and explore the Web4 future! 🚀✨ #CommuniTEA #Web4 #ConnectingFriends #NewCommunity ```
+
 ### 08.10.2024
 - Topic: Linkspreed supports free speech
 - Directory: /posts/2024/October/08
