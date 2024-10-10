@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.10.2024
+- Topic: Wojak on Web4
+- Directory: /posts/2024/October/10
+- Description: ``` 🚀📈 Wojak has entered Web4! The iconic meme figure meets the next generation of social networks. Join us and experience the future of communities! 🌐👾 #Web4 #Wojak #FutureNow #Linkspreed ```
+
 ### 09.10.2024
 - Topic: CommuniTEA
 - Directory: /posts/2024/October/09
