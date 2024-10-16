@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.10.2024
+- Topic: It's time!
+- Directory: /posts/2024/October/16
+- Description: ``` 🚀 It's time to build your own community! 🌐 What are you waiting for? Start today and connect people that matter. 💬💡 #Web4 #CommunityPower #Linkspreed #YourPlatform #Networking ```
+
 ### 15.10.2024
 - Topic: Web4 & Fashion
 - Directory: /posts/2024/October/15
