@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.10.2024
+- Topic: Web4 & Google Play Store
+- Directory: /posts/2024/October/17
+- Description: ``` 🚀 It’s almost time! The Web4 and our first communities are coming to the Google Play Store! 📱 Get ready to experience the future of social networks, right on your smartphone! 🌐 #Web4 #CommunityRevolution #Linkspreed #GooglePlay ```
+
 ### 16.10.2024
 - Topic: It's time!
 - Directory: /posts/2024/October/16
