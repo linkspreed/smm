@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.10.2024
+- Topic: Web4 is coming to your region!
+- Directory: /posts/2024/October/19
+- Description: ``` 🌍🚀 Web4 is coming to your region, no matter where you are! 💻🌐 Whether in a big city or a remote village – we're bringing the future of communities straight to you. 🔗 Want to be part of Web4? 👉 Contact us! #Web4 #Future #Community #Innovation #Global ```
+
 ### 18.10.2024
 - Topic: Peer Community
 - Directory: /posts/2024/October/18
