@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.10.2024
+- Topic: Web4 & Freedom of Speech
+- Directory: /posts/2024/October/20
+- Description: ``` Freedom of speech is one of the most important elements of our communication! 🗣️💬 According to Wikipedia: "Freedom of speech is a principle that supports the freedom of an individual or a community to articulate their opinions and ideas without fear of retaliation, censorship, or legal sanction." It has been recognized as a human right by the UN and is protected by constitutional law in many countries. 🌍 At Linkspreed and #Web4, we firmly believe that this free expression is the foundation of a true, thriving community – and it is our highest value! 🚀✨ #FreedomOfSpeech #FreeExpression #Web4 #Linkspreed #Communication #HumanRights #Community ```
+
 ### 19.10.2024
 - Topic: Web4 is coming to your region!
 - Directory: /posts/2024/October/19
