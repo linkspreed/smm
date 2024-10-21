@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.10.2024
+- Topic: Support Your Community
+- Directory: /posts/2024/October/21
+- Description: ``` 🌟✨ You have the chance to do something great for your favorite community! Support them by introducing our community application Web4 – perfect for any industry! 🎉✨ And the best part? It’s free! 💖💬 Let’s create something amazing together! 💪 #Web4 #CommunitySupport #Linkspreed #TogetherStronger ```
+
 ### 20.10.2024
 - Topic: Web4 & Freedom of Speech
 - Directory: /posts/2024/October/20
