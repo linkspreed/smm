@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.10.2024
+- Topic: The Web4 Vibe
+- Directory: /posts/2024/October/24
+- Description: ``` 🚀 Don’t miss out on the Web4 Vibe! The future of social networks is here, and it’s decentralized, smart, and community-driven. 🌍 Be part of the revolution, where your data is yours, and your community is limitless! Join now and ride the wave of the next-gen web. 🌟 #Web4 #NextGen #SocialNetworks #FutureOfTech #CommunityPower ```
+
 ### 23.10.2024
 - Topic: Independent Communities & Web4
 - Directory: /posts/2024/October/23
