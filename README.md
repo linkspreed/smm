@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.10.2024
+- Topic: Web4 - Next Generation
+- Directory: /posts/2024/October/25
+- Description: ``` 🚀 The next generation of Web4 is coming! 💡 Our developers are hard at work on a groundbreaking update – get ready to experience the future of the web in the coming months! 🔥 #Web4 #Innovation #Future #StayTuned #Linkspreed ```
+
 ### 24.10.2024
 - Topic: The Web4 Vibe
 - Directory: /posts/2024/October/24
