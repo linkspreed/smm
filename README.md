@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.10.2024
+- Topic: Build Your Facebook
+- Directory: /posts/2024/October/26
+- Description: ``` 🎉 Build your own Facebook in just 15 minutes? That’s not sci-fi – that’s Web4! 🚀 With our platform, you can create a social network tailored to your community, business, city, or even a festival. Customize every detail and make it truly yours! 💪🌐👉 Experience the freedom of Web4 and get started today at explore.web4.one or web4.one! #Web4 #YourCommunity #SocialNetwork #BuildYourOwn #DigitalFuture #15MinutePower #Linkspreed ```
+
 ### 25.10.2024
 - Topic: Web4 - Next Generation
 - Directory: /posts/2024/October/25
