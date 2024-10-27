@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.10.2024
+- Topic: SNaaS = Social Networks as a Service
+- Directory: /posts/2024/October/27
+- Description: ``` Ever heard of SNaaS? 🤔 At Linkspreed, it means Social Networks as a Service! 🚀 We build custom community platforms for companies & communities looking to boost connection and engagement. Ready for the next level of the web? 💡👇 #Linkspreed #SNaaS #Web4 #FutureOfCommunity ```
+
 ### 26.10.2024
 - Topic: Build Your Facebook
 - Directory: /posts/2024/October/26
