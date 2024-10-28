@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.10.2024
+- Topic: Intranets for the public
+- Directory: /posts/2024/October/28
+- Description: ``` 🌐 At Linkspreed, we’re creating custom social networks with #Web4 for every community – like an intranet for everyone! 🚀 Connect people, ideas & solutions in every niche. Get ready for the next evolution of social networks! 💡 #IntranetForThePublic #Linkspreed #CommunityFirst ```
+
 ### 27.10.2024
 - Topic: SNaaS = Social Networks as a Service
 - Directory: /posts/2024/October/27
