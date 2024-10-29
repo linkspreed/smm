@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.10.2024
+- Topic: Build Your Social Network
+- Directory: /posts/2024/October/29
+- Description: ``` 🚀 Want to build your own social network? With Web4, you can get started today – easy, fast, and soon completely on your own! 🛠️🎉 Be part of the next generation of social networks and create your community, just the way you envision! #Web4 #YourNetwork #CommunityPower #Future #Innovation 🌐✨ ```
+
 ### 28.10.2024
 - Topic: Intranets for the public
 - Directory: /posts/2024/October/28
