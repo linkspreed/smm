@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.10.2024
+- Topic: Linkspreed - Halloween
+- Directory: /posts/2024/October/31
+- Description: ``` 👻🎃 Halloween is EVERY DAY at Linkspreed – Tricks, no Treats! 🎩💀 From spooky updates to hauntingly cool features, we're here to keep you on your toes! Ready to join the eerie community vibe? 🕸️🚀💬 #TrickOrTreat #LinkspreedHalloween #Web4Magic ```
+
 ### 30.10.2024
 - Topic: Independent Communities
 - Directory: /posts/2024/October/30
