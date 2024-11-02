@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.11.2024
+- Topic: Vote Free Speech
+- Directory: /posts/2024/November/02
+- Description: ``` 📢 On November 4th, it’s about more than a vote – it’s about the freedom of speech! Choose #FreeSpeech as the foundation of #Web4! 🗳️ Let’s stand together for a world where every voice matters. Learn more: https://trump.web4.one 🌐✊ ```
+
 ### 01.11.2024
 - Topic: November & Linkspreed x Web4
 - Directory: /posts/2024/November/01
