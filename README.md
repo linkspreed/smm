@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.11.2024
+- Topic: Build Your Social Network with Web4
+- Directory: /posts/2024/November/03
+- Description: ``` Build your own social network with #Web4? You got it! 🚀 Connect your community, share content, and shape your unique platform 🌍🔧 Why wait? It’s your network, your rules! 💪💬 #Web4 #CommunityFirst #YourNetwork ```
+
 ### 02.11.2024
 - Topic: Vote Free Speech
 - Directory: /posts/2024/November/02
