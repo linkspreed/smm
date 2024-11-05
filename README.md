@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.11.2024
+- Topic: Citizen Journalism
+- Directory: /posts/2024/November/05
+- Description: ``` At Linkspreed, we believe in the impact of #CitizenJournalism! 📰🌍 If you're not #MainstreamMedia and you’re sharing real news, we’ll sponsor your own social network on #Web4! 🚀 Reach out, and let’s change the media landscape together. ✊ #Linkspreed #Web4 #IndependentMedia #Journalism ```
+
 ### 04.11.2024
 - Topic: Creator Community
 - Directory: /posts/2024/November/04
