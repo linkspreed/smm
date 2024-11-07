@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.11.2024
+- Topic: You're the Voice
+- Directory: /posts/2024/November/07
+- Description: ``` You are the voice! 📢 You create the space for real conversations, for everyone who wants to be heard. On #Linkspreed and #Web4, you decide what’s shared – your thoughts, your ideas. For free networks, for free expression. #FreeSpeech #WeAreCommunity 🌐✊ ```
+
 ### 06.11.2024
 - Topic: Congratulations Donald J. Trump
 - Directory: /posts/2024/November/06
