@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.11.2024
+- Topic: Free Media
+- Directory: /posts/2024/November/08
+- Description: ``` 📢 Free media are the heartbeat of democracy! 🌍🌐 With #Web4, we’re building platforms that amplify #Diversity and #Inclusion across the media landscape. Our social networks and communities elevate voices that would otherwise go unheard! 🎤✨ Everyone can create, shape, and be heard. #FreeMedia #CommunityPower #Linkspreed #DigitalTransformation ```
+
 ### 07.11.2024
 - Topic: You're the Voice
 - Directory: /posts/2024/November/07
