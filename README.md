@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.11.2024
+- Topic: Web4 = Free Speech
+- Directory: /posts/2024/November/11
+- Description: ``` 🌐 Web4 is the future of #FreeSpeech – where ideas flow freely and boundaries disappear! 🗣️✨ At #Linkspreed, you shape your own social universe, whether as a community or a business! 🌍🚀 #Web4 #Future #Freedom #Community #Innovation ```
+
 ### 10.11.2024
 - Topic: Diverse Media
 - Directory: /posts/2024/November/10
