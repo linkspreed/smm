@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.11.2024
+- Topic: Web4 comes to the Google Playstore
+- Directory: /posts/2024/November/12
+- Description: ``` 🚀 Breaking News! Linkspreed expands to the Playstore! 🎉 Now, even more Web4 communities are available as an app 📲 Thanks to our strong partnership, we’re taking connected communities to the next level 🌐💪 #Linkspreed #Web4 #CommunityRevolution #NowOnPlaystore #SocialNetworking ```
+
 ### 11.11.2024
 - Topic: Web4 = Free Speech
 - Directory: /posts/2024/November/11
