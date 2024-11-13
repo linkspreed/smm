@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.11.2024
+- Topic: Web4 Lite 1.1
+- Directory: /posts/2024/November/13
+- Description: ``` 🚀 Linkspreed is about to release Web4 Lite 1.1! 🎉 Our fully free, open-source platform is getting an upgrade 💪. Look forward to new features and an even stronger community 🌐💫. #OpenSource #Web4 #CommunityPower #Update #Innovation ```
+
 ### 12.11.2024
 - Topic: Web4 comes to the Google Playstore
 - Directory: /posts/2024/November/12
