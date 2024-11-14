@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.11.2024
+- Topic: Web4 Podcast
+- Directory: /posts/2024/November/14
+- Description: ``` 🚀 Curious about Web4? In just a few minutes, our podcast will break it down for you! 🌐✨👂 #Web4 #Innovation #Linkspreed 🎧 Tune in now: https://youtu.be/P-Or1Wc4p6M?si=d4-IuBPAUdOrVa9R ```
+
 ### 13.11.2024
 - Topic: Web4 Lite 1.1
 - Directory: /posts/2024/November/13
