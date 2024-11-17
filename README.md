@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.11.2024
+- Topic: 100+ Daily Communitys
+- Directory: /posts/2024/November/17
+- Description: ``` 🚀 100+ daily communities built in the last 50 days – powered by Linkspreed for Web4! 🌐 Join the revolution and explore the future of communities. 🔥 #Web4 #Innovation #DailyCommunities ```
+
 ### 16.11.2024
 - Topic: Discover Decentralization
 - Directory: /posts/2024/November/16
