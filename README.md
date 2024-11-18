@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.11.2024
+- Topic: Web4 App
+- Directory: /posts/2024/November/18
+- Description: ``` 🎉 The Web4 app is submitted to the Play Store and launching VERY soon! 🚀📱 10,000+ communities in one app under 5MB – something the world has never seen before! 🌐🔥 #Web4 #CommunityPower #TechInnovation #ComingSoon ```
+
 ### 17.11.2024
 - Topic: 100+ Daily Communitys
 - Directory: /posts/2024/November/17
