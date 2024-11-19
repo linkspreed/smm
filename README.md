@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.11.2024
+- Topic: Spreeed Web4 Communities
+- Directory: /posts/2024/November/19
+- Description: ``` 🌟 LINKSPREED is here to SPREAD! 🌐 We’re spreading social networks into the future. 🚀🌱 More connections. 💬 More communities. 💡 More innovation. The Web4 journey starts now! #Linkspreed #Web4 #SpreadWithSpreed ```
+
 ### 18.11.2024
 - Topic: Web4 App
 - Directory: /posts/2024/November/18
