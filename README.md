@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.11.2024
+- Topic: Social Networks as a Software
+- Directory: /posts/2024/November/20
+- Description: ``` Web4 is here: Social Networks as a Service for communities and businesses. Tailored, sustainable, connected. 🚀 Join the revolution! #Web4 #SocialNetworks #Innovation ```
+
 ### 19.11.2024
 - Topic: Spreeed Web4 Communities
 - Directory: /posts/2024/November/19
