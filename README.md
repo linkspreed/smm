@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.11.2024
+- Topic: Native Web4 App
+- Directory: /posts/2024/November/21
+- Description: ``` 🚀 Your Web4 community as an app? Not a dream anymore! With us, you can quickly transform your own social network into native Android & iOS apps. 🎉 📱 We’ve made the process seamless – and we’re here to help! 💡🌐 #Web4 #CommunityPower #AppRevolution ```
+
 ### 20.11.2024
 - Topic: Social Networks as a Software
 - Directory: /posts/2024/November/20
