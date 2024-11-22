@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.11.2024
+- Topic: Your opinion matters 
+- Directory: /posts/2024/November/22
+- Description: ``` Your opinion matters! 🚀 We're giving you the power to build your own independent decentralized community on Web4. 🌐 Be part of the future of social networks! 💬 #Web4 #DecentralizedCommunity #ShapeTheFuture #CommunityFirst #Linkspreed ```
+
 ### 21.11.2024
 - Topic: Native Web4 App
 - Directory: /posts/2024/November/21
