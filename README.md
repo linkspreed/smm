@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.11.2024
+- Topic: Your Community Your Choice 
+- Directory: /posts/2024/November/23
+- Description: ``` In your Web4 community, YOU call the shots! 👑 Everything runs YOUR way. 🚀 No ads, no limits – just your vision. 🌍💡
+👉 Start now: web4.one
+#Web4 #CommunityRevolution #YourRules ```
+
 ### 22.11.2024
 - Topic: Your opinion matters 
 - Directory: /posts/2024/November/22
