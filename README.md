@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.11.2024
+- Topic: JAPAN x Web4 
+- Directory: /posts/2024/November/24
+- Description: ``` 🍣 Japan has joined Web4! Our new community blends innovation and tradition—just like sushi. 🌐💡 Dive in: japan.web4.one 🗾✨ #Web4 #Japan #SushiTech #CommunityPower ```
+
 ### 23.11.2024
 - Topic: Your Community Your Choice 
 - Directory: /posts/2024/November/23
