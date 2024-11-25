@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.11.2024
+- Topic: Football x Web4 
+- Directory: /posts/2024/November/25
+- Description: ``` 🏈 Discover the Football Community on Web4! Join football.web4.one for everything about your favorite sport – from discussions to fan events. 🌍 One of thousands of communities on Web4! Are you ready? 🚀 #Web4 #Football #Community #FutureReady ```
+
 ### 24.11.2024
 - Topic: JAPAN x Web4 
 - Directory: /posts/2024/November/24
