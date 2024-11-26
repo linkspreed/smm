@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.11.2024
+- Topic: DIY & Web4
+- Directory: /posts/2024/November/26
+- Description: ``` ✨ Build your own community! ✨ From DIY projects 🛠️ to travel 🌍 and gaming 🎮 – explore thousands of unique Web4 communities that inspire you! 💡
+➡️ Check it out now: explore.web4.one #Web4 #CommunityDriven #DIYLife ```
+
 ### 25.11.2024
 - Topic: Football x Web4 
 - Directory: /posts/2024/November/25
