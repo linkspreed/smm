@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.11.2024
+- Topic: F1 & Racing Cars Communities on Web4
+- Directory: /posts/2024/November/27
+- Description: ``` 🏎️🔥 Dive into the world of racing cars & Formula 1 in our new communities! Connect with fans, share your insights, and experience the thrill of the track like never before! 🚥👨‍🔧 Check it out now: f1.web4.one & RacingCars.web4.one 🏁 #Formula1 #Motorsport #Web4 #Racing ```
+
 ### 26.11.2024
 - Topic: DIY & Web4
 - Directory: /posts/2024/November/26
