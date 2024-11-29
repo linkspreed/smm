@@ -5,12 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.11.2024
+- Topic: Black Friday
+- Directory: /posts/2024/November/29
+- Description: ``` 🚀 Black Friday Deal at Linkspreed! 🌐 Get your own Web4 Enterprise network – now with up to 90% off! 😱 Practically free! 🤑 #Web4 #BlackFriday #CommunityRevolution #Linkspreed ```
+
 ### 28.11.2024
 - Topic: Thanksgiving & Web4
 - Directory: /posts/2024/November/28
 - Description: ``` 🦃🍂 This Thanksgiving, it's more than just turkey and pumpkin pie: Discover 10,000+ communities on Web4! 🌐✨ From niche interests to global topics – find your digital home today! 🚀
-👉 Explore now: web4.one
-#Web4 #CommunityPower #Thanksgiving #DigitalInnovation ```
+👉 Explore now: web4.one #Web4 #CommunityPower #Thanksgiving #DigitalInnovation ```
 
 ### 27.11.2024
 - Topic: F1 & Racing Cars Communities on Web4
