@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.11.2024
+- Topic: Web4 Communities from all Niches
+- Directory: /posts/2024/November/30
+- Description: ``` Looking for people who share your passions? 💡 Whether it's drones, minimalism, or goat yoga 🐐 – there’s a #Web4 community for EVERYTHING! 🚀 Explore the possibilities on web4.one/explore and find your tribe! 🌟 #CommunityPower #FutureIsNow ```
+
 ### 29.11.2024
 - Topic: Black Friday
 - Directory: /posts/2024/November/29
