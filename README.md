@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.12.2024
+- Topic: December & Web4
+- Directory: /posts/2024/December/01
+- Description: ``` December at Linkspreed is getting intense! 🔥 We're gearing up for the full automation of Web4 with SNaaS, set to roll out by January 2025! 🚀👩‍💻 Ready for the future of social networks? #Web4 #SNaaS #Innovation #CommunityTech #Linkspreed ```
+
 ### 30.11.2024
 - Topic: Web4 Communities from all Niches
 - Directory: /posts/2024/November/30
