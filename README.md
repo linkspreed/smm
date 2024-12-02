@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.12.2024
+- Topic: SNaaS - January 2025
+- Directory: /posts/2024/December/02
+- Description: ``` 🚀 Web4 is taking off! Did you know we might launch SNaaS as early as January 2025? 🗓️ Build your social network in just 15 seconds! 🕒✨#Web4 #SNaaS #FutureReady #Linkspreed ```
+
 ### 01.12.2024
 - Topic: December & Web4
 - Directory: /posts/2024/December/01
