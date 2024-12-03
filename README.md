@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.12.2024
+- Topic: Matrix Community on Web4
+- Directory: /posts/2024/December/03
+- Description: ``` Always been fascinated by the Matrix? 🌀💡 Dive into the Matrix Community on Web4 at https://matrix.web4.one! 🌍🚀 Explore even more exciting communities here: web4.one/explore #Web4 #Matrix #CommunityPower ```
+
 ### 02.12.2024
 - Topic: SNaaS - January 2025
 - Directory: /posts/2024/December/02
