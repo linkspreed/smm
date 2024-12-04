@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.12.2024
+- Topic: 80s & 90s communities on Web4
+- Directory: /posts/2024/December/04
+- Description: ``` 📀✨ Blast from the past! Web4 now hosts the ultimate 80s and 90s communities! 🕺💾 Relive the retro vibes, connect with fellow nostalgia lovers, and share your memories! 🌟👉 Visit: 80s.web4.one & 90s.web4.one 🎉 #RetroVibes #Web4 #80s #90s #CommunityLove 🎶💿 ```
+
 ### 03.12.2024
 - Topic: Matrix Community on Web4
 - Directory: /posts/2024/December/03
