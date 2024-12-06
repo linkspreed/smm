@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.12.2024
+- Topic: D.O.G.E Community
+- Directory: /posts/2024/December/06
+- Description: ``` 🏛️💼 Welcome to the D.O.G.E. Community – Department of Government Efficiency on #Web4! 🚀 Together, we’re shaping smarter governance and future-ready solutions. 🌐✨👉 Check it out: https://doge.web4.one #Innovation #GovernmentEfficiency #Web4 ```
+
 ### 05.12.2024
 - Topic: Web4 SNaaS - More automation
 - Directory: /posts/2024/December/05
