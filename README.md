@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.12.2024
+- Topic: 2025 Community
+- Directory: /posts/2024/December/07
+- Description: ``` 🔥 2025 is just around the corner! Ready to crush your goals for the new year? 🚀 The community for your vision is waiting! 🌟 👉 Sign up now: 2025.web4.one Explore more exciting communities here: web4.one/explore 🌐 #Web4 #CommunityGoals #NewYearNewMe ```
+
 ### 06.12.2024
 - Topic: D.O.G.E Community
 - Directory: /posts/2024/December/06
