@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.12.2024
+- Topic: Just Web4 It
+- Directory: /posts/2024/December/08
+- Description: ``` 🚀 "Just Web4 It" – the slogan of a new era! 🌐 With Web4, we're shaping the communities of tomorrow – decentralized, interactive, and unique. 🌟 Join Linkspreed in crafting the digital future. 🔗✨ #Web4 #CommunityRevolution #Linkspreed ```
+
 ### 07.12.2024
 - Topic: 2025 Community
 - Directory: /posts/2024/December/07
