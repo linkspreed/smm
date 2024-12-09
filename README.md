@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.12.2024
+- Topic: Clash of Communities
+- Directory: /posts/2024/December/09
+- Description: ``` ⚔️ Clash of Communitys has arrived! 🏰 Build, grow, and defend your own community in Web4 – the ultimate battle starts NOW! 💥 Are you ready to showcase your strategy? 🚀➡️ web4.one/explore #ClashOfCommunitys #Web4 #UnitedWeStand ```
+
 ### 08.12.2024
 - Topic: Just Web4 It
 - Directory: /posts/2024/December/08
