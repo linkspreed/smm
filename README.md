@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.12.2024
+- Topic: Behind the scenes @Linkspreed
+- Directory: /posts/2024/December/10
+- Description: ``` 🌍🤝 United across continents! Our team bridges Brazil 🇧🇷 and Germany 🇩🇪 to shape the future of communities. Discover how global collaboration drives innovation! 🚀 #Web4 #GlobalTeam #Innovation ```
+
 ### 09.12.2024
 - Topic: Clash of Communities
 - Directory: /posts/2024/December/09
