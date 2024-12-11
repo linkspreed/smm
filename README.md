@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.12.2024
+- Topic: Your Path to Web4
+- Directory: /posts/2024/December/11
+- Description: ``` 🚀 Dreaming of your own social network? We make it easier than ever! With our Web4 tech, you can build a connecting community in minutes. 🌐💡👉 Get started now: web4.one #Web4 #CommunityBuilding #SocialNetwork ```
+
 ### 10.12.2024
 - Topic: Behind the scenes @Linkspreed
 - Directory: /posts/2024/December/10
