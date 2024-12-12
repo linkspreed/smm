@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.12.2024
+- Topic: Build Your Web4 Community
+- Directory: /posts/2024/December/12
+- Description: ``` 🌐🚀 Web4 is the future of social networks! ❌ No monopolies. ✅ Built by everyone, for everyone. Create your own community and join the real digital revolution. ✨💡👉 Check it out: web4.one #Web4 #CommunityFirst #DigitalRevolution #OpenSocial ```
+
 ### 11.12.2024
 - Topic: Your Path to Web4
 - Directory: /posts/2024/December/11
