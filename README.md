@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.12.2024
+- Topic: SNaaS
+- Directory: /posts/2024/December/13
+- Description: ``` 🚀 2025 is going to be groundbreaking! 🌐 We're launching Social Networks as a Service (SNaaS): the fully automated SaaS version of Web4. 💡 No setup, no boundaries – just limitless communities! 🛠️ #Web4 #SNaaS #ShapeTheFuture ```
+
 ### 12.12.2024
 - Topic: Build Your Web4 Community
 - Directory: /posts/2024/December/12
