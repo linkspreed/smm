@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.12.2024
+- Topic: Build Your Social Network - Build Your Community
+- Directory: /posts/2024/December/14
+- Description: ``` We're building thousands of communities through thousands of social networks! 🌐 Every niche, every city, every idea – your own space. 🏡👉 Discover the future with #Web4 & #Linkspreed 🚀🌟 Join us! Together, we shape the next era of social networks. #Communities #SocialMediaRevolution #Innovation ```
+
 ### 13.12.2024
 - Topic: SNaaS
 - Directory: /posts/2024/December/13
