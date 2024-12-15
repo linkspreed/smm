@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.12.2024
+- Topic: No algorithms, ever!
+- Directory: /posts/2024/December/15
+- Description: ``` ✨ No algorithms, ever! ✨ At Linkspreed in #Web4, YOU decide what matters. 🚀 Build your social network freely based on your interests and community – no algorithm interference. 🤝 #YourCommunity #Web4Revolution ```
+
 ### 14.12.2024
 - Topic: Build Your Social Network - Build Your Community
 - Directory: /posts/2024/December/14
