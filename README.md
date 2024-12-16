@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.12.2024
+- Topic: Your Web4 Community - Your Identity
+- Directory: /posts/2024/December/16
+- Description: ``` 💡 Your community, your rules, your design – Web4 makes community building uniquely you! ✨ Build a platform that reflects your identity. 🛠️ 💬🚀 Shape the future with your community!👉 Try it now: web4.one #Web4 #CommunityDesign #FutureOfSocial #YourRulesYourWorld ```
+
 ### 15.12.2024
 - Topic: No algorithms, ever!
 - Directory: /posts/2024/December/15
