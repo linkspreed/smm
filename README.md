@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.12.2024
+- Topic: Web4
+- Directory: /posts/2024/December/17
+- Description: ``` 🎉 We're celebrating Web4! 🚀 Be part of the revolution – whether as a community admin, moderator, or member. 💡 Explore Linkspreed's 10X solutions and shape the future with us. 🌐 Your place in Web4 is waiting! 🫶👉 Join now: https://web4.one #Web4 #CommunityPower #Innovation #Linkspreed ```
+
 ### 16.12.2024
 - Topic: Your Web4 Community - Your Identity
 - Directory: /posts/2024/December/16
