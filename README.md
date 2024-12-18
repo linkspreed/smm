@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.12.2024
+- Topic: Web4 Bro
+- Directory: /posts/2024/December/18
+- Description: ``` My bro just joined the 🚀 Web4 revolution and is all set for the future! 🌐 No boundaries, just freedom for communities and businesses. 💡 Who’s in? 👉 web4.one #Web4 #NextGen #TheFutureIsNow ```
+
 ### 17.12.2024
 - Topic: Web4
 - Directory: /posts/2024/December/17
