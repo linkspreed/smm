@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.12.2024
+- Topic: Web4 x UI4
+- Directory: /posts/2024/December/20
+- Description: ``` 🌐🚀 Web4 stays on top – but now UI4 joins the game! 🛡️📱 With Web4 and UI4, we empower you with full control over your data and the digital world. 💪🔒👉 Be part of the revolution! 💻 #Web4 #UI4 #DataSecurity #Linkspreed ```
+
 ### 19.12.2024
 - Topic: Web4 Nodes
 - Directory: /posts/2024/December/19
