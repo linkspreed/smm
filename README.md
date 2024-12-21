@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.12.2024
+- Topic: Web4 - Free Speech
+- Directory: /posts/2024/December/21
+- Description: ``` 💬 Freedom of speech is the core of #Web4! 🌍 Without it, humanity stands still – with it, we thrive. 🌱 We empower true innovation by amplifying open dialogue. 🚀 More freedom, more progress. 👉 Learn more: web4.one #Innovation #FreedomOfSpeech #Web4 ```
+
 ### 20.12.2024
 - Topic: Web4 x UI4
 - Directory: /posts/2024/December/20
