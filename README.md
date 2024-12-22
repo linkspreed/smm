@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.12.2024
+- Topic: Every Community on Web4
+- Directory: /posts/2024/December/22
+- Description: ``` 🎉 Calling all community creators! 🚀 From gaming to art, education to start-ups – we’re integrating every community into #Web4. 🌐📢 Your idea, your platform! Join the future now. 💡👉 Build your network with us: web4.one 🚪 #Community #Innovation #Web4 #YourPlatform ```
+
 ### 21.12.2024
 - Topic: Web4 - Free Speech
 - Directory: /posts/2024/December/21
