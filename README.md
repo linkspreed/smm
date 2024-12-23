@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.12.2024
+- Topic: Web4 Instances = Super Apps
+- Directory: /posts/2024/December/23
+- Description: ``` ✨🌍 Web4 instances are your very own mini super apps! Build your independent platform, customize it your way, and join the next internet revolution! 🚀💡 #Web4 #SuperApp #YourCommunity ```
+
 ### 22.12.2024
 - Topic: Every Community on Web4
 - Directory: /posts/2024/December/22
