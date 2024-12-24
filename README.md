@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.12.2024
+- Topic: Merry Christmas
+- Directory: /posts/2024/December/24
+- Description: ``` 🎅🎄 Merry Christmas to all Web4 communities! 🎁✨ Celebrate the season in your 💬 community – big things are coming in 2025! 🚀🎉
+💡 #Web4 #CommunityLove #ChristmasVibes ```
+
 ### 23.12.2024
 - Topic: Web4 Instances = Super Apps
 - Directory: /posts/2024/December/23
