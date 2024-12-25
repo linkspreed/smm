@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.12.2024
+- Topic: Many Communities on Web4
+- Directory: /posts/2024/December/25
+- Description: ``` Did you know? #Web4 hosts countless communities for every niche – from 🎮 gaming to 🎨 art. Each platform is decentralized and independent, yet together they form the Web4 ecosystem. 🌐 Welcome to the future of communities! #CommunityPower #Decentralization #Web4Explore ```
+
 ### 24.12.2024
 - Topic: Merry Christmas
 - Directory: /posts/2024/December/24
