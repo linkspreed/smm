@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.12.2024
+- Topic: Web4 & AI in 2025
+- Directory: /posts/2024/December/28
+- Description: ``` 2025 is the year where AI meets Web4 🌐! 🤖✨ We’re bringing even smarter tech to revolutionize communities. 🚀 Are you ready for the future? #Web4 #AI #Innovation #CommunityPower ```
+
 ### 27.12.2024
 - Topic: Web4 is the multivitamin for your social media time!
 - Directory: /posts/2024/December/27
