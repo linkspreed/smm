@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.12.2024
+- Topic: Web4 Free Speech
+- Directory: /posts/2024/December/29
+- Description: ``` At Linkspreed, we put free speech at the heart of the new internet! 🗣️✨ With Web4, we’re building a platform that’s free, secure, and inclusive—for communities that truly thrive together. 🚀💬 Learn more: linkspreed.com 🌐 #Web4 #FreeSpeech #FutureOfInternet #Linkspreed 🌍 ```
+
 ### 28.12.2024
 - Topic: Web4 & AI in 2025
 - Directory: /posts/2024/December/28
