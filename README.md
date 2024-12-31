@@ -5,8 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.12.2024
+- Topic: Web4 2024 - 2025
+- Directory: /posts/2024/December/31
+- Description: ``` ✨ Happy New Year! 🎉 Wishing you an amazing start to 2025! 🚀 Exciting developments ahead in #Web4 🌐 & #Linkspreed 💡 – stay tuned and shape the future of communities with us! 💬 #NewYear #Innovation ```
+
 ### 30.12.2024
-- Topic: Web4 2024 Review
+- Topic: Web4 2024 Recap
 - Directory: /posts/2024/December/30
 - Description: ``` 2024 was amazing for Linkspreed! 🚀 We branded Web4, had inspiring talks, built a strong team, and shaped the future of software. But 2025 is going to be even bigger! 💡✨ #Linkspreed #Web4 #BuildingTheFuture ```
 
