@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.01.2025
+- Topic: January with Linkspreed
+- Directory: /posts/2025/January/01
+- Description: ``` 🎉 Happy New Year 2025! We're kicking off with 🚀 new communities on Web4, a strong 💬 commitment to free speech, and a 🌍 bold vision for Web4! Enjoy January with us at Linkspreed and in Web4! 🥳🌐❤️ #Web4 #Linkspreed #Community #FreeSpeech #2025 ```
+
 ### 31.12.2024
 - Topic: Web4 2024 - 2025
 - Directory: /posts/2024/December/31
