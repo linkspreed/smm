@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.01.2025
+- Topic: Build Web4 Communities
+- Directory: /posts/2025/January/02
+- Description: ``` 🚀 Request your own Web4 community today! 💬 Connect people, 🌍 expand reach, and 💡 build the future. Perks? Ad-free, secure & future-proof! ✨ ➡️ Check it out: web4.one #Web4 #Community #Innovation #FutureReady ```
+
 ### 01.01.2025
 - Topic: January with Linkspreed
 - Directory: /posts/2025/January/01
