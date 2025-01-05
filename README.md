@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.01.2025
+- Topic: Web4 on UI4
+- Directory: /posts/2025/January/05
+- Description: ``` 🌐🚀 Linkspreed is shaping the future! We're building Web4 powered by our groundbreaking UI4 model. 🌟 More connection, more efficiency, more community! 🧑‍🤝‍🧑💬 Join the movement! 🖥️ #Web4 #Linkspreed #Innovation ```
+
 ### 04.01.2025
 - Topic: Web4 & AI
 - Directory: /posts/2025/January/04
