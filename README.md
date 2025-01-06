@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.01.2025
+- Topic: Web4 - A new fork in the road of the internet
+- Directory: /posts/2025/January/06
+- Description: ``` 🌐🚀 With #Web4, we’re building a fork in the road of the internet to redefine it – decentralized, secure, and for everyone! ✨ Are you ready for the next era? #FutureOfTheNet #Web4Revolution 💡💻 ```
+
 ### 05.01.2025
 - Topic: Web4 on UI4
 - Directory: /posts/2025/January/05
