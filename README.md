@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.01.2025
+- Topic: Web4 - A new level of decentralization
+- Directory: /posts/2025/January/07
+- Description: ``` 🚀🌐 Taking decentralization to the next level! With Web4, we’re building networks powered by communities. Your network, your rules. 🛠️✨ 👉 Join the revolution: web4.one #Web4 #Decentralization #NextLevel #CommunityPower #Linkspreed ```
+
 ### 06.01.2025
 - Topic: Web4 - A new fork in the road of the internet
 - Directory: /posts/2025/January/06
