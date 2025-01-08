@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.01.2025
+- Topic: Web4 > Just Social Networks
+- Directory: /posts/2025/January/08
+- Description: ``` Web4 is more than just a network of social networks – it’s the vision of a new Internet! 🌐✨ A space where communities take control, and innovation knows no limits. 🚀 Are you ready for the future? 💡 #Web4 #FutureOfInternet #CommunityRevolution ```
+
 ### 07.01.2025
 - Topic: Web4 - A new level of decentralization
 - Directory: /posts/2025/January/07
