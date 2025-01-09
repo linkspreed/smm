@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.01.2025
+- Topic: Web4 from the power socket
+- Directory: /posts/2025/January/09
+- Description: ``` What if #Web4 came straight from your power socket? 🔌🌐 Imagine the ultimate, like REALLY ultimate decentralization – all in your hands! 🚀 #Future #Decentralization #Web4Revolution ```
+
 ### 08.01.2025
 - Topic: Web4 > Just Social Networks
 - Directory: /posts/2025/January/08
