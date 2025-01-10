@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.01.2025
+- Topic: Hello Web4
+- Directory: /posts/2025/January/10
+- Description: ``` 🌟 Hello, Web4! The future of social networks starts NOW: decentralized, transparent, and fully in your hands. 🌍✨ Join the revolution and reimagine communities!👉 #Web4 #Innovation #Future ```
+
 ### 09.01.2025
 - Topic: Web4 from the power socket
 - Directory: /posts/2025/January/09
