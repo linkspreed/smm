@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.01.2025
+- Topic: Web4: An internet that belongs to you – and all of us!
+- Directory: /posts/2025/January/11
+- Description: ``` 💡 Web4: An internet that belongs to you – and all of us! 🌐 Imagine a world where community is at the core, and everyone is part of the digital transformation. 🤝✨ This isn’t a dream – it’s Web4! 🚀 #Web4 #Decentralized #CommunityFirst ```
+
 ### 10.01.2025
 - Topic: Hello Web4
 - Directory: /posts/2025/January/10
