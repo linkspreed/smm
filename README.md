@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.01.2025
+- Topic: Web4
+- Directory: /posts/2025/January/12
+- Description: ``` In #Web4, YOU design your own social network! 🎨👨‍💻 Build your community 🌐, control moderation 🛡️, and shape the future of the internet. 🚀✨ #OwnYourNetwork #YourRules #Web4Innovation ```
+
 ### 11.01.2025
 - Topic: Web4: An internet that belongs to you – and all of us!
 - Directory: /posts/2025/January/11
