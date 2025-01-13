@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.01.2025
+- Topic: Web4 SNaaS
+- Directory: /posts/2025/January/13
+- Description: ``` 🚀 Build your own social network in no time! With Web4 SNaaS 🛠️, take your community to the next level – customizable, efficient, and ad-free 🌐💬 #Web4 #CommunityFirst #SocialMediaRevolution 🌟 ```
+
 ### 12.01.2025
 - Topic: Web4
 - Directory: /posts/2025/January/12
