@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.01.2025
+- Topic: Web4: The Internet of Hope!
+- Directory: /posts/2025/January/14
+- Description: ``` 🌍✨ Web4: The Internet of Hope! 🕊️ No monopolies, no borders – social networks built by us, for us. 🧑‍🤝‍🧑💻 Let’s take back control and shape the future together. 🌱 #Web4 #FutureOfSocial #NoMonopolies #SocialNetworks ```
+
 ### 13.01.2025
 - Topic: Web4 SNaaS
 - Directory: /posts/2025/January/13
