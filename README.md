@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.01.2025
+- Topic: Web4 - Build your digital city!
+- Directory: /posts/2025/January/15
+- Description: ``` Build your own digital city in 🌐 Web4! 🏙️ Your community, your rules, your little paradise. 🛠️ Whether it's for a club, startup, or hobby – create a space that connects! 💡✨🚀 Get started now: web4.one #Web4 #Community #BuildTheFuture ```
+
 ### 14.01.2025
 - Topic: Web4: The Internet of Hope!
 - Directory: /posts/2025/January/14
