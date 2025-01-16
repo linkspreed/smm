@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.01.2025
+- Topic: Web4 instead of mainstream
+- Directory: /posts/2025/January/16
+- Description: ``` 🌐 Web4 is changing how we consume news! 🚀 Instead of relying on mainstream media, you get diverse perspectives, community discussions, and authentic content – more sustainable, informative, and curated by real people. 🌱💡 #Web4 #StayInformed #CommunityDriven ```
+
 ### 15.01.2025
 - Topic: Web4 - Build your digital city!
 - Directory: /posts/2025/January/15
