@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.01.2025
+- Topic: Web4 Milestone
+- Directory: /posts/2025/January/18
+- Description: ``` 🚀 Milestone unlocked! We're internally testing our Social Networks as a Service (SNaaS) on #Web4! Soon, YOU can create your own social network in just 45 seconds—fully automated. 🌐🔧 The future of communities starts NOW. 💡 #Innovation #SNaaS #Linkspreed ```
+
 ### 17.01.2025
 - Topic: Escape the Matrix 
 - Directory: /posts/2025/January/17
