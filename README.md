@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.01.2025
+- Topic: Web4@home with a Raspberry Pi
+- Directory: /posts/2025/January/19
+- Description: ``` We're experimenting with "Web4 @home" 🏡✨ – your own social network on a mini-computer 🌐, like a Raspberry Pi – even on the old Model B! 🖥️ Soon, YOU could host your own network at home. 💡 #Web4 #Innovation #RaspberryPi #SocialNetwork ```
+
 ### 18.01.2025
 - Topic: Web4 Milestone
 - Directory: /posts/2025/January/18
