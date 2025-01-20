@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.01.2025
+- Topic: Advances in Web4
+- Directory: /posts/2025/January/20
+- Description: ``` 🚀 It won't take long! In just 45 seconds, YOU can build your own Facebook – or host your own social network at home with your Raspberry Pi! 🛠️💻🔗 The power of communities is about to be in YOUR hands!
+#Web4 #SocialMediaRevolution #TechForEveryone ```
+
 ### 19.01.2025
 - Topic: Web4@home with a Raspberry Pi
 - Directory: /posts/2025/January/19
