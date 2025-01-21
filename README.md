@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.01.2025
+- Topic: Just Connect It
+- Directory: /posts/2025/January/21
+- Description: ``` Community is more than just a network – it’s connection, innovation, and growth. 🌐 With Web4, we turn ideas into real connections. Just Connect It. #Web4 #Community ```
+
 ### 20.01.2025
 - Topic: Advances in Web4
 - Directory: /posts/2025/January/20
