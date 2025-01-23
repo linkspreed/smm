@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.01.2025
+- Topic: You're the media!
+- Directory: /posts/2025/January/23
+- Description: ``` Your voice is the signal. Your ideas are the beams. 🎥💡👉 Without you, the net is silent. You are the media revolution. 💬🔥 #Web4 #YouAreTheMedia #DigitalFuture ```
+
 ### 22.01.2025
 - Topic: 14 seconds
 - Directory: /posts/2025/January/22
-- Description: ``` 🚀 Build your own social network in just 14 seconds – customizable, flexible, revolutionary. 🎯 This is Web4, and it’s coming soon! 🔥 Are you ready? 🌐 #Web4 #Innovation ``` #SocialNetwork #Linkspreed
+- Description: ``` 🚀 Build your own social network in just 14 seconds – customizable, flexible, revolutionary. 🎯 This is Web4, and it’s coming soon! 🔥 Are you ready? 🌐 #Web4 #Innovation #SocialNetwork #Linkspreed ```
 
 ### 21.01.2025
 - Topic: Just Connect It
