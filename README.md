@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.01.2025
+- Topic: Moderation? Yes/No
+- Directory: /posts/2025/January/24
+- Description: ``` You decide how your #Web4 network is moderated 🌐: rules, external moderators, or none? 🎛️ The only rule: follow local laws ⚖️. Your network, your rules. 🚀 #Empowerment #SocialMediaEvolution ```
+
 ### 23.01.2025
 - Topic: You're the media!
 - Directory: /posts/2025/January/23
