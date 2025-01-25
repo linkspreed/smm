@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.01.2025
+- Topic: Be the admin
+- Directory: /posts/2025/January/25
+- Description: ``` 🌐 Hey Web4 fans! 🙌 If you build a community, you become the Admin – and with that comes control, but also the chance to create something amazing. 🚀✨ You set the rules, moderate, and actively shape the future. 💡🌍 #Web4 #CommunityPower #ShapeTheFuture #DigitalRevolution ```
+
 ### 24.01.2025
 - Topic: Moderation? Yes/No
 - Directory: /posts/2025/January/24
