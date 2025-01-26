@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.01.2025
+- Topic: Free Social Media
+- Directory: /posts/2025/January/26
+- Description: ``` 🌍✨ Rethink social media: Create your own network! Decentralized, community-driven, free from corporate control. 🛠️💡 #DecentralizeNow #BuildYourSpace The future is connected – but owned by us, not them. 🚀 ```
+
 ### 25.01.2025
 - Topic: Be the admin
 - Directory: /posts/2025/January/25
