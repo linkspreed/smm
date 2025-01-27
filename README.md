@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.01.2025
+- Topic: Communities - Web4
+- Directory: /posts/2025/January/27
+- Description: ``` 🌐🚀 Web4 is the Internet of Communities! 🌟 Connect, share, grow – the future is now. 🤝💡 #Web4 #CommunityPower #DigitalRevolution #StrongerTogether ```
+
 ### 26.01.2025
 - Topic: Free Social Media
 - Directory: /posts/2025/January/26
