@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.01.2025
+- Topic: Web4 Podcast
+- Directory: /posts/2025/January/28
+- Description: ``` 🌐 Step into Web4! 🎙️ The Web4 Podcast delivers the hottest takes on tech, AI & more. 🚀 👉 Subscribe now: https://youtube.com/playlist?list=PLLH4kj3E2QaJexe_QU9ZbhTbobZx8ar4i #Web4 #Podcast #Tech #Innovation #FutureTalk ```
+
 ### 27.01.2025
 - Topic: Communities - Web4
 - Directory: /posts/2025/January/27
