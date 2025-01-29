@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.01.2025
+- Topic: Web4 - mini cities
+- Directory: /posts/2025/January/29
+- Description: ``` 🚀 Welcome to Web4! Create your own mini city 🏙️✨ with your social network and community. Your rules, your vibe, your digital world. 🌐💬 The future is yours to build! #Web4 #YourCommunity #DigitalCity #FutureIsNow ```
+
 ### 28.01.2025
 - Topic: Web4 Podcast
 - Directory: /posts/2025/January/28
