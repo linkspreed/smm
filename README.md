@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.01.2025
+- Topic: Web4 - Your perfect Community Space
+- Directory: /posts/2025/January/30
+- Description: ``` Web4 is where real ideas meet real people. 🔥💻 Our community grows with you—jump in and let’s shape the future together! ✨🤝 #Web4 #TogetherStronger #FutureStartsHere ```
+
 ### 29.01.2025
 - Topic: Web4 - mini cities
 - Directory: /posts/2025/January/29
