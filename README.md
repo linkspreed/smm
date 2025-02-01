@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.02.2025
+- Topic: Web4 - Community
+- Directory: /posts/2025/February/01
+- Description: ``` 🚀 February has kicked off in Web4 and we've got some exciting new tech up our sleeves that we can't wait to reveal! Stay tuned for updates! 🎁 #Web4 #Technology #Innovation #February #NewTech ```
+
 ### 31.01.2025
 - Topic: Web4 - Community
 - Directory: /posts/2025/January/31
