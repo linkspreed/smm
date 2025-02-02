@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.02.2025
+- Topic: Project Y
+- Directory: /posts/2025/February/02
+- Description: ``` 🚀 Project Y has launched! We're building the ultimate super-app, better than X. 📅 In just a few weeks, we'll reveal it!  But don't worry, we're still working hard on Web4. 💪 With Project Y, we'll show you how to build incredible networks in no time. 🤝 #ProjectY #SuperApp #Web4 #Innovation #Future ```
+
 ### 01.02.2025
 - Topic: February with Web4
 - Directory: /posts/2025/February/01
