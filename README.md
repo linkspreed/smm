@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.02.2025
+- Topic: Project MEGA
+- Directory: /posts/2025/February/03
+- Description: ``` 🚀 Revolutionizing social networking in Europe with #MEGA! 🇪🇺 Discover a new network built on diversity, innovation, and Web4.  Let's shape the future of digital communication together! #Linkspreed #SocialNetworks #Future ```
+
 ### 02.02.2025
 - Topic: Project Y
 - Directory: /posts/2025/February/02
