@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.02.2025
+- Topic: Web4
+- Directory: /posts/2025/February/04
+- Description: ``` No more monopolies!  Web4 brings decentralization  and thus more diversity  to social networks. Small, diverse platforms ️ instead of a few large providers. This is the future! ✨ #Web4 #Diversity #Decentralization #SocialMedia ```
+
 ### 03.02.2025
 - Topic: Project MEGA
 - Directory: /posts/2025/February/03
