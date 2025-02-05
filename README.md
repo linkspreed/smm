@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.02.2025
+- Topic: Web4 - Open SOurce
+- Directory: /posts/2025/February/05
+- Description: ``` 🚀 We at Linkspreed are investing in the future of the internet! 🌐 With Web4, we're focusing on Open Source technology to drive the development of social networks. 🧑‍💻 More freedom, more innovation, more community! 🤝 #Web4 #OpenSource #SocialNetworks ```
+
 ### 04.02.2025
 - Topic: Web4
 - Directory: /posts/2025/February/04
