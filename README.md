@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.02.2025
+- Topic: Social networks should be social again
+- Directory: /posts/2025/February/06
+- Description: ``` Social networks should be social again – real communities, real conversations, no manipulation. Join the movement! 🚀💬 #MakeSocialNetworksSocialAgain #Web4 ```
+
 ### 05.02.2025
 - Topic: Web4 - Open SOurce
 - Directory: /posts/2025/February/05
