@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.02.2025
+- Topic: Vision: The most decentralized internet with Web4
+- Directory: /posts/2025/February/07
+- Description: ``` The future of the internet is decentralized! ✨ Imagine: An internet based on social networks and controlled by no one. That's the vision of Web4!  More freedom, security, and privacy for everyone. Let's shape this future together!  #Web4 #Decentralization #Internet #Future #Technology #SocialNetworks #Freedom #Security #Privacy ```
+
 ### 06.02.2025
 - Topic: Social networks should be social again
 - Directory: /posts/2025/February/06
