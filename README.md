@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.02.2025
+- Topic: Web4 Launch Countdown
+- Directory: /posts/2025/February/08
+- Description: ``` 🚀 It's almost time! The launch of Web4 is just around the corner! 🎉 We're making the web of the future accessible to EVERYONE. 🌐 The countdown is on... Stay tuned! ⏳ #Web4 #LaunchDay #FutureOfTheWeb ```
+
 ### 07.02.2025
 - Topic: Vision: The most decentralized internet with Web4
 - Directory: /posts/2025/February/07
