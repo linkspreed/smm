@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.02.2025
+- Topic: Web4@Home
+- Directory: /posts/2025/February/09
+- Description: ``` 🎉 It's finally here! Web4@Home is now available! 🚀 Discover the code and detailed documentation on how to host your own social network on a Raspberry Pi: Pi.linkspreed.com 🌐 #Web4AtHome #Web4 #RaspberryPi #SocialNetwork #DIY ```
+
 ### 08.02.2025
 - Topic: Web4 Launch Countdown
 - Directory: /posts/2025/February/08
