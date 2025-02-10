@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.02.2025
+- Topic: Discover Web4@Home
+- Directory: /posts/2025/February/10
+- Description: ``` Web4@Home is Open Source!  🎉 This means everyone can contribute and help shape this project.  Check out the full documentation and become part of the community: https://pi.linkspreed.com  #Web4AtHome #OpenSource #Community #Innovation 💬 ```
+
 ### 09.02.2025
 - Topic: Web4@Home
 - Directory: /posts/2025/February/09
