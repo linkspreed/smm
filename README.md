@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.02.2025
+- Topic: Web4@Home
+- Directory: /posts/2025/February/11
+- Description: ``` Create your own social network in just 2 hours? No problem with Linkspreed® Web4™!  Whether for your community, your hobby or your business - with our intuitive platform you can create your own social media experience in no time at all. ️ Start today and discover the endless possibilities of Linkspreed® Web4™! ✨ More information at pi.linkspreed.com #Linkspreed #Web4 #SocialMedia #DIY #Community #SocialNetwork #Easy #Fast #Creative ```
+
 ### 10.02.2025
 - Topic: Discover Web4@Home
 - Directory: /posts/2025/February/10
