@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.02.2025
+- Topic: Connect Your Team
+- Directory: /posts/2025/February/13
+- Description: ``` Connect your team with Web4.one and Linkspreed®!
+Fostering teamwork and driving projects forward together has never been easier. Discover the world of Web4™ and revolutionize the way you work!
+#Teamwork #Collaboration #Web4One #Linkspreed #Web4 ```
+
 ### 12.02.2025
 - Topic: Brand Community
 - Directory: /posts/2025/February/12
