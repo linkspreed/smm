@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.02.2025
+- Topic: Web4 is 100% neutral
+- Directory: /posts/2025/February/14
+- Description: ``` Web4™ is here and it's 100% neutral! ✊ "Build your own social network" and shape your online experience!  #Web4 #Neutrality #SocialNetwork #Innovation #Future ```
+
 ### 13.02.2025
 - Topic: Connect Your Team
 - Directory: /posts/2025/February/13
