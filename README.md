@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.02.2025
+- Topic: Web4 Strategy 
+- Directory: /posts/2025/February/15
+- Description: ``` Take control! With Web4 you create your own social network and determine the rules yourself. 🧑‍⚖️ No censorship, no restrictions. Get started now at WEB4.ONE! #Web4 #Freedom #Control #SocialMediaRevolution #YourRules ```
+
 ### 14.02.2025
 - Topic: Web4 is 100% neutral
 - Directory: /posts/2025/February/14
