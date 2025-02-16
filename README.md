@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.02.2025
+- Topic: You own your own social network
+- Directory: /posts/2025/February/16
+- Description: ``` With Web4™ by Linkspreed® you're in complete control of your network. 🤝 No censorship, no algorithms - just you and your community! #Web4 #Linkspreed #SocialMedia #Future ```
+
 ### 15.02.2025
 - Topic: Web4 Strategy 
 - Directory: /posts/2025/February/15
