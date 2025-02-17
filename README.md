@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.02.2025
+- Topic: Your Community, Your Domain, Your Database
+- Directory: /posts/2025/February/17
+- Description: ``` Your Community, your Web4! Forget centralized platforms! With Linkspreed® Web4™ on Web4.one you own your community, your data, and your domain. ️ Build your own decentralized network and shape the future of the internet with us! Learn more at Web4.one #Web4 #Decentralization #Community #Blockchain #Linkspreed #Innovation #FutureOfTheInternet #OwnYourData #YourCommunityYourData ```
+
 ### 16.02.2025
 - Topic: You own your own social network
 - Directory: /posts/2025/February/16
