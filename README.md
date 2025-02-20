@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.02.2025
+- Topic: Niche Communities are the Future
+- Directory: /posts/2025/February/20
+- Description: ``` ✨ Find your tribe! In niche communities, people with shared interests and passions come together. #NicheCommunity #Web4 #LINKSPREED ```
+
 ### 19.02.2025
 - Topic: 8x more brand awareness 
 - Directory: /posts/2025/February/19
