@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.02.2025
+- Topic: Connect your community 
+- Directory: /posts/2025/February/22
+- Description: ``` Your community deserves its own platform! With Web4 it's possible. Get started now and grow together: web4.one #Web4 #SocialMedia #CommunityFirst #Linkspreed ```
+
 ### 21.02.2025
 - Topic: No effort with Web4
 - Directory: /posts/2025/February/21
