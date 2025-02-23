@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.02.2025
+- Topic: Web4 is a Community.
+- Directory: /posts/2025/February/23
+- Description: ``` Web4 isn't just technology, it's a community!  Together, we're shaping the future of the internet. Join us and be part of our movement! #Web4 #Community #FutureOfInternet #Innovation #Tech ```
+
 ### 22.02.2025
 - Topic: Connect your community 
 - Directory: /posts/2025/February/22
