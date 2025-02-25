@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.02.2025
+- Topic: User Generated Content 
+- Directory: /posts/2025/February/25
+- Description: ``` Web4: The future of the internet is here! Forget Web2 and Web3 – Web4 empowers true user-generated content!  Share your ideas, create content, and be part of a new era of the internet. Learn more: www.web4.one #Web4 #UserGeneratedContent #Innovation #Tech #Future #Internet #Linkspreed ```
+
 ### 24.02.2025
 - Topic: Communities everywhere 
 - Directory: /posts/2025/February/24
