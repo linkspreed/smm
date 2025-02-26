@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.02.2025
+- Topic: Its time for Web4
+- Directory: /posts/2025/February/26
+- Description: ``` It's time for WEB4!  A new internet, freer and bigger! Are you ready? #Web4 #NewInternet #Future #Technology #Innovation ```
+
 ### 25.02.2025
 - Topic: User Generated Content 
 - Directory: /posts/2025/February/25
