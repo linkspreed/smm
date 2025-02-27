@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.02.2025
+- Topic: Web4 & Events
+- Directory: /posts/2025/February/27
+- Description: ``` Planning your own event? Build your temporary WEB4™ community with Linkspreed®! Connect with your attendees, share updates, and create unforgettable moments. ✨➡️ Learn more: Web4.one #EventPlanning #CommunityBuilding #Linkspreed #WEB4 #EventTech #Networking #EventProfs #SuccessfulEvents #TemporaryCommunity ```
+
 ### 26.02.2025
 - Topic: Its time for Web4
 - Directory: /posts/2025/February/26
