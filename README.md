@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.02.2025
+- Topic: It's time for your community!
+- Directory: /posts/2025/February/28
+- Description: ``` It's time for your community!  Build your own social network with LINKSPREED® and WEB4™!  Connect, share your passions, and shape your digital world the way you want it.  What are you waiting for? Start now! ➡️ LINKSPREED.COM / WEB4.ONE #CommunityPower #SocialNetwork #DigitalTransformation #Togetherness #Innovation #LINKSPREED #WEB4 ```
+
 ### 27.02.2025
 - Topic: Web4 & Events
 - Directory: /posts/2025/February/27
