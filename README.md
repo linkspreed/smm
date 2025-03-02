@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.03.2025
+- Topic: SNaaS
+- Directory: /posts/2025/March/02
+- Description: ``` Level up your online presence! LINKSPREED® and WEB4™ bring you "Social Networks as a Service" – custom-built social networks for your community.  Discover more at WEB4.ONE!  #SocialNetworks #Web4 #TechInnovation #CommunityEngagement ```
+
 ### 01.03.2025
 - Topic: Web4 is going viral this March!
 - Directory: /posts/2025/March/01
