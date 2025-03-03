@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.03.2025
+- Topic: Build Your Social Network
+- Directory: /posts/2025/March/03
+- Description: ``` Imagine building the most customizable social network ever.  What's stopping you?  Let your creativity run wild! ✨ Share your dream features below! #Web4 #SocialMediaInnovation #Linkspreed #DreamBig #FutureTech ```
+
 ### 02.03.2025
 - Topic: SNaaS
 - Directory: /posts/2025/March/02
