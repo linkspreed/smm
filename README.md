@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.03.2025
+- Topic: We need an Internet for people 
+- Directory: /posts/2025/March/04
+- Description: ``` We need an internet for people! Web4™ is our answer. Let's create a community where everyone is welcome. #Community #Web4 #DigitalTogether ```
+
 ### 03.03.2025
 - Topic: Build Your Social Network
 - Directory: /posts/2025/March/03
