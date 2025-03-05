@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.03.2025
+- Topic: Shape The Web4
+- Directory: /posts/2025/March/05
+- Description: ``` Shape the Web4 with us! 🌐✨ Linkspreed is launching the next era of social networking. Be part of the change and build the future of the internet! 🚀💫 #Web4 #Linkspreed #SocialMediaRevolution #FutureIsNow #Networking ```
+
 ### 04.03.2025
 - Topic: We need an Internet for people 
 - Directory: /posts/2025/March/04
