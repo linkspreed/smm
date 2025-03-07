@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.03.2025
+- Topic: Web4 App
+- Directory: /posts/2025/March/07
+- Description: ``` Develop your own Web4 app with Linkspreed® and Web4™! 🤝 Create community apps or your own social network with our partner Median. 🚀 Learn more at Web4.one #Web4 #AppDevelopment #Linkspreed #Median ```
+
+### 06.03.2025
+- Topic: Start with Web4
+- Directory: /posts/2025/March/06
+- Description: ``` New to Web4? 🤔 Check out linkspreed.com! Secure your own .web4.one domain and boost your online presence. 🚀 #Web4 #Domain #Internet #Future #Online #Digital ```
+
 ### 05.03.2025
 - Topic: Shape The Web4
 - Directory: /posts/2025/March/05
