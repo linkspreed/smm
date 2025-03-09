@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.03.2025
+- Topic: Web4 - Fan Community 
+- Directory: /posts/2025/March/09
+- Description: ``` Build your fan community with Web4! Linkspreed® Web4™ makes it incredibly easy to create and nurture your own community.  Your benefits: Seamless integration, full control over your data, direct connection with your fans. Get started now and experience the future of social networking! #Web4 #SocialNetworks #CommunityBuilding #Linkspreed #FanCommunity #Innovation #FutureOfSocialMedia ```
+
+### 08.03.2025
+- Topic: Web4
+- Directory: /posts/2025/March/08
+- Description: ``` Let's build Web4 together! A future internet powered by communities, social networks, and decentralized tech.  For a better internet that connects us all. ✨ #Web4 #DecentralizedWeb #SocialNetwork #CommunityFirst #FutureOfInternet ```
+
 ### 07.03.2025
 - Topic: Web4 App
 - Directory: /posts/2025/March/07
