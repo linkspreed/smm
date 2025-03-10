@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.03.2025
+- Topic: Web4 - in 60 seconds 
+- Directory: /posts/2025/March/10
+- Description: ``` Ready to leap into the future of the web? In just 60 seconds, we'll launch your Facebook into the Web4 universe! Experience your social network like never before – faster, safer, and more cutting-edge! ✨ Discover Web4! #Web4 #Facebook #SocialMedia #FutureNow #60Seconds #Innovation #Tech ```
+
 ### 09.03.2025
 - Topic: Web4 - Fan Community 
 - Directory: /posts/2025/March/09
