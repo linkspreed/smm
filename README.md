@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.03.2025
+- Topic: Web4: 0 Fake News
+- Directory: /posts/2025/March/12
+- Description: ``` No more fake news!  With WEB4, YOU decide what you see. Small communities and a huge selection – the choice is yours!  #Web4 #NoFakeNews #YourChoice #CommunityPower #Linkspreed ```
+
 ### 11.03.2025
 - Topic: Web4 Ecosystem
 - Directory: /posts/2025/March/11
