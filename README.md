@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.03.2025
+- Topic: Web4 is software + hardware
+- Directory: /posts/2025/March/15
+- Description: ``` 🚀 Welcome to the future – Web4 is here! 🌐✨ Web4 is more than just software – it’s the perfect fusion of software AND hardware for next-level speed and performance. ⚡💻 Are you ready to experience the future of the internet? Dive in now 👉 Web4.one #Web4 #FutureTech #NextGenInternet #Linkspeed #Innovation #TechRevolution ```
+
 ### 14.03.2025
 - Topic: 12 Community Management Tips
 - Directory: /posts/2025/March/14
