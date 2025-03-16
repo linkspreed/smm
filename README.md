@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.03.2025
+- Topic: Web4 Lite is open source
+- Directory: /posts/2025/March/16
+- Description: ``` WEB4 LITE is LIVE and OPEN SOURCE! Dive into the world of decentralized technologies with our new project on GitHub! Let's build the future of the internet together. Check it out and join the community! GITHUB.COM/WEB4-ORGANISATION #WEB4 #OpenSource #Decentralization #Blockchain #Innovation #GitHub #WebDevelopment ```
+
 ### 15.03.2025
 - Topic: Web4 is software + hardware
 - Directory: /posts/2025/March/15
