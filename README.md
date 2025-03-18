@@ -5,12 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.03.2025
+- Topic: Web4 USA
+- Directory: /posts/2025/March/18
+- Description: ``` Hey USA Students! See that map? Web4 is coming! We need your help to spread the word and bring Web4 to your college. Be a part of something big and help shape the future of the internet! Share this post and tag a friend who needs to know about Web4! #Web4 #USA #CollegeStudents #FutureTech #ShareTheVision ```
+
 ### 17.03.2025
 - Topic: Web4 Explore
 - Directory: /posts/2025/March/17
-- Description: ``` Dive into the future of community with Web4 Explore! ✨ Over 100+ communities have already joined us – are you next?   Discover a new era of connection and collaboration.  Click the link and start your Web4 journey today!
-explore.web4.one
-#Web4 #Community #Innovation #Tech #Future #Explore #Linkspreed #Web4Explore ```
+- Description: ``` Dive into the future of community with Web4 Explore! ✨ Over 100+ communities have already joined us – are you next?   Discover a new era of connection and collaboration.  Click the link and start your Web4 journey today! explore.web4.one #Web4 #Community #Innovation #Tech #Future #Explore #Linkspreed #Web4Explore ```
 
 ### 16.03.2025
 - Topic: Web4 Lite is open source
