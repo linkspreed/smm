@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.03.2025
+- Topic: Web4 Brazil
+- Directory: /posts/2025/March/19
+- Description: ``` Dreaming of coding the future?  We're looking for talented developers from Brazil 🇧🇷 to join our Web4 family!  Be part of a global team and shape the next generation of social networks.  Apply now and let's build something amazing!  #Web4 #Brazil #DeveloperJobs #TechCommunity #FutureOfSocial #CodingLife ```
+
 ### 18.03.2025
 - Topic: Web4 USA
 - Directory: /posts/2025/March/18
