@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.03.2025
+- Topic: Web4 - By the youth, for the youth!
+- Directory: /posts/2025/March/20
+- Description: ``` By the youth, for the youth!  We're building the future, one digital leaf at a time.  Join the movement and let's create something amazing together! ✨ #Web4 #YouthPower #Innovation #FutureTech #Linkspreed ```
+
 ### 19.03.2025
 - Topic: Web4 Brazil
 - Directory: /posts/2025/March/19
