@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.03.2025
+- Topic: Web4 Partner Program 
+- Directory: /posts/2025/March/21
+- Description: ``` Ready to level up your agency game?  Become a web4 partner and dive into the future of the web! Imagine: Cutting-edge tech ️, exclusive resources , and a community of innovators . Click here to learn more: partner.linkspreed.com Don't just keep up, lead the way! #web4 #agencylife #futuretech #innovation #partnership #linkspreed ✨ ```
+
 ### 20.03.2025
 - Topic: Web4 - By the youth, for the youth!
 - Directory: /posts/2025/March/20
