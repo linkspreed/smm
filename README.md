@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.03.2025
+- Topic: Ditch the endless scroll!
+- Directory: /posts/2025/March/22
+- Description: ``` Ditch the endless scroll! Web4 is here to revolutionize your social media marketing game! ✨ Why settle for likes and shares when you can have true engagement? ✨ Web4 offers: Direct connections with your audience, meaningful interactions that drive results, a community-focused approach that fosters loyalty. Ready to ditch the algorithms and embrace the future of social media? Let's chat! #Web4 #SocialMediaMarketing #FutureOfMarketing #CommunityBuilding #EngagementMatters #Linkspreed ```
+
 ### 21.03.2025
 - Topic: Web4 Partner Program 
 - Directory: /posts/2025/March/21
