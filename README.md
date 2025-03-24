@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.03.2025
+- Topic: Alternative for social networks 
+- Directory: /posts/2025/March/24
+- Description: ``` Are you tired of feeling limited by the social networks out there? Well, imagine having the power to create your own! With Linkspreed® Web4™ you can do just that! Design your dream platform, connect with people who share your passions, and change the way we interact online. Forget algorithms and censorship! It's time to take control of your social experience. Are you ready to start your social revolution? #SocialMediaRevolution #BuildYourOwnNetwork #Linkspreed #Web4 #FreedomOfSpeech #CommunityPower #Innovation #TechForGood #FutureIsNow ```
+
 ### 23.03.2025
 - Topic: Make Social Networks Great Again 
 - Directory: /posts/2025/March/23
