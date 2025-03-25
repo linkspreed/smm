@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.03.2025
+- Topic: Discover Your Web4 
+- Directory: /posts/2025/March/25
+- Description: ``` Ready to launch your own community into the future? With Web4, you're in control! Build your dream social network, whether it's public (Opennet) or private (Intranet). No tech skills needed! ✨ Give your community a voice and watch it thrive! ✨ Discover your Web4 today! ➡️ linkspreed.com #Web4 #Community #SocialNetwork #TechForGood #Innovation #Linkspreed #Opennet #Intranet #FutureOfSocial #EmpowerYourCommunity ```
+
 ### 24.03.2025
 - Topic: Alternative for social networks 
 - Directory: /posts/2025/March/24
