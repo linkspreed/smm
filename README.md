@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.03.2025
+- Topic: Web4_Politics
+- Directory: /posts/2025/March/30
+- Description: ``` 🌐 Exciting news! Web4 is expanding and now welcoming political parties to the community! 🎉 Build your own political network and connect with your supporters on your terms. No tech skills needed! 💪 Learn more about Web4 by Linkspreed. #Web4Politics #Linkspreed #CommunityNetwork #PoliticalParties #NewInternet #TechForGood ```
+
 ### 29.03.2025
 - Topic: Web4 is soon automated 
 - Directory: /posts/2025/March/29
