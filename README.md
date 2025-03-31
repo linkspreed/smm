@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.03.2025
+- Topic: Web4
+- Directory: /posts/2025/March/31
+- Description: ``` Ready to ditch the endless scroll and build YOUR own social space? 🤔 With Web4, you can create a thriving community for your niche, passion, or purpose! 🚀 No tech skills needed. Start connecting on your terms today! 👇 #Web4 #CommunityBuilding #SocialNetwork #NewInternet #Linkspreed ✨ www.web4.one ```
+
 ### 30.03.2025
 - Topic: Web4_Politics
 - Directory: /posts/2025/March/30
