@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.04.2025
+- Topic: Web4 SNaaS Beta
+- Directory: /posts/2025/April/01
+- Description: ``` Get ready for the future of social networking! 🎉 Linkspreed's Web4 beta tests are coming in April! Build your own community, your way. Whether it's an Opennet or a closed intranet, the power is in your hands. No technical skills needed! 💪 Stay tuned for more updates! #Web4 #Linkspreed #SocialNetworking #Community #BetaTest #NewInternet #Opennet #Intranet ```
+
 ### 31.03.2025
 - Topic: Web4
 - Directory: /posts/2025/March/31
