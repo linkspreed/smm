@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.04.2025
+- Topic: Local businesses use Web4
+- Directory: /posts/2025/April/02
+- Description: ``` 📢 Attention local businesses! 👋 Ready to connect with your community on a whole new level? 🚀 With Web4, building your own social network is now easier than ever! 🏘️ Create your own Opennet or a private intranet - no tech skills needed! 🤩 Let's build stronger local connections together! 💪 #Web4 #LocalBusiness #CommunityNetwork #ShopLocal #Linkspreed #NewInternet #SocialNetwork #EasyToUse ```
+
 ### 01.04.2025
 - Topic: Web4 SNaaS Beta
 - Directory: /posts/2025/April/01
