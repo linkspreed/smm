@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.04.2025
+- Topic: Web4 in schools 
+- Directory: /posts/2025/April/03
+- Description: ``` Bring your school community to the next level with Web4! 🚀 Imagine your own social network, built just for your students, teachers, and parents. No tech skills needed! 🧑‍🏫📚 Connect, share, and learn together in a secure and engaging environment. Whether it's an open network or a private intranet, Web4 by Linkspreed has you covered. Check out www.web4.one to learn more! ✨ #Web4 #Education #Community #FutureofLearning #SchoolNetwork ```
+
 ### 02.04.2025
 - Topic: Local businesses use Web4
 - Directory: /posts/2025/April/02
