@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.04.2025
+- Topic: Rethink marketing 
+- Directory: /posts/2025/April/04
+- Description: ``` Ready to RETHINK your marketing strategy?  Ditch the old playbook and dive into the power of COMMUNITY!  With Linkspreed's Web4, you can build your own social network and connect with your audience on a whole new level. ✨ Say goodbye to algorithms and hello to genuine engagement! ✨ Let's build something amazing together! #Web4 #CommunityMarketing #Linkspreed #MarketingInnovation #SocialMediaRevolution ```
+
 ### 03.04.2025
 - Topic: Web4 in schools 
 - Directory: /posts/2025/April/03
