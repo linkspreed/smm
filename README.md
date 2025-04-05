@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.04.2025
+- Topic: 1st Birthday @Linkspreed
+- Directory: /posts/2025/April/05
+- Description: ``` 🎉 Happy Birthday Linkspreed & Web4! 🎉 Celebrating one year of revolutionizing online communities! Build your own social network the easy way. Cheers to many more years! 🥂 #Linkspreed #Web4 #HappyBirthday #CommunityNetwork #Innovation ```
+
 ### 04.04.2025
 - Topic: Rethink marketing 
 - Directory: /posts/2025/April/04
