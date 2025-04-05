@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.04.2025
+- Topic: Just Rethink
+- Directory: /posts/2025/April/06
+- Description: ``` 🚀 Ready to rethink online communities? 🤔 With #Web4 by Linkspreed, building your own social network is now a breeze! 💨 No tech skills needed. Perfect for businesses, orgs, and individuals. Create your own public #Opennet or private intranet. The future of community is here! 🌐 #Linkspreed #CommunityBuilding #NewInternet ```
+
 ### 05.04.2025
 - Topic: 1st Birthday @Linkspreed
 - Directory: /posts/2025/April/05
