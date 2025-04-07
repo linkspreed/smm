@@ -5,6 +5,19 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.04.2025
+- Topic: Community
+- Directory: /posts/2025/April/07
+- Description: ``` Introducing #Web4 by #Linkspreed – the future of community-based networking is here!  Say goodbye to centralized platforms and hello to building your own social networks with ease!
+Whether you're a business, organization, or individual, Web4 empowers you to create your own thriving community.  Choose between an Opennet for public access or a closed intranet for secure collaboration.
+✨ Features:
+ * User-friendly interface
+ * Customizable networks
+ * Enhanced privacy and security ️
+ * Seamless community building ️
+Join the Web4 revolution and shape the future of the internet!
+#Web4 #Linkspreed #CommunityNetwork #SocialMedia #TechInnovation #FutureOfInternet #Networking #OnlineCommunity #DigitalTransformation ```
+
 ### 06.04.2025
 - Topic: Just Rethink
 - Directory: /posts/2025/April/06
