@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.04.2025
+- Topic: Web4 will be multi tenant 
+- Directory: /posts/2025/April/08
+- Description: ``` Get ready for the future of the web!  Linkspreed's Web4 is evolving into a multi-tenant, fully automated powerhouse.  Imagine effortlessly building your own social networks without any tech headaches.  Whether it's an Opennet for the world  or a closed intranet for your team , Web4 makes community building a breeze.  Stay tuned for the revolution!
+#Web4 #Linkspreed #SocialNetworks #CommunityBuilding #FutureOfTheWeb #Innovation #TechTrends #NoCode #Opennet #Intranet #Automation ```
+
 ### 07.04.2025
 - Topic: Community
 - Directory: /posts/2025/April/07
