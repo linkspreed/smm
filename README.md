@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.04.2025
+- Topic: Your opinion on community marketing
+- Directory: /posts/2025/April/09
+- Description: ``` Time for Web4! 🚀 What are your thoughts on community marketing? 🤔 Share your opinion and discover all the amazing benefits! 👇 #Web4 #CommunityMarketing #FutureofInternet #Linkspreed ```
+
 ### 08.04.2025
 - Topic: Web4 will be multi tenant 
 - Directory: /posts/2025/April/08
