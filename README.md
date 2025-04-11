@@ -5,6 +5,17 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.04.2025
+- Topic: Web4 SNaaS Beta
+- Directory: /posts/2025/April/11
+- Description: ``` 🚀 Ready for the future of social networking? 🌐 Linkspreed's Web4 SNaaS Beta is here! Build your own community in just 30 seconds. 🤯 Be one of the first to test it! Send an email to hello@linkspreed.com to become a beta tester. 👇
+#Web4 #SNaaS #SocialNetwork #Beta #CommunityBuilding #Linkspreed #Innovation #Tech #NewInternet ```
+
+### 10.04.2025
+- Topic: Boost your business intelligence 
+- Directory: /posts/2025/April/10
+- Description: ``` 🚀 Want to boost your business intelligence? 🧠 Forget payback for BI and build your OWN social network with Web4.one! 🌐 Create your community, your rules. Whether it's an Opennet or a closed intranet, the power is yours! 💪 #Web4 #CommunityNetwork #BusinessIntelligence #Linkspreed ```
+
 ### 09.04.2025
 - Topic: Your opinion on community marketing
 - Directory: /posts/2025/April/09
