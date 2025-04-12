@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.04.2025
+- Topic: Make 2025 Not Like 1984
+- Directory: /posts/2025/April/12
+- Description: ``` Dystopian déjà vu? 🤔 Let's ensure 2025 isn't a rerun of 1984! 🙅‍♂️ The power of community and individual networks is rising with #Web4. Building our own spaces, free from centralized control. 🚀 What kind of community would YOU create? 👇 #Make2025NotLike1984 #CommunityPower #DecentralizedFuture #OwnYourNetwork ```
+
 ### 11.04.2025
 - Topic: Web4 SNaaS Beta
 - Directory: /posts/2025/April/11
