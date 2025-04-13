@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.04.2025
+- Topic: Small Communities
+- Directory: /posts/2025/April/13
+- Description: ``` 👋 Tired of the same old social media feeds? 🤔 Want to build your OWN community, your OWN space? 🏘️ With Linkspreed's Web4, you can! 🎉 Create your own social network without any tech headaches. Perfect for brands, organizations, and anyone wanting to connect on their own terms! 🚀 Learn more at https://linkspreed.com. 😉 #Web4 #CommunityBuilding #SocialNetworkAsAService #Linkspreed #OwnYourSpace #TechStartup ```
+
 ### 12.04.2025
 - Topic: Make 2025 Not Like 1984
 - Directory: /posts/2025/April/12
