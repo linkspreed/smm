@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.04.2025
+- Topic: Make Social Media Free Again 
+- Directory: /posts/2025/April/14
+- Description: ``` 🚀 Fed up with the endless scrolling and algorithm changes? ⚖️ With Meta facing ongoing legal battles and scrutiny over data privacy and content moderation, it's clear the current social media landscape needs a shake-up. ```
+
 ### 13.04.2025
 - Topic: Small Communities
 - Directory: /posts/2025/April/13
