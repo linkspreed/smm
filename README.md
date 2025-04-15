@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.04.2025
+- Topic: Social Networks 
+- Directory: /posts/2025/April/15
+- Description: ``` 🚀 Ready to build your own social network? With Linkspreed, it's easier than ever! 🤩 Create your own community with our innovative Social Networks as a Service concept. #SocialNetwork #Web4 #Linkspreed #CommunityBuilding #TechStartup #OwnYourNetwork ```
+
 ### 14.04.2025
 - Topic: Make Social Media Free Again 
 - Directory: /posts/2025/April/14
