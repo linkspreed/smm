@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.04.2025
+- Topic: Social Networks for friends
+- Directory: /posts/2025/April/17
+- Description: ``` 🎉 Want to create your own exclusive hangout online? 🤩 With Linkspreed's Web4™, you can build a personalized social network just for your friends! 🚀 No tech skills needed. Start your community today! 🔗 Learn more at linkspreed.com. #OwnYourNetwork #Web4 #SocialNetworkAsAService #Linkspreed #CommunityBuilding ```
+
 ### 16.04.2025
 - Topic: Build Your Own Facebook 
 - Directory: /posts/2025/April/16
