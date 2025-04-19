@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.04.2025
+- Topic: Social Networks for friends 
+- Directory: /posts/2025/April/19
+- Description: ``` Ready to build your own social network for your friends? 🎉 With Linkspreed Web4, it's incredibly fast and easy! Create your community in just 30 seconds ⏱️🚀
+#Linkspreed #Web4 #SocialNetwork #BuildYourCommunity #FastAndEasy #Tech #Innovation #FutureOfSocialMedia #NoCode ```
+
 ### 18.04.2025
 - Topic: More Communities Through More AI
 - Directory: /posts/2025/April/18
