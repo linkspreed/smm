@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.04.2025
+- Topic: Happy Easter Web4 Communities
+- Directory: /posts/2025/April/20
+- Description: ``` Happy Easter, WEB4 Communities! 🥚🐰 We hope you had a fantastic time hunting for those digital (and maybe real!) Easter eggs. The spirit of community and connection is what makes Web4 special, and celebrating together, even virtually, is a joy! 😊 Thanks for being part of our growing ecosystem. #Web4 #Easter #Community #Innovation #Tech #SocialNetworks #EasterEggs #HappyEaster ```
+
 ### 19.04.2025
 - Topic: Social Networks for friends 
 - Directory: /posts/2025/April/19
