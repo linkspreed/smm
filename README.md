@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.04.2025
+- Topic: Build Your Community
+- Directory: /posts/2025/April/21
+- Description: ``` Ready to build your community? 🤝 With Linkspreed Web4™, you just bring the members! ✨ We handle all the tech and build your social network for you. Focus on what matters most – your people! 🚀
+#Linkspreed #Web4 #SNaaS #CommunityBuilding #SocialNetwork #NoCode #FutureOfSocialMedia #Connect ```
+
 ### 20.04.2025
 - Topic: Happy Easter Web4 Communities
 - Directory: /posts/2025/April/20
