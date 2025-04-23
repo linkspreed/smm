@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.04.2025
+- Topic: Lets bring Web4 to everybody 
+- Directory: /posts/2025/April/23
+- Description: ``` Let's bring the future of the internet to everyone! 🚀 With Web4, building your own community is easier than ever. Join the revolution! ✨
+#Web4 #Linkspreed #FutureOfInternet #CommunityBuilding #Tech #Innovation ```
+
 ### 22.04.2025
 - Topic: Social Networks as a Service 
 - Directory: /posts/2025/April/22
