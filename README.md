@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.04.2025
+- Topic: Web4 Party 
+- Directory: /posts/2025/April/24
+- Description: ``` Ready to level up your party game?  Web4 SNaaS lets you create your own social network for events! Connect with friends, share updates, and make your party unforgettable. Let's build something awesome together! #Web4 #SNaaS #PartyPlanning #SocialNetwork #Connect ```
+
 ### 23.04.2025
 - Topic: Lets bring Web4 to everybody 
 - Directory: /posts/2025/April/23
