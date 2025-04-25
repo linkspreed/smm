@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.04.2025
+- Topic: Web4 API
+- Directory: /posts/2025/April/25
+- Description: ``` Ready to build your own community? 🤔 With the Web4 API from Linkspreed, it's easier than ever! 🚀 Create your own social network with a FREE developer API and empower your community with seamless OAuth login. ✨ The future of social is decentralized and in your hands!
+#Web4 #Linkspreed #API #CommunityBuilding #SocialNetwork #Developer #Tech #Innovation #BuildYourOwn #FutureOfSocial ```
+
 ### 24.04.2025
 - Topic: Web4 Party 
 - Directory: /posts/2025/April/24
