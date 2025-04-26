@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.04.2025
+- Topic: Web4 - GDPR Compliant 
+- Directory: /posts/2025/April/26
+- Description: ``` Building your own community shouldn't compromise privacy! ✨ With Linkspreed's Web4 network, you can BE GDPR COMPLIANT and give your users peace of mind. 🔒 Build your platform securely and responsibly. Learn more at web4.one 👉 #GDPR #DataPrivacy #Web4 #Compliance #Linkspreed #CommunityBuilding ```
+
 ### 25.04.2025
 - Topic: Web4 API
 - Directory: /posts/2025/April/25
