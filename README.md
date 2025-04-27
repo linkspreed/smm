@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.04.2025
+- Topic: Web4 - PHP Composer 
+- Directory: /posts/2025/April/27
+- Description: ``` Ready to build your own social network? 🚀 With Web4 from Linkspreed, PHP developers can easily get started using Composer: composer require linkspreed/web4! 💻 Build your community platform your way, anywhere, anytime. ✨
+#Web4 #Linkspreed #PHP #Developer #Composer #SocialNetwork #CommunityBuilding #TechStartup ```
+
 ### 26.04.2025
 - Topic: Web4 - GDPR Compliant 
 - Directory: /posts/2025/April/26
