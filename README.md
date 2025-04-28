@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.04.2025
+- Topic: Web4 - Decentralized Internet
+- Directory: /posts/2025/April/28
+- Description: ``` Dive into Web4: The Decentralized Internet! Build your own social network without needing any tech skills. You're in control – set the rules, design your space, and connect directly with your community. Experience information flowing freely and networks running autonomously. Join the revolution with Linkspreed and Web4!
+#Web4 #DecentralizedInternet #SocialNetworks #CommunityBuilding #Linkspreed #FutureOfInternet ```
+
 ### 27.04.2025
 - Topic: Web4 - PHP Composer 
 - Directory: /posts/2025/April/27
