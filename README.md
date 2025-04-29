@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.04.2025
+- Topic: Web4 Germany
+- Directory: /posts/2025/April/29
+- Description: ``` Unleash the future with Web4 Germany! ✨🎤 Follow our brand new German-language YouTube channel, Instagram account, and TikTok channel for all the latest content about Linkspreed and Web4! Get ready to dive into the next evolution of the internet! 🚀🇩🇪 ```
+
 ### 28.04.2025
 - Topic: Web4 - Decentralized Internet
 - Directory: /posts/2025/April/28
