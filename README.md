@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.05.2025
+- Topic: Web4 in May
+- Directory: /posts/2025/May/01
+- Description: ``` 🚀 Build Your Own Community with Web4!
+Tired of existing social platforms? Linkspreed's Web4 lets you create your own social network, tailored to your community. Effortlessly build your digital space.
+Explore the future of social at https://web4.one
+#Web4 #Linkspreed #CommunityPlatform #SocialMedia #Tech ```
+
 ### 30.04.2025
 - Topic: Web4 Delta
 - Directory: /posts/2025/April/30
