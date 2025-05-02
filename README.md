@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.05.2025
+- Topic: Web4 Communities
+- Directory: /posts/2025/May/02
+- Description: ``` 🎉 Ready to build your own vibrant online community? 🎉
+With Web4 SnaaS from Linkspreed, creating your dream social network is easier than ever! 🚀 Connect with your audience on your own terms. No tech headaches, just pure community power! 💪
+Check out how you can get started today! 👇
+https://linkspreed.com
+✨ Imagine the possibilities! ✨
+#Web4 #CommunityBuilding #SocialNetwork #Linkspreed #SaaS #Innovation #OnlineCommunity ```
+
 ### 01.05.2025
 - Topic: Web4 in May
 - Directory: /posts/2025/May/01
