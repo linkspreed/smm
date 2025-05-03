@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.05.2025
+- Topic: Community Admin in 30 seconds
+- Directory: /posts/2025/May/03
+- Description: ``` Become a Community Admin in 30 Seconds! 🚀
+Dreaming of building your own community? With Web4 by Linkspreed, it's incredibly easy! Create your own social network – no tech skills needed. 😎 Launch now and become the community boss! 👑
+👉 Curious? Find out more here: https://web4.one 👈
+✨ #Web4 #CommunityFirst #SocialNetwork #Linkspreed #YourCommunity #EasyStart ```
+
 ### 02.05.2025
 - Topic: Web4 Communities
 - Directory: /posts/2025/May/02
