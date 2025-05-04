@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.05.2025
+- Topic: Web4.one
+- Directory: /posts/2025/May/04
+- Description: ``` 🎉🚀 Launch your own social network in just 30 seconds! 🤯 With Web4 SnaaS, building your dream community has never been easier. 🤩 Get ready to connect, share, and grow! 🌱🔗 #Web4 #SnaaS #SocialNetwork #CommunityBuilding #Linkspreed ```
+
 ### 03.05.2025
 - Topic: Community Admin in 30 seconds
 - Directory: /posts/2025/May/03
