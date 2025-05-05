@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.05.2025
+- Topic: Web4 - From people, For people
+- Directory: /posts/2025/May/05
+- Description: ``` New Era, New Net! 🚀 Tired of the same old social media echo chambers? 🤔 Web4 is here to change the game! 🤩 Built BY the people, FOR the people. Imagine a web where communities thrive and YOU are in control! 🧑‍🤝‍🧑🌍 Let's build a better digital world together! ✨
+#Web4 #CommunityFirst #InternetRevolution #ByThePeopleForThePeople #NewInternet #SocialMediaReimagined ```
+
 ### 04.05.2025
 - Topic: Web4.one
 - Directory: /posts/2025/May/04
