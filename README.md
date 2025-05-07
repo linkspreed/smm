@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.05.2025
+- Topic: Forget Mainstream Social Media 
+- Directory: /posts/2025/May/07
+- Description: ``` Forget the old internet! With Web4, you can build your own social network – it's easy and stress-free. Linkspreed makes it possible! 💪 Create your community, share your vision, and shape the internet of the future! ✨ #Web4 #SocialMedia #Community #Linkspreed #Future #Innovation #Technology #SocialNetworks ```
+
 ### 06.05.2025
 - Topic: Join Web4
 - Directory: /posts/2025/May/06
