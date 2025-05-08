@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.05.2025
+- Topic: Web4 Roots
+- Directory: /posts/2025/May/08
+- Description: ``` 🌱 Imagine a new internet blooming from social connections. This image highlights: Community bubbles for structure, login oaths for each community, multimedia & SEO power, a self-hosting option, and setup in just 30 seconds. What are your thoughts? 🤔 #NewInternet #SocialNetworks #CommunityFirst #Web4 ```
+
 ### 07.05.2025
 - Topic: Forget Mainstream Social Media 
 - Directory: /posts/2025/May/07
