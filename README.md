@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.05.2025
+- Topic: Connecting teens
+- Directory: /posts/2025/May/09
+- Description: ``` Connecting teens in cities who are already building their own social networks! 📱✨ #Web4 #YouthPower #SocialNetworking #FutureIsNow #Linkspreed ```
+
 ### 08.05.2025
 - Topic: Web4 Roots
 - Directory: /posts/2025/May/08
