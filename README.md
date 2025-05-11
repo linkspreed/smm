@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.05.2025
+- Topic: 40% commission 
+- Directory: /posts/2025/May/11
+- Description: ``` Ready to boost your income? 🤑 Become a partner and earn a massive 40% commission for 24 months when you sell our social networks! 🚀 Don't miss out! Visit 👉 partner.linkspreed.com #AffiliateMarketing #Partnership #Commission #SocialMedia #LinksPreed #EarnMoney #BusinessOpportunity #Web4 ```
+
 ### 10.05.2025
 - Topic: Build Your Tribe
 - Directory: /posts/2025/May/10
