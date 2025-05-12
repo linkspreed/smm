@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.05.2025
+- Topic: Connect your club with a community app
+- Directory: /posts/2025/May/12
+- Description: ``` Ready to bring your sports club closer together? 🤩 Now you can connect your members like never before!
+Build your very own community app with Linkspreed and keep everyone in the loop. 📲🎾 Easily share news, events, team updates, and foster a stronger club spirit!
+Get started today and see your community thrive! ✨
+#SportsClub #CommunityApp #Linkspreed #ConnectYourClub #TeamSpirit #ClubLife #DigitalTransformation #SportsTech ```
+
 ### 11.05.2025
 - Topic: 40% commission 
 - Directory: /posts/2025/May/11
