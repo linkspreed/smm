@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.05.2025
+- Topic: Every startup needs a community
+- Directory: /posts/2025/May/13
+- Description: ``` 🚀 Level up your startup game! 🚀 Building a thriving community is KEY for growth & connection. 🌱 Let's create something amazing together! ✨ Check out web4.one to learn more! 🌐 #communityfirst #startupgrowth #web4 ```
+
 ### 12.05.2025
 - Topic: Connect your club with a community app
 - Directory: /posts/2025/May/12
