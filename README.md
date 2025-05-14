@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.05.2025
+- Topic: Every club needs a community
+- Directory: /posts/2025/May/14
+- Description: ``` 🎉 Feeling the incredible community energy at your club and build your #community app! So much excitement for the future with Web4! ✨ Join the movement! 🙌 #Web4 #CommunityBuilding #FutureIsNow ```
+
 ### 13.05.2025
 - Topic: Every startup needs a community
 - Directory: /posts/2025/May/13
