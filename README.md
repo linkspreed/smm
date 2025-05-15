@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.05.2025
+- Topic: Every boook club needs a community
+- Directory: /posts/2025/May/15
+- Description: ``` Ready to level up your book club? 📚 Bring your community to #Web4! Start your own simple, fast & cheap community app today! ✨ #CommunityBuilding #BookClub #Web4One #Linkspreed ```
+
 ### 14.05.2025
 - Topic: Every club needs a community
 - Directory: /posts/2025/May/14
