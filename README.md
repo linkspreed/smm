@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.05.2025
+- Topic: Consulting and Communities
+- Directory: /posts/2025/May/16
+- Description: ``` 🚀 The future of the internet is here, and it's all about communities! 🌐 Consultants, are you ready to navigate the exciting world of #Web4? Time to adapt and empower these new digital spaces! 💪 Let's build the future together! ✨
+🔍 Learn more about Web4: https://web4.one ```
+
 ### 15.05.2025
 - Topic: Every boook club needs a community
 - Directory: /posts/2025/May/15
