@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.05.2025
+- Topic: Social Networks as a Service 
+- Directory: /posts/2025/May/17
+- Description: ``` 🚀✨ Launch your own community with Social Networks as a Service! 🌐 Build your dream social platform effortlessly. 🔗 Learn more: https://linkspreed.com #Web4 #SnaaS #CommunityBuilding #Linkspreed ```
+
 ### 16.05.2025
 - Topic: Consulting and Communities
 - Directory: /posts/2025/May/16
