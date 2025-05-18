@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.05.2025
+- Topic: Social Networks 4 Schools
+- Directory: /posts/2025/May/18
+- Description: ``` 🏫 Empowering education! Schools can build their OWN safe, internal social network for students & teachers 🤝📚💡 Easily with Linkspreed's Snaas! No tech hurdles, just pure community connection ✨🚀 #SchoolNetwork #EdTech #CommunityBuilding #Linkspreed #Snaas ```
+
 ### 17.05.2025
 - Topic: Social Networks as a Service 
 - Directory: /posts/2025/May/17
