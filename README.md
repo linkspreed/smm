@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.05.2025
+- Topic: Build Your Social Network N-O-W 
+- Directory: /posts/2025/May/19
+- Description: ``` Launch Your Own Social Network! ✨ Tired of the usual platforms? With Linkspreed's Web4, create your own community hub easily! 🛠️ It's Social Networks as a Service (SNaaS). Build your space, your rules. 👇
+➡️ https://web4.one
+➡️ https://linkspreed.com
+#Web4 #Linkspreed #SNaaS #Community ```
+
 ### 18.05.2025
 - Topic: Social Networks 4 Schools
 - Directory: /posts/2025/May/18
