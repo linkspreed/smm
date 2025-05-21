@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.05.2025
+- Topic: Web4 & Students
+- Directory: /posts/2025/May/21
+- Description: ``` Students embracing the future with Web4! 🚀 Learning, connecting, and building communities. The next generation of the internet is here! #Web4 #UniversityLife #FutureOfTech #Innovation ✨ ```
+
 ### 20.05.2025
 - Topic: Trive Technology 
 - Directory: /posts/2025/May/20
