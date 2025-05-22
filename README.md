@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.05.2025
+- Topic: startups X WEB4 
+- Directory: /posts/2025/May/22
+- Description: ``` Startups can now easily create their own platform to connect customers and build a strong community. 🔥🫡 Maximum interaction, maximum impact! #Web4 #StartupLife #CommunityFirst #CustomerEngagement ```
+
 ### 21.05.2025
 - Topic: Web4 & Students
 - Directory: /posts/2025/May/21
