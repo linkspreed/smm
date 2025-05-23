@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.05.2025
+- Topic: Web4 SNaaS Beta
+- Directory: /posts/2025/May/23
+- Description: ``` It's finally happening! 🎉 WEB4 SNaaS is entering its beta phase – the future of social networks starts now! 🚀 Build your own community without any technical hurdles. Coming soon to everyone! ✨
+#Web4 #SNaaS #Linkspreed #CommunityBuilding #FutureNow ```
+
 ### 22.05.2025
 - Topic: startups X WEB4 
 - Directory: /posts/2025/May/22
