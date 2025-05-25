@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.05.2025
+- Topic: Community Interaction 
+- Directory: /posts/2025/May/24
+- Description: ``` An owned social network boosts customer retention and interaction by 200%+ compared to traditional social media! More engagement, more loyalty. ✨ #Linkspreed #Web4 ```
+
 ### 23.05.2025
 - Topic: Web4 Beta
 - Directory: /posts/2025/May/23
