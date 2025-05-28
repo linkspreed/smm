@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.05.2025
+- Topic: Web4 Artist
+- Directory: /posts/2025/May/28
+- Description: ``` Unleash your inner artist! 🎨 Build your community & enjoy true #FreedomOfExpression with Linkspreeds' Web4™! Discover more at www.web4.one ✨ #ArtistCommunity #Web4 #Linkspreed ```
+
 ### 27.05.2025
 - Topic: Web4 Creator 
 - Directory: /posts/2025/May/27
