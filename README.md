@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.05.2025
+- Topic: 15k creative communities 
+- Directory: /posts/2025/May/30
+- Description: ``` Linkspreed is revolutionizing the internet! 🚀 With Web4, you can build your own social platform – simply and intuitively. Become part of over 15,000 creative communities! ✨ Build YOUR network! 🌐
+#Linkspreed #Web4 #SocialNetwork #CommunityBuilding #FutureOfTheInternet #Innovation #Tech ```
+
 ### 28.05.2025
 - Topic: Web4 Artist
 - Directory: /posts/2025/May/28
