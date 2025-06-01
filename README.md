@@ -5,6 +5,19 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.06.2025
+- Topic: Web4 June
+- Directory: /posts/2025/June/01
+- Description: ``` WEB4 JUNE DEAL ALERT! 🥳🗓️
+Get ready to shape the future with a massive 50% DISCOUNT on Web4 this June! 🚀 Don't miss out on building your own community platform!
+🔗 https://web4.one
+#Web4 #Linkspreed #Discount #FutureIsNow #CommunityBuilding #TechDeals #JuneSale 🎉✨ ```
+
+### 31.05.2025
+- Topic: Linkspreed Ecosystem
+- Directory: /posts/2025/May/31
+- Description: ``` Hey everyone! Discover the incredible ecosystem behind Linkspreed! Own social networks, free SaaS & innovative hardware - all in one place! Ready for the future with Web4™? #Linkspreed #Web4 #SocialNetworks #FreeSaaS #TechInnovation ```
+
 ### 30.05.2025
 - Topic: 15k creative communities 
 - Directory: /posts/2025/May/30
