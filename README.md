@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.06.2025
+- Topic: Web4.party
+- Directory: /posts/2025/June/02
+- Description: ``` Building your dream community is coming soon! 🎉 Get ready for Web4.Party Beta – your ultimate platform to connect and grow. Stay tuned! #Web4Party #SocialNetwork #CommunityBuilding #Linkspreed 🚀 ```
+
 ### 01.06.2025
 - Topic: Web4 June
 - Directory: /posts/2025/June/01
