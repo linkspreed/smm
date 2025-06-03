@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.06.2025
+- Topic: Build Your Social Network 
+- Directory: /posts/2025/June/03
+- Description: ``` Tired of generic social media? ➡️ Web4 lets you create YOUR unique community. Perfect for brands, groups, or anyone craving a tailored online home. Discover more! 🚀 ```
+
 ### 02.06.2025
 - Topic: Web4.party
 - Directory: /posts/2025/June/02
