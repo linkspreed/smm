@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.06.2025
+- Topic: AI powered social networks 
+- Directory: /posts/2025/June/04
+- Description: ``` AI Powered Social Networks are the future! 🚀 Connect, share, and grow your community like never before with Web4.one 🌐✨ #AI #SocialNetworks #Web4 ```
+
 ### 03.06.2025
 - Topic: Build Your Social Network 
 - Directory: /posts/2025/June/03
