@@ -5,6 +5,18 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.06.2025
+- Topic: Web4 AI 
+- Directory: /posts/2025/June/06
+- Description: ``` Shape The Future with Web4 AI! 🚀 Discover how our open-source AI models are revolutionizing social networks and helping you with smart analytics. 💡 We're bringing more than just AI – we're building the future of the internet! 🌐
+👉 Learn more: https://alllinkspeed.com
+#Web4 #Web4AI #AI #SocialNetworks #FutureTech #OpenSource #Innovation #Linkspreed ```
+
+### 04.06.2025
+- Topic: 30 seconds 
+- Directory: /posts/2025/June/04
+- Description: ``` Social Network in 30 Seconds! Want to build your own community and shape the future? With Web4.one, it's becoming a reality! Create your own social network in no time. #Web4 #BuildYourCommunity #ShapeTheFuture #SocialNetwork #Innovation ```
+
 ### 04.06.2025
 - Topic: AI powered social networks 
 - Directory: /posts/2025/June/04
