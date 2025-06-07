@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.06.2025
+- Topic: Web4 Lite
+- Directory: /posts/2025/June/07
+- Description: ``` Imagine: Your very own social network! 🤩 With WEB4 LITE from Linkspreed, you can make that a reality. Host your community 🏡 easily on a Raspberry Pi – yes, really! 💪
+The best part? You have complete control over your platform. 🚀 No prying eyes, no external servers, just you and your community. Design it exactly as you envision it, whether for friends, family, or a special hobby! 🎮🎨 ```
+
 ### 06.06.2025
 - Topic: Web4 AI 
 - Directory: /posts/2025/June/06
