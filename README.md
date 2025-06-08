@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.06.2025
+- Topic: Trive
+- Directory: /posts/2025/June/08
+- Description: ``` Introducing Trive: Free & unlimited software for everyone! 🚀 Discover the future of #SaaS with #Vertex & #Origin. No more costly licenses – Trive makes #Innovation accessible. ✨ ```
+
 ### 07.06.2025
 - Topic: Web4 Lite
 - Directory: /posts/2025/June/07
