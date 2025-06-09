@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.06.2025
+- Topic: Web4 for Non-Profits
+- Directory: /posts/2025/June/09
+- Description: ``` 🚀 Web4 for Non-Profits! 💜
+We love non-profits, and Linkspreed® Web4™ is here to empower them! Imagine a dedicated space for your community, built on the next generation of the internet. We're all about supporting causes that make a difference! Join the Web4 movement! ✨
+#Web4 #NonProfit #Linkspreed #CommunityImpact #TechForGood ```
+
 ### 08.06.2025
 - Topic: Trive
 - Directory: /posts/2025/June/08
