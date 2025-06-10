@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.06.2025
+- Topic: More Open Source @Linkspreed
+- Directory: /posts/2025/June/10
+- Description: ``` Linkspreed is launching a whole range of open-source tools! 🚀 Get ready for innovation.
+More info: www.web4.one
+#OpenSource #DevTools #Web4 #Linkspreed #Tech ```
+
 ### 09.06.2025
 - Topic: Web4 for Non-Profits
 - Directory: /posts/2025/June/09
