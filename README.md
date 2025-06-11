@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.06.2025
+- Topic: Web4
+- Directory: /posts/2025/June/11
+- Description: ``` Discover the Future with Web4.one! 🚀
+Build your own social network or explore exciting communities! 🌐 Reconnect and shape the internet of community.
+👉 https://web4.one ```
+
 ### 10.06.2025
 - Topic: More Open Source @Linkspreed
 - Directory: /posts/2025/June/10
