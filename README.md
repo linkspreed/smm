@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.06.2025
+- Topic: Web4 & Teenager
+- Directory: /posts/2025/June/12
+- Description: ``` Teens are embracing Social Networks as a Service (SNaaS) for connecting, meeting new people, and even hanging out IRL! 🚀📲 #Web4 #SNaaS #CommunityBuilding #TeenLife ```
+
 ### 11.06.2025
 - Topic: Web4
 - Directory: /posts/2025/June/11
