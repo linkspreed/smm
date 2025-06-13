@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.06.2025
+- Topic: 30 seconds
+- Directory: /posts/2025/June/13
+- Description: ``` 🚀 Launch your social network in just 30 seconds with Web4 by Linkspreed! 🤯 Build your community faster and easier than ever. ✨🌐
+#Web4 #Linkspreed #SocialNetwork #CommunityBuilding #30SecondsLaunch ```
+
 ### 12.06.2025
 - Topic: Web4 & Teenager
 - Directory: /posts/2025/June/12
