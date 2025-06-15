@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.06.2025
+- Topic: Discover Web4
+- Directory: /posts/2025/June/15
+- Description: ``` Discover the future of the internet! 🌐 Dive into Web4 – "The Internet of Social Networks" and build your own community. No technical hurdles, just endless possibilities! ✨ #Web4 #Linkspreed #Innovation #SocialNetworks #Future ```
+
 ### 14.06.2025
 - Topic: Niche Communitys 
 - Directory: /posts/2025/June/14
