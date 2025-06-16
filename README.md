@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.06.2025
+- Topic: Web4 Global Communities
+- Directory: /posts/2025/June/16
+- Description: ``` Web4 Global Communities: Shape your community! 🚀 Join the future of online networking with Linkspreed ✨. #Web4 #GlobalCommunities #Linkspreed ```
+
 ### 15.06.2025
 - Topic: Discover Web4
 - Directory: /posts/2025/June/15
