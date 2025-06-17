@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.06.2025
+- Topic: Web4 AI
+- Directory: /posts/2025/June/17
+- Description: ``` 🌟 WEB4 AI is here! 🚀 Build your own AI-based social network for your niche community! 💡 The future of connected worlds is now – powered by Linkspreed. 🔒🎤💬 #Web4AI #Linkspreed #SocialNetworks #AIChat #CommunityBuilding ```
+
 ### 16.06.2025
 - Topic: Web4 Global Communities
 - Directory: /posts/2025/June/16
