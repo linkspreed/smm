@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.06.2025
+- Topic: WEB4 Go
+- Directory: /posts/2025/June/18
+- Description: ``` 🚀 WEB4 GO: Build your social network between 2 bus stops! 🚌💨 Ever dreamed of your own community platform? With Web4, it's faster than your daily commute! Get started today & connect your world. ✨ #Web4 #Linkspreed #SocialNetwork #CommunityBuilding #Innovation ```
+
 ### 17.06.2025
 - Topic: Web4 AI
 - Directory: /posts/2025/June/17
