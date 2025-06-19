@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.06.2025
+- Topic: Social Networks Everywhere
+- Directory: /posts/2025/June/19
+- Description: ``` 🌴 Social Networks Everywhere with Web4 Lite! Imagine building communities even off the grid. Our innovative Web4 Lite empowers you to create social networks anywhere, anytime! 🚀 Get ready for true decentralized connection. #Web4Lite #SocialNetworks #DecentralizedWeb #Innovation #TechForGood #Linkspreed ```
+
 ### 18.06.2025
 - Topic: WEB4 Go
 - Directory: /posts/2025/June/18
