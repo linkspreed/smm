@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.06.2025
+- Topic: Linkspreed ecosystem
+- Directory: /posts/2025/June/20
+- Description: ``` It's all about the ecosystem! 🌐 From Web4™ to SnaxNox drones 🚀 and W4 Phones 📱 – we're constantly expanding our hardware lineup to bring you a seamless, integrated experience. Get ready for the future! ✨ #Linkspreed #Web4 #SnaaxNox #W4Phone #Ecosystem ```
+
 ### 19.06.2025
 - Topic: Social Networks Everywhere
 - Directory: /posts/2025/June/19
