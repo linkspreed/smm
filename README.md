@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.06.2025
+- Topic: LS-W4-SLICE-2B-CONSULTANT
+- Directory: /posts/2025/June/21
+- Description: ``` 🚀 LS-W4-SLICE-2B-CONSULTANT is your game-changer! 🔥 Want to build your own social network? This small model will consult you on it! 💡 From Linkspreed® Web4™ for your community vision. Learn more: 👉 HUGGINGFACE.CO/WEB4/LS-W4-SLICE-2B-CONSULTANT
+#Web4 #SocialNetwork #CommunityBuilding #AI #Linkspreed #Innovation ```
+
 ### 20.06.2025
 - Topic: Linkspreed ecosystem
 - Directory: /posts/2025/June/20
