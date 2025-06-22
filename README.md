@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.06.2025
+- Topic: LS-W4-AERO-ROBERTA-R4-HATE-SPEECH
+- Directory: /posts/2025/June/22
+- Description: ``` We're thrilled to unveil WEB4/LS-W4-AERO-ROBERTA-R4-HATE-SPEECH, an advanced AI model developed to automatically detect hate speech! 🤖 Soon to be deployed in social networks, this powerful tool embodies our commitment to safer online spaces. 💪
+The best part? It's open-source and available on Hugging Face! 🤝 You are the voice shaping the future of the internet. ✨
+#Linkspreed #Web4 #AI #HateSpeechDetection #OpenSource #HuggingFace #SaferInternet #Innovation ```
+
 ### 21.06.2025
 - Topic: LS-W4-SLICE-2B-CONSULTANT
 - Directory: /posts/2025/June/21
