@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.06.2025
+- Topic: Web4 & Basketball 🏀 
+- Directory: /posts/2025/June/23
+- Description: ``` Ready to level up your club's game? 🚀 It's time for Web4! Imagine your club with its very own social network, where you can connect, celebrate successes, and grow even closer. No more endless scrolling through irrelevant feeds – this is all about YOU! 🤩
+So, what's stopping you? Join the Web4 movement and build your tailor-made community! We at Linkspreed are here to help you make it happen. 💪 #Web4 #ClubLife #CommunityPower ```
+
 ### 22.06.2025
 - Topic: LS-W4-AERO-ROBERTA-R4-HATE-SPEECH
 - Directory: /posts/2025/June/22
