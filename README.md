@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.06.2025
+- Topic: You Are The Voice
+- Directory: /posts/2025/June/24
+- Description: ``` 📢 YOU ARE THE VOICE! 🗣️ With WEB4/LS-W4-AERO-ROBERTA-R4-HATE-SPEECH, Linkspreed x Web4 empower you to #ShapeTheFuture. Let's make the internet a better place, together! 🚀 #Web4 #Linkspreed #AntiHateSpeech #FutureOfInternet ```
+
 ### 23.06.2025
 - Topic: Web4 & Basketball 🏀 
 - Directory: /posts/2025/June/23
