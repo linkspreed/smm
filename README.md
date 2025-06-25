@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.06.2025
+- Topic: Web4
+- Directory: /posts/2025/June/25
+- Description: ``` This is the Web4 logo! 🚀 It stands for a more decentralized and free internet, built on social networks and new tech, primarily developed by Linkspreed.
+#Web4 #Linkspreed #DecentralizedWeb #FutureOfInternet #Innovation #Tech ```
+
 ### 24.06.2025
 - Topic: You Are The Voice
 - Directory: /posts/2025/June/24
