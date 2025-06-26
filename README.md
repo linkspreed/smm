@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.06.2025
+- Topic: Web4
+- Directory: /posts/2025/June/26
+- Description: ``` Your community, your network! Ready to build your own social network? Join the #Web4 revolution and create a space for your community, brand, or passion without any technical hurdles. No code, just community! 🤝🔗 web4.one Follow us: @linkspreed #Web4 #Snaas #Linkspreed #BuildYourCommunity #FutureOfSocial 🌐✨ ```
+
 ### 25.06.2025
 - Topic: Web4
 - Directory: /posts/2025/June/25
