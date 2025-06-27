@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.06.2025
+- Topic: Web4
+- Directory: /posts/2025/June/27
+- Description: ``` A new era is upon us 🚀! With our Web4 Ecosystem, we're revolutionizing the digital world 🌐. Experience the power of Social Networks, AI & Free SaaS and discover our innovative Hardware and W4 Phones 📱. We're building the internet of the future, owned by the community! ```
+
 ### 26.06.2025
 - Topic: Web4
 - Directory: /posts/2025/June/26
