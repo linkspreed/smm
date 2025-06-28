@@ -5,6 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.06.2025
+- Topic: Your Facebook
+- Directory: /posts/2025/June/28
+- Description: ``` Tired of the chaos on other apps? 🤯 It's time to build a community that's truly yours.
+With Linkspreed's Web4 SnaaS, you can create your own social network instantly. This is more than just a platform—it's a decentralized Web4 ecosystem where you are in control 👑 and your data is secure 🔒.
+No coding, no fees, no hassle. Just your community, your rules.
+Ready to take back control? 👉 https://linkspreed.com
+#Web4 #Linkspreed #SnaaS #Decentralized #OwnYourCommunity ```
+
 ### 27.06.2025
 - Topic: Web4
 - Directory: /posts/2025/June/27
