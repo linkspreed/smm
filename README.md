@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.06.2025
+- Topic: Even elephants in space have their own social network with Web4!
+- Directory: /posts/2025/June/29
+- Description: ``` Even elephants in space have their own social network with Web4! 🐘💫 Create your community without any technical hurdles and connect with like-minded people. What community would you build? 💬 #Web4 #SocialNetwork #Community #Linkspreed #Snaas #AI ```
+
 ### 28.06.2025
 - Topic: Your Facebook
 - Directory: /posts/2025/June/28
