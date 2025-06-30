@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.06.2025
+- Topic: Your Tribe. Your Ride.
+- Directory: /posts/2025/June/30
+- Description: ``` Ready to cruise with your crew? 🐧💨 Build your own digital jungle with Web4 and create a community that feels like home! 🏡 #Web4 #YourTribeYourRide #Linkspreed #CommunityFirst #Snaas #DigitalTribe ```
+
 ### 29.06.2025
 - Topic: Even elephants in space have their own social network with Web4!
 - Directory: /posts/2025/June/29
