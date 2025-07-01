@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.07.2025
+- Topic: New_Web
+- Directory: /posts/2025/July/01
+- Description: ``` At Linkspreed, we're not just about social networks. We're building the underlying architecture, hardware, networks, and protocols for Web4 to guarantee 100% independence. It's time for the New_Web! 🔥
+#Web4 #NewWeb #Linkspreed #Innovation #Tech ```
+
 ### 30.06.2025
 - Topic: Your Tribe. Your Ride.
 - Directory: /posts/2025/June/30
