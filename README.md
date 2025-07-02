@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.07.2025
+- Topic: Build & Ride
+- Directory: /posts/2025/July/02
+- Description: ``` Building your next social network is as easy as your commute. 📱 Tap into Web4 by Linkspreed and create the community you've always envisioned!
+Get started today:
+🔗 https://web4.one ```
+
 ### 01.07.2025
 - Topic: New_Web
 - Directory: /posts/2025/July/01
