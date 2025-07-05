@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.07.2025
+- Topic: Web4 Lite Docker 
+- Directory: /posts/2025/July/05
+- Description: ``` 🚀 Developers, assemble! 🚀 Linkspreed unveils Web4 Lite Docker Container on GitHub! 💻 Build your community-driven networks with ease. Get started now and shape the future of Web4! 🔥 #Web4 #Developer #Docker #GitHub #Linkspreed ```
+
 ### 04.07.2025
 - Topic: Q3 - TRIVE Technology 
 - Directory: /posts/2025/July/04
