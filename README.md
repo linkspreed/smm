@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.07.2025
+- Topic: Zoomer is ready for Web4 
+- Directory: /posts/2025/July/07
+- Description: ``` This golden retriever is hyped, and so are we! 🥳 Imagine a social space built by YOU, for YOUR vibe. No more endless scrolling through irrelevant feeds. It’s time to create, connect, and thrive on a platform that truly gets you! ```
+
 ### 06.07.2025
 - Topic: The Web4 Revolution 
 - Directory: /posts/2025/July/06
