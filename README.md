@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.07.2025
+- Topic: Enough is enough!
+- Directory: /posts/2025/July/08
+- Description: ``` Enough is enough! 😮 Are you fed up with the endless scroll on FB, Insta & TikTok? 😴 It's time for a change! ```
+
 ### 07.07.2025
 - Topic: Zoomer is ready for Web4 
 - Directory: /posts/2025/July/07
