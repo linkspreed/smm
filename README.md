@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.07.2025
+- Topic: Web4 is open source
+- Directory: /posts/2025/July/09
+- Description: ``` Your next big idea deserves a platform. Build your community, your way. 🌍
+#Web4 #FutureIsNow #CommunityPower ```
+
 ### 08.07.2025
 - Topic: Enough is enough!
 - Directory: /posts/2025/July/08
