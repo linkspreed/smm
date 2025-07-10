@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.07.2025
+- Topic: Web4 Search
+- Directory: /posts/2025/July/10
+- Description: ``` Searching for something more? Soon you'll have it! Our own community-exclusive search engine is in the works, tailor-made for our domain. Big things are brewing! 🛠️ #CommunityBuilt #SearchEngine ```
+
 ### 09.07.2025
 - Topic: Web4 is open source
 - Directory: /posts/2025/July/09
