@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.07.2025
+- Topic: Web4
+- Directory: /posts/2025/July/11
+- Description: ``` Our crew is out here "BUILDING YOUR SOCIAL NETWORK" – literally! 🎨 We're making it easy for anyone to launch their own community platform. Get ready for the next gen of internet where YOU are in control! 🔥 #Web4 #Linkspreed #BuildYourCommunity ```
+
 ### 10.07.2025
 - Topic: Web4 Search
 - Directory: /posts/2025/July/10
