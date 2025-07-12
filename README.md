@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.07.2025
+- Topic: Web4 - Open Source Community Planner
+- Directory: /posts/2025/July/12
+- Description: ``` Excited about building thriving online communities? 🌐 Check out Linkspreed's new Open Source Community Planner on GitHub! It's your blueprint for a dynamic Web4 community! ✨ #Web4 #CommunityBuilding #OpenSource #Linkspreed
+🔗 Get started now: https://github.com/Web4-Organisation/Web4-Communitys-Audience-Architect ```
+
 ### 11.07.2025
 - Topic: Web4
 - Directory: /posts/2025/July/11
