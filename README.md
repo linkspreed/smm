@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.07.2025
+- Topic: The social media algorithm labyrinth 
+- Directory: /posts/2025/July/15
+- Description: ``` Algorithms out, humanity in! It's time to reclaim our digital spaces and truly connect. No more endless scrolls, just genuine interaction. #Linkspreed #Web4 ```
+
 ### 14.07.2025
 - Topic: TheWestern Community
 - Directory: /posts/2025/July/14
