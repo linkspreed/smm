@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.07.2025
+- Topic: Build Your Social Network 
+- Directory: /posts/2025/July/16
+- Description: ``` Imagine building your very own social network - swiftly, efficiently, and precisely according to your specifications! ```
+
 ### 15.07.2025
 - Topic: The social media algorithm labyrinth 
 - Directory: /posts/2025/July/15
