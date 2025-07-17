@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.07.2025
+- Topic: AI + Web4 
+- Directory: /posts/2025/July/17
+- Description: ``` The future of advanced Artificial Intelligence will be built on community specific data from Web4. This shift promises highly tailored and context-aware systems that truly understand and cater to individual needs. It is a game changer for the digital world. ```
+
 ### 16.07.2025
 - Topic: Build Your Social Network 
 - Directory: /posts/2025/July/16
