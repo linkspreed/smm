@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.07.2025
+- Topic: The Big Web4 Report
+- Directory: /posts/2025/July/18
+- Description: ``` Ready to uncover the REAL dangers of social media? 💡 Our "Big Web4 Report" is on its way to shed light on what you NEED to know. Get ready! 🚀 #SocialMediaSafety #TechAwareness #Linkspreed #FutureofWeb ```
+
 ### 17.07.2025
 - Topic: AI + Web4 
 - Directory: /posts/2025/July/17
