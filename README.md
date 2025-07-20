@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.07.2025
+- Topic: Social Networks = Culture
+- Directory: /posts/2025/July/20
+- Description: ``` At Linkspreed, we witness how entire cultures emerge from diverse communities, each with its own social network. Imagine people coming together, exchanging ideas, and building something truly unique - completely without screens, just pure interaction and shared experiences within their own digital spaces. And look, even an Asian dragon soars above us! That is the magic we live here. ```
+
+### 19.07.2025
+- Topic: Your Social Network
+- Directory: /posts/2025/July/19
+- Description: ``` Build your perfect online community. Whether it is for work, passion, or just connecting with friends, our platform makes it easy to create and manage your social network. Examine the sleek profiles, intuitive posting, and trending topics. Your community, your rules. ```
+
 ### 18.07.2025
 - Topic: The Big Web4 Report
 - Directory: /posts/2025/July/18
