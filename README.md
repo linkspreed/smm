@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.07.2025
+- Topic: The Social Network Ranking 
+- Directory: /posts/2025/July/21
+- Description: ``` Do you want to get to the forefront on social media? With Linkspreed, you will not only reach the top, but you will secure the first place! We will show you the best strategies to maximize your online presence and inspire your community. Join in and become the next social media star! ```
+
 ### 20.07.2025
 - Topic: Social Networks = Culture
 - Directory: /posts/2025/July/20
