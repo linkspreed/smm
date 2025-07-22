@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.07.2025
+- Topic: Build Your Community Network
+- Directory: /posts/2025/July/22
+- Description: ``` Have you heard already? With Web4 SnaaS from Linkspreed, you can build your very own community network - effortlessly and exactly how you envision it! Whether for your brand, your organization, or your personal passion, we make it easy for you to connect and grow your community. Come and discover the possibilities! ```
+
 ### 21.07.2025
 - Topic: The Social Network Ranking 
 - Directory: /posts/2025/July/21
