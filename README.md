@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.07.2025
+- Topic: 1000 New Beta Tester - Web4 
+- Directory: /posts/2025/July/24
+- Description: ``` Linkspreed is looking for 1000 new beta testers for our groundbreaking Web4 network! If you are interested in shaping the future of social media and are not afraid of innovative new territory, then you are exactly right with us. Become a part of our community and help us develop a revolutionary platform. ```
+
 ### 23.07.2025
 - Topic: Increase customer interaction 
 - Directory: /posts/2025/July/23
