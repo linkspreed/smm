@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.07.2025
+- Topic: Build your social network during Breakfast 
+- Directory: /posts/2025/July/25
+- Description: ``` Imagine this: You are having breakfast, spooning your cereal, and simultaneously building your very own social network. With Linkspreed, this is no longer a dream of the future, but a reality. We show you how to realize your vision, even if you are still in your pajamas. Start your project now and connect people in your own way. ```
+
 ### 24.07.2025
 - Topic: 1000 New Beta Tester - Web4 
 - Directory: /posts/2025/July/24
