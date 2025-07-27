@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.07.2025
+- Topic: The Linkspreed Ecosystem
+- Directory: /posts/2025/July/27
+- Description: ``` Did you know that Linkspreed, with its startups like Wynix, Arctic, WEB4, SNaaS, Trive, Dev.Unity, and SnaxNox, is collectively building the future of the internet? We are working hand in hand on the layers of WEB4 to offer you an even better online experience. Discover all the startups and the entire ecosystem behind Linkspreed! Be there as we redefine the internet! ```
+
+### 26.07.2025
+- Topic: Social Networks as a Service 
+- Directory: /posts/2025/July/26
+- Description: ``` Have you ever considered the future of social networks? At Linkspreed, we are approaching the topic of "Social Networks as a Service" in a completely new way. Imagine having the control, flexibility, and power to design your own network exactly as you require it. ```
+
 ### 25.07.2025
 - Topic: Build your social network during Breakfast 
 - Directory: /posts/2025/July/25
