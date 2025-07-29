@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.07.2025
+- Topic: You Only Need Our Web4
+- Directory: /posts/2025/July/29
+- Description: ``` You truly only need Web4! With it, you receive everything you will ever require. We provide you with the opportunity to build your own super applications and social networks. Free SaaS software, hardware, and cloud storage are all included. Discover our universe of endless possibilities in the area of software and especially in the area of building your own social network. ```
+
+### 28.07.2025
+- Topic: Be the King in your community 
+- Directory: /posts/2025/July/28
+- Description: ``` Do you want to be in charge of your online kingdom again? Build your own social network and be the king in your community! With Web4 and Linkspreed you will have the power back. ```
+
 ### 27.07.2025
 - Topic: The Linkspreed Ecosystem
 - Directory: /posts/2025/July/27
