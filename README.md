@@ -10,6 +10,11 @@
 - Directory: /posts/2025/July/31
 - Description: ``` Your community is like your village - a place where you feel at home and always find support. At Linkspreed Web4, we are building precisely these kinds of digital places: vibrant, connected, and full of opportunities for you. Come and become a part of our growing family, because together we are shaping the future of the web at web4.one! ```
 
+### 30.07.2025
+- Topic: WYNIX 
+- Directory: /posts/2025/July/30
+- Description: ``` Have you heard about WYNIX yet? This is our brand new startup from Linkspreed, which is going to turn the world of consumer hardware upside down. Imagine smartphones and laptops that are not only powerful but also revolutionize your unique digital identity and your hosting in Web4. WYNIX is building the ingenious W4 Phones, which will open up entirely new possibilities for you. ```
+
 ### 29.07.2025
 - Topic: You Only Need Our Web4
 - Directory: /posts/2025/July/29
