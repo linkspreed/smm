@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.07.2025
+- Topic: Your Community - Your Village 
+- Directory: /posts/2025/July/31
+- Description: ``` Your community is like your village - a place where you feel at home and always find support. At Linkspreed Web4, we are building precisely these kinds of digital places: vibrant, connected, and full of opportunities for you. Come and become a part of our growing family, because together we are shaping the future of the web at web4.one! ```
+
 ### 29.07.2025
 - Topic: You Only Need Our Web4
 - Directory: /posts/2025/July/29
