@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.08.2025
+- Topic: Your Community
+- Directory: /posts/2025/August/01
+- Description: ``` How does your perfect community look? We at Linkspreed and Web4 are working on creating the next generation of social networks. Imagine having full control over your community, supported by the latest technologies such as artificial intelligence and the cloud. Whether it is with or without Al, your community deserves the very best. Let us create the future of social networks together. ```
+
 ### 31.07.2025
 - Topic: Your Community - Your Village 
 - Directory: /posts/2025/July/31
