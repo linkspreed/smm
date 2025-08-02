@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.08.2025
+- Topic: Super Apps
+- Directory: /posts/2025/August/03
+- Description: ``` Web4 is the tool that you use to build an app that was not developed for the masses but was created exactly for your niche and your community. You must forget universal apps that try to please everyone. You can concentrate on what your target group truly needs and build a unique super app that adapts perfectly. We can create the future of your community together. ```
+
 ### 02.08.2025
 - Topic: Build Your Social Network
 - Directory: /posts/2025/August/02
