@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.08.2025
+- Topic: Build Your Social Network
+- Directory: /posts/2025/August/02
+- Description: ``` Are you tired of mainstream social media platforms that restrict you? Then it is time to build your very own social network like a lion, with unlimited features for your community. Discover Social Networks as a Service in Web4 by Linkspreed. ```
+
 ### 01.08.2025
 - Topic: Your Community
 - Directory: /posts/2025/August/01
