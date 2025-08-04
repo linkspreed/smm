@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.08.2025
+- Topic: Your Social Network App
+- Directory: /posts/2025/August/04
+- Description: ``` We at Linkspreed are showing you how you can build a social network app for Android and iOS. Do not worry, it is easier than you think and the first step has already been taken. You only need the right idea and the right motivation to get started. Get inspired and take the project into your own hands. Your own social network is already waiting for you and your visions. ```
+
 ### 03.08.2025
 - Topic: Super Apps
 - Directory: /posts/2025/August/03
