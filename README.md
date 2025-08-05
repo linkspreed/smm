@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.08.2025
+- Topic: Frame & GenPix
+- Directory: /posts/2025/August/05
+- Description: ``` We from Linkspreed are super happy to give you a small outlook on our brand new projects, which we will unveil in the coming weeks: Frame and GenPix! These are two completely new, creative social networks that are based on our Web4 ecosystem. Be excited, it will be crazy! ```
+
 ### 04.08.2025
 - Topic: Your Social Network App
 - Directory: /posts/2025/August/04
