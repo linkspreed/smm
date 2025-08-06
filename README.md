@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.08.2025
+- Topic: We Want You
+- Directory: /posts/2025/August/06
+- Description: ``` We at Linkspreed are looking for you to be a beta tester. Yes, you heard that correctly! You can test our brand new software. It does not matter whether it is Social Networks as a Service, a new SaaS application, or something entirely in between. Sounds exciting, does it not? Become a part of our community and contribute your opinion. Apply right now and become a beta tester! We are looking forward to you. Write to us at hello@linkspreed.com ```
+
 ### 05.08.2025
 - Topic: Frame & GenPix
 - Directory: /posts/2025/August/05
