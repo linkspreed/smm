@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.08.2025
+- Topic: Web4/LS-W4-SX-YOLO-Light-V1-Candy
+- Directory: /posts/2025/August/08
+- Description: ``` Linkspreed has just unveiled the first and best YOLO model for candies, but that was only the tip of the iceberg. This is a demonstration to give you a taste of what is still to come. The model, named Web4/LS-W4-SX-YOLO-Light-V1-Candy, is the start of a new era. Be excited, because many more YOLO models specifically for social networks from Web4 are being trained and will be published very soon.  ```
+
+### 07.08.2025
+- Topic: Super App 
+- Directory: /posts/2025/August/07
+- Description: ``` Web4 is so much more than simply another Social Network as a Service! It is a complete ecosystem that combines social networks, communities, Super Apps, free SaaS, and hardware. We are creating an entirely new world that you can help to shape. Come on board and discover the unlimited possibilities that we offer you. ```
+
 ### 06.08.2025
 - Topic: We Want You
 - Directory: /posts/2025/August/06
