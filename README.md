@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.08.2025
+- Topic: Super App x Web4
+- Directory: /posts/2025/August/09
+- Description: ``` Imagine combining social networks as a service in Web4 from Linkspreed with mini apps, centralization, and offline Al. This creates a huge project with incredible potential that we are currently working on at full speed. We are convinced that we will reinvent the way people connect online with it. ```
+
 ### 08.08.2025
 - Topic: Web4/LS-W4-SX-YOLO-Light-V1-Candy
 - Directory: /posts/2025/August/08
