@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.08.2025
+- Topic: TRIVE Universe
+- Directory: /posts/2025/August/10
+- Description: ``` From free SaaS software to your very own universe. Trive is growing and gives you the opportunity to not only use our software, but also to operate it yourself. Discover a world that you help to shape. ```
+
 ### 09.08.2025
 - Topic: Super App x Web4
 - Directory: /posts/2025/August/09
