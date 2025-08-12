@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.08.2025
+- Topic: Build unlimited social networks
+- Directory: /posts/2025/August/12
+- Description: ``` Why settle for only one social network when you can create an unlimited number of them? With web4 from Linkspreed there are no limits to your creativity. You can create an infinite number of networks that are perfectly tailored to your specific interests. ```
+
 ### 11.08.2025
 - Topic: Just Web4
 - Directory: /posts/2025/August/11
