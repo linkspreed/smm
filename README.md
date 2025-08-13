@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.08.2025
+- Topic: 1000 open source social networks thanks to Web4 Lite 
+- Directory: /posts/2025/August/13
+- Description: ``` Wow, what a milestone! We are so proud to announce that thanks to you and the amazing developer community, over 1,000 decentralized social networks have been built using Web4 Lite! ```
+
 ### 12.08.2025
 - Topic: Build unlimited social networks
 - Directory: /posts/2025/August/12
