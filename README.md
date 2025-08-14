@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.08.2025
+- Topic: Web4 SNaaS Prototype 
+- Directory: /posts/2025/August/14
+- Description: ``` You have heard it from us: Our Web4 SNaaS prototype is ready to launch in only three days! Before the billing system goes online, it is going to be completely free of charge. This is your chance to be the very first to experience the future of social networks. Be ready for the launch. ```
+
 ### 13.08.2025
 - Topic: 1000 open source social networks thanks to Web4 Lite 
 - Directory: /posts/2025/August/13
