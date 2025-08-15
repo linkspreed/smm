@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.08.2025
+- Topic: 200+ Features. Think Bigger.
+- Directory: /posts/2025/August/15
+- Description: ``` With Web4 Classic, you can elevate your online identity to a completely new level. Over 200 functions are available for you to design your social network so that it truly reflects who you are. Find your voice in a world full of possibilities. ```
+
 ### 14.08.2025
 - Topic: Web4 SNaaS Prototype 
 - Directory: /posts/2025/August/14
