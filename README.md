@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.08.2025
+- Topic: Linkspreed Relaunch 
+- Directory: /posts/2025/August/16
+- Description: ``` We are planning something big! You can look forward to the relaunch of our websites. There you will soon find not only a brand-new design, but also a much simpler explanation for all our products. The entire ecosystem will soon be available worldwide. We cannot wait for you to get to know it! ``` 
+
 ### 15.08.2025
 - Topic: 200+ Features. Think Bigger.
 - Directory: /posts/2025/August/15
