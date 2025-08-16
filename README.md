@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.08.2025
+- Topic: web4.community
+- Directory: /posts/2025/August/17
+- Description: ``` Do you want to build your very own social network? The Web4 SNaaS beta is live and it is insane how fast you can do it! In under 30 seconds you can launch your community. Check it out at web4.community. ```
+
 ### 16.08.2025
 - Topic: Linkspreed Relaunch 
 - Directory: /posts/2025/August/16
