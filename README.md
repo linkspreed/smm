@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.08.2025
+- Topic: 30 seconds 
+- Directory: /posts/2025/August/19
+- Description: ``` Imagine in only 30 seconds your very own social network is built for your community. It is possible under web4.community ```
+
 ### 18.08.2025
 - Topic: Linkspreed from 2026 in Wyoming
 - Directory: /posts/2025/August/18
-- Description: ``` Listen up! We have some big news for you: Linkspreed is coming to the USA! Beginning in 2026, we are re-establishing ourselves in the state of Wyoming. We simply cannot wait to start this new adventure with you. ```
+- Description: ``` Imagine up! We have some big news for you: Linkspreed is coming to the USA! Beginning in 2026, we are re-establishing ourselves in the state of Wyoming. We simply cannot wait to start this new adventure with you. ```
 
 ### 17.08.2025
 - Topic: web4.community
