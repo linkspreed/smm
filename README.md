@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
-### 20.08.2025
+### 21.08.2025
 - Topic: Free credits 
-- Directory: /posts/2025/August/20
+- Directory: /posts/2025/August/21
 - Description: ``` Would you like to build your own social network? You can get some free credits at Web4.community to start right away. Get your free credits now and begin your project. Or you can write our team an email at hello@linkspreed.com to get more free credits. We look forward to hearing from you and your ideas! ```
+
+### 20.08.2025
+- Topic: Build Your Community 
+- Directory: /posts/2025/August/20
+- Description: ``` Start your own community today! You have hobbies, you have passions, and now you can easily build your own social network for them. Get started with free credits from web4.community. ```
 
 ### 19.08.2025
 - Topic: 30 seconds 
