@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.08.2025
+- Topic: AI advice on our relaunched websites
+- Directory: /posts/2025/August/22
+- Description: ``` The day has finally arrived! Discover our completely relaunched websites, which we have redesigned to provide you with the best possible experience. You can now interact directly with our new, intelligent AI that is there to assist you with all of your questions. Take a look and let the future advise you. ```
+
 ### 21.08.2025
 - Topic: Free credits 
 - Directory: /posts/2025/August/21
