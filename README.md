@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.08.2025
+- Topic: 30 seconds to your own social network
+- Directory: /posts/2025/August/24
+- Description: ``` Have you ever wondered what it would be like to run your own social network? Now you can do exactly that in only 30 seconds! We are not talking about programming knowledge or complicated installations. You are able to build your own little digital kingdom at web4.community and adapt it to your computer right away. It is faster than your coffee is ready and easier than writing an e-mail. Discover a new era of digital community and connect with like-minded people on your very own platform. ```
+
 ### 23.08.2025
 - Topic: TRIVE Apps
 - Directory: /posts/2025/August/23
