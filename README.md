@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.08.2025
+- Topic: TRIVE Apps
+- Directory: /posts/2025/August/23
+- Description: ``` TRIVE apps are here! The free SaaS solutions from Vertex and Origin you know are now coming as native Android apps. Finally, you can use B2B and B2C services for free, always and everywhere. There are two free solutions available every month. ```
+
 ### 22.08.2025
 - Topic: AI advice on our relaunched websites
 - Directory: /posts/2025/August/22
