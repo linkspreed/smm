@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.08.2025
+- Topic: Build Your Community 
+- Directory: /posts/2025/August/25
+- Description: ``` Are you unsure whether you should build a community for your own target audience? There are so many use cases for communities, from sports clubs and schools to companies and volunteers. We show you the top use cases and how you can easily build your own platform with Linkspreed. There is so much more to discover! ```
+
 ### 24.08.2025
 - Topic: 30 seconds to your own social network
 - Directory: /posts/2025/August/24
