@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
-### 26.08.2025
+### 27.08.2025
 - Topic: Define Your Brand Community 
-- Directory: /posts/2025/August/26
+- Directory: /posts/2025/August/27
 - Description: ``` Define your own brand community and create your social network at web4.community! We provide you with the freedom to realize your vision. No compromises, only your rules. Become part of the movement that is redefining the social web. ```
+
+### 26.08.2025
+- Topic: web4.community
+- Directory: /posts/2025/August/26
+- Description: ``` Forget about endless WhatsApp groups and start something real. With web4.Community you build a vibrant community that is much more than just a chat. Here you will find the structure and the tools to truly connect your people. It is the only platform you will ever need. ```
 
 ### 25.08.2025
 - Topic: Build Your Community 
