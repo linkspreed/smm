@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.08.2025
+- Topic: Social Networks as a Service
+- Directory: /posts/2025/August/28
+- Description: ``` Building a community has never been easier. 
+With Social Networks as a Service, you can create a custom social platform tailored to your needs - without the headache of building from scratch.
+Connect with your members, share ideas, and grow together.
+Ready to get started? Learn more at web4.community. ```
+
 ### 27.08.2025
 - Topic: Define Your Brand Community 
 - Directory: /posts/2025/August/27
