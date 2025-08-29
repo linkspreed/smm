@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.08.2025
+- Topic: Own Your Community Data
+- Directory: /posts/2025/August/29
+- Description: ``` Building your very own social network means complete control over your data and a comprehensive overview. No more data silos - reclaim your power! ```
+
 ### 28.08.2025
 - Topic: Social Networks as a Service
 - Directory: /posts/2025/August/28
