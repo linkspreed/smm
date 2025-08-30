@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.08.2025
+- Topic: Building Your Own Social Network
+- Directory: /posts/2025/August/31
+- Description: ``` It is time to take back control of your online community. Instead of getting lost in the large networks, build your own space that is a perfect fit for your needs. Create a platform where you can set the rules and build a real, engaged community. ```
+
 ### 30.08.2025
 - Topic: Show Your Social Network 
 - Directory: /posts/2025/August/30
