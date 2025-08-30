@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.08.2025
+- Topic: Show Your Social Network 
+- Directory: /posts/2025/August/30
+- Description: ``` The way we connect online is evolving, and it is time to take control of your digital space. With Linkspreed's web4.community, the power to create your own bespoke social network is now firmly in your hands. Imagine a platform meticulously crafted to resonate with your unique interests, fostering genuine connections, and free from the ubiquitous noise and distractions inherent in traditional social media environments. ```
+
 ### 29.08.2025
 - Topic: Own Your Community Data
 - Directory: /posts/2025/August/29
