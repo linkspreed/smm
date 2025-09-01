@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.09.2025
+- Topic: Boost Your Community Now 
+- Directory: /posts/2025/September/01
+- Description: ``` Tired of platforms that control your content and community? It's time to build your own social network. With Social Networks as a Service from web4.community, you can create a custom platform tailored to your needs. Take back control, build your community, and own your data. ```
+
 ### 31.08.2025
 - Topic: Building Your Own Social Network
 - Directory: /posts/2025/August/31
