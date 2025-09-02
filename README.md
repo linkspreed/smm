@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.09.2025
+- Topic: Build Your Social Network 
+- Directory: /posts/2025/September/02
+- Description: ``` Build your own online community with Web4 Community! Set the rules, interact directly with your members, and maintain full control. It's time to create your digital home. Visit web4.community to get started. ```
+
 ### 01.09.2025
 - Topic: Boost Your Community Now 
 - Directory: /posts/2025/September/01
