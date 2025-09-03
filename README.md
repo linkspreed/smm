@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.09.2025
+- Topic: Linkspreed Ecosystem
+- Directory: /posts/2025/September/03
+- Description: ``` Building the future of the internet! Linkspreed is more than a product – it's a complete decentralized ecosystem, from protocols to applications. Together with Web4 and TRIVE, we're creating a new, functional internet where control belongs to the users. Learn more about our vision at linkspreed.com. ```
+
 ### 02.09.2025
 - Topic: Build Your Social Network 
 - Directory: /posts/2025/September/02
