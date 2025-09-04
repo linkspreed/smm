@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.09.2025
+- Topic: Be Community 
+- Directory: /posts/2025/September/04
+- Description: ``` The future of social networks is not about following the rules of mainstream platforms. Its about building your own. You can now do that in 30 seconds at web4.community. ```
+
 ### 03.09.2025
 - Topic: Linkspreed Ecosystem
 - Directory: /posts/2025/September/03
