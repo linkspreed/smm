@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.09.2025
+- Topic: Build a social network for your job
+- Directory: /posts/2025/September/05
+- Description: ``` Build a strong social network for your career! Connect with professionals and unlock new opportunities. ```
+
 ### 04.09.2025
 - Topic: Be Community 
 - Directory: /posts/2025/September/04
