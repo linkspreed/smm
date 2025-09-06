@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.09.2025
+- Topic: Your community is independent
+- Directory: /posts/2025/September/06
+- Description: ``` The core principle of a truly strong community is its independence. It's the daily mindset that its success and future are entirely in its own hands, not dependent on external platforms or temporary trends. Building something that lasts means focusing on self-sufficiency from day one. ```
+
 ### 05.09.2025
 - Topic: Build a social network for your job
 - Directory: /posts/2025/September/05
