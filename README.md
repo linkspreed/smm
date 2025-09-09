@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.09.2025
+- Topic: Quit Mainstream Social Media 
+- Directory: /posts/2025/September/09
+- Description: ``` The digital world is changing. We are moving from centralized social networks to decentralized communities where you own your data and connections. This shift means more security, more freedom, and true ownership of your online presence. It's time to build a better, fairer digital space. ```
+
 ### 08.09.2025
 - Topic: One Prompt 
 - Directory: /posts/2025/September/08
