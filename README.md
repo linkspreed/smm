@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.09.2025
+- Topic: 30 seconds to your AI-based social network  
+- Directory: /posts/2025/September/10
+- Description: ``` Dream it, click it, launch it: Your AI social network, live in 30 seconds. Learn more at web4.community. ```
+
 ### 09.09.2025
 - Topic: Quit Mainstream Social Media 
 - Directory: /posts/2025/September/09
