@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.09.2025
+- Topic: We Enable Builders 4 Communities
+- Directory: /posts/2025/September/11
+- Description: ``` We Enable Builders 4 Communities! Creating your own social network is now easier than ever. With our tools, you can build a community that fits your unique vision, free from the constraints of big platforms. It's time to take control of your digital space. ```
+
 ### 10.09.2025
 - Topic: 30 seconds to your AI-based social network  
 - Directory: /posts/2025/September/10
