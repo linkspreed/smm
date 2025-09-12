@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.09.2025
+- Topic: Build your network faster than drinking coffee
+- Directory: /posts/2025/September/12
+- Description: ``` Building your own social network just got unbelievably simple and fast! With Web4, you can go from idea to live in less time than it takes to drink your coffee. Register, write a single prompt, and launch! ```
+
 ### 11.09.2025
 - Topic: We Enable Builders 4 Communities
 - Directory: /posts/2025/September/11
