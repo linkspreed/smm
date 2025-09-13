@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.09.2025
+- Topic: We Enable Builders 4 Communities
+- Directory: /posts/2025/September/13
+- Description: ``` Are you a community builder? It's time to build your own space, not just rent it. With Web4, we're giving you the tools to create a social network tailored to your community. This is more than a platform; it's a movement towards a decentralized, user-owned internet. We enable builders 4 communities. ```
+
 ### 12.09.2025
 - Topic: Build your network faster than drinking coffee
 - Directory: /posts/2025/September/12
