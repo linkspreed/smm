@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.09.2025
+- Topic: Power Setup is coming soon 
+- Directory: /posts/2025/September/15
+- Description: ``` Creating your own social network just got a whole lot easier. The Power Setup feature from web4.community is coming soon, giving you the ability to launch a fully customized network in one sentence and under 5 seconds. Get ready to build your community, your way. ```
+
 ### 14.09.2025
 - Topic: Free Unlimited SaaS
 - Directory: /posts/2025/September/14
