@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.09.2025
+- Topic: Your Community in 30 seconds 
+- Directory: /posts/2025/September/16
+- Description: ``` Take control of your online community. Social Network as a Service lets you build a custom platform that is perfect for your needs. Create a dedicated space for your brand, team, or passion project. No more generic platforms, just your community, your rules. ```
+
 ### 15.09.2025
 - Topic: Power Setup is coming soon 
 - Directory: /posts/2025/September/15
