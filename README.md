@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.09.2025
+- Topic: Share Your Voice
+- Directory: /posts/2025/September/17
+- Description: ``` Share your opinion, no matter the cost - even if you have to build your own social network! ```
+
 ### 16.09.2025
 - Topic: Your Community in 30 seconds 
 - Directory: /posts/2025/September/16
