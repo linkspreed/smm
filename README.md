@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.09.2025
+- Topic: You are the media!
+- Directory: /posts/2025/September/18
+- Description: ``` The age of centralized social media is over. Welcome to Web4, where you own your community and your data. We are building a new digital world, one network at a time. The future is decentralized. You are the media. ```
+
 ### 17.09.2025
 - Topic: Share Your Voice
 - Directory: /posts/2025/September/17
