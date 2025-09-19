@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.09.2025
+- Topic: Prompt Your AI Network
+- Directory: /posts/2025/September/19
+- Description: ``` Effortless consistency in social media marketing. Stay visible and strengthen your brand by automating your posts and focusing on what matters: your community.```
+
 ### 18.09.2025
 - Topic: You are the media!
 - Directory: /posts/2025/September/18
