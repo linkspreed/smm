@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.09.2025
+- Topic: Custom Social Network
+- Directory: /posts/2025/September/20
+- Description: ``` The way we connect online is changing. Decentralized social networks are on the rise, offering a new way to communicate built on transparency and user control. No central authority, no censorship, just a global, open network built by all of us. Experience the next generation of social media where your data truly belongs to you. ```
+
 ### 19.09.2025
 - Topic: Prompt Your AI Network
 - Directory: /posts/2025/September/19
-- Description: ``` Effortless consistency in social media marketing. Stay visible and strengthen your brand by automating your posts and focusing on what matters: your community.```
+- Description: ``` The consistency in social media marketing. Stay visible and strengthen your brand by automating your posts and focusing on what matters: your community. ```
 
 ### 18.09.2025
 - Topic: You are the media!
