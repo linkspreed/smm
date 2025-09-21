@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.09.2025
+- Topic: WYNIX
+- Directory: /posts/2025/September/21
+- Description: ``` WYNYX, a Linkspreed startup, is now live! We're thrilled to introduce our new line of consumer hardware, including the W4 Phone, W4 Books, W4 Smart Rings, and W4 Smart Glasses. These products are designed to seamlessly integrate with the Web4 ecosystem, providing a more secure and user-centric experience. Discover the future of hardware with WYNYX. ```
+
 ### 20.09.2025
 - Topic: Custom Social Network
 - Directory: /posts/2025/September/20
-- Description: ``` The way we connect online is changing. Decentralized social networks are on the rise, offering a new way to communicate built on transparency and user control. No central authority, no censorship, just a global, open network built by all of us. Experience the next generation of social media where your data truly belongs to you. ```
+- Description: ``` WYNYX way we connect online is changing. Decentralized social networks are on the rise, offering a new way to communicate built on transparency and user control. No central authority, no censorship, just a global, open network built by all of us. Experience the next generation of social media where your data truly belongs to you. ```
 
 ### 19.09.2025
 - Topic: Prompt Your AI Network
