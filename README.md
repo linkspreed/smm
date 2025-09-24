@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.09.2025
+- Topic: Build with Web4 
+- Directory: /posts/2025/September/24
+- Description: ``` The next generation of the internet is here. Web4 allows you to control and build your own social networks and communities. Moving away from dependence on large corporations, towards true user control and decentralization. It's the revolution that puts the internet back into our hands. ```
+
 ### 23.09.2025
 - Topic: Build Your Community 
 - Directory: /posts/2025/September/23
