@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.09.2025
+- Topic: Be a Hero 
+- Directory: /posts/2025/September/25
+- Description: ``` Social Media vs. Social Networking: Do you know the difference? Social media is about broadcasting content to a wide audience. Social networking is about building a real community through two-way conversations. We focus on both to help you grow. ```
+
 ### 24.09.2025
 - Topic: Build with Web4 
 - Directory: /posts/2025/September/24
