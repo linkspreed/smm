@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.09.2025
+- Topic: web4.community 2.0
+- Directory: /posts/2025/September/26
+- Description: ``` Web4.community Version 2.0 is officially live and it’s a game-changer for building your own social networks. We’ve made the process incredibly easy so anyone can launch their own decentralized, custom community without the usual complexity. Take control of your digital space and join the Web4 revolution today. Start building your independent network now! ```
+
 ### 25.09.2025
 - Topic: Be a Hero 
 - Directory: /posts/2025/September/25
