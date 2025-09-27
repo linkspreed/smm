@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.09.2025
+- Topic: Build your social network
+- Directory: /posts/2025/September/27
+- Description: ``` The next evolution of the internet is here: Web4. It's all about user sovereignty, community ownership, and rewarding genuine engagement. Forget being a passive consumer; in Web4, you are an active owner and creator. Platforms like Linkspreed are making it easy to launch your own sovereign social network. Take control of your digital destiny. ```
+
 ### 26.09.2025
 - Topic: web4.community 2.0
 - Directory: /posts/2025/September/26
