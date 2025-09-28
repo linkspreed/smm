@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.09.2025
+- Topic: Micro Social Networks
+- Directory: /posts/2025/September/28
+- Description: ``` Tired of the noise on big social platforms? The future of online connection is Micro Social Networks.
+They're not about reaching millions; they're about connecting with the right people. Build your community around a specific passion, a local project, or a shared professional goal. The result? Deeper conversations, higher relevance, and authentic engagement. Stop scrolling mindlessly and start connecting purposefully. This is where real communities thrive. ```
+
 ### 27.09.2025
 - Topic: Build your social network
 - Directory: /posts/2025/September/27
