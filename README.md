@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.09.2025
+- Topic: Daily Reminder: Build Your Social Network
+- Directory: /posts/2025/September/29
+- Description: ``` Launch your own powerful social network without coding or huge overhead. Linkspreed's Social Network as a Service (SNaaS), powered by Web4, puts you in control. Get all the features you need—secure, scalable, and community-focused—instantly. Stop being a renter; start being the owner of your digital ecosystem. ```
+
 ### 28.09.2025
 - Topic: Micro Social Networks
 - Directory: /posts/2025/September/28
