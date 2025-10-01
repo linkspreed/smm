@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.10.2025
+- Topic: Micro Social Networks
+- Directory: /posts/2025/October/01
+- Description: ``` The future of connection is small, specialized, and yours. With Micro Social Networks, you can ditch the endless scroll and create a dedicated community just for your niche, your passion, or your tribe.
+For which community do you want to build your own social network? Tell us below! ```
+
 ### 30.09.2025
 - Topic: Daily Reminder: Micro Social Networks
 - Directory: /posts/2025/September/30
