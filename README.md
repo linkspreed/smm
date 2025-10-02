@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.10.2025
+- Topic: Linkspreed and Web4 are giving power back to the people
+- Directory: /posts/2025/October/02
+- Description: ``` The time for centralized social media dominance is over. Linkspreed and Web4 are giving power back to the people.
+Build your own social network. Imagine an ecosystem where you control the rules, the data, and the community experience. No more fighting opaque algorithms or worrying about your content's relevance being decided by a distant corporation.
+It's time for independent, user-owned platforms. It's easier than you think. Start building your true community today and define your own online future. ```
+
 ### 01.10.2025
 - Topic: Micro Social Networks
 - Directory: /posts/2025/October/01
