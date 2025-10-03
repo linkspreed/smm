@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.10.2025
+- Topic: Your Community Going Live
+- Directory: /posts/2025/October/03
+- Description: ``` The future of social is here! Your Community Going Live is not just a concept—it's a reality. Built on Linkspreed and the Web4 framework, you now have the power to create, own, and govern your own social network. Take back control, customize your space, and connect without limits. It's time to truly own your community. ```
+
 ### 02.10.2025
 - Topic: Linkspreed and Web4 are giving power back to the people
 - Directory: /posts/2025/October/02
