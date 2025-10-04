@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.10.2025
+- Topic: Ask Your Social Network
+- Directory: /posts/2025/October/04
+- Description: ``` The future of data analysis is here. web4.community Version 3.1 introduces the AI-Powered Database Chat beta! Now, you can simply ask your social network's database questions in natural language—no SQL required—and get instant insights. We're bringing the power of AI to your data sovereignty. Jump into the Web4 experience and start querying your network's data right now! ```
+
 ### 03.10.2025
 - Topic: Your Community Going Live
 - Directory: /posts/2025/October/03
