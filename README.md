@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.10.2025
+- Topic: Build Your Community Network
+- Directory: /posts/2025/October/05
+- Description: ``` The digital world is more than just pixels and code; it's the foundation for true connection. The image inspires us to look at the next phase of the internet, where community and ownership are key. Whether you're an artist, a developer, or a passionate enthusiast, the time is now to start building the spaces and networks that matter to you.
+Explore what's possible at web4.community. ```
+
 ### 04.10.2025
 - Topic: Ask Your Social Network
 - Directory: /posts/2025/October/04
