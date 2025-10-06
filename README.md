@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.10.2025
+- Topic: Facebook vs Your Social Network 
+- Directory: /posts/2025/October/06
+- Description: ``` Stop building your community on rented land. Platforms like Facebook give you reach, but a custom network gives you ownership and control. With Linkspreed and Web4, you define the rules, the design, and the user experience. You gain the freedom from unpredictable algorithms and the power to foster a deeply engaged, private community. It is time to move beyond being a tenant and become the architect of your own digital space. ```
+
 ### 05.10.2025
 - Topic: Build Your Community Network
 - Directory: /posts/2025/October/05
