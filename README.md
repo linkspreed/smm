@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.10.2025
+- Topic: Big EU is Watching You
+- Directory: /posts/2025/October/07
+- Description: ``` Tired of the EU Chat Control debate threatening your privacy? Linkspreed Web4 offers the solution. Stop renting space and build your own micro-social network with SNaaS. Take back control of your data, set your own rules, and secure your community's communication. Freedom starts with ownership. Read more on our blog! ```
+
 ### 06.10.2025
 - Topic: Facebook vs Your Social Network 
 - Directory: /posts/2025/October/06
