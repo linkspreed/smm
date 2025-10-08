@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.10.2025
+- Topic: 100$ Free Credits 
+- Directory: /posts/2025/October/08
+- Description: ``` Celebrate The EU's Failed Effort To Enforce Mass Chat Surveillance. Build Your Social Network: WEB4.COMMUNITY. $100 Free Credits. ```
+
+### 07.10.2025
+- Topic: Big EU is watching You 
+- Directory: /posts/2025/October/07
+- Description: ``` Tired of the EU Chat Control debate threatening your privacy? Linkspreed Web4 offers the solution. Stop renting space and build your own micro-social network with SNaaS. Take back control of your data, set your own rules, and secure your community's communication. Freedom starts with ownership. Read more on our blog! ```
+
 ### 06.10.2025
 - Topic: Facebook vs Your Social Network 
 - Directory: /posts/2025/October/06
