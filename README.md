@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.10.2025
+- Topic: Meet UIID by Web4
+- Directory: /posts/2025/October/09
+- Description: ``` The Universal Integrated Identity Decoupled (UIID) by Linkspreed defines the irreversible dawn of Web4. It is the fundamental core pillar constructed to deliver absolute digital autonomy.
+Anchored in Self-Sovereign Identity (SSI), UIID resolves Web2's paradox of centralization by recognizing the individual as the highest authority over their digital self. ```
+
 ### 08.10.2025
 - Topic: 100$ Free Credits 
 - Directory: /posts/2025/October/08
