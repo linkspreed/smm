@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.10.2025
+- Topic: Low Cost Social Networks
+- Directory: /posts/2025/October/10
+- Description: ``` Forget spending billions—your next powerful social network should be FREE and built instantly. ```
+
 ### 09.10.2025
 - Topic: Meet UIID by Web4
 - Directory: /posts/2025/October/09
