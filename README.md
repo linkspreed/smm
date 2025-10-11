@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.10.2025
+- Topic: UK ID is horrible!
+- Directory: /posts/2025/October/11
+- Description: ``` The UK's mandatory Digital ID is a disaster waiting to happen—a centralized privacy risk and a target for hackers. We must reject the 'honeypot' approach. Instead, embrace the future of Decentralized Identity (DID) with Linkspreed UIID. Own your data, control what you share, and eliminate the single point of failure. Self-Sovereign Identity is the only way to protect civil liberties in the digital age. Learn about Web4's solution for true digital freedom. ```
+
 ### 10.10.2025
 - Topic: Low Cost Social Networks
 - Directory: /posts/2025/October/10
