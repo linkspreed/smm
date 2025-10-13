@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.10.2025
+- Topic: 30 seconds 2 build your social network
+- Directory: /posts/2025/October/13
+- Description: ``` 30 seconds. That is all you need with Linkspreed Web4 technology to launch your own, fully functional social network. ```
+
 ### 12.10.2025
 - Topic: 1 WORD + AI = YOUR SOCIAL NETWORK
 - Directory: /posts/2025/October/12
