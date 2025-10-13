@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.10.2025
+- Topic: Claim Your Free UIID
+- Directory: /posts/2025/October/14
+- Description: ``` Claim your digital identity today! 🤩 Get your free unique UIID at uiid.linkspreed.com. This isn't just an ID; it's your decentralized identifier for the internet. Take control of your online presence! ```
+
 ### 13.10.2025
 - Topic: 30 seconds 2 build your social network
 - Directory: /posts/2025/October/13
