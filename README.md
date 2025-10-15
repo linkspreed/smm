@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.10.2025
+- Topic: Web4 NOW
+- Directory: /posts/2025/October/15
+- Description: ``` Ready to build the internet you've always dreamed of? With Web4.community, creating your own social network is as easy as a single prompt. Take control of your data, your rules, and your community.
+#Web4 #BuildANewInternet #Decentralization #CommunityBuilding ```
+
 ### 14.10.2025
 - Topic: Claim Your Free UIID
 - Directory: /posts/2025/October/14
