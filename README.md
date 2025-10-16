@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.10.2025
+- Topic: Get YOUR UIID
+- Directory: /posts/2025/October/16
+- Description: ``` Linkspreed and Web4 are building the new decentralized standard. With your UIID, you are not just a user; you are an owner. This means true community governance, freedom from surveillance, and unlimited identity without hidden fees.
+The next generation of the internet is here, and it belongs to you.
+Get started with your free UIID: uiid.linkspreed.com ```
+
 ### 15.10.2025
 - Topic: Web4 NOW
 - Directory: /posts/2025/October/15
