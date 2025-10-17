@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.10.2025
+- Topic: Your Bros on Web4
+- Directory: /posts/2025/October/17
+- Description: ``` YOUR BROS ON WEB4 is not just a catchy phrase—it is the future of community. Linkspreed offers Social Networks as a Service (SNaaS), powered by Web4 technology and the TRIVE framework. This means you can create a private, tailored social network for your "gang" in an instant. Enjoy a flexible, secure, and community-centered space where you control the rules. No more endless scrolling on platforms that do not serve you. Build your community. Get free credits. Start today! ```
+
 ### 16.10.2025
 - Topic: Get YOUR UIID
 - Directory: /posts/2025/October/16
