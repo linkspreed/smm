@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.10.2025
+- Topic: Web4 - Building a Strong Brand Community
+- Directory: /posts/2025/October/18
+- Description: ``` The future of the internet is decentralized, and it is built with you! Web4 is changing the game by turning users into co-creators and stakeholders. We are focused on empowerment and active contribution to Build a Strong Brand Community within the Linkspreed ecosystem. Get involved, share your ideas, and help shape the next generation of the web. Learn more about how your voice drives innovation. ```
+
 ### 17.10.2025
 - Topic: Your Bros on Web4
 - Directory: /posts/2025/October/17
