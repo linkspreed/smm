@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.10.2025
+- Topic: Make Money with your Social Network
+- Directory: /posts/2025/October/19
+- Description: ``` With Linkspreed and Web4, you can launch your own social network and start earning instantly. Set a tiny membership fee—say, 50 cents per month—and turn your dedicated community into a reliable source of revenue.
+It is time to build your platform, own your data, and keep the profits. The power to monetize is now in your hands. ```
+
 ### 18.10.2025
 - Topic: Web4 - Building a Strong Brand Community
 - Directory: /posts/2025/October/18
