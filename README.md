@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.10.2025
+- Topic: UIID x Web4
+- Directory: /posts/2025/October/20
+- Description: ``` Linkspreed UIID is set to be a central component of Web4, solving fundamental internet challenges like identity, security, transparency, and data ownership in one go. We are building the future of the internet. ```
+
 ### 19.10.2025
 - Topic: Make Money with your Social Network
 - Directory: /posts/2025/October/19
