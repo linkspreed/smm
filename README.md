@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.10.2025
+- Topic: Rethink Now 
+- Directory: /posts/2025/October/22
+- Description: ``` Is your social media working for you, or are you just scrolling? It is time to Rethink Now! Whether you are a consumer or a marketer, analyze your engagement, optimize your strategy, and make social media a tool for real value. ```
+
 ### 21.10.2025
 - Topic: Your Community in 30 Seconds 
 - Directory: /posts/2025/October/21
