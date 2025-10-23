@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.10.2025
+- Topic: Web4 Studio API
+- Directory: /posts/2025/October/23
+- Description: ``` We are building the future of connection with the Web4 Studio API. Social Networks as a Service empowers you to launch communities instantly. Developers, you are ready to integrate the power of Linkspreed. ```
+
 ### 22.10.2025
 - Topic: Rethink Now 
 - Directory: /posts/2025/October/22
