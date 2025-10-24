@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.10.2025
+- Topic: UIID API v1
+- Directory: /posts/2025/October/24
+- Description: ``` Big news from Linkspreed! Our decentralized identity system UIID v1 is live, paving the way for Web4. With "Core IDs" and "Aliases," you control your data. And the best part: passwordless login thanks to Zero Knowledge Signatures for more security and convenience. Experience the future of digital identity with Linkspreed UIID v1! ```
+
 ### 23.10.2025
 - Topic: Web4 Studio API
 - Directory: /posts/2025/October/23
