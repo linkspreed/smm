@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.10.2025
+- Topic: Tribemaker.space
+- Directory: /posts/2025/October/25
+- Description: ``` The era of expensive and time-consuming social networks is over! Tribemaker.space powered by Linkspreed and Web4 lets you launch your own community with a single prompt in 30 seconds. Build your customized, mobile social network instantly and experience the democratization of community building. ```
+
 ### 24.10.2025
 - Topic: UIID API v1
 - Directory: /posts/2025/October/24
