@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.10.2025
+- Topic: Turn Community into Network
+- Directory: /posts/2025/October/26
+- Description: ``` Turn Community into Network and launch your own fully controlled, branded social network in under 30 seconds. Get full ownership, direct user communication, and unshakeable brand loyalty.
+Launch your network now: web4.community ```
+
 ### 25.10.2025
 - Topic: Tribemaker.space
 - Directory: /posts/2025/October/25
