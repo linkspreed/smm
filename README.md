@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.10.2025
+- Topic: Micro Language Models
+- Directory: /posts/2025/October/27
+- Description: ``` We are thrilled to announce the arrival of our new Micro Language Models (MLMs)! Powered by Web4 AI, these compact, efficient models from Linkspreed are designed for the next generation of the internet. Get ready for faster, smarter, and more personalized experiences. This is the future of Web4. ```
+
 ### 26.10.2025
 - Topic: Turn Community into Network
 - Directory: /posts/2025/October/26
