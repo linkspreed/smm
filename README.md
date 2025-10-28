@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.10.2025
+- Topic: UIID & Elections
+- Directory: /posts/2025/October/28
+- Description: ``` The future of voting is digital, and it must be secure. UIID (Universal Individual Identifier) from Linkspreed is designed to enable secure online elections, ensuring every vote is unique and verifiable. ```
+
 ### 27.10.2025
 - Topic: Micro Language Models
 - Directory: /posts/2025/October/27
