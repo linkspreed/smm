@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.10.2025
+- Topic: Build Your Social Media
+- Directory: /posts/2025/October/29
+- Description: ``` We are thrilled to share that the Web4.Community is now stable! The intensive development phase has resulted in a robust, reliable, and bug-free platform.
+This is a massive step for everyone building a social network with Linkspreed and our Social Networks as a Service (SNaaS). You can launch your own dedicated community knowing the foundation is secure and ready to scale with your growth.
+You do not have to worry about the technical complexities. Focus on your community and brand. We have got the stability covered.
+Explore the future of decentralized, AI-integrated communities today! ```
+
 ### 28.10.2025
 - Topic: UIID & Elections
 - Directory: /posts/2025/October/28
