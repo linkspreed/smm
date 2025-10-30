@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.10.2025
+- Topic: LINKSPREED LLC 
+- Directory: /posts/2025/October/30
+- Description: ``` Linkspreed UG is now officially Linkspreed LLC! This strategic change in structure supports our global expansion and commitment to providing the best Social Networks as a Service (SNaaS) platform. This means greater flexibility and a stronger foundation for the future of Web4. We are excited for the next chapter! ```
+
 ### 29.10.2025
 - Topic: Build Your Social Media
 - Directory: /posts/2025/October/29
