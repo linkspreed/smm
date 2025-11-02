@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.11.2025
+- Topic: Launch Your Social Network
+- Directory: /posts/2025/November/02
+- Description: ``` Tired of the usual feeds? It is time to take control.
+Build your own Social Network and shape the community you want.
+Join the Web4.community revolution, powered by Linkspreed LLC. ```
+
 ### 01.11.2025
 - Topic: Launch Your Social Network
 - Directory: /posts/2025/November/01
