@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.11.2025
+- Topic: Your Group is Your Community
+- Directory: /posts/2025/November/03
+- Description: ``` Your group is more than just a chat—it is your community. Ready to build your own dedicated, stable social network free from the limits of big tech?
+We are giving you the power to own your digital space. Customize your platform, set your own rules, and foster genuine connection.
+Build your community on web4.community today! ```
+
 ### 02.11.2025
 - Topic: Launch Your Social Network
 - Directory: /posts/2025/November/02
