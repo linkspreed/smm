@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.11.2025
+- Topic: Build Your Social Network
+- Directory: /posts/2025/November/04
+- Description: ``` Build Your Own Social Network
+Are you ready to take control of your digital life? The time has come to stop renting space on platforms you don't own.
+The image showcases the future of connectivity with Web4. It represents a shift towards decentralized, user-owned social platforms. Imagine a space where your data is your property, and the community dictates the rules.
+Join the movement to Build a Free, Independent Social Network! ```
+
 ### 03.11.2025
 - Topic: Your Group is Your Community
 - Directory: /posts/2025/November/03
