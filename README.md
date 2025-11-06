@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.11.2025
+- Topic: Teamwork Makes Communities Work
+- Directory: /posts/2025/November/06
+- Description: ``` Building your social network on Web4 is a team sport. Linkspreed provides the sovereign platform; your members provide the pulse. Empower your community to co-create, moderate, and grow. True success is shared success. Web4 makes Teamwork Makes Communities Work a reality. ```
+
 ### 05.11.2025
 - Topic: Boost Your Data with Community
 - Directory: /posts/2025/November/05
