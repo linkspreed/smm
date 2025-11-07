@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.11.2025
+- Topic: SNaaS v3.3
+- Directory: /posts/2025/November/07
+- Description: ``` The future of social networks just got an upgrade! We released Social Networks as a Service (SNaaS) Version 3.3. It features enhanced, transparent billing, powerful tools to track your network growth, and major bug fixes for a smoother experience. Take full control of your decentralized Web4 community with Linkspreed. ```
+
 ### 06.11.2025
 - Topic: Teamwork Makes Communities Work
 - Directory: /posts/2025/November/06
