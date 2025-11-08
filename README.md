@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.11.2025
+- Topic: Build Web4
+- Directory: /posts/2025/November/08
+- Description: ``` At Linkspreed, we are excited to launch the movement to build a truly decentralized Internet.
+Build Web4 is all about putting YOU in control. ```
+
 ### 07.11.2025
 - Topic: SNaaS v3.3
 - Directory: /posts/2025/November/07
