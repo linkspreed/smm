@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.11.2025
+- Topic: Build Your Brand Community
+- Directory: /posts/2025/November/09
+- Description: ``` Tired of algorithms controlling your brands future? It is time to Own Your Brand community. With Linkspreed and Web4, you can launch your fully sovereign social network in just 30 seconds. Stop renting space and start owning your engagement, your data, and your success. Full control is the new currency. Join the Web4 movement! ```
+
 ### 08.11.2025
 - Topic: Build Web4
 - Directory: /posts/2025/November/08
