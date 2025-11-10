@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.11.2025
+- Topic: UIID with(out) KYC
+- Directory: /posts/2025/November/10
+- Description: ``` Great news from Linkspreed and the Web4.Community! Our Universal Internet Identity (UIID) system, which gives you free, lifelong internet IDs, no longer requires mandatory KYC verification to function.
+This is a huge win for privacy and accessibility. We are making the UIID truly universal, allowing more people to access the decentralized Web4 ecosystem without having to compromise their personal data.
+Get your UIID today and be part of a more open and inclusive internet. Optional KYC verification is still available for extended features. ```
+
 ### 09.11.2025
 - Topic: Build Your Brand Community
 - Directory: /posts/2025/November/09
