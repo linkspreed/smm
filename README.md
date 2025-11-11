@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.11.2025
+- Topic: UIID v1.2
+- Directory: /posts/2025/November/11
+- Description: ``` Big news from Linkspreed! UIID v1.2 dropped on November 9, 2025, with a fresh UX, no KYC required, and Cloudflare integration for ultimate security and speed. Your self-sovereign Web4 identity just got a major upgrade! Take control of your digital self. ```
+
 ### 10.11.2025
 - Topic: UIID with(out) KYC
 - Directory: /posts/2025/November/10
