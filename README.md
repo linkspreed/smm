@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.11.2025
+- Topic: Brand Community
+- Directory: /posts/2025/November/12
+- Description: ``` A Brand is only as strong as its community. We are building the future of the internet together with you at Linkspreed and Web4. Join the movement and lets grow together. ```
+
 ### 11.11.2025
 - Topic: UIID v1.2
 - Directory: /posts/2025/November/11
