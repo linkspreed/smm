@@ -8,7 +8,7 @@
 ### 14.11.2025
 - Topic: Social Networks as a Service v3.4
 - Directory: /posts/2025/November/14
-- Description: ``` We are breaking down the walls! With the new Social Networks as a Service (SNaaS) v3.4, it is actually not necessary anymore to have an account to create your own social network.
+- Description: ``` We are breaking down the walls. With the new Social Networks as a Service (SNaaS) v3.4, it is actually not necessary anymore to have an account to create your own social network.
 Launch your community in 30 seconds with an AI prompt—no sign-up required! Experience frictionless Web4 community building. ```
 
 ### 13.11.2025
