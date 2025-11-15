@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.11.2025
+- Topic: Introducing the UIID-Your Private Decentralized Digital ID
+- Directory: /posts/2025/November/15
+- Description: ``` Your identity, your control. Say goodbye to centralized logins and hello to UIID, the private, decentralized digital ID from Linkspreed. It is your unique, unhackable anchor in the Web4 world. Take back your privacy and own your data. ```
+
 ### 14.11.2025
 - Topic: Social Networks as a Service v3.4
 - Directory: /posts/2025/November/14
