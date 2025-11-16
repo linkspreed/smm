@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.11.2025
+- Topic: Social Networks as a Service
+- Directory: /posts/2025/November/16
+- Description: ``` Building your own digital community has never been simpler. With Social Networks as a Service (SNaaS) from Linkspreed and Web4, you are getting the power to create, own, and scale your social platform instantly. Forget complex infrastructure and maintenance headaches. We are providing the essential tools so you can focus entirely on your community and content. This is the future of decentralized social networking where ownership and connection are paramount. Join the Web4 community and experience a new era of digital control. ```
+
 ### 15.11.2025
 - Topic: Introducing the UIID-Your Private Decentralized Digital ID
 - Directory: /posts/2025/November/15
