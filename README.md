@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.11.2025
+- Topic: Develop Apps for the Web4 
+- Directory: /posts/2025/November/17
+- Description: ``` Calling all developers! The future of the internet is decentralized, intelligent, and community-focused. This is Web4. Linkspreed is opening up new possibilities for building dApps, integrating AI, and contributing to open-source foundations. Your next groundbreaking project starts here. Develop for the new Web4 and shape the next era of digital interaction. ```
+
 ### 16.11.2025
 - Topic: Social Networks as a Service
 - Directory: /posts/2025/November/16
