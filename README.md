@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.11.2025
+- Topic: Develop Web4
+- Directory: /posts/2025/November/18
+- Description: ``` Build decentralized social networks and applications with our Web4 Studio APIs. Use the UIID API for secure identity and the SNAAS API for all core social features. Connect them directly to a decentralized IDP. ```
+
 ### 17.11.2025
 - Topic: Develop Apps for the Web4 
 - Directory: /posts/2025/November/17
