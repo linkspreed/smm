@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.11.2025
+- Topic: Freedom of Speech
+- Directory: /posts/2025/November/19
+- Description: ``` Freedom of speech is inviolable. We at Linkspreed believe that control over your digital voice must rest with you. That is why we are building the infrastructure for decentralized, independent social networks with Web4. It is time to not just be a part of a network but to own your own. Build your community, set your rules, and secure your freedom of speech. ```
+
 ### 18.11.2025
 - Topic: Develop Web4
 - Directory: /posts/2025/November/18
