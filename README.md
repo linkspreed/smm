@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.11.2025
+- Topic: Free Speech and Web4
+- Directory: /posts/2025/November/20
+- Description: ``` We are building a Web where free speech is guaranteed. Web4s decentralized framework on Linkspreed gives power back to the users, allowing transparent and community-led moderation. It is time for a truly open internet. Join the movement. ```
+
 ### 19.11.2025
 - Topic: Freedom of Speech
 - Directory: /posts/2025/November/19
