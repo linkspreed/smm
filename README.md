@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.11.2025
+- Topic: Decentralized Digital ID
+- Directory: /posts/2025/November/21
+- Description: ``` Tired of central authorities controlling your digital life? UIID is here to give you back 100 percent control over your identity!
+Introducing UIID, the fully decentralized and secure Digital ID. Built with Linkspreed technology for the Web4 era, UIID eliminates the single point of failure in traditional systems. Your data is cryptographically secured and distributed, meaning you choose what to share and when. Experience true privacy preservation and uncompromising security. ```
+
 ### 20.11.2025
 - Topic: Free Speech and Web4
 - Directory: /posts/2025/November/20
