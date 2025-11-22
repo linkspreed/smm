@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.11.2025
+- Topic: The Super App without a Database
+- Directory: /posts/2025/November/22
+- Description: ``` The Linkspreed Super App is coming soon.
+We are preparing to change the way you use applications. Using decentralized Key Value Storage, we are laying the foundation for the Web4 future – without a central database.
+Stay tuned for the launch.
+Would you like me to generate an image for this post based on the previous specifications, or would you like another post variation? ```
+
 ### 21.11.2025
 - Topic: Decentralized Digital ID
 - Directory: /posts/2025/November/21
