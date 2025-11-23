@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.11.2025
+- Topic: UIID & Social Networks
+- Directory: /posts/2025/November/23
+- Description: ``` Big news for the Web4 revolution! UIID (Universal Identity) is being implemented in every Linkspreed social network. This empowers you with decentralized identity and total account control. It is time for a secure, autonomous, and seamless digital life. This is the core of our Web4 commitment! ```
+
 ### 22.11.2025
 - Topic: The Super App without a Database
 - Directory: /posts/2025/November/22
