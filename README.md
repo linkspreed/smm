@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.11.2025
+- Topic: Launch Your Social Network
+- Directory: /posts/2025/November/26
+- Description: ``` Launching your own social network has never been easier thanks to Linkspreed and Web4. Our Social Networks as a Service (SNaaS) solution on tribemaker.space lets you launch a fully sovereign, custom community in just 30 seconds. Full control, your own rules, your data. This is the Web4 revolution. Visit tribemaker.space and become the architect of your Tribe. ```
+
 ### 25.11.2025
 - Topic: Find Your Free SaaS
 - Directory: /posts/2025/November/25
