@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.11.2025
+- Topic: UIID Everywhere
+- Directory: /posts/2025/November/27
+- Description: ``` Major announcement! We are beginning the rollout of UIID (Universal Identifier). This is going to revolutionize how you interact with Linkspreed and Web4 products. First, we are integrating it across our entire ecosystem, and next up are third-party apps and hardware. Think seamless, secure, and unified digital identity. The future of digital identity is here and it is Universal. ```
+
 ### 26.11.2025
 - Topic: Launch Your Social Network
 - Directory: /posts/2025/November/26
