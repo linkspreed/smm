@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.11.2025
+- Topic: Be Community. Be Premium.
+- Directory: /posts/2025/November/28
+- Description: ``` Are you ready for the next level of your online presence? Stop building on rented land. Be Community. Be Premium. Launch your own social network and take control. Linkspreed and Web4 make it possible. Discover what it means to build a truly engaged, independent community at web4.community. ```
+
 ### 27.11.2025
 - Topic: UIID Everywhere
 - Directory: /posts/2025/November/27
