@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.11.2025
+- Topic: Unlock 100GB FREE Cloud Storage with Linkspreed! 
+- Directory: /posts/2025/November/29
+- Description: ``` Unlock 100GB FREE Cloud Storage with Linkspreed! ☁️ Secure your digital life on the Web4 infrastructure. All you need is a KYC-verified UIID. Get your UIID and start enjoying massive, secure cloud space instantly. ```
+
 ### 28.11.2025
 - Topic: Be Community. Be Premium.
 - Directory: /posts/2025/November/28
