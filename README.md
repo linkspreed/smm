@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.12.2025
+- Topic: Marketing Secret? Community!
+- Directory: /posts/2025/December/01
+- Description: ``` Wanna hear a marketing secret? It is all about the Community. At Linkspreed, we do not just see users; we see co-creators and advocates. Our vibrant Web4 community is the most powerful engine for growth and innovation. They provide crucial feedback, drive stability, and help spread the word better than any ad campaign. Community is not a tool; it is our foundation. ```
+
 ### 30.11.2025
 - Topic: You are capable of networking
 - Directory: /posts/2025/November/30
