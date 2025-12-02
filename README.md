@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.12.2025
+- Topic: Decentralized, But Web4
+- Directory: /posts/2025/December/02
+- Description: ``` Decentralized is not enough. Web4 is where true user control meets open-source intelligence.
+Linkspreed brings you a future where your community is autonomous, censorship is difficult, and your rules are sovereign. We are merging decentralization with AI as a community co-pilot, not an overlord.
+Your Network. Your Rules. It is the Web4 promise. ```
+
 ### 01.12.2025
 - Topic: Marketing Secret? Community!
 - Directory: /posts/2025/December/01
