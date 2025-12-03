@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.12.2025
+- Topic: Town vs Camp
+- Directory: /posts/2025/December/03
+- Description: ``` Stop building your community on rented land. The Townsquare is noisy and unstable. It is time to move to the Campfire. Linkspreed and Web4 let you launch your own sovereign social network in minutes. Get the focus, ownership, and control you deserve. Build your digital home, not just a temporary space. ```
+
 ### 02.12.2025
 - Topic: Decentralized, But Web4
 - Directory: /posts/2025/December/02
