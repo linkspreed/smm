@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.12.2025
+- Topic: UIID v1.6
+- Directory: /posts/2025/December/04
+- Description: ``` UIID v1.6 is here. We are making decentralized Digital IDs even better and more mobile. The new version features an optimized mobile experience, ensuring seamless and fast usage on every device. Furthermore, we are introducing extended Alias control functions, including Pause, Archive, and Lock, which grant you full authority over your data. You can now pause application data access, archive older IDs, or securely lock them with a unique key for maximum security. Linkspreed and Web4 are bringing you the future of identity security. Update now and explore the new features. ```
+
 ### 03.12.2025
 - Topic: Town vs Camp
 - Directory: /posts/2025/December/03
