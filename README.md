@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.12.2025
+- Topic: UIID
+- Directory: /posts/2025/December/05
+- Description: ``` Get your UIID (Universal Integrated Identity Decoupled) from Linkspreed and Web4! It is the only decentralized ID you need for Web4. Enjoy free cloud storage, single sign-on for all Web4 social networks, and full personalization of the Super App. Take back control of your digital life and secure your true ownership online! ```
+
 ### 04.12.2025
 - Topic: UIID v1.6
 - Directory: /posts/2025/December/04
