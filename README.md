@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.12.2025
+- Topic: Be Community
+- Directory: /posts/2025/December/07
+- Description: ``` We are excited to launch a new era of community building! With web4.community, you can now build your own social network community. Take control, gain stability, and earn credits as your network grows. Be creative. Be cool. Be community. ```
+
 ### 06.12.2025
 - Topic: Web4 Studio v3.5
 - Directory: /posts/2025/December/06
-- Description: ``` Web4 Studio Version 3.5 is officially live! We have packed this release with enhanced performance, a more modular architecture, and powerful new API endpoints to help you build your dream social network. Linkspreed and Web4 are powering the future of decentralized communities. Start building a better social network today! ```
+- Description: ``` We Studio Version 3.5 is officially live! We have packed this release with enhanced performance, a more modular architecture, and powerful new API endpoints to help you build your dream social network. Linkspreed and Web4 are powering the future of decentralized communities. Start building a better social network today! ```
 
 ### 05.12.2025
 - Topic: UIID
