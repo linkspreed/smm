@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.12.2025
+- Topic: Social Media Change
+- Directory: /posts/2025/December/08
+- Description: ``` The Social Media Change is here: Users are moving from massive, centralized platforms to small, niche networks. Find deeper connection, relevance, and control in communities focused on shared interests. Linkspreed enables this shift, empowering you to build your own specialized Web4 network. Its time to move from Big to Small. ```
+
 ### 07.12.2025
 - Topic: Be Community
 - Directory: /posts/2025/December/07
