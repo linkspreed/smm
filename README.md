@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.12.2025
+- Topic: Save Web4
+- Directory: /posts/2025/December/09
+- Description: ``` The time has come to take a stand for free speech! Linkspreed and the Web4-Community are building the next generation of decentralized social networks. Become part of this movement, build your community, and use the Instant Social Network. Save Web4 – together we are strong! ```
+
 ### 08.12.2025
 - Topic: Social Media Change
 - Directory: /posts/2025/December/08
