@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.12.2025
+- Topic: UIID based Social Networks
+- Directory: /posts/2025/December/10
+- Description: ``` The future is decentralized. Say goodbye to data silos and hello to true digital ownership. With Linkspreed and Web4, you can now Build Your UIID-Based, Decentralized Social Network. Own your identity, control your data, and create your community on a secure, open-source foundation. Get started and claim your sovereignty today. ```
+
 ### 09.12.2025
 - Topic: Save Web4
 - Directory: /posts/2025/December/09
