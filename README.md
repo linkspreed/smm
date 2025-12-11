@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.12.2025
+- Topic: Build Your FREE Social Network 
+- Directory: /posts/2025/December/11
+- Description: ``` Want to create your own space for your community? With Linkspreed, you can build a free social network that is precisely tailored to your needs.
+Forget the restrictions of mainstream platforms. We are bringing you into the Web4 era, where you and your community are in control. Reward your members with credits and build a true social ecosystem. Launch your own Social Network as a Service today! ```
+
 ### 10.12.2025
 - Topic: UIID based Social Networks
 - Directory: /posts/2025/December/10
