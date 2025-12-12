@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.12.2025
+- Topic: 100GB Free Cloud Storage
+- Directory: /posts/2025/December/13
+- Description: ``` Get 100GB of FREE Cloud Storage on cloud.web4.one just by verifying your Unique Identity Identifier (UIID) on the Web4 platform.
+The UIID is key to a secure, private, and decentralized Web4 future. Its an easy step towards digital autonomy and a massive storage boost for all your projects.
+Verify your UIID and claim your 100GB today! ```
+
 ### 12.12.2025
 - Topic: Decentralized By ID
 - Directory: /posts/2025/December/12
