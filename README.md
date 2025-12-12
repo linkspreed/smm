@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.12.2025
+- Topic: Decentralized By ID
+- Directory: /posts/2025/December/12
+- Description: ``` The power is back in Your hands! Web4 makes You the center of your digital world. Your UIID is your decentralized, anonymous digital passport, protecting your privacy across every platform. Control your data. Control your identity. This is Self-Sovereign Identity with Linkspreed and Web4. ```
+
 ### 11.12.2025
 - Topic: Build Your FREE Social Network 
 - Directory: /posts/2025/December/11
