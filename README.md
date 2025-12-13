@@ -5,10 +5,18 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.12.2025
+- Topic: It's Your Community
+- Directory: /posts/2025/December/14
+- Description: ``` It is YOUR Community. Take back the power over your social network!
+With Web4.Community and tools from Linkspreed, you can build your own independent network for free.
+No dominant algorithms. Full control. Real community values.
+Start building your own digital home now! ```
+
 ### 13.12.2025
 - Topic: 100GB Free Cloud Storage
 - Directory: /posts/2025/December/13
-- Description: ``` Get 100GB of FREE Cloud Storage on cloud.web4.one just by verifying your Unique Identity Identifier (UIID) on the Web4 platform.
+- Description: ``` It 100GB of FREE Cloud Storage on cloud.web4.one just by verifying your Unique Identity Identifier (UIID) on the Web4 platform.
 The UIID is key to a secure, private, and decentralized Web4 future. Its an easy step towards digital autonomy and a massive storage boost for all your projects.
 Verify your UIID and claim your 100GB today! ```
 
