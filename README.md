@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.12.2025
+- Topic: WYNIX & UIID
+- Directory: /posts/2025/December/15
+- Description: ``` We are maximizing ID-oriented decentralization! With the upcoming W4 Phones and UIID WYNIX, enter our ecosystem in minutes with just 1 Identity. Get your next Smartphone simply and rent it as long as you want. More control and privacy for you! ```
+
 ### 14.12.2025
 - Topic: It's Your Community
 - Directory: /posts/2025/December/14
