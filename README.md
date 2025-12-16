@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.12.2025
+- Topic: Need a Community?
+- Directory: /posts/2025/December/16
+- Description: ``` Need a Community? We have the solution! web4.community is live and offers you the opportunity to build your own social network. Create an engaged community that follows your own rules. Visit us now and start building your social network on web4.community. ```
+
 ### 15.12.2025
 - Topic: WYNIX & UIID
 - Directory: /posts/2025/December/15
