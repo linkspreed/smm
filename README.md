@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.12.2025
+- Topic: Build a Christmas Community
+- Directory: /posts/2025/December/18
+- Description: ``` Do you want to bring your local town together this Christmas? Linkspreed and Web4 make it possible for you to launch your own social network. Share local events and holiday cheer in a space that belongs to your community. It is time to build something meaningful. Join the Web4 movement and start your community project now. ```
+
+### 17.12.2025
+- Topic: You Are The Media With Web4
+- Directory: /posts/2025/December/17
+- Description: ``` Stop being just a follower and start being the platform. Web4 empowers you to take full control of your digital presence. You are the media and the message. Join the movement on Linkspreed and experience what true digital freedom looks. ```
+
 ### 16.12.2025
 - Topic: Need a Community?
 - Directory: /posts/2025/December/16
