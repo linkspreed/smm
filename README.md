@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.12.2025
+- Topic: Free UIID Benefits 
+- Directory: /posts/2025/December/19
+- Description: ``` We are excited to share that Social Networks as a Service is now available through Linkspreed. Start building your community today using a free UIID and enjoy features like 100GB of storage. The Web4 ecosystem is expanding and we want you to be a part of it. No complex setups, just pure networking power at your fingertips. Visit our platform to learn more and get started. ```
+
 ### 18.12.2025
 - Topic: Build a Christmas Community
 - Directory: /posts/2025/December/18
