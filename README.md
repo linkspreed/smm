@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.12.2025
+- Topic: Invest in Web4
+- Directory: /posts/2025/December/20
+- Description: ``` The internet is changing and we are leading the way. Linkspreed is officially stable and the Web4 community is growing faster than ever. We are making it easy for everyone to access Social Networks as a Service. From our new open source tools to the launch of TRIVE apps, the ecosystem is ready for you. Come and see what we are building. The future of the web belongs to the community. ```
+
 ### 19.12.2025
 - Topic: Free UIID Benefits 
 - Directory: /posts/2025/December/19
