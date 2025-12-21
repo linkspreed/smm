@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.12.2025
+- Topic: Your Social Network
+- Directory: /posts/2025/December/21
+- Description: ``` The era of independent social networking has arrived. With the launch of the Web4 Community platform by Linkspreed, you now have the power to build your own community network. No more relying on big tech algorithms. Create a space that belongs to you and your members. Our infrastructure is stable and ready for your vision. Visit web4.community to join the movement and start your own network. We are building the future of the internet together. ```
+
 ### 20.12.2025
 - Topic: Invest in Web4
 - Directory: /posts/2025/December/20
