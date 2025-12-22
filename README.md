@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.12.2025
+- Topic: Just Own Your Community 
+- Directory: /posts/2025/December/22
+- Description: ``` Stop building on rented land. Most social platforms own your data and your audience but Web4 is shifting the power back to you. With Linkspreed you can finally own your community and your future. It is time to take control and lead your own digital space without compromises. ```
+
 ### 21.12.2025
 - Topic: Your Social Network
 - Directory: /posts/2025/December/21
