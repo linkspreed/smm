@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.12.2025
+- Topic: UIID & ZKP 
+- Directory: /posts/2025/December/23
+- Description: ``` Take control of your digital life with Linkspreed and Web4. Our latest integration of UIID and ZKP technology allows for unlimited ownership of your data. You can stay anonymous, keep a private digital identity, and manage multiple sub IDs effortlessly. We are building a secure environment where privacy is the default. Join the movement toward true digital sovereignty today. ```
+
 ### 22.12.2025
 - Topic: Just Own Your Community 
 - Directory: /posts/2025/December/22
