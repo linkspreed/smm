@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.12.2025
+- Topic: Merry Christmas Web4 Builder
+- Directory: /posts/2025/December/24
+- Description: ``` Merry Christmas to the global Web4 community. We are celebrating the holidays with gratitude for all the builders who use Linkspreed to create something meaningful. It is a season of joy and we are happy to have you with us. No matter where you are we wish you a peaceful and happy time. Let us bring the Christmas vibes into every community today. We are looking forward to a bright future together. ```
+
 ### 23.12.2025
 - Topic: UIID & ZKP 
 - Directory: /posts/2025/December/23
