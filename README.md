@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.12.2025
+- Topic: Web4 Owner
+- Directory: /posts/2025/December/25
+- Description: ``` Stop being just a user and start being an owner. With web4.community, Linkspreed enables you to launch your very own social network. No more restrictive algorithms or data mining. You define the rules and you own the data. The revolution of Social Networks as a Service has arrived. Visit web4.community to start building your independent digital future now. ```
+
 ### 24.12.2025
 - Topic: Merry Christmas Web4 Builder
 - Directory: /posts/2025/December/24
