@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.12.2025
+- Topic: Your Web4
+- Directory: /posts/2025/December/26
+- Description: ``` You are the owner of your digital identity. With Web4 and Linkspreed technology you can finally stay anonymous and free. We are building a stable community where privacy is the standard and not the exception. Join the Web4 Organisation today and experience the future of social networking. It is your network and your choice. ```
+
 ### 25.12.2025
 - Topic: Web4 Owner
 - Directory: /posts/2025/December/25
