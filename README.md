@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.12.2025
+- Topic: Become the Community Owner in 30 seconds
+- Directory: /posts/2025/December/27
+- Description: ``` Stop being just a member and start being the owner. With Linkspreed and Web4, you can build your own social network using only one AI prompt. It is fast, efficient, and designed for the next generation of the web. Experience the power of AI and take control of your community today. No more gatekeepers and no more limits. The future of social networking is in your hands. ```
+
 ### 26.12.2025
 - Topic: Your Web4
 - Directory: /posts/2025/December/26
