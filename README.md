@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.12.2025
+- Topic: Your Social Network is like Your Burger
+- Directory: /posts/2025/December/28
+- Description: ``` Your social network is like your burger. You should be the one to decide what goes inside. With Linkspreed and Web4, we give you the tools to configure your community platform exactly to your liking. Select your features, define your rules, and launch a space that truly belongs to you. We are making Social Network as a Service a reality for everyone. Stop using platforms that do not fit your needs and start building your own today. ```
+
 ### 27.12.2025
 - Topic: Become the Community Owner in 30 seconds
 - Directory: /posts/2025/December/27
-- Description: ``` Stop being just a member and start being the owner. With Linkspreed and Web4, you can build your own social network using only one AI prompt. It is fast, efficient, and designed for the next generation of the web. Experience the power of AI and take control of your community today. No more gatekeepers and no more limits. The future of social networking is in your hands. ```
+- Description: ``` Your being just a member and start being the owner. With Linkspreed and Web4, you can build your own social network using only one AI prompt. It is fast, efficient, and designed for the next generation of the web. Experience the power of AI and take control of your community today. No more gatekeepers and no more limits. The future of social networking is in your hands. ```
 
 ### 26.12.2025
 - Topic: Your Web4
