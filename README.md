@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.12.2025
+- Topic: Build Your Sport Community
+- Directory: /posts/2025/December/30
+- Description: ``` Attention all athletes and organizers. You can now build your own sport community using the power of Linkspreed and Web4. Our platform provides everything you need to launch a professional social network for your team or fans. No more relying on generic platforms that do not understand your needs. Take control of your community and provide a unique digital experience. Start building today. ```
+
 ### 29.12.2025
 - Topic: Explore the Web4 Ecosystem 
 - Directory: /posts/2025/December/29
