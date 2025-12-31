@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.12.2025
+- Topic: Trends in 2026
+- Directory: /posts/2025/December/31
+- Description: ``` The future of digital identity is arriving faster than expected. In 2026, how we connect and identify ourselves online will change forever. Linkspreed and Web4 are ready to provide the security and community ownership that modern users deserve. We are building a world where you own your presence. Join us as we redefine the social landscape. ```
+
 ### 30.12.2025
 - Topic: Build Your Sport Community
 - Directory: /posts/2025/December/30
