@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.01.2026
+- Topic: Trends in 2026
+- Directory: /posts/2026/January/01
+- Description: ``` Goodbye 2025 and welcome to a massive 2026. The Linkspreed Builder community is stronger than ever as we move deeper into the Web4 era. We are committed to providing the best tools for decentralized social networking. Are you ready to build the future with us? Let us start this year with innovation and open source collaboration. Happy New Year to everyone in the ecosystem. ```
+
 ### 31.12.2025
 - Topic: Trends in 2026
 - Directory: /posts/2025/December/31
