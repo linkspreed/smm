@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.01.2026
+- Topic: Digital ID with UIID
+- Directory: /posts/2026/January/02
+- Description: ``` Digital ID with UIID is coming soon for all companies. Linkspreed and Web4 are building the future of secure business identities. We are making it easier for every organization to join the stable Web4 community. Follow us for more news on the upcoming launch. ```
+
 ### 01.01.2026
 - Topic: Trends in 2026
 - Directory: /posts/2026/January/01
