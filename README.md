@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.01.2026
+- Topic: ATRIUM
+- Directory: /posts/2026/January/04
+- Description: ``` Linkspreed is expanding the digital frontier with the launch of ATRIUM. Our new brand specializes in Social Networks as a Service, giving you the tools to build your own community platform powered by Web4. Whether you are a creator or a large organization, ATRIUM provides the stability and innovation you need to connect. Join us as we start this new chapter in social technology. ```
+
 ### 03.01.2026
 - Topic: ATRIUM & TRIVE
 - Directory: /posts/2026/January/03
