@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.01.2026
+- Topic: ATRIUM & TRIVE
+- Directory: /posts/2026/January/03
+- Description: ``` Experience the future of digital freedom with TRIVE and ATRIUM by Linkspreed. TRIVE is our free and unlimited SaaS solution built for the Web4 era. Together with ATRIUM, we are bringing Social Networks as a Service to everyone. No more algorithms and no more data mining. You can build your own community and stay in control of your rules. We are making professional infrastructure accessible for every brand and creator. Join the movement and start building on Linkspreed today. ```
+
 ### 02.01.2026
 - Topic: Digital ID with UIID
 - Directory: /posts/2026/January/02
