@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.01.2026
+- Topic: Build Your Social Network 
+- Directory: /posts/2026/January/05
+- Description: ``` Creating a private social network for your team has never been easier. Linkspreed provides the infrastructure to build a custom community tailored to your specific needs. Use Web4 technology to connect your employees and streamline internal communication. Stop relying on fragmented tools and start building a unified digital home for your team today. It is time to transform how your organization interacts. ```
+
 ### 04.01.2026
 - Topic: ATRIUM
 - Directory: /posts/2026/January/04
