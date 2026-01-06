@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.01.2026
+- Topic: Web4 & AR
+- Directory: /posts/2026/January/06
+- Description: ``` We are merging social networks with Augmented Reality. Web4 is AR and Web4 is Community. We bring your digital world into the physical space. No more boundaries between your online social life and the real world. Check out how Linkspreed and Web4 are changing the game. ```
+
 ### 05.01.2026
 - Topic: Build Your Social Network 
 - Directory: /posts/2026/January/05
