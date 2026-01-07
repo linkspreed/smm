@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.01.2026
+- Topic: Mainstream Social Media is bad
+- Directory: /posts/2026/January/07
+- Description: ``` Stop being a product on mainstream platforms. The era of centralized social media is over. With Linkspreed and Web4, you have the tools to launch your own social network in minutes. Own your data and lead your community without algorithms. It is time to take back control of your digital life. Build your own network today. ```
+
 ### 06.01.2026
 - Topic: Web4 & AR
 - Directory: /posts/2026/January/06
