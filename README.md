@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.01.2026
+- Topic: Creator Impact on Web4 
+- Directory: /posts/2026/January/08
+- Description: ``` The power of Web4 lies in the hands of the creators. We are seeing a massive shift in how digital value is created and shared. Linkspreed is here to empower every individual to make a lasting impact. Join us as we build a more connected and creator centric world. Experience the next generation of social networking today. ```
+
 ### 07.01.2026
 - Topic: Mainstream Social Media is bad
 - Directory: /posts/2026/January/07
