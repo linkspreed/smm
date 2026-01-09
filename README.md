@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.01.2026
+- Topic: Social Networks as a Service
+- Directory: /posts/2026/January/09
+- Description: ``` Social Networks as a Service is changing the way we think about digital communities. This concept allows for the creation of independent social layers that are fully integrated and scalable. Linkspreed and Web4 provide the necessary foundation to launch your own network without technical barriers. It is about giving control back to the creators and ensuring that every community has a digital home that fits its unique identity. Discover how we are building the future of connection together. ```
+
 ### 08.01.2026
 - Topic: Creator Impact on Web4 
 - Directory: /posts/2026/January/08
