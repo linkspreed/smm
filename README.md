@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.01.2026
+- Topic: Flow
+- Directory: /posts/2026/January/10
+- Description: ``` Building the future of social automation with Flow. We are creating a system where you can build powerful workflows directly within your social network. Using our Atrium technology, you can automate your digital life and focus on what truly matters. Stay tuned as we refine this experience for the Web4 community. ```
+
 ### 09.01.2026
 - Topic: Social Networks as a Service
 - Directory: /posts/2026/January/09
