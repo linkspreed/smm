@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.01.2026
+- Topic: UIID v1.8 with Badges
+- Directory: /posts/2026/January/11
+- Description: ``` Get ready for Version 1.8. We are introducing UIID Badges to the community very soon. This update focuses on identity and recognition within our growing network. We are building the future of social interaction together. Keep an eye out for the official rollout. ```
+
 ### 10.01.2026
 - Topic: Flow
 - Directory: /posts/2026/January/10
