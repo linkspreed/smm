@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.01.2026
+- Topic: We built a few hundred social networks
+- Directory: /posts/2026/January/12
+- Description: ``` We built a few hundred communities and are committed to empowering individuals to create their own vibrant social networks. Join us and experience the future of online interaction. ```
+
 ### 11.01.2026
 - Topic: UIID v1.8 with Badges
 - Directory: /posts/2026/January/11
