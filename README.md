@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.01.2026
+- Topic: Australia's Social Media Ban
+- Directory: /posts/2026/January/13
+- Description: ``` Australia banned social media for teens under 16 one month ago. We have a full review of the impact on our YouTube channel. See how young people, parents, and communities have adapted. ```
+
 ### 12.01.2026
 - Topic: We built a few hundred social networks
 - Directory: /posts/2026/January/12
