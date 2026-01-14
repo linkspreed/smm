@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.01.2026
+- Topic: Get 100GB Free Cloud Storage
+- Directory: /posts/2026/January/14
+- Description: ``` Are you tired of monthly subscriptions for your data? We have a solution for you. Get 100GB of free decentralized cloud storage today. All you need is a KYC verified UIID to claim your space on cloud.web4.one. Experience true digital sovereignty and high speed encryption with Linkspreed and Web4. Start your journey now. ```
+
 ### 13.01.2026
 - Topic: Australia's Social Media Ban
 - Directory: /posts/2026/January/13
