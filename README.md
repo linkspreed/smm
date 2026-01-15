@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.01.2026
+- Topic: UIID v1.8
+- Directory: /posts/2026/January/15
+- Description: ``` UIID v1.8 is live! Discover the latest advancements and enhanced features designed to elevate your experience. This release brings significant improvements and new capabilities to empower your projects. Explore UIID v1.8 today and unlock its full potential. ```
+
 ### 14.01.2026
 - Topic: Get 100GB Free Cloud Storage
 - Directory: /posts/2026/January/14
