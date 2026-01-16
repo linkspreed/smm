@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.01.2026
+- Topic: Social Networks & AR
+- Directory: /posts/2026/January/16
+- Description: ``` We are changing the way you interact with your online world. Linkspreed and Web4 are introducing AR features for your personal social networks. Create a unique space for your community and experience digital interaction in three dimensions. Join us as we build the future of Social Networks as a Service. ```
+
 ### 15.01.2026
 - Topic: UIID v1.8
 - Directory: /posts/2026/January/15
