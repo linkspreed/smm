@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.01.2026
+- Topic: Web4 Studio v3.6
+- Directory: /posts/2026/January/17
+- Description: ``` We are thrilled to announce the release of Web4 Studio v3.6, a significant update that brings a host of new features and improvements to our platform. This version is designed to empower our users with even more tools and capabilities, making the development experience smoother and more efficient. ```
+
 ### 16.01.2026
 - Topic: Social Networks & AR
 - Directory: /posts/2026/January/16
