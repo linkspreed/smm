@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.01.2026
+- Topic: Push Cretor on Web4
+- Directory: /posts/2026/January/18
+- Description: ``` Elevate your content creation with Web4.Community. We are empowering creators with tools to build their own social networks and engage with their audience on their terms. Discover a new era of creator-friendly platforms. ```
+
 ### 17.01.2026
 - Topic: Web4 Studio v3.6
 - Directory: /posts/2026/January/17
