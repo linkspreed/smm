@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.01.2026
+- Topic: Improve Creator Experience
+- Directory: /posts/2026/January/19
+- Description: ``` Attention all community builders. We are excited to announce new features from Linkspreed and Web4 that are designed to improve the creator experience. Stability and ease of use are at the forefront of this update. We believe that technology should support your creativity and not stand in your way. Join us as we build the future of social networks together. Check out the latest developments and see how we can help you grow. ```
+
 ### 18.01.2026
 - Topic: Push Cretor on Web4
 - Directory: /posts/2026/January/18
