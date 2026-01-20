@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.01.2026
+- Topic: The Social Network API
+- Directory: /posts/2026/January/20
+- Description: ``` Get ready to take control of your community data. The upcoming Social Network API from Linkspreed allows developers to access the Web4 ecosystem programmatically. Build custom integrations and automate your social platform with ease. Innovation is coming soon to the Web4 Studio. ```
+
 ### 19.01.2026
 - Topic: Improve Creator Experience
 - Directory: /posts/2026/January/19
