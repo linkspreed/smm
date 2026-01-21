@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.01.2026
+- Topic: Own Your Community
+- Directory: /posts/2026/January/21
+- Description: ``` Stop building on rented land. With Linkspreed and Web4 you can finally own your community. We provide the infrastructure and you provide the vision. Social Networks as a Service is here to stay. Start building your own digital home today and take back control over your data and your audience. We are ready to help you grow. ```
+
 ### 20.01.2026
 - Topic: The Social Network API
 - Directory: /posts/2026/January/20
