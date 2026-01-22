@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.01.2026
+- Topic: Web4 API 
+- Directory: /posts/2026/January/22
+- Description: ``` The Web4 API will be released soon. Connect your social network directly into other applications and interact with the data and functions. ```
+
 ### 21.01.2026
 - Topic: Own Your Community
 - Directory: /posts/2026/January/21
