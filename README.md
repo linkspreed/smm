@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.01.2026
+- Topic: SOURCE
+- Directory: /posts/2026/January/23
+- Description: ``` The era of disinformation ends now. Linkspreed and Web4 are launching the Six Pillars of Truth to restore absolute trust to the digital world. By using hardware-signed capture and cryptographic verification, we make it mathematically impossible to deny reality. From deepfake defense to identity shields, we are building the infrastructure for a verified future. Explore how we are turning trust into a mathematical constant. ```
+
 ### 22.01.2026
 - Topic: Web4 API 
 - Directory: /posts/2026/January/22
