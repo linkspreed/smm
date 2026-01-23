@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.01.2026
+- Topic: Build a FLOW Workflow
+- Directory: /posts/2026/January/24
+- Description: ``` We are launching FLOW, the ultimate automation engine for Web4. Connect your favorite apps like Gmail and Slack directly to the decentralized web. ```
+
 ### 23.01.2026
 - Topic: SOURCE
 - Directory: /posts/2026/January/23
