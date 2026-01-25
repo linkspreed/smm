@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.01.2026
+- Topic: UIID KYC
+- Directory: /posts/2026/January/25
+- Description: ``` UIID now offers free, fast, secure, and anonymous KYC verification. Experience the future of identity verification with us! ```
+
 ### 24.01.2026
 - Topic: Build a FLOW Workflow
 - Directory: /posts/2026/January/24
