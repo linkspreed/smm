@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.01.2026
+- Topic: UIID v1.9 Smart Tags
+- Directory: /posts/2026/January/26
+- Description: ``` Get ready for the exciting release of UIID V1.9 this week! This update brings powerful Smart Tags and a new UIID Client-Side SDK for temporary UIIDs, enhancing your experience with more dynamic and flexible identifiers. ```
+
 ### 25.01.2026
 - Topic: UIID KYC
 - Directory: /posts/2026/January/25
