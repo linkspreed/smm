@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.01.2026
+- Topic: Tips for your niche social network
+- Directory: /posts/2026/January/27
+- Description: ``` Are you looking to connect with like-minded individuals and build a thriving community around your specific interests? Linkspreed, powered by Web4, offers you the tools to create your own social network for any niche imaginable. ```
+
 ### 26.01.2026
 - Topic: UIID v1.9 Smart Tags
 - Directory: /posts/2026/January/26
