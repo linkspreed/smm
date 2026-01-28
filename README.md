@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.01.2026
+- Topic: UIID v1.9
+- Directory: /posts/2026/January/28
+- Description: ``` We are thrilled to announce that UIID v1.9 is officially online! This update brings significant improvements and new functionalities that will enhance your experience. We have been working hard to deliver a more robust and efficient platform. Explore the latest version and discover all the exciting changes. Thank you for your continued support! ```
+
 ### 27.01.2026
 - Topic: Tips for your niche social network
 - Directory: /posts/2026/January/27
