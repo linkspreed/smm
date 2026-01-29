@@ -8,7 +8,12 @@
 ### 28.01.2026
 - Topic: UIID v1.9
 - Directory: /posts/2026/January/28
-- Description: ``` We are thrilled to announce that UIID v1.9 is officially online! This update brings significant improvements and new functionalities that will enhance your experience. We have been working hard to deliver a more robust and efficient platform. Explore the latest version and discover all the exciting changes. Thank you for your continued support! ```
+- Description: ``` Stop letting algorithms decide who sees your content. It is time to take back control by moving your community from mainstream social media to your own social network. With the power of Linkspreed and Web4 you can create a dedicated space for your audience without the fear of losing your reach. Own your data and build a stronger connection today. ```
+
+### 28.01.2026
+- Topic: UIID v1.9
+- Directory: /posts/2026/January/28
+- Description: ``` Stop are thrilled to announce that UIID v1.9 is officially online! This update brings significant improvements and new functionalities that will enhance your experience. We have been working hard to deliver a more robust and efficient platform. Explore the latest version and discover all the exciting changes. Thank you for your continued support! ```
 
 ### 27.01.2026
 - Topic: Tips for your niche social network
