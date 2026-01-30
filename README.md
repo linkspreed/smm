@@ -5,9 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
-### 28.01.2026
-- Topic: UIID v1.9
-- Directory: /posts/2026/January/28
+### 30.01.2026
+- Topic: LR Glasses
+- Directory: /posts/2026/January/30
+- Description: ``` The future is coming closer than expected. We are excited to announce that Linkspreed is planning the release of the very first LR glasses in the third quarter of 2026. This hardware will bridge the gap between digital interaction and reality. Stay tuned for more updates on how Web4 and Linkspreed are changing the way you see the world. We are ready for the next level. ```
+
+### 29.01.2026
+- Topic: Move Your Community
+- Directory: /posts/2026/January/29
 - Description: ``` Stop letting algorithms decide who sees your content. It is time to take back control by moving your community from mainstream social media to your own social network. With the power of Linkspreed and Web4 you can create a dedicated space for your audience without the fear of losing your reach. Own your data and build a stronger connection today. ```
 
 ### 28.01.2026
