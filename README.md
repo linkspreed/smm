@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.02.2026
+- Topic: Use Small Niche Communities
+- Directory: /posts/2026/February/01
+- Description: ``` The future of digital interaction is not about quantity but quality. Small niche communities provide a space for authentic exchange and deep connections that are often lost on large platforms. With Linkspreed and Web4 we create the technological foundation for these specialized networks. It is all about bringing people with the same interests together and providing a safe harbor for experts and enthusiasts. We are proud to actively shape this development and to pave new ways for social networks. ```
+
 ### 31.01.2026
 - Topic: UIID for Governments 
 - Directory: /posts/2026/January/31
