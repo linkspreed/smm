@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.02.2026
+- Topic: KYC is Easy
+- Directory: /posts/2026/February/02
+- Description: ``` Revolutionizing KYC verification with UIID. Say goodbye to costs and delays. Get free and instant KYC verification, implemented in seconds. Discover the future of secure and efficient identity verification. ```
+
 ### 01.02.2026
 - Topic: Use Small Niche Communities
 - Directory: /posts/2026/February/01
