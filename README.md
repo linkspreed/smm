@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.02.2026
+- Topic: LR Glasses Gen 1
+- Directory: /posts/2026/February/04
+- Description: ``` The wait is almost over. Linkspreed is launching the LR Glasses Gen 1 in Q1 of this year. Experience the perfect integration of Linkspreed and Web4 directly in your field of vision. We are bringing innovation to your daily life. Stay tuned for the official release date and be among the first to enter the next level of digital connectivity. ```
+
 ### 03.02.2026
 - Topic: Ownership = Linkspreed Ecosystem
 - Directory: /posts/2026/February/03
