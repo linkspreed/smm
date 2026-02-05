@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.02.2026
+- Topic: Own Your Fans
+- Directory: /posts/2026/February/05
+- Description: ``` Stop building your community on borrowed land. As an influencer, you should not be at the mercy of shifting algorithms. It is time to take control of your audience by building your own social network. ```
+
 ### 04.02.2026
 - Topic: LR Glasses Gen 1
 - Directory: /posts/2026/February/04
