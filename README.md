@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.02.2026
+- Topic: UIID v1.10
+- Directory: /posts/2026/February/06
+- Description: ``` Big news for the Web4 community. UIID version 1.10 is officially live. This update focuses on your security and trust. With the new UIID Trust Center, you can manage your identity levels and unlock more features within our ecosystem. We have also added UIID Hashing to prevent duplicates and ensure a fair environment for everyone. Check out the new Trust Score levels and upgrade your profile today. ```
+
 ### 05.02.2026
 - Topic: Own Your Fans
 - Directory: /posts/2026/February/05
