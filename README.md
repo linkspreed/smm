@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.02.2026
+- Topic: TRIVE Suite
+- Directory: /posts/2026/February/07
+- Description: ``` We are excited to announce the launch of the TRIVE Suite on trive.web4.one! Explore our new platform and discover how we are innovating the future of social networking. Join us and be part of the Web4 revolution! ```
+
 ### 06.02.2026
 - Topic: UIID v1.10
 - Directory: /posts/2026/February/06
