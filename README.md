@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.02.2026
+- Topic: ARCTIC network
+- Directory: /posts/2026/February/08
+- Description: ``` We are officially booting the ARCTIC network. This is the Web4 Backbone designed to empower users and communities worldwide. By moving away from centralized clouds we are creating a faster and more secure digital world. Join us as we build the future of Social Networks as a Service. We are ready for a new era of digital freedom. ```
+
 ### 07.02.2026
 - Topic: TRIVE Suite
 - Directory: /posts/2026/February/07
