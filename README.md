@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.02.2026
+- Topic: Web4 Studio v4
+- Directory: /posts/2026/February/09
+- Description: ``` The Linkspreed team is making incredible progress on the Web4 Studio v4 update! We are not quite there yet, but the advancements are very exciting. Get ready for an enhanced experience! ```
+
 ### 08.02.2026
 - Topic: ARCTIC network
 - Directory: /posts/2026/February/08
