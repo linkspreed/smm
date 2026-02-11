@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.02.2026
+- Topic: Web4 Backbone
+- Directory: /posts/2026/February/11
+- Description: ``` We are excited to share the progress on the Web4 Backbone. Our team is hard at work developing the Arctic Network, a decentralized infrastructure layer that will redefine how the internet operates. This foundation is built for stability and freedom, ensuring that the next phase of the web belongs to the community. Stay tuned as we lay the groundwork for a more connected and open world. ```
+
 ### 10.02.2026
 - Topic: From 100 to 2000 Social Network Members 
 - Directory: /posts/2026/February/10
