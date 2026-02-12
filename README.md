@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.02.2026
+- Topic: UIID on Mars
+- Directory: /posts/2026/February/12
+- Description: ``` Big news from Linkspreed and Web4! We are thrilled to announce that UIID is becoming the official ID for Mars. Get ready for universal interplanetary identification! ```
+
 ### 11.02.2026
 - Topic: Web4 Backbone
 - Directory: /posts/2026/February/11
