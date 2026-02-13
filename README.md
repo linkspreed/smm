@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.02.2026
+- Topic: 3 reasons for your social network
+- Directory: /posts/2026/February/13
+- Description: ``` Stop building on rented land. Starting your own social network means you own the platform, the data, and the future of your community. With Linkspreed and Web4, the transition to a decentralized and sovereign digital space is easier than ever. It is time to take control and provide a unique home for your audience. ```
+
 ### 12.02.2026
 - Topic: UIID on Mars
 - Directory: /posts/2026/February/12
