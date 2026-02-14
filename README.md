@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.02.2026
+- Topic: UIID is the powerful decentralized IdP for Web4
+- Directory: /posts/2026/February/14
+- Description: ``` UIID is the new standard for identity. It is decentralized and it is free. It provides anonymity for everyone across the digital world. This technology is powered by LINKSPREED for the Web4 environment. It even works for future missions on Mars. You can join the revolution and secure your digital future today. Experience the freedom of a truly private identity system that belongs to you and no one else. ```
+
 ### 13.02.2026
 - Topic: 3 reasons for your social network
 - Directory: /posts/2026/February/13
