@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.02.2026
+- Topic: UIID
+- Directory: /posts/2026/February/16
+- Description: ``` Are you tired of centralized platforms owning your data? Linkspreed introduces UIID, the anonymous and decentralized Identity Provider. UIID gives you the flexibility you need and the security you deserve. It is the foundation of the Web4 movement. Experience a world where you are the master of your own identity. No tracking, no data leaks, just pure decentralization. Join us and start using UIID today. ```
+
 ### 15.02.2026
 - Topic: LR Glasses Gen 1
 - Directory: /posts/2026/February/15
