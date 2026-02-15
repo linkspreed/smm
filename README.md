@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.02.2026
+- Topic: LR Glasses Gen 1
+- Directory: /posts/2026/February/15
+- Description: ``` The future of digital interaction has arrived. We are proud to introduce the LR Glasses Gen 1. These glasses represent a massive leap forward for the Web4 ecosystem and the Linkspreed community. ```
+
 ### 14.02.2026
 - Topic: UIID is the powerful decentralized IdP for Web4
 - Directory: /posts/2026/February/14
