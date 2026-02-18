@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.02.2026
+- Topic: Free SaaS with TRIVE
+- Directory: /posts/2026/February/18
+- Description: ``` With TRIVE, you will experience unparalleled freedom and flexibility. Our platform is designed to empower you with essential SaaS solutions, enabling you to achieve more without worrying about subscription fees or usage limits. ```
+
+### 17.02.2026
+- Topic: UIID x ARCTIC
+- Directory: /posts/2026/February/17
+- Description: ``` ARCTIC-UIID: Our new Identity Layer is LIVE! We are launching UIID, the foundational identity framework for the ARCTIC blockchain network. Get ready for self-sovereign, secure, and private digital identities on Web4. ```
+
 ### 16.02.2026
 - Topic: UIID
 - Directory: /posts/2026/February/16
