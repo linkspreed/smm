@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.02.2026
+- Topic: WYNIX
+- Directory: /posts/2026/February/19
+- Description: ``` We are building the future of hardware at WYNIX. Our latest projects combine the power of Web4 with the social reach of Linkspreed to create a seamless experience. We love hardware because it provides the strength and stability that modern decentralized networks require. Stay tuned for more updates as we continue to innovate and expand our ecosystem. ```
+
 ### 18.02.2026
 - Topic: Free SaaS with TRIVE
 - Directory: /posts/2026/February/18
