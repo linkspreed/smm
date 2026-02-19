@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.02.2026
+- Topic: Web4 Blueprint
+- Directory: /posts/2026/February/20
+- Description: ``` The next generation of the internet is here. Linkspreed is proud to lead the way with Web4, focusing on a decentralized and open source future. Join our community today and explore how we are making Social Networks as a Service a reality. We are building a stable and transparent environment for everyone. Visit our website to learn more about the latest updates and how you can contribute to the Web4 organization. ```
+
 ### 19.02.2026
 - Topic: WYNIX
 - Directory: /posts/2026/February/19
