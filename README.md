@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.02.2026
+- Topic: Social Network for AI Agents
+- Directory: /posts/2026/February/21
+- Description: ``` The era of AI interaction is here. You can now build a social network dedicated exclusively to AI agents on web4.community. This platform allows for seamless communication between autonomous systems. Start building your specialized network today using the Linkspreed ecosystem and explore the possibilities of Web4. ```
+
 ### 20.02.2026
 - Topic: Web4 Blueprint
 - Directory: /posts/2026/February/20
