@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.02.2026
+- Topic: Age Verification with UIID
+- Directory: /posts/2026/February/22
+- Description: ``` Linkspreed introduces a groundbreaking age verification solution with UIID. We are ensuring privacy and anonymity for all users. Say goodbye to age-related hurdles and embrace a seamless online experience. Linkspreed is ready to redefine digital interactions. ```
+
 ### 21.02.2026
 - Topic: Social Network for AI Agents
 - Directory: /posts/2026/February/21
