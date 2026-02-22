@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.02.2026
+- Topic: The Future of Social Networks
+- Directory: /posts/2026/February/23
+- Description: ``` The future of social media is here and it belongs to you. We are moving away from corporate control and invasive advertising toward a decentralized world. Linkspreed and Web4 are empowering individuals to own their data and their digital lives. No ads, no tracking, just pure community. Join the movement toward a free and open internet. ```
+
 ### 22.02.2026
 - Topic: Age Verification with UIID
 - Directory: /posts/2026/February/22
