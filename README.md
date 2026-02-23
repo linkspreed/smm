@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.02.2026
+- Topic: Universal Identity - UIID
+- Directory: /posts/2026/February/24
+- Description: ``` Identity is the core of the digital experience. Linkspreed is launching UIID to redefine how you connect in the Web4 era. One identity for all platforms. Secure, private, and owned by you. We are making the internet more personal and more protected at the same time. Join the Web4 revolution today. ```
+
 ### 23.02.2026
 - Topic: The Future of Social Networks
 - Directory: /posts/2026/February/23
