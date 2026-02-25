@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.02.2026
+- Topic: UIID Engine
+- Directory: /posts/2026/February/25
+- Description: ``` UIID is evolving. We are proud to share that our Identity Provider has graduated from a Proof of Concept to a full scale Identity Engine. This is a massive step for Linkspreed and the Web4 movement. We are building a foundation where your digital identity is secure, portable, and entirely yours. Stay tuned as we integrate this powerful engine across our ecosystem to provide a better and safer user experience. ```
+
 ### 24.02.2026
 - Topic: Universal Identity - UIID
 - Directory: /posts/2026/February/24
