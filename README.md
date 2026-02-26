@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.02.2026
+- Topic: UIID vs EUDI
+- Directory: /posts/2026/February/26
+- Description: ``` Big news for the Web4 community. UIID is now more privacy friendly and better than the EUDI standards coming next year. We are putting the power back into your hands. With UIID, you get true anonymity and decentralized security that government wallets cannot match. Experience the next level of digital identity with Linkspreed and Web4. Your data belongs to you. Join us as we build a more secure web together. ```
+
 ### 25.02.2026
 - Topic: UIID Engine
 - Directory: /posts/2026/February/25
