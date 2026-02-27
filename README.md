@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.02.2026
+- Topic: TRIVE Suite
+- Directory: /posts/2026/February/27
+- Description: ``` Tired of juggling tools? TRIVE now offers FREE and UNLIMITED SaaS integrated into your Linkspreed community hub. You do not need external software anymore. Manage projects. Analyze data. Communicate seamlessly. Enhance efficiency. Build your Web4 community like a pro. Start using TRIVE tools today.  ```
+
 ### 26.02.2026
 - Topic: UIID vs EUDI
 - Directory: /posts/2026/February/26
