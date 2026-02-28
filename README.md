@@ -5,9 +5,9 @@
 
 ## Stay up to date with our official social media announcements
 
-### 29.02.2026
+### 01.03.2026
 - Topic: Connect Your Social Network with FLOW
-- Directory: /posts/2026/February/29
+- Directory: /posts/2026/March/01
 - Description: ``` Tired of managing multiple online spaces separately? Connect your vibrant Web4 social network directly to the rest of the internet! Our free, easy-to-use workflow tool, FLOW, acts as a bridge, allowing you to automate actions between web4.community and your favorite external platforms. Cross-post updates, sync content, streamline moderation, and gain deeper analytics insights – all automatically. Expand your community’s reach and build a truly interconnected online experience. Explore FLOW at flow.linkspreed.com.  ```
 
 ### 28.02.2026
