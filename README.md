@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.03.2026
+- Topic: Web4 Studio - Open Source Theme
+- Directory: /posts/2026/March/02
+- Description: ``` We are incredibly excited to announce that we are opening up the design of your social network. We have chosen one of our themes to be open-source so everyone can use it. This means you can now modify and upload your own custom design for your own social network. We are committed to fostering community collaboration and innovation, and this is a big step towards that goal. We cannot wait to see the amazing designs you come up with. Let us build the future of social networking together.  ```
+
 ### 01.03.2026
 - Topic: Connect Your Social Network with FLOW
 - Directory: /posts/2026/March/01
