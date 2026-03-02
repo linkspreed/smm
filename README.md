@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.03.2026
+- Topic: Age Verification - UIID
+- Directory: /posts/2026/March/03
+- Description: ``` We are discussing a critical issue. Age verification is getting an always more important topic. We ensure you can make age verification without reveiling your real identity. How is that possible? We will discuss it. We will present uiid.linkspreed.com. Check it out and stay tuned. This is crucial for privacy.  ```
+
 ### 02.03.2026
 - Topic: Web4 Studio - Open Source Theme
 - Directory: /posts/2026/March/02
