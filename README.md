@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.03.2026
+- Topic: Anonymity and Free Speech
+- Directory: /posts/2026/March/04
+- Description: ``` We are committed to building a digital future that prioritizes both anonymity and security. Web4 champions free speech by enhancing privacy, but we are clear that this cannot compromise the safety of our online communities. Discover how we are creating a secure environment where authentic voices can thrive without fear. Read our latest post on the essential balance between anonymity and security in Web4. ```
+
 ### 03.03.2026
 - Topic: Age Verification - UIID
 - Directory: /posts/2026/March/03
