@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.03.2026
+- Topic: Web1/2/3 vs Web4
+- Directory: /posts/2026/March/05
+- Description: ``` The evolution of the web is moving fast. From static pages in Web-1 to the symbiotic intelligence of Web-4, the journey is incredible. Linkspreed and Web4 are at the forefront of this transformation. We are building a future where you own your digital experience. Check out our latest video to see how Web-4 differs from everything that came before. Join the Web4 community today. Video: https://youtu.be/o0qqr5RAvh8?si=HQRIdPzfq6ZEyoS5 ```
+
 ### 04.03.2026
 - Topic: Anonymity and Free Speech
 - Directory: /posts/2026/March/04
