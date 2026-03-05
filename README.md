@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.03.2026
+- Topic: UIID is Your Digital Fingerprint
+- Directory: /posts/2026/March/06
+- Description: ``` Ever feel like your digital identity is scattered across the internet? It is a common problem. We are introducing UIID: your unique, user friendly digital key that you control. Think of it as your personal fingerprint on the web, designed with a cool personalized UI. It is simplicity and control in one, and it is most definitely not just for developers. UIID is for everyone looking for a more secure and open digital world. This is the future of global identity. ```
+
 ### 05.03.2026
 - Topic: Web1/2/3 vs Web4
 - Directory: /posts/2026/March/05
