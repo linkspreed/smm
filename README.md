@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.03.2026
+- Topic: Origin Uptime
+- Directory: /posts/2026/March/07
+- Description: ``` We are launching Origin Uptime today. It is a new part of the TRIVE Suite that helps you monitor your website status for free. You can use it to perform heartbeat checks and ensure your services stay online at all times. TRIVE is our dedicated ecosystem for powerful Web4 applications. Visit trive.web4.one to explore the full suite or go to origin-uptime.linkspreed.com to start monitoring your projects right now. We are committed to providing unlimited tools for the community. ```
+
 ### 06.03.2026
 - Topic: UIID is Your Digital Fingerprint
 - Directory: /posts/2026/March/06
