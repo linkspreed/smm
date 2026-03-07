@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.03.2026
+- Topic: UIID vs UUID
+- Directory: /posts/2026/March/08
+- Description: ``` Understanding the infrastructure of the future starts with how we identify data. Many people ask what makes the Linkspreed UIID different from a traditional UUID. While a standard UUID provides a unique name for a data point, it is static and lacks context. The Linkspreed UIID is a User Intelligence Identifier built for the Web4 era. It allows our systems to understand the relevance of a connection instantly. This upgrade is a core part of why our Social Networks as a Service platform is more efficient than traditional platforms. We are building a smarter way to connect. Join the Web4 movement and see how Linkspreed is changing the architecture of the internet. ```
+
 ### 07.03.2026
 - Topic: Origin Uptime
 - Directory: /posts/2026/March/07
