@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.03.2026
+- Topic: Super App
+- Directory: /posts/2026/March/09
+- Description: ``` You can now build your own Super App using the powerful tools available at web4.community. Linkspreed provides the foundation for decentralized services and community-driven platforms. Start developing your vision today and lead the next generation of the web. ```
+
 ### 08.03.2026
 - Topic: UIID vs UUID
 - Directory: /posts/2026/March/08
