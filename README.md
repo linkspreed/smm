@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.03.2026
+- Topic: Your Niche Social Media Platform
+- Directory: /posts/2026/March/10
+- Description: ``` The Web4 Studio is designed to be accessible. You do not need to be a coding wizard to get started. The platform offers a user friendly interface and a range of templates and tools that allow you to define the structure and purpose of your social network. You can focus on a single passion, such as a local birdwatching group or a global network of specialized digital artists. ```
+
 ### 09.03.2026
 - Topic: Super App
 - Directory: /posts/2026/March/09
