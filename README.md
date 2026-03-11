@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.03.2026
+- Topic: GLACIER
+- Directory: /posts/2026/March/12
+- Description: ``` The wait is over! GLACIER by LINKSPREED is officially live. Our new Vibe Coding tool allows you to build custom plugins, complex software with backend and frontend, UIID applications, and more, all with unprecedented ease. We are building the decentralized future of Web4. Start building today and experience a new era of software creation. Learn more and get started at glacier dot linkspreed dot com. What are you waiting for? ```
+
 ### 11.03.2026
 - Topic: LINKSPREED GROUP
 - Directory: /posts/2026/March/11
