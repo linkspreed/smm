@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.03.2026
+- Topic: UIID for Devs
+- Directory: /posts/2026/March/13
+- Description: ``` Stop wasting time on ID management and complex data regulations. As a developer, you want to build features, not manage IDs. Use the UIID API with Free Requests to integrate UIID as your central identifier. It is fast, efficient, and lets you focus on your code. Join Linkspreed and Web4 in simplifying the development lifecycle. Start now and integrate UIID today. ```
+
 ### 12.03.2026
 - Topic: GLACIER
 - Directory: /posts/2026/March/12
