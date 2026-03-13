@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.03.2026
+- Topic: Web4 Enterprises
+- Directory: /posts/2026/March/14
+- Description: ``` Why build on rented land? Stop relying solely on external social media. Linkspreed Enterprise gives you the tools to create and manage your very own social network for your customers. Own your data, fully control your brand, and foster genuine loyalty. Discover how you can build a vibrant customer community with us. Join the social network revolution today! ```
+
 ### 13.03.2026
 - Topic: UIID for Devs
 - Directory: /posts/2026/March/13
