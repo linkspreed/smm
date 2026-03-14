@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.03.2026
+- Topic: Architects of Web4
+- Directory: /posts/2026/March/15
+- Description: ``` Linkspreed and Web4 are launching the Architects of Web4 program. This is a major step for decentralized enterprise solutions. We are providing tools like Social Network as a Service (SNaaS) and Universal Integrated Identity Decoupled (UIID) to our partners.
+Our goal is to enable businesses to build their own ecosystems without high costs or central dependency. With 0 percent platform fees and direct access to our API suite, we empower developers and companies to scale. Join us in building the future of digital sovereignty.
+Linkspreed is the architect of the Web4 ecosystem. We help you to reclaim your digital sovereignty through innovative software and hardware solutions. Check out our website for more information on how to become a partner. ```
+
 ### 14.03.2026
 - Topic: Web4 Enterprises
 - Directory: /posts/2026/March/14
