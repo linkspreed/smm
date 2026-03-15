@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.03.2026
+- Topic: Use cases for UIID
+- Directory: /posts/2026/March/16
+- Description: ``` Unlocking Untold Security: How We Use UIIDs to Protect Your Data. The answer lies in a tiny, powerful technology that ensures order and security in our digital ecosystems. Watch our new YouTube video to explore real-world use cases. Link in bio! ```
+
 ### 15.03.2026
 - Topic: Architects of Web4
 - Directory: /posts/2026/March/15
