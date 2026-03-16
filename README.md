@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.03.2026
+- Topic: GLACIER
+- Directory: /posts/2026/March/17
+- Description: ``` The era of manual coding is evolving into the age of architectural intent. We are thrilled to announce GLACIER, the upcoming AI Vibe Coding Studio from Linkspreed. Build your Web4 ideas and integrate UIID effortlessly. Stop focusing on the syntax and start focusing on the vibe. With GLACIER, your vision is the blueprint, and the technology is the engine. ```
+
 ### 16.03.2026
 - Topic: Use cases for UIID
 - Directory: /posts/2026/March/16
