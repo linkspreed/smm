@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.03.2026
+- Topic: UIID Aliases will be 256 Bits
+- Directory: /posts/2026/March/18
+- Description: ``` We are upgrading our technical core. Web4 v2 introduces 256 bit UIID Aliases to replace the old 44 bit standard. This means more security and better performance for everyone on Linkspreed. We are building a more secure digital future together. ```
+
 ### 17.03.2026
 - Topic: GLACIER
 - Directory: /posts/2026/March/17
