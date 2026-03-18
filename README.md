@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.03.2026
+- Topic: UIID Android App
+- Directory: /posts/2026/March/19
+- Description: ``` Linkspreed is on a mission to revolutionize social media. We are developing a native UIID app, starting with Android. This app will empower users to have full control over their digital identity and manage it across different platforms. We are excited to leverage the power of Android to create an intuitive and seamless user experience. Stay tuned for more updates on our journey towards a decentralized and transparent social media landscape. ```
+
 ### 18.03.2026
 - Topic: UIID Aliases will be 256 Bits
 - Directory: /posts/2026/March/18
