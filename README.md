@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.03.2026
+- Topic: UIID Core IDs - 128 Bits
+- Directory: /posts/2026/March/20
+- Description: ``` We are increasing security! The UIID Core IDs in Web4 v2 will be expanded from 96 bits to 128 bits. This ensures even more uniqueness and future proofing in the network. ```
+
 ### 19.03.2026
 - Topic: UIID Android App
 - Directory: /posts/2026/March/19
