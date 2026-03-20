@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.03.2026
+- Topic: Own Web4
+- Directory: /posts/2026/March/21
+- Description: ``` Take ownership of your digital future. You are no longer just a user on a platform but a stakeholder in a decentralized world. You own your part of the new internet called Web4. ```
+
 ### 20.03.2026
 - Topic: UIID Core IDs - 128 Bits
 - Directory: /posts/2026/March/20
