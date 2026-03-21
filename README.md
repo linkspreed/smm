@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.03.2026
+- Topic: Defending Web4 Against Censorship
+- Directory: /posts/2026/March/22
+- Description: ``` Web4 is redefining online freedom. By built-in decentralization via Linkspreed, it offers robust defense against censorship, ensuring free expression flourishes without central control. ```
+
 ### 21.03.2026
 - Topic: Own Web4
 - Directory: /posts/2026/March/21
