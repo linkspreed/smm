@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.03.2026
+- Topic: Social Networks & UIID
+- Directory: /posts/2026/March/23
+- Description: ``` UIID will completely change how people establish and maintain their digital identity in social environments, including the emerging Web4. ```
+
 ### 22.03.2026
 - Topic: Defending Web4 Against Censorship
 - Directory: /posts/2026/March/22
