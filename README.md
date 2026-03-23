@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.03.2026
+- Topic: Idea of Web4
+- Directory: /posts/2026/March/24
+- Description: ``` The core idea of Web4 is an open-source, decentralized internet that prioritizes user sovereignty, data ownership, and interoperability across platforms. We are creating a user-centric ecosystem where you control your identity and assets. ```
+
 ### 23.03.2026
 - Topic: Social Networks & UIID
 - Directory: /posts/2026/March/23
