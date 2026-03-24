@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.03.2026
+- Topic: Government ID vs UIID
+- Directory: /posts/2026/March/25
+- Description: ``` Tired of government digital IDs that want to know everything about you. Linkspreed presents a privacy-focused alternative with its Unique Individual Identifier (UIID). Our UIID is built on decentralized web4 principles, putting YOU in control of your personal data. We are not a government, so we have different goals. Our goal is to minimize data collection and enhance user privacy. Prove your identity without sacrificing your anonymity. Join the movement towards a truly private digital future. Learn more about how UIID is revolutionizing digital identity. Link in bio. ```
+
 ### 24.03.2026
 - Topic: Idea of Web4
 - Directory: /posts/2026/March/24
