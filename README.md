@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.03.2026
+- Topic: VIVON
+- Directory: /posts/2026/March/26
+- Description: ``` LINKSPREED LLC is bridging the final gap to Web4 independence with the launch of our new subsidiary, VIVON. This strategic venture is dedicated to the mobile data and eSIM market, providing the essential physical layer for a truly decentralized digital future. ```
+
 ### 25.03.2026
 - Topic: Government ID vs UIID
 - Directory: /posts/2026/March/25
