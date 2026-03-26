@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.03.2026
+- Topic: web4://
+- Directory: /posts/2026/March/27
+- Description: ``` The wait is over! A new way to browse has arrived. We at Linkspreed are incredibly proud to launch the web4:// protocol, a cornerstone for the decentralized future. This open source protocol gives you a new level of control and security when accessing the web. No more reliance on a few central entities. The web4:// protocol enables a resilient and user-owned network for browsing. Join the movement toward a truly open and dezentralized digital world. Start exploring the possibilities today. ```
+
 ### 26.03.2026
 - Topic: VIVON
 - Directory: /posts/2026/March/26
