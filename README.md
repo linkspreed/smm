@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.03.2026
+- Topic: VIVON
+- Directory: /posts/2026/March/28
+- Description: ``` Linkspreed is expanding the horizon of connectivity with our new subsidiary VIVON. The mission is simple but powerful. We want to enable access to Web4 for everyone through mobile data. No one should be left behind in the evolution of the internet. VIVON is here to make sure that the decentralized future is available in your pocket. Stay tuned for more updates as we build the infrastructure for a connected world. ```
+
 ### 27.03.2026
 - Topic: web4://
 - Directory: /posts/2026/March/27
