@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.03.2026
+- Topic: UIID v2
+- Directory: /posts/2026/March/30
+- Description: ``` The release of UIID v2 marks a significant milestone for our digital infrastructure. We have completely rewritten the core architecture to ensure that the system can handle billions of users and unique identifiers with ease. This update is not just about performance but also about a refined user experience. ```
+
 ### 29.03.2026
 - Topic: Build Your Space 
 - Directory: /posts/2026/March/29
