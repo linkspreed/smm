@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.03.2026
+- Topic: UIID v2 Design
+- Directory: /posts/2026/March/31
+- Description: ``` We are excited to announce that the new UIID v2 design is officially live. Our team worked hard to create a seamless and modern interface that enhances your digital experience. This update brings a fresh look and improved navigation to our platform. ```
+
 ### 30.03.2026
 - Topic: UIID v2
 - Directory: /posts/2026/March/30
