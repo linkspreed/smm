@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.04.2026
+- Topic: Every Day, Something New
+- Directory: /posts/2026/April/01
+- Description: ``` Get ready for an exciting Q2 with LINKSPREED. We are launching powerful new features for building communities. Our "Social Networks as a Service" is here to streamline everything. Stay tuned for advanced analytics, modular profile tools, and more innovation coming your way. Visit our blog to learn about how we are making community creation effortless. ```
+
 ### 31.03.2026
 - Topic: UIID v2 Design
 - Directory: /posts/2026/March/31
