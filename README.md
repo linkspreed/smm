@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.04.2026
+- Topic: Web4 Social Networks
+- Directory: /posts/2026/April/02
+- Description: ``` The era of closed social networks is coming to an end. Introducing Web4, the decentralized world of Social Networks as a Service. This is a fundamental change, providing a framework for true interoperability where your digital life is not confined to one single platform. Imagine a connected ecosystem, where communities are built on user control and seamless connection. ```
+
 ### 01.04.2026
 - Topic: Every Day, Something New
 - Directory: /posts/2026/April/01
