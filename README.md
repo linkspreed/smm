@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.04.2026
+- Topic: Web4 Farm and Spend
+- Directory: /posts/2026/April/03
+- Description: ``` Linkspreed LLC is officially launching the Farm and Spend initiative to power the Web4 revolution through digital micro cities. By merging social interaction with sustainable micro economies users can now generate value through engagement and spend it within their own localized ecosystems. This strategic shift aims to replace digital monopolies with decentralized hubs that prioritize community growth and economic freedom. Founder Marc Herdina describes this as building the infrastructure for a new digital civilization. ```
+
 ### 02.04.2026
 - Topic: Web4 Social Networks
 - Directory: /posts/2026/April/02
