@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.04.2026
+- Topic: Web4 Studio v4
+- Directory: /posts/2026/April/04
+- Description: ``` The launch of Web4 Studio v4 marks a significant milestone for LINKSPREED LLC and the broader movement toward digital sovereignty. This new release is built on a high performance NVMe based infrastructure designed to provide creators with near instant load times and total control over their data. By moving away from the traditional platform as landlord model Web4 Studio v4 empowers communities to own their identities and financial outcomes through a zero percent take rate approach where creators keep everything they earn. ```
+
 ### 03.04.2026
 - Topic: Web4 Farm and Spend
 - Directory: /posts/2026/April/03
