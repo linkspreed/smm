@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.04.2026
+- Topic: Web4 and 18+ Communities
+- Directory: /posts/2026/April/05
+- Description: ``` The new internet is open for everyone. We are welcoming 18 Plus communities to build their own social networks using Web4 by Linkspreed. Enjoy digital sovereignty and full control over your content. Please ensure that your network follows United States regulations and the laws of your customer locations. Start building your independent community today. ```
+
 ### 04.04.2026
 - Topic: Web4 Studio v4
 - Directory: /posts/2026/April/04
