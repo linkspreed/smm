@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.04.2026
+- Topic: Rise of Micro Communities 
+- Directory: /posts/2026/April/06
+- Description: ``` The rise of micro communities is changing the digital landscape. We see a clear shift from massive, anonymous platforms toward smaller and more meaningful spaces. Users are looking for genuine connection and shared values rather than noise and endless scrolling. ```
+
 ### 05.04.2026
 - Topic: Web4 and 18+ Communities
 - Directory: /posts/2026/April/05
