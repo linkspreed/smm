@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.04.2026
+- Topic: UIID IAM 
+- Directory: /posts/2026/April/07
+- Description: ``` LINKSPREED LLC has announced the successful completion of the Beta version of its IAM (Identity and Access Management) Extension for UIID, developed in just a few days. This achievement marks a major step forward for decentralized digital infrastructure and the "Web4" ecosystem. ```
+
 ### 06.04.2026
 - Topic: Rise of Micro Communities 
 - Directory: /posts/2026/April/06
