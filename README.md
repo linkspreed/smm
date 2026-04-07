@@ -5,10 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
-### 07.04.2026
+### 08.04.2026
 - Topic: UIID IAM 
-- Directory: /posts/2026/April/07
+- Directory: /posts/2026/April/08
 - Description: ``` LINKSPREED LLC has announced the successful completion of the Beta version of its IAM (Identity and Access Management) Extension for UIID, developed in just a few days. This achievement marks a major step forward for decentralized digital infrastructure and the "Web4" ecosystem. ```
+
+### 07.04.2026
+- Topic: GLACIER-2B-SNaaS-Caption-v1
+- Directory: /posts/2026/April/07
+- Description: ``` Web4 AI has officially announced the release of GLACIER-2B-SNaaS-Caption-v1, marking a significant milestone as the first fine-tuned model in the GLACIER family. Built on Google’s advanced Gemma 4 architecture, this release is specifically designed to power the Social Network as a Service ecosystem within the emerging Web4 paradigm. ```
 
 ### 06.04.2026
 - Topic: Rise of Micro Communities 
