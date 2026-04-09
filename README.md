@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.04.2026
+- Topic: Rethink Web4 Infrastructure
+- Directory: /posts/2026/April/10
+- Description: ``` Linkspreed has officially announced a major technical integration with Backblaze and Cloudflare to implement a storage-on-the-edge architecture designed for the next generation of social networks. This strategic collaboration addresses the growing demand for high-resolution media and video-first content by merging the scalable cloud storage of Backblaze B2 with the expansive global delivery capabilities of Cloudflare. By leveraging the Bandwidth Alliance, Linkspreed can offer zero-cost data egress between these platforms, allowing digital communities to scale their storage capacity indefinitely without the burden of traditional infrastructure costs. ```
+
 ### 09.04.2026
 - Topic: Triformation
 - Directory: /posts/2026/April/09
