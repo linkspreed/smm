@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.04.2026
+- Topic: UIID v2.1.3 and IAM
+- Directory: /posts/2026/April/11
+- Description: ``` Businesses operating within the Linkspreed ecosystem, specifically on the Web4 network, are gaining access to a significantly upgraded, modern Identity and Access Management (IAM) system. The deployment of UIID v2.1.3 introduces a powerful decentralized infrastructure designed to streamline access for complex business structures, enhancing security and operational efficiency. ```
+
 ### 10.04.2026
 - Topic: Rethink Web4 Infrastructure
 - Directory: /posts/2026/April/10
