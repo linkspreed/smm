@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.04.2026
+- Topic: ATRIUM, Gemma 4 and OpenClaw
+- Directory: /posts/2026/April/12
+- Description: ``` LINKSPREED has announced a major update to its ATRIUM ecosystem by integrating Google’s Gemma 4 open-source model and the OpenClaw agent framework. This move introduces a new cognitive layer to the Social Operating System, moving beyond simple data management toward active community assistance. ```
+
 ### 11.04.2026
 - Topic: UIID v2.1.3 and IAM
 - Directory: /posts/2026/April/11
