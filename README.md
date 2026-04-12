@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.04.2026
+- Topic: UIID v2.1.3 & IAM
+- Directory: /posts/2026/April/13
+- Description: ``` Linkspreed has officially announced the release of UIID v2.1.3 alongside the launch of its Enterprise IAM Beta Platform. This update represents a major shift toward decentralized digital identity and sovereign data management within the Web4 ecosystem. ```
+
 ### 12.04.2026
 - Topic: ATRIUM, Gemma 4 and OpenClaw
 - Directory: /posts/2026/April/12
