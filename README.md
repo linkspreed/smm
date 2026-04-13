@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.04.2026
+- Topic: VIVON and UIID
+- Directory: /posts/2026/April/14
+- Description: ``` LINKSPREED LLC has officially launched VIVON, a strategic subsidiary designed to provide borderless and serverless connectivity for the Web4 ecosystem. Built on the Universal Integrated Identity Decoupled (UIID) infrastructure, VIVON bridges the gap between hardware-level access and true digital sovereignty. ```
+
 ### 13.04.2026
 - Topic: UIID v2.1.3 & IAM
 - Directory: /posts/2026/April/13
