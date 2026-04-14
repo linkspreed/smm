@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.04.2026
+- Topic: Instagram style Social Media
+- Directory: /posts/2026/April/15
+- Description: ``` LINKSPREED LLC is proud to announce a major expansion of Web4 Studio. We are moving beyond "Facebook-style" networking to empower creators and enterprises to launch their own user-owned, "Instagram-style" social media platforms. ```
+
 ### 14.04.2026
 - Topic: VIVON and UIID
 - Directory: /posts/2026/April/14
