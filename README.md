@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.04.2026
+- Topic: UIID API v2.1.5
+- Directory: /posts/2026/April/16
+- Description: ``` We are excited to announce the release of UIID version 2.1.5, focused on giving developers more control and better connectivity.
+This update introduces an expanded range of API endpoints and more powerful webhook triggers, allowing for deeper customization and seamless real-time data synchronization. Whether you are scaling an existing project or building something new, these enhancements provide the architectural flexibility you need. ```
+
 ### 15.04.2026
 - Topic: Instagram style Social Media
 - Directory: /posts/2026/April/15
