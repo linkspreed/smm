@@ -6,6 +6,11 @@
 ## Stay up to date with our official social media announcements
 
 ### 18.04.2026
+- Topic: Web4 Social Networks
+- Directory: /posts/2026/April/18
+- Description: ``` It is a core part of creating a successful business or vibrant community to establish a dedicated, owned platform. Do not build solely on third-party platforms. Build your own. ```
+
+### 18.04.2026
 - Topic: Web4 Plugins
 - Directory: /posts/2026/April/18
 - Description: ``` Linkspreed LLC has announced a strategic shift toward super app infrastructure with the development of its new Universal Plugin System. This move marks an evolution for the company, moving beyond providing social network services to offering a modular framework for decentralized digital ecosystems. ```
