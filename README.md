@@ -5,9 +5,9 @@
 
 ## Stay up to date with our official social media announcements
 
-### 18.04.2026
+### 19.04.2026
 - Topic: Web4 Social Networks
-- Directory: /posts/2026/April/18
+- Directory: /posts/2026/April/19
 - Description: ``` It is a core part of creating a successful business or vibrant community to establish a dedicated, owned platform. Do not build solely on third-party platforms. Build your own. ```
 
 ### 18.04.2026
