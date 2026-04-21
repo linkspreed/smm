@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.04.2026
+- Topic: UIID v2.2.1 nd EU Age Verification
+- Directory: /posts/2026/April/22
+- Description: ``` LINKSPREED LLC has announced the integration of the European Union’s new age verification standards into UIID version 2.2.1. This update positions UIID as a neutral technological gateway, connecting government-verified credentials like the EUDI Wallet with digital applications through a secure, decentralized framework. ```
+
 ### 21.04.2026
 - Topic: Linkspreed Reseller
 - Directory: /posts/2026/April/21
