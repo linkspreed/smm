@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.04.2026
+- Topic: Layer by Layer for Web4
+- Directory: /posts/2026/April/23
+- Description: ``` Layer by layer, we are constructing the foundation of the new internet. Web 4.0 represents a shift toward a more integrated, intelligent, and decentralized digital landscape.
+As we move beyond traditional frameworks, this new era focuses on seamless connectivity and autonomous interaction. We are not just upgrading the tools we use; we are reimagining how the world connects.
+Discover the future of the web at web4.one ```
+
 ### 22.04.2026
 - Topic: UIID v2.2.1 nd EU Age Verification
 - Directory: /posts/2026/April/22
