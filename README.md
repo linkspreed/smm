@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.04.2026
+- Topic: UIID KV
+- Directory: /posts/2026/April/24
+- Description: ``` UIID Key Value Storages offer a simple structure with limitless possibilities for developers. Your creativity is the only limit to building everything from cool applications to ID based chats. Dive into the UIID world for developers at uiid.linkspreed.com/api-docs ```
+
 ### 23.04.2026
 - Topic: Layer by Layer for Web4
 - Directory: /posts/2026/April/23
