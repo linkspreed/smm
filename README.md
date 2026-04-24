@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.04.2026
+- Topic: .uiid files
+- Directory: /posts/2026/April/25
+- Description: ``` We are preparing a powerful new feature that will revolutionize digital identity control. At Linkspreed and Web4, we are building technology that truly empowers users. Soon, you will be able to take a complete copy of your digital identity with you as a standalone .uiid file. We are building these files to be exceptionally strong, secure, and portable. Our goal is to ensure that you, the user, always have total ownership and control of your personal data, moving beyond reliance on centralized systems. ```
+
 ### 24.04.2026
 - Topic: UIID KV
 - Directory: /posts/2026/April/24
