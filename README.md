@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.04.2026
+- Topic: Web4 Bridge
+- Directory: /posts/2026/April/26
+- Description: ``` Here at Linkspreed, we are excited to share a major development: we are actively building the Web4 Bridge. This innovative solution is designed to make the Web4 protocol directly accessible on your personal computer or laptop. ```
+
 ### 25.04.2026
 - Topic: .uiid files
 - Directory: /posts/2026/April/25
