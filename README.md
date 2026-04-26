@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.04.2026
+- Topic: Linkspreed Name Service
+- Directory: /posts/2026/April/27
+- Description: ``` We are standing at the threshold of a new digital era. Today, we are thrilled to announce the upcoming launch of the Linkspreed Name Service (LNS). This is not just another domain registry; it is the key to a truly borderless and decentralized internet experience within the Web4 ecosystem.
+For too long, the internet has been divided by rigid structures and gatekeepers. With LNS, we are breaking down those walls. Imagine owning any domain you can think of—whether it is usa.now, pizza.box, or join.web4. The possibilities are literally endless. This service allows you to claim your unique space on the web with total freedom. ```
+
 ### 26.04.2026
 - Topic: Web4 Bridge
 - Directory: /posts/2026/April/26
