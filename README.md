@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.04.2026
+- Topic: Linkspreed Name Service
+- Directory: /posts/2026/April/28
+- Description: ``` Get ready. The Linkspreed Name Service is coming soon. Imagine a world where every single domain top level domain is available for registration. Linkspreed makes this a reality. You will be able to claim any combination, any TLD you ever desired, whether it is recognized officially or not. Absolute creative freedom for your Web4 projects. Read our latest post for the first details. ```
+
 ### 27.04.2026
 - Topic: Linkspreed Name Service
 - Directory: /posts/2026/April/27
