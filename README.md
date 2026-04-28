@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.04.2026
+- Topic: UIID v2.3
+- Directory: /posts/2026/April/29
+- Description: ``` Great progress for compliance and data integrity with the latest update. The UIID v2.3 release is now live and introduces important security enhancements for applications.
+Immutable Data Anchors have arrived. This new non-editable key-value storage feature allows applications to request the storage-immutable scope. This is a crucial improvement for critical compliance records and ensuring data remains unchanged. ```
+
 ### 28.04.2026
 - Topic: Linkspreed Name Service
 - Directory: /posts/2026/April/28
