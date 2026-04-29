@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.04.2026
+- Topic: UIID v2.3 Immutable KV Storage
+- Directory: /posts/2026/April/30
+- Description: ``` We are excited to announce a major advancement for user privacy and control: Linkspreed UIIDs are now equipped with Immutable KV Storage. This is a crucial breakthrough. Finally, users can store sensitive and restricted data directly within their Unique User ID. This development changes the landscape for data security, empowering users to truly own and protect their most confidential information. We are providing a new standard of decentralized, secure storage. ```
+
 ### 29.04.2026
 - Topic: UIID v2.3
 - Directory: /posts/2026/April/29
