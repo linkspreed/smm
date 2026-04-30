@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.05.2026
+- Topic: UIID v2.4
+- Directory: /posts/2026/May/01
+- Description: ``` Linkspreed LLC has officially launched UIID v2.4, marking a significant advancement in decentralized identity for the enterprise sector. This update introduces full compatibility with OpenID Connect standards and native Keycloak support, allowing organizations to integrate Web4 security into their existing software stacks without traditional data liabilities. ```
+
 ### 30.04.2026
 - Topic: UIID v2.3 Immutable KV Storage
 - Directory: /posts/2026/April/30
