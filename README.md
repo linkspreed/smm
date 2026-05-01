@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.05.2026
+- Topic: UIID v2.4
+- Directory: /posts/2026/May/02
+- Description: ``` LINKSPREED LLC has announced the release of UIID v2.4, a significant update to its decentralized identity infrastructure. This version introduces full compatibility with OpenID Connect standards and native Keycloak support, allowing enterprises to integrate decentralized security into existing software stacks. ```
+
 ### 01.05.2026
 - Topic: UIID v2.4
 - Directory: /posts/2026/May/01
