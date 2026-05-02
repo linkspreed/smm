@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.05.2026
+- Topic: UIID v2.5
+- Directory: /posts/2026/May/03
+- Description: ``` The wait is over. LINKSPREED LLC is officially launching UIID v2.5, bringing a new era of digital sovereignty to the Web4 ecosystem. We are moving beyond the personal vault. With the introduction of Collaborative IDs and Shared Buckets, you can now work with others without ever sacrificing your privacy. It is time to experience secure spaces where multiple people coexist under zero-trust principles. ```
+
 ### 02.05.2026
 - Topic: UIID v2.4
 - Directory: /posts/2026/May/02
