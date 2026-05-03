@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.05.2026
+- Topic: Collaborative IDs
+- Directory: /posts/2026/May/04
+- Description: ``` The launch of UIID v2.5 by LINKSPREED LLC introduces a fundamental shift in how we approach digital sovereignty. While previous versions focused on the isolation of personal data vaults, the new Collaborative IDs framework proves that collective work and absolute privacy can coexist. ```
+
 ### 03.05.2026
 - Topic: UIID v2.5
 - Directory: /posts/2026/May/03
