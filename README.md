@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.05.2026
+- Topic: Social Network Designs
+- Directory: /posts/2026/May/05
+- Description: ``` LINKSPREED LLC has announced a strategic expansion of its ATRIUM infrastructure, doubling down on Social Network as a Service within the Web4 ecosystem. By reallocating internal resources, the company is introducing a sophisticated new theme engine designed to let creators and organizations build unique digital cities with deeper backend integration. ```
+
 ### 04.05.2026
 - Topic: Collaborative IDs
 - Directory: /posts/2026/May/04
