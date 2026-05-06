@@ -8,6 +8,11 @@
 ### 06.05.2026
 - Topic: Digital Metropolis
 - Directory: /posts/2026/May/06
+- Description: ``` We are rolling out an innovative feature: UIID Identity Sharing. This new capability allows you to securely share your Unique Internet ID (UIID) across different decentralized applications on Web4 and other IDs. ```
+
+### 06.05.2026
+- Topic: Digital Metropolis
+- Directory: /posts/2026/May/06
 - Description: ``` LINKSPREED LLC is reshaping digital sovereignty with the official launch of our 'Digital Metropolis' initiative. This isn't just an update; it is a movement introducing Social Networks as a Service (SNaaS). This new paradigm empowers creators, enterprises, and local communities to architect independent social ecosystems where users truly own their data and identity. As part of this vision, we are unifying Workspace, Emails, and Files within SNaaS to create a context-aware professional utility bridging. It means social orchestration, not corporately managed products. Move beyond rented land and start building your own sovereign micro-city today at Web4.community using the power of GLACIER AI and the ATRIUM layer. ```
 
 ### 05.05.2026
