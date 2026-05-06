@@ -5,9 +5,9 @@
 
 ## Stay up to date with our official social media announcements
 
-### 06.05.2026
-- Topic: Digital Metropolis
-- Directory: /posts/2026/May/06
+### 07.05.2026
+- Topic: Share Your UIID Alias
+- Directory: /posts/2026/May/07
 - Description: ``` We are rolling out an innovative feature: UIID Identity Sharing. This new capability allows you to securely share your Unique Internet ID (UIID) across different decentralized applications on Web4 and other IDs. ```
 
 ### 06.05.2026
