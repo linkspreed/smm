@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.05.2026
+- Topic: MLM
+- Directory: /posts/2026/May/08
+- Description: ``` Linkspreed LLC is disrupting the AI landscape with the launch of the first Micro Language Models fine-tuned on Gemma 4 and next-gen architectures. Our new platform brings frontier-level intelligence directly to your browser, ensuring absolute privacy and high-performance local computing without the need for external servers or specialized hardware. Experience the future of decentralized AI at https://mlm.linkspreed.com. ```
+
 ### 07.05.2026
 - Topic: Share Your UIID Alias
 - Directory: /posts/2026/May/07
