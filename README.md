@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.05.2026
+- Topic: Micro Language Models
+- Directory: /posts/2026/May/09
+- Description: ``` We are bringing AI directly to your pocket. Linkspreed presents Micro Language Models that work offline and on-device. No internet connection is required and your data stays with you. Check them out for free on huggingface.co/web4 or mlm.linkspreed.com today. ```
+
 ### 08.05.2026
 - Topic: MLM
 - Directory: /posts/2026/May/08
