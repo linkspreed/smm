@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.05.2026
+- Topic: Linkspreed introduces WorldID
+- Directory: /posts/2026/May/10
+- Description: ``` LINKSPREED LLC introduces WorldID. We are transforming the planet into a calculated reality by giving every square meter a Universal Immutable Identifier. No more relying on centralized databases or shifting GPS coordinates.
+With UIID, we provide a mathematical 256-bit fingerprint for physical space. This is the infrastructure for autonomous logistics, smart cities, and the future of the Internet of Places. We are building the bridge between physical space and digital identity.
+Explore the future of Web4 and decentralized infrastructure today. ```
+
 ### 09.05.2026
 - Topic: Micro Language Models
 - Directory: /posts/2026/May/09
