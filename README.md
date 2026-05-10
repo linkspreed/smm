@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.05.2026
+- Topic: UIID and WorldID
+- Directory: /posts/2026/May/11
+- Description: ``` LINKSPREED LLC is transforming the planet into a calculated reality. We are proud to announce WorldID and the Universal Immutable Identifier. We are moving away from stored truths toward a mathematical framework that covers every square meter of the Earth. ```
+
 ### 10.05.2026
 - Topic: Linkspreed introduces WorldID
 - Directory: /posts/2026/May/10
