@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.05.2026
+- Topic: Meta lost 20M Users
+- Directory: /posts/2026/May/12
+- Description: ``` The era of centralized social media is hitting a wall. With Meta losing over 20 million daily users, it is clear that people are tired of being treated like data points for an algorithm. We are seeing a massive shift away from platforms that control what you see and who you talk to. It is time to stop being just another user in someone else's digital cage.
+If you are ready to take back control, you can start building your own independent social network right now at web4.community. Reclaim your digital sovereignty and create a space where you actually own your data and your community. ```
+
 ### 11.05.2026
 - Topic: UIID and WorldID
 - Directory: /posts/2026/May/11
