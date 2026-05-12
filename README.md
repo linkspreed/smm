@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.05.2026
+- Topic: UIID v2.6
+- Directory: /posts/2026/May/13
+- Description: ``` Linkspreed just released UIID v2.6 for Web4! This update brings professional-grade API tracking with nanosecond precision and forensic attribution to our self-sovereign identity framework. ```
+
 ### 12.05.2026
 - Topic: Meta lost 20M Users
 - Directory: /posts/2026/May/12
