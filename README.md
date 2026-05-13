@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.05.2026
+- Topic: UIID v2.6
+- Directory: /posts/2026/May/14
+- Description: ``` We are thrilled to announce that Linkspreed UIID v2.6 is now live. This major update brings a new standard to decentralized infrastructure by introducing nanosecond-precision API tracking and a professional Admin Analytics Dashboard. This ensures total backend transparency without compromising on Web4 privacy. Update your implementations now to leverage these powerful new observability tools. Read the full release for more details. We are building the foundation for a more transparent, user-centric internet. ```
+
 ### 13.05.2026
 - Topic: UIID v2.6
 - Directory: /posts/2026/May/13
