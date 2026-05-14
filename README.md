@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.05.2026
+- Topic: UIID Login for ATRIUM
+- Directory: /posts/2026/May/15
+- Description: ``` LINKSPREED LLC has officially moved to UIID as the exclusive login infrastructure for all its social networks and super apps. This transition replaces traditional email-based logins with a hardware-anchored identity system designed to eliminate bots and restore digital sovereignty. By prioritizing cryptographic validation, the move establishes a new standard for human-centric interaction and security in the Web4 era. ```
+
 ### 14.05.2026
 - Topic: UIID v2.6
 - Directory: /posts/2026/May/14
