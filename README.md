@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.05.2026
+- Topic: What is UIID?
+- Directory: /posts/2026/May/16
+- Description: ``` What is UIID? Most of us don't actually own our digital identities—we borrow them from tech giants every time we log in.
+UIID (Universal Integrated Identity Decoupled) is a blueprint for a sovereign digital future. It moves us away from centralized corporate servers and toward a "Web 4" model where you hold the cryptographic keys to your own persona. By using biometrics and zero-knowledge proofs, UIID allows you to prove you are a real human without ever surrendering your private data to a third party.
+It is a shift from being a managed product in a database to being an independent entity online. The goal is a world where your identity is an inalienable right, safely anchored to you and you alone.
+Watch the full explainer here: https://youtu.be/KOPUlGnJy-k ```
+
 ### 15.05.2026
 - Topic: UIID Login for ATRIUM
 - Directory: /posts/2026/May/15
