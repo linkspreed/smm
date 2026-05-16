@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.05.2026
+- Topic: What is VIVON?
+- Directory: /posts/2026/May/17
+- Description: ``` Most of us accept that our internet providers track everything we do, but VIVON is building a way out. It creates an invisible tunnel for your data that skips the usual surveillance and middleman markups. Instead of settling for a leaky connection where you are the product, this Web4 setup gives you back your privacy and better speeds through a truly decentralized network. It is about staying connected to the world without having to hand over your digital rights just to get online. ```
+
 ### 16.05.2026
 - Topic: What is UIID?
 - Directory: /posts/2026/May/16
