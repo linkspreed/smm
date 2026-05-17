@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.05.2026
+- Topic: What is ARCTIC?
+- Directory: /posts/2026/May/18
+- Description: ``` The era of centralized big tech clouds is coming to an end. Arctic introduces a decentralized global swarm where your data is shattered into indestructible encrypted shards. This means total data immortality and privacy that you control. ```
+
 ### 17.05.2026
 - Topic: What is VIVON?
 - Directory: /posts/2026/May/17
