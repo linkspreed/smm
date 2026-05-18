@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.05.2026
+- Topic: What is HELION?
+- Directory: /posts/2026/May/19
+- Description: ``` Explore the future of the internet with this deep dive into Helion and the 4th Layer of Web4. This video explains how a new decentralized architecture is being built to eliminate bot traffic, prevent phishing, and restore privacy to your online searches. Learn how verified identity and sovereign domains are shifting control back to users and away from advertisers.
+Watch the full video here: https://youtu.be/ATabW3gnBLE ```
+
 ### 18.05.2026
 - Topic: What is ARCTIC?
 - Directory: /posts/2026/May/18
