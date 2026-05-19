@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.05.2026
+- Topic: What is TRIVE?
+- Directory: /posts/2026/May/20
+- Description: ``` TRIVE is a modular sovereign operating system designed for professionals who want to escape the hidden taxes and privacy concerns of traditional software. By offering a decentralized network with zero percent success tax and full encryption, it allows you to maintain total ownership of your revenue and data. It is a streamlined infrastructure built to let you lead and grow without platform gatekeepers. ```
+
 ### 19.05.2026
 - Topic: What is HELION?
 - Directory: /posts/2026/May/19
