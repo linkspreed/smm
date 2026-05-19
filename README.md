@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.05.2026
+- Topic: What is ATRIUM?
+- Directory: /posts/2026/May/21
+- Description: ``` Atrium is redefining how we interact with the digital world by democratizing access to community-owned ecosystems. Instead of relying on big tech, Atrium provides a scaling engine that allows everyone from local cafes to major cities to launch their own super apps. This platform secures your data through a unique ID and puts governance back into the hands of the community rather than distant corporations. With no coding required, users can build marketplaces and sovereign tracks where reputation and assets move seamlessly across the entire network. Atrium ensures that the value created within these digital worlds finally stays with the creators and the community.
+https://youtu.be/zJFffBh875M?is=wI6o3AKVL7ptm625 ```
+
 ### 20.05.2026
 - Topic: What is TRIVE?
 - Directory: /posts/2026/May/20
