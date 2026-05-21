@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.05.2026
+- Topic: What is WYNIX?
+- Directory: /posts/2026/May/22
+- Description: ``` The era of the screen is ending. WYNIX introduces Web4, a seamless merge of your physical and digital life through secure, high-tech wearables.
+Ditch the clutter of passwords and keys for a hardware-backed ecosystem that prioritizes your privacy and digital sovereignty. This is the future of Linkspreed.
+Watch the full breakdown here: http://www.youtube.com/watch?v=slN42lwNUz4 ```
+
 ### 21.05.2026
 - Topic: What is ATRIUM?
 - Directory: /posts/2026/May/21
