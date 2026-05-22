@@ -6,7 +6,7 @@
 ## Stay up to date with our official social media announcements
 
 ### 24.05.2026
-- Topic: 100+ Social Logins until 2027
+- Topic: UIID Mobile App
 - Directory: /posts/2026/May/24
 - Description: ``` Traditional logins leave your data vulnerable, but UIID Mobile by Linkspreed restores your digital sovereignty. By anchoring your identity to your device hardware, this app ensures you own your credentials forever. It uses zero-knowledge proofs for instant verification without exposing sensitive information. While the web version is live now, the Android app arrives on the Google Play Store next week. This shift to a native mobile environment is a major step toward decentralized Web4 infrastructure. Experience radical digital independence and secure your personal wallet today. ```
 
