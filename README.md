@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.05.2026
+- Topic: UIID v2.6.2
+- Directory: /posts/2026/May/25
+- Description: ``` The UIID v2.6.2 update is here. The Redirect Expansion increases the limit to 10 URIs per app, allowing for seamless multi-tier deployments and a better developer experience. Watch the full breakdown to see how we are scaling Web4 identity.
+Watch here: https://youtu.be/w6sSGLsvg-s ```
+
 ### 24.05.2026
 - Topic: UIID Mobile App
 - Directory: /posts/2026/May/24
