@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.05.2026
+- Topic: UIID KYC
+- Directory: /posts/2026/May/26
+- Description: ``` Linkspreed is securing the future of Web4 with the launch of the UIID protocol and its new modular KYC integration. This update gives community admins the power to eliminate botnets and fake accounts by requiring KYC-anchored identities without compromising individual privacy. By using high-privilege consent and permanent data anchors, the UIID protocol ensures that identity verification meets global compliance standards while keeping sensitive data firmly in the hands of the user. This flexible approach allows for trusted, human-only digital spaces where your reputation is portable and tamper-proof. Watch the update here: https://youtu.be/zVDQe1c5o0g?si=RLN_mpd_cWmhGq3Q ```
+
 ### 25.05.2026
 - Topic: UIID v2.6.2
 - Directory: /posts/2026/May/25
