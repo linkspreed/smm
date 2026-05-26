@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.05.2026
+- Topic: UIID KYC
+- Directory: /posts/2026/May/28
+- Description: ``` Passwords are becoming a thing of the past. Linkspreed is introducing Universal Integrated Identity (UIID) to solve the privacy and security flaws of traditional social logins. By decoupling your digital identity from major platforms, this system uses local biometrics and hardware security to ensure your data remains yours. The goal is to bridge 100 global social and banking logins by 2027, providing a seamless, passwordless experience that prevents tracking and stops AI botnets. Learn how you can reclaim your digital sovereignty and upgrade to a secure, human-verified future. Watch the full explainer here: https://youtu.be/jYjgsV_QWKY ```
+
 ### 27.05.2026
 - Topic: UIID KYC
 - Directory: /posts/2026/May/27
