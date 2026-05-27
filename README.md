@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.05.2026
+- Topic: The Big Beautiful ARCTIC Update
+- Directory: /posts/2026/May/29
+- Description: ``` Web4 is no longer just a theory. Project ARCTIC’s Layer 3 is officially in real-world testing, bringing sovereign routing and origin-anchored security to your devices. Your data, your power. Watch the full update here: https://youtu.be/dVmZH0XkDCs ```
+
 ### 28.05.2026
 - Topic: UIID KYC
 - Directory: /posts/2026/May/28
