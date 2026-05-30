@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.06.2026
+- Topic: Hello ASIA
+- Directory: /posts/2026/June/01
+- Description: ``` Linkspreed is officially expanding into the Asia-Pacific market to spearhead the transition toward Web4 infrastructure. By integrating sovereign digital identity and decentralized computing, the company aims to address the rising enterprise demand for biometric fraud prevention across the region. This expansion leverages local partnerships from Vietnam to Australia to establish a new standard for data ownership and digital security.
+Full video: https://youtu.be/zG1Zrc7qBsg ```
+
 ### 31.05.2026
 - Topic: OpenClaw Fork for Web4
 - Directory: /posts/2026/May/31
