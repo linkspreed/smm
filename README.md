@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.06.2026
+- Topic: 100+ Social Logins for UIID
+- Directory: /posts/2026/June/02
+- Description: ``` Discover how Linkspreed is eliminating the need for passwords with its Universal Integrated Identity system. By bridging 100 social logins by 2027, this technology replaces vulnerable passwords with local biometrics to protect your privacy and reclaim your digital sovereignty.
+Watch the full video here: https://youtu.be/jYjgsV_QWKY ```
+
 ### 01.06.2026
 - Topic: Hello ASIA
 - Directory: /posts/2026/June/01
