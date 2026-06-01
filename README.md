@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.06.2026
+- Topic: ASIA x WEB4
+- Directory: /posts/2026/June/03
+- Description: ``` Discover how Linkspreed is expanding into the Asian market with its Web4 ecosystem, designed to protect digital sovereignty and fight AI deep fakes through decentralized infrastructure and secure identity filters. Watch the full breakdown here: https://youtu.be/m1Jnoe4QKdE?si=uPuO2iraN9nh_lXh ```
+
 ### 02.06.2026
 - Topic: 100+ Social Logins for UIID
 - Directory: /posts/2026/June/02
