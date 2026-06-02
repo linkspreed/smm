@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.06.2026
+- Topic: ASIA x Web4
+- Directory: /posts/2026/June/04
+- Description: ``` The momentum happening across tech hubs in Asia right now is unmatched, making it the perfect place for our Web4 expansion. We’re building an active, intelligent network that bridges the gap between AI agents and secure infrastructure. Check out the story behind the expansion here: https://youtu.be/m1Jnoe4QKdE?si=uPuO2iraN9nh_IXh 🚀 ```
+
 ### 03.06.2026
 - Topic: ASIA x WEB4
 - Directory: /posts/2026/June/03
