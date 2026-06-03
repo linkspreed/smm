@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.06.2026
+- Topic: Web4 Around The World
+- Directory: /posts/2026/June/05
+- Description: ``` We are sharing Web4 merch from all around the world on our Instagram and X channels. Search for Web4 Around The World to see how people worldwide are celebrating the future of the web. ```
+
 ### 04.06.2026
 - Topic: ASIA x Web4
 - Directory: /posts/2026/June/04
