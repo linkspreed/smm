@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.06.2026
+- Topic: ARCTIC
+- Directory: /posts/2026/June/06
+- Description: ``` Who actually owns the internet? Right now, just a few tech giants. But Linkspreed is trying to change that with their new Arctic Compute Backbone—basically turning everyday laptops into a giant, decentralized supercomputer for Web4.
+It's cheaper, safer, and means developers don't have to worry about big cloud monopolies pulling the plug.
+Check out the full breakdown video here: https://youtu.be/92mjV01i4ys?si=dFjTOyUEnrZJqXW3 ```
+
 ### 05.06.2026
 - Topic: Web4 Around The World
 - Directory: /posts/2026/June/05
