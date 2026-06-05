@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.06.2026
+- Topic: UIID v2.6.5
+- Directory: /posts/2026/June/07
+- Description: ``` Decentralized identity just got a massive upgrade with Linkspreed's UIID version 2.6.5. This release removes the complex onboarding hurdles of Web4 by introducing one-click registration using existing credentials like Google, Meta, GitHub, or Microsoft.
+With new features like infinite aliases, social networks as a service compatibility, and advanced security handshakes, you can maintain full data ownership and privacy without sacrificing convenience.
+Watch the full breakdown here: https://youtu.be/lt-63IvNhOw ```
+
+
 ### 06.06.2026
 - Topic: ARCTIC
 - Directory: /posts/2026/June/06
