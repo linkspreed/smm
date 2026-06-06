@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.06.2026
+- Topic: ATRIUM Maps
+- Directory: /posts/2026/June/08
+- Description: ``` Traditional digital maps monetize your neighborhood, but ATRIUM’s Web4 engine introduces true spatial sovereignty. By utilizing Social Networks as a Service (SNaaS), community leaders and regional businesses can build decentralized, geographically aware super-apps. This keeps data ownership, event discovery, and small business support entirely in local hands, free from big tech middlemen. Watch the full breakdown via the link in our bio. ```
+
 ### 07.06.2026
 - Topic: UIID v2.6.5
 - Directory: /posts/2026/June/07
