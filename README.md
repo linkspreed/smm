@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.06.2026
+- Topic: Choose UIID for KYC
+- Directory: /posts/2026/June/09
+- Description: ``` For decades, staying safe online meant risking your personal data on corporate servers or solving endless captchas. Linkspreed LLC is changing that with the launch of the UIID protocol for Web4. This system introduces voluntary trust scores and optional KYC verification built directly into your own hardware. By creating a secure mathematical data anchor in tamper-proof storage, platforms can instantly verify you are a real person without ever seeing your government ID or home address. The system is entirely modular, allowing community admins to toggle these layers on to crush botnets and protect private spaces without becoming centralized gatekeepers. Privacy and institutional-grade security no longer have to be a trade-off. Watch the full launch video at the link below to see how to reclaim your digital identity.
+http://www.youtube.com/watch?v=YWNykT_wd8g ```
+
 ### 08.06.2026
 - Topic: ATRIUM Maps
 - Directory: /posts/2026/June/08
