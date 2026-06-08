@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.06.2026
+- Topic: Meta One or Web4 Studio
+- Directory: /posts/2026/June/10
+- Description: ``` Meta is shifting toward a paid utility model with the rollout of Meta One. From charging for essential creator tools to introducing paid tiers for WhatsApp, the era of the free open web is fading. It is time to rethink platform dependency and consider building independent spaces where you actually own your audience.
+Watch the full analysis here: https://youtu.be/rUG9TLdWLaI?si=-ZGBEQ5hMs7AuUiR ```
+
 ### 09.06.2026
 - Topic: Choose UIID for KYC
 - Directory: /posts/2026/June/09
