@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.06.2026
+- Topic: Web4 in Texas
+- Directory: /posts/2026/June/11
+- Description: ``` As state laws push back against big tech monopolies, the current internet architecture is reaching a breaking point. This breakdown explains how legal battles in Texas are driving the shift toward Web4—a decentralized framework designed to replace centralized data silos with absolute digital sovereignty and individual privacy.Discover how tools like Universal Integrated Identity and sovereign community gateways aim to put true data ownership back into your hands.Watch the full video here: https://youtu.be/ysKSok9FVAY?si=GoA9884p-qyUyN14 ```
+
 ### 10.06.2026
 - Topic: Meta One or Web4 Studio
 - Directory: /posts/2026/June/10
