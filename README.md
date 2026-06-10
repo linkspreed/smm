@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.06.2026
+- Topic: Web4 and Texas
+- Directory: /posts/2026/June/12
+- Description: ``` Texas is paving the way for a major digital shift with Web4, a new internet architecture focused on true data ownership and digital sovereignty. This proposal introduces decentralized layers to challenge the traditional control of big tech companies and provide permanent privacy solutions.
+Watch the full breakdown on YouTube: https://youtu.be/cWMUSeHJJLM?si=tJh8s8PjHQYaNAUg ```
+
 ### 11.06.2026
 - Topic: Web4 in Texas
 - Directory: /posts/2026/June/11
