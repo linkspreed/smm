@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.06.2026
+- Topic: Web4 Classic Update
+- Directory: /posts/2026/June/13
+- Description: ``` Stop renting space on Web2 and start owning your intelligent digital home. Linkspreed has completely rebuilt its W4 Classic templates from the ground up, allowing you to build a powerful, modular Super App in minutes. Moving from SaaS to SNaaS, which stands for Social Networks as a Service, means true digital sovereignty, seamless plugin scaling, and built-in AI intelligence for your community. Watch the full breakdown to see how the future of social networking is changing.
+Full video link: https://youtu.be/_JTA50jUvkE?si=q5I9joWG-YnleW0g ```
+
 ### 12.06.2026
 - Topic: Web4 and Texas
 - Directory: /posts/2026/June/12
