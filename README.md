@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.06.2026
+- Topic: UIID Cards
+- Directory: /posts/2026/June/14
+- Description: ``` Tired of forgotten passwords and data leaks? Linkspreed LLC is changing the game with the UIID Protocol—a new hybrid system that bridges your physical and digital identity for Web 4. By combining a physical biometric card with a secure digital twin, your biological data stays local on your device. It is never uploaded to a cloud database, meaning there is nothing for a hacker to breach. The future of total data ownership and passwordless security is on the horizon. Watch the full explainer video: https://youtu.be/vLuYsH-ysqA?si=WVeLGyUanBgHI9jo ```
+
 ### 13.06.2026
 - Topic: Web4 Classic Update
 - Directory: /posts/2026/June/13
