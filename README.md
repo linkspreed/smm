@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.06.2026
+- Topic: UIID and eIDAS
+- Directory: /posts/2026/June/15
+- Description: ``` Who controls trust on the internet? The battle between global tech giants and the EU’s eIDAS 2.0 regulation is changing how we look at digital sovereignty and online identity. Learn how cryptography is trying to bridge the gap between government control and user privacy. Watch the full breakdown here: https://youtu.be/NbKuyhwAazc?si=uqAaN-xf8hqrMlZ5 ```
+
 ### 14.06.2026
 - Topic: UIID Cards
 - Directory: /posts/2026/June/14
