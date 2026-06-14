@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.06.2026
+- Topic: UIID and eIDAS
+- Directory: /posts/2026/June/16
+- Description: ``` Europe is shifting toward strict eIDAS 2.0 regulations, meaning the European digital identity wallet will soon become a mandatory requirement for businesses utilizing strong customer authentication. Balancing this compliance with user privacy is a major challenge, but solutions like Links UID use zero-knowledge signatures and trusted execution environments to protect digital sovereignty without sacrificing security. Learn how to prepare your business for this major digital identity shift by watching the full breakdown here: https://youtu.be/TRKHqU84yiU ```
+
 ### 15.06.2026
 - Topic: UIID and eIDAS
 - Directory: /posts/2026/June/15
