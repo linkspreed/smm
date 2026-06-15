@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.06.2026
+- Topic: UIID v2.7
+- Directory: /posts/2026/June/17
+- Description: ``` Managing global identity verification across complex regional regulations just got simpler with UIID 2.7. This update introduces a modular compliance engine that automatically adjusts verification flows by location, hardware-level RFID passport scanning to block deep fakes, and a zero-code jurisdiction toggle for compliance teams. With cryptographic audit logs and seamless user onboarding, the 2.7 SDKs ensure your platform is fully prepared for audit season. Watch the full breakdown here: https://youtu.be/R2aCb3UEyPk?si=1BLAc4BxQZaTWIAI ```
+
 ### 16.06.2026
 - Topic: UIID and eIDAS
 - Directory: /posts/2026/June/16
