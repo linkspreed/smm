@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.06.2026
+- Topic: UIID v2.7
+- Directory: /posts/2026/June/18
+- Description: ``` The launch of UIID version 2.7 introduces a modular compliance engine that dynamically adapts to global regulations like Europe's eIDAS 2.0 framework and NIST standards. With advanced NFC passport validation to prevent deep fakes and an administrative dashboard requiring zero code changes to update regional rule sets, teams can maintain enterprise-grade compliance without slowing down development. Watch the full breakdown here: https://youtu.be/9h6I7SbEsvg?si=O-j0Yden-TR741qt ```
+
 ### 17.06.2026
 - Topic: UIID v2.7
 - Directory: /posts/2026/June/17
