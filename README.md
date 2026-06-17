@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.06.2026
+- Topic: #FreeTLDs
+- Directory: /posts/2026/June/19
+- Description: ``` For decades, registering a domain has meant renting digital real estate from centralized gatekeepers, leaving your brand vulnerable to censorship and price hikes. Linkspreed is disrupting this model with the FreeTLDs initiative, leveraging the Linkspreed Name Service (LNS) to deliver a decentralized Web4 framework where you claim absolute ownership of your digital identity with custom, unrestricted top-level domains. Secure your sovereign digital space and learn more in the full explainer video: http://www.youtube.com/watch?v=Z6prBO0kIUE ```
+
 ### 18.06.2026
 - Topic: UIID v2.7
 - Directory: /posts/2026/June/18
