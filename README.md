@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.06.2026
+- Topic: Meet LNS
+- Directory: /posts/2026/June/20
+- Description: ``` The traditional internet forces you to rent your online presence, but Web4 and the Linkspreed Name Service (LNS) are changing that. By replacing traditional DNS with a decentralized model, Web4 gives you absolute ownership over your domain, identity, and personal data with no middlemen or recurring registrar fees. Watch the full video to see how this shift puts power back in your hands: https://youtu.be/eiddS45aY04 ```
+
 ### 19.06.2026
 - Topic: #FreeTLDs
 - Directory: /posts/2026/June/19
