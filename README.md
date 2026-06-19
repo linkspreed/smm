@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.06.2026
+- Topic: Agent IDs with UIID
+- Directory: /posts/2026/June/21
+- Description: ``` Autonomous AI agents are transforming how we work, but they face a major identity crisis. Operating on human credentials creates massive security and liability risks for enterprises. Discover how Linkspreed's UID v2.8 introduces native, programmatic identities for AI agents—ensuring secure agent-to-agent collaboration and eliminating GDPR compliance headaches through zero-knowledge data practices. Watch the full breakdown to see how this framework is defining the future of Web4 security. https://youtu.be/5zRoEdVhyB0?si=n0RpZVf9-dtA9GhJ ```
+
 ### 20.06.2026
 - Topic: Meet LNS
 - Directory: /posts/2026/June/20
