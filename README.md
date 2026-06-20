@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.06.2026
+- Topic: Independence for Creators with Web4
+- Directory: /posts/2026/June/22
+- Description: ``` Stop building your brand on someone else's app where a single algorithm change can wipe out your whole audience. If you want actual control over your content and your data, it is time to look into setting up your own self-hosted community platform. This breakdown covers everything from the server setup and security to the actual human side of running your own network. Full video here: https://youtu.be/cMf69m8xvq8?si=Nm139H8dePp8ufmk ```
+
 ### 21.06.2026
 - Topic: Agent IDs with UIID
 - Directory: /posts/2026/June/21
