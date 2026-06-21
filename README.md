@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.06.2026
+- Topic: Build Your Social Network
+- Directory: /posts/2026/June/23
+- Description: ``` Stop building your community on rented big tech platforms. Reclaim your digital sovereignty by learning how to host and build your own social network from scratch, from managing infrastructure to launching a thriving audience. Watch the full breakdown here: http://www.youtube.com/watch?v=XeCU8lnULfg ```
+
 ### 22.06.2026
 - Topic: Independence for Creators with Web4
 - Directory: /posts/2026/June/22
