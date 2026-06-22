@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.06.2026
+- Topic: AI Agents and UIID
+- Directory: /posts/2026/June/24
+- Description: ``` An era defined by humans typing behind screens is rapidly giving way to a world where autonomous machines, AI agents, and complex scripts continuously execute sophisticated tasks in the background. Explore the Web4 framework built to solve the machine identity crisis and establish mathematical trust. Watch the full breakdown here: https://youtu.be/eKGX9nhquB4?si=dAuGRvKsDg4qU1wo ```
+
 ### 23.06.2026
 - Topic: Build Your Social Network
 - Directory: /posts/2026/June/23
