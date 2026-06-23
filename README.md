@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.06.2026
+- Topic: Instagram Scandals
+- Directory: /posts/2026/June/25
+- Description: ``` Centralized social media is broken, leaving us as digital tenants vulnerable to hacks and automated ban waves. The June 2026 AI support crisis proved that tech monopolies view users as resources rather than customers. It is time to reclaim your digital sovereignty, escape the algorithmic treadmill, and build your own independent, privacy-focused network using tools like Web Force Studio. Watch the full breakdown here: https://youtu.be/fL0e7INQxZA?si=Tt7U3RT_owii1i_v ```
+
 ### 24.06.2026
 - Topic: AI Agents and UIID
 - Directory: /posts/2026/June/24
