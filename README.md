@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.06.2026
+- Topic: Decentralized ID & KYC
+- Directory: /posts/2026/June/26
+- Description: ``` Learn how decentralized identity solves traditional KYC compliance friction and eliminates data breach liabilities for digital platforms: https://youtu.be/TMri03o8rzU?si=XmfKLP47QJKg-7gD ```
+
 ### 25.06.2026
 - Topic: Instagram Scandals
 - Directory: /posts/2026/June/25
