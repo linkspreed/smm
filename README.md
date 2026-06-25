@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.06.2026
+- Topic: US KYC Compliance and UIID
+- Directory: /posts/2026/June/27
+- Description: ``` Storing sensitive personal data for KYC turns your platform into a high-risk target for data breaches. By switching to decentralized identity and zero-knowledge proofs, you can instantly verify users and meet compliance without ever holding their raw data, eliminating liability entirely. Learn how here: http://www.youtube.com/watch?v=lWqNxr3A4AQ ```
+
 ### 26.06.2026
 - Topic: Decentralized ID & KYC
 - Directory: /posts/2026/June/26
