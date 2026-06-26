@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.06.2026
+- Topic: LS Legal Updates
+- Directory: /posts/2026/June/28
+- Description: ``` Linkspreed Group has launched a new centralized Legal Hub designed to replace confusing, scattered legal documents with a clean and transparent interface for their privacy and terms of use policies. Check out the full video breakdown to see how they are prioritizing community trust as they scale globally: https://youtu.be/M7ypOefaKPY?si=-XDC6GxByC9kgto2 ```
+
 ### 27.06.2026
 - Topic: US KYC Compliance and UIID
 - Directory: /posts/2026/June/27
