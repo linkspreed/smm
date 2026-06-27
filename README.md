@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.06.2026
+- Topic: UIID and National Security
+- Directory: /posts/2026/June/29
+- Description: ``` Modern warfare has moved into the digital domain, making outdated identity infrastructure our biggest national security vulnerability. Learn how decentralized protocols and zero-knowledge proofs can protect free speech and critical systems from cyber threats without sacrificing personal privacy. Watch the full breakdown here: https://youtu.be/dMuFVy2YXLQ ```
+
 ### 28.06.2026
 - Topic: LS Legal Updates
 - Directory: /posts/2026/June/28
