@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.06.2026
+- Topic: Web4 Domains and LNS
+- Directory: /posts/2026/June/30
+- Description: ``` We have officially relaunched and completely leveled up our landing pages to usher in the Web4 era. Experience a brand-new UI and a fully refreshed CI designed to be smoother, sleeker, and built for the future. Head over to the link in our bio to explore the new look right now. ```
+
 ### 29.06.2026
 - Topic: UIID and National Security
 - Directory: /posts/2026/June/29
