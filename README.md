@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.07.2026
+- Topic: Community Management in 2026
+- Directory: /posts/2026/July/01
+- Description: ``` The era of big tech monopolies and algorithmic manipulation is ending. Discover how Web4 is giving creators and communities true digital autonomy, data ownership, and freedom from data serfdom. Watch the full breakdown here: https://youtu.be/Ka_tFlWoG9U?si=BNmEw3FceZQbO7h9 ```
+
 ### 30.06.2026
 - Topic: Web4 Domains and LNS
 - Directory: /posts/2026/June/30
