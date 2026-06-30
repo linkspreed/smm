@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.07.2026
+- Topic: ID Verification SWOT
+- Directory: /posts/2026/July/02
+- Description: ``` The internet is changing forever and the online age verification crisis is putting your personal data at risk. Traditional verification tools are broken, exposing kids and making databases massive targets for hackers. UIID offers a breakthrough solution, decoupling identity from centralized storage to protect user privacy while ensuring absolute child safety and legal compliance. Watch the full video to see how this framework creates a more secure, decoupled digital future. https://youtu.be/GgAEzoamc6U?si=sAo3-mhnQdluipBt ```
+
 ### 01.07.2026
 - Topic: Community Management in 2026
 - Directory: /posts/2026/July/01
