@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.07.2026
+- Topic: UIID v2.8
+- Directory: /posts/2026/July/03
+- Description: ``` AI just got its own passport! Linkspreed UIID 2.8 is officially ending the era of anonymous digital ghost agents and bringing autonomous AI entities actual digital passports for a secure, multi-entity web 4 ecosystem. Watch the full breakdown to see how zero-trust provisioning and the new agent factory are changing the internet forever! https://youtu.be/6sGS25mMABU?si=d7QX6tUH8TKXUhb- ```
+
 ### 02.07.2026
 - Topic: ID Verification SWOT
 - Directory: /posts/2026/July/02
