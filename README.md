@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.07.2026
+- Topic: UIID v2.8
+- Directory: /posts/2026/July/04
+- Description: ``` Linkspreed UIID v2.8 introduces sovereign digital passports for machines, bringing zero-trust security and autonomous registration to AI agents. It is a major shift toward a decentralized Web4 where every algorithm and human has a verifiable identity. Learn how it works in the full video breakthrough below: https://youtu.be/rPDZiEEIU7c?si=rr67mHHl3rmq5ORp ```
+
 ### 03.07.2026
 - Topic: UIID v2.8
 - Directory: /posts/2026/July/03
