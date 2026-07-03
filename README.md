@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.07.2026
+- Topic: UIID and AI Agents
+- Directory: /posts/2026/July/05
+- Description: ``` The Web4 UIID framework gives autonomous AI agents a verifiable digital citizenship, securing their identities and privacy to build a trusted machine economy. Watch the full breakdown at https://youtu.be/eKGX9nhquB4?si=STwuj0mh1PPH0UqY ```
+
 ### 04.07.2026
 - Topic: UIID v2.8
 - Directory: /posts/2026/July/04
