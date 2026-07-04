@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.07.2026
+- Topic: Agentic Web4
+- Directory: /posts/2026/July/06
+- Description: ``` The era of passive scrolling is over as we enter the Web4 paradigm. Discover how autonomous AI agents are shifting power back to users by creating proactive, decentralized, and human-centric digital communities. Watch the full breakdown to learn how to reclaim your social network today: https://youtu.be/Erc2hI4SJQ4 ```
+
 ### 05.07.2026
 - Topic: UIID and AI Agents
 - Directory: /posts/2026/July/05
