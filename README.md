@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.07.2026
+- Topic: Have you used Super Apps before?
+- Directory: /posts/2026/July/07
+- Description: ``` Tired of cluttering your phone with dozens of apps for everything you do? This video breaks down how the digital world is shifting toward unified super apps and how new decentralized technology lets you build and completely own your very own digital ecosystem without corporate gatekeepers. https://youtu.be/NCRcwqqj98U?si=xnrn9WperFTX_Qx- ```
+
 ### 06.07.2026
 - Topic: Agentic Web4
 - Directory: /posts/2026/July/06
