@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.07.2026
+- Topic: Independent Creators
+- Directory: /posts/2026/July/08
+- Description: ``` The creator economy is a multi-billion dollar industry, but relying entirely on unpredictable algorithms means you are just renting your reach. Real stability comes from building an independent, self-governed community where you own your data and connection to your audience. https://youtu.be/w67sJU1CxKk ```
+
 ### 07.07.2026
 - Topic: Have you used Super Apps before?
 - Directory: /posts/2026/July/07
