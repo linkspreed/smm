@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.07.2026
+- Topic: UIID App
+- Directory: /posts/2026/July/09
+- Description: ``` Discover how Linkspreed's decentralized identity app, UIID, lets you ditch passwords and reclaim your digital privacy by keeping your identity safely on your device using cryptographic keys and zero-knowledge proofs. Click the link to watch the full explainer video: https://youtu.be/Uc2pDzQ0h8E?is=KznM8STljpfLxoG3 ```
+
 ### 08.07.2026
 - Topic: Independent Creators
 - Directory: /posts/2026/July/08
