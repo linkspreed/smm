@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.07.2026
+- Topic: Community Management in 2026
+- Directory: /posts/2026/July/10
+- Description: ``` The internet is moving away from corporate monopolies toward Web4, giving users true data ownership and digital autonomy. Learn how creators and communities are breaking free from big tech to own their digital soil. https://youtu.be/Ka_tFlWoG9U ```
+
 ### 09.07.2026
 - Topic: UIID App
 - Directory: /posts/2026/July/09
