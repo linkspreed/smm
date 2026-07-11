@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.07.2026
+- Topic: Build Your Social Network
+- Directory: /posts/2026/July/13
+- Description: ``` Stop renting your audience to tech giants who control your reach. Learn how to build a self-governed digital community with total data sovereignty and algorithm-free feeds here: https://youtu.be/KUn6NBGOp1g?is=h2Zg8cWBybZssg0b ```
+
 ### 12.07.2026
 - Topic: Brand Community
 - Directory: /posts/2026/July/12
