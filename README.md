@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.07.2026
+- Topic: UIID Coins and UIID Mail
+- Directory: /posts/2026/July/14
+- Description: ``` Behind the scenes of the massive new development shaping the future of UIID Mail and UIID Coins. The scale of this project is next level. Watch the full video here: http://www.youtube.com/watch?v=GEFwHv0-riM ```
+
 ### 13.07.2026
 - Topic: Build Your Social Network
 - Directory: /posts/2026/July/13
