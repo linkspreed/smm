@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.07.2026
+- Topic: UIID Coins and Mail
+- Directory: /posts/2026/July/15
+- Description: ``` Linkspreed is building a decentralized Web4 ecosystem that replaces corporate servers with self-sovereign identity, spam-free communication, and zero-fee transactions to restore absolute digital ownership to the individual.
+https://youtu.be/85FyGLROT74?is=5cYspFbF0JUOCNYE ```
+
 ### 14.07.2026
 - Topic: UIID Coins and UIID Mail
 - Directory: /posts/2026/July/14
