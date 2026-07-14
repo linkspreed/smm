@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.07.2026
+- Topic: LNS Domains
+- Directory: /posts/2026/July/16
+- Description: ``` Traditional DNS forces you to rent your digital identity. LNS Web4 Domains are changing that, shifting the internet from fragile renters to permanent, sovereign owners with free lifetime domains and biometric security. Watch more: https://youtu.be/2CTyIoEcngg?is=5BtcznPgSHrZLYtg ```
+
 ### 15.07.2026
 - Topic: UIID Coins and Mail
 - Directory: /posts/2026/July/15
