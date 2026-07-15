@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.07.2026
+- Topic: 250 Social Networks Marathon
+- Directory: /posts/2026/July/17
+- Description: ``` Celebrate 250 years of independence with Linkspreed's 250-day giveaway starting July 4th. We are gifting one full, algorithm-free social network building package every single day so you can create your own digital community. Sign up now and check your inbox for the daily entry form to secure your chance to win. http://www.youtube.com/watch?v=TLnDT4N-uYk ```
+
 ### 16.07.2026
 - Topic: LNS Domains
 - Directory: /posts/2026/July/16
