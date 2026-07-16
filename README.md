@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.07.2026
+- Topic: Build Your Social Network
+- Directory: /posts/2026/July/18
+- Description: ``` If you are tired of building your audience on rented digital land controlled by algorithms, it is time to reclaim your digital independence and own your network.
+https://youtu.be/K2Kfo0SAjUE ```
+
 ### 17.07.2026
 - Topic: 250 Social Networks Marathon
 - Directory: /posts/2026/July/17
