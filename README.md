@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.07.2026
+- Topic: Your Web4
+- Directory: /posts/2026/July/19
+- Description: ``` Break free from social media algorithms and reclaim ownership of your audience, data, and digital future. Watch the full breakdown to learn how to build your own independent community today. https://youtu.be/RFd5tt_Nbxo?is=NG67p7Ky0PStwPgN ```
+
 ### 18.07.2026
 - Topic: Build Your Social Network
 - Directory: /posts/2026/July/18
