@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.07.2026
+- Topic: US Kids Act & Web4
+- Directory: /posts/2026/July/20
+- Description: ``` The new KIDS Act forces a critical debate on protecting children online without destroying digital privacy. Traditional verification methods threaten to expose sensitive personal data, but frameworks like Universal Integrated Identity offer a cryptographic solution that keeps minors safe while ensuring complete anonymity. Watch the full breakdown to learn how safety and privacy can coexist: https://youtu.be/JYFjfAIt_xY?si=Ny9OCInzV1Ex3kfP ```
+
 ### 19.07.2026
 - Topic: Your Web4
 - Directory: /posts/2026/July/19
