@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.07.2026
+- Topic: Free Social Networks
+- Directory: /posts/2026/July/21
+- Description: ``` Launching a decentralized social network traditionally means facing massive server bills or sacrificing data privacy to tech monopolies. The Web4 ecosystem changes this by dropping the cost of launching a custom, sovereign community to absolute zero through distributed nodes and privacy-first ads. Watch the full breakdown here: https://youtu.be/lJJHttWnpL8 ```
+
 ### 20.07.2026
 - Topic: US Kids Act & Web4
 - Directory: /posts/2026/July/20
