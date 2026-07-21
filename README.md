@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.07.2026
+- Topic: Layer 6 and Web4
+- Directory: /posts/2026/July/23
+- Description: ``` Building on legacy platforms is just farming on borrowed land. Take back full control of your audience, data, and revenue. Watch the breakdown and launch your own sovereign network: https://youtu.be/r1GvdcBT0jo ```
+
 ### 22.07.2026
 - Topic: Layer 6 and Web4 Studio
 - Directory: /posts/2026/July/22
