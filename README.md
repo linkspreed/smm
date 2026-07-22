@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.07.2026
+- Topic: Web4 Expansion
+- Directory: /posts/2026/July/24
+- Description: ``` Linkspreed is expanding its portfolio by launching its own self-hosted social media platforms alongside a Web4 fintech beta. Designed to give creators true digital sovereignty, the architecture keeps data private, integrates frictionless payments, and charges a zero percent take rate on builder revenues. Watch the full announcement video to see how this shift is reshaping digital ownership: https://youtu.be/gEKEIBQJmXE ```
+
 ### 23.07.2026
 - Topic: Layer 6 and Web4
 - Directory: /posts/2026/July/23
