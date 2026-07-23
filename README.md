@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.07.2026
+- Topic: Web4 and FinTech
+- Directory: /posts/2026/July/25
+- Description: ``` Linkspreed LLC is expanding beyond backend infrastructure to launch self-hosted Web4 social networks and integrated fintech solutions. Driven by their universal identity protocol, the move aims to provide digital sovereignty, native privacy, and borderless monetization for users and creators. https://youtu.be/getFzJQTjf4?si=IWTbz6Fpv-akzrq3 ```
+
 ### 24.07.2026
 - Topic: Web4 Expansion
 - Directory: /posts/2026/July/24
