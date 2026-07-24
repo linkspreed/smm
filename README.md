@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.07.2026
+- Topic: Can we get independent from Big Tech?
+- Directory: /posts/2026/July/26
+- Description: ``` Big tech owns your digital identity and rents your life back to you through subscription models and data tracking, but Web4 offers a local-first, decentralized alternative to take back your digital sovereignty. https://youtu.be/AMvEboxdEp4?si=0kEbLL6dsQPOUYN4 ```
+
 ### 25.07.2026
 - Topic: Web4 and FinTech
 - Directory: /posts/2026/July/25
