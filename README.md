@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.07.2026
+- Topic: Web4 Super Engine
+- Directory: /posts/2026/July/27
+- Description: ``` Linkspreed introduces a new Web4 concept using UIID and the Super Engine to give users full control over their digital identity. Watch the video to explore how the system works and share your thoughts: https://youtu.be/7C4UeN7w7LU?si=s7j7jeV1JR-rxFBd ```
+
 ### 26.07.2026
 - Topic: Can we get independent from Big Tech?
 - Directory: /posts/2026/July/26
