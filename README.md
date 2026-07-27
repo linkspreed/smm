@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.07.2026
+- Topic: Social Network Plugins
+- Directory: /posts/2026/July/29
+- Description: ``` Linkspreed’s ATRIUM Web4 Core turns standard feeds into sovereign super apps, using modular plugins and biometric verification to deliver a secure, bot-free digital space. Watch here: https://youtu.be/wpOp8VUR630 ```
+
 ### 28.07.2026
 - Topic: Know Your Customers
 - Directory: /posts/2026/July/28
