@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.07.2026
+- Topic: UIID IDP
+- Directory: /posts/2026/July/30
+- Description: ``` Take back control of your digital identity with Linkspreed UIID, a decentralized Web4 framework that uses zero-knowledge proofs and biometric security to eliminate corporate tracking while giving you 100 GB of secure storage. Watch the video to learn how Web4 puts privacy back in your hands.
+https://youtu.be/Hop76lGlbP8?is=UmnlorVWQ_ICkBBg ```
+
 ### 29.07.2026
 - Topic: Social Network Plugins
 - Directory: /posts/2026/July/29
