@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.07.2026
+- Topic: Anonymous UIID
+- Directory: /posts/2026/July/31
+- Description: ``` This news piece breaks down UIID's privacy framework for seamless online anonymity and tracking protection. http://www.youtube.com/watch?v=wYUD1eQt8zI ```
+
 ### 30.07.2026
 - Topic: UIID IDP
 - Directory: /posts/2026/July/30
