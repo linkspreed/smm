@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.08.2026
+- Topic: Facebook faces a massive penalty
+- Directory: /posts/2026/August/01
+- Description: ``` Big tech is facing unprecedented legal and regulatory pressure, exposing the fragility of centralized social media models. Discover how Web4 and Social Networks as a Service offer true data sovereignty, algorithm-free feeds, and a way to build fully independent digital communities. Learn more here: https://youtu.be/KEIdOg4TvdM?is=GhQb0FiUJIs_5T-B ```
+
 ### 31.07.2026
 - Topic: Anonymous UIID
 - Directory: /posts/2026/July/31
