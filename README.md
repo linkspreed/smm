@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.08.2026
+- Topic: Social Media Moderation with AI
+- Directory: /posts/2026/August/02
+- Description: ``` Effective social media moderation shouldn't consume your day; consolidating report reviews into a single block helps protect your community faster. Watch the video:https://youtu.be/54MGaUpTquE ```
+
 ### 01.08.2026
 - Topic: Facebook faces a massive penalty
 - Directory: /posts/2026/August/01
