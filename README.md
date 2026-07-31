@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.08.2026
+- Topic: Web4 AI releases 270M models
+- Directory: /posts/2026/August/03
+- Description: ``` Modern social networks are broken by bots, deepfakes, and massive data harvesting, but Web4 on-device AI and sovereign identity protocols keep your private data local while ensuring interactions remain human. Learn how this next-generation framework restores privacy and digital sovereignty here: https://youtu.be/Vj0yHvv-FfI. ```
+
 ### 02.08.2026
 - Topic: Social Media Moderation with AI
 - Directory: /posts/2026/August/02
