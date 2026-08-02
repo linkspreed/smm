@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.08.2026
+- Topic: Web4 Research Paper
+- Directory: /posts/2026/August/05
+- Description: ``` Linkspreed LLC presents a new Web4 architecture research paper proposing a fully sovereign seven-layer stack that moves beyond Web3 toward autonomous AI agents acting on behalf of users with true digital ownership. Watch the full breakdown: https://youtu.be/o_XSySbAINQ ```
+
 ### 04.08.2026
 - Topic: UIID Anonymity
 - Directory: /posts/2026/August/04
