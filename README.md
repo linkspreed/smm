@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.08.2026
+- Topic: UIID Anonymity
+- Directory: /posts/2026/August/04
+- Description: ``` Stop sacrificing your personal data just to prove who you are online. Universal Integrated Identity uses decentralized IDs and disposable digital masks so you can verify your identity with zero document exposure and total privacy. Learn how to take back control of your digital identity in this quick video. https://youtu.be/8_X88VnSZLk?si=xlTWUZP8ceJMyoGX ```
+
 ### 03.08.2026
 - Topic: Web4 AI releases 270M models
 - Directory: /posts/2026/August/03
