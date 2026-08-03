@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.08.2026
+- Topic: Read-Write-Own-Act is the Web4
+- Directory: /posts/2026/August/06
+- Description: ``` Web4 marks the evolution to a Read-Write-Own-Act internet, empowering autonomous AI agents to execute complex tasks securely without corporate gatekeepers. Built on decentralized identity and sovereign infrastructure, it restores full digital ownership and privacy to users. Watch the full breakdown here: https://youtu.be/tfhH3hPAnAs ```
+
 ### 05.08.2026
 - Topic: Web4 Research Paper
 - Directory: /posts/2026/August/05
