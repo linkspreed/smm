@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.08.2026
+- Topic: Read-Write-Own-Act with Web4
+- Directory: /posts/2026/August/07
+- Description: ``` The web is shifting from simple browsing to Web4 and the Read-Write-Own-Act model, where autonomous AI agents execute tasks while restoring true ownership over your digital identity, with the full explainer available here: https://youtu.be/oFUHsAzxShw ```
+
 ### 06.08.2026
 - Topic: Read-Write-Own-Act is the Web4
 - Directory: /posts/2026/August/06
