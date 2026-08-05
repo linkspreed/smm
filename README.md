@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.08.2026
+- Topic: Fitness Industry & Web4
+- Directory: /posts/2026/August/08
+- Description: ``` Discover how the fitness industry is shifting away from renting space on traditional social media toward sovereign digital networks, and learn how creators and brands can build owned, decentralized super apps to boost member retention, protect user data, and unlock new revenue streams: https://youtu.be/TTlfBAkEeps ```
+
 ### 07.08.2026
 - Topic: Read-Write-Own-Act with Web4
 - Directory: /posts/2026/August/07
