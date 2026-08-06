@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.08.2026
+- Topic: Make Money with your Community
+- Directory: /posts/2026/August/09
+- Description: ``` Stop paying Web2 platforms a success tax on your hard-earned revenue. With Linkspreed and the Web4 Studio ecosystem, creators, communities, and enterprises can break free from corporate gatekeepers, retain 100% of their earnings through a 0% take rate model, and launch custom, sovereign digital networks in under 30 seconds using a secure decentralized infrastructure. https://youtu.be/y3rnzz9dqF8 ```
+
 ### 08.08.2026
 - Topic: Fitness Industry & Web4
 - Directory: /posts/2026/August/08
