@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.08.2026
+- Topic: Web4 Academic Paper
+- Directory: /posts/2026/August/10
+- Description: ``` A new academic paper reveals the full blueprint for Web4, the next internet. It maps out the architecture behind a decentralized, peer-to-peer social web where you own your data and can build your own network and community right now.
+https://youtu.be/amUoFYfZMgE ```
+
 ### 09.08.2026
 - Topic: Make Money with your Community
 - Directory: /posts/2026/August/09
