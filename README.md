@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.08.2026
+- Topic: UIID
+- Directory: /posts/2026/August/11
+- Description: ``` Web4 and UIID are shifting the internet from corporate-owned platforms to true user ownership, giving you complete control over your identity and personal data. Check out the full breakdown here: https://youtu.be/dxud9FkNrgY ```
+
 ### 10.08.2026
 - Topic: Web4 Academic Paper
 - Directory: /posts/2026/August/10
