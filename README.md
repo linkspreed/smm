@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.08.2026
+- Topic: Web4 Plugins
+- Directory: /posts/2026/August/12
+- Description: ``` Unlock Web4 social network customization without risking system stability. ATRIUM Plugins introduce modular UI widgets, isolated data storage, and zero-risk extensions: https://youtu.be/hXqHgOAB84o ```
+
 ### 11.08.2026
 - Topic: UIID
 - Directory: /posts/2026/August/11
