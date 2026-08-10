@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.08.2026
+- Topic: Web4, UIID and ATRIUM
+- Directory: /posts/2026/August/13
+- Description: ``` Discover how Web4, UIID, and Atrium are reshaping the internet by giving users complete sovereignty over their digital identity, data, and social spaces. https://youtu.be/D8qViFKXjxw?is=Sza5cM3XWcyqE-JC ```
+
 ### 12.08.2026
 - Topic: Web4 Plugins
 - Directory: /posts/2026/August/12
