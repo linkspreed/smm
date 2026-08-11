@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.08.2026
+- Topic: Hello Micro Social Networks
+- Directory: /posts/2026/August/14
+- Description: ``` Social media does not just divide us through filter bubbles—giant platforms strip away shared context and replace empathy with algorithmic outrage. Moving to human-scale micro-communities brings back real human connection and healthier discourse online. https://www.youtube.com/watch?v=e0LdWR77zoA ```
+
 ### 13.08.2026
 - Topic: Web4, UIID and ATRIUM
 - Directory: /posts/2026/August/13
