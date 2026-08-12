@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.08.2026
+- Topic: UIID v2.9
+- Directory: /posts/2026/August/15
+- Description: ``` Linkspreed's UIID v2.9 makes decentralized digital identity simple by replacing complex cryptographic strings with easy, human-friendly short codes. https://youtu.be/6vIh19_daC4 ```
+
 ### 14.08.2026
 - Topic: Hello Micro Social Networks
 - Directory: /posts/2026/August/14
