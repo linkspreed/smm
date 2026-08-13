@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.08.2026
+- Topic: UIID v2.9
+- Directory: /posts/2026/August/6
+- Description: ``` UIID v2.9 converts long cryptographic IDs into three simple English words from a curated 30,000-word dictionary for easy voice sharing, completely serverless. https://youtu.be/qip9w1sXClU ```
+
 ### 15.08.2026
 - Topic: UIID v2.9
 - Directory: /posts/2026/August/15
