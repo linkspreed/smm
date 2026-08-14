@@ -5,9 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.08.2026
+- Topic: UIID Mail
+- Directory: /posts/2026/August/17
+- Description: ``` Traditional email relies on outdated central servers vulnerable to spam, phishing, and data tracking. Linkspreed's UIID Mail offers a fresh approach by using direct, biometrically verified messaging between devices to keep your inbox private, passwordless, and spam-free. Watch the full explainer to see how it works: https://youtu.be/1OBdU-4Di0U ```
+
 ### 16.08.2026
 - Topic: UIID v2.9
-- Directory: /posts/2026/August/6
+- Directory: /posts/2026/August/16
 - Description: ``` UIID v2.9 converts long cryptographic IDs into three simple English words from a curated 30,000-word dictionary for easy voice sharing, completely serverless. https://youtu.be/qip9w1sXClU ```
 
 ### 15.08.2026
