@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.08.2026
+- Topic: LNS v1 - Soon available
+- Directory: /posts/2026/August/18
+- Description: ``` The internet has relied on centralized legacy DNS for 40 years, leaving digital ownership vulnerable to control and outages. The Linkspreed Naming System introduces cryptographic domain ownership built for Web4 and AI agents, delivering true security and decentralization. Watch the video to see how it works. https://youtu.be/Kfys2dGT-RI?is=wUjJ4dDTMI9QvFJw ```
+
 ### 17.08.2026
 - Topic: UIID Mail
 - Directory: /posts/2026/August/17
