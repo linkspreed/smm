@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.08.2026
+- Topic: The concept behind DID with UIID
+- Directory: /posts/2026/August/19
+- Description: ``` Stop renting your digital identity to centralized databases that can lock you out or lose your data at any moment. Decentralized frameworks like Linkspreed UIID let you generate and control your online identity directly from your own device, putting you back in charge of your personal information. Watch the full breakdown here: https://youtu.be/3nCIED0gB-4 ```
+
 ### 18.08.2026
 - Topic: LNS v1 - Soon available
 - Directory: /posts/2026/August/18
