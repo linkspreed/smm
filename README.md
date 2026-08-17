@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.08.2026
+- Topic: NY Kids Act
+- Directory: /posts/2026/August/20
+- Description: ``` New regulations impose heavy fines for improper age verification, but storing personal IDs creates massive data liability risks. Linkspreed Universal Identity (UID) solves this dilemma using zero-knowledge proofs to verify user age without saving sensitive personal data. Learn how to protect your platform: http://www.youtube.com/watch?v=h09syThIGC8 ```
+
 ### 19.08.2026
 - Topic: The concept behind DID with UIID
 - Directory: /posts/2026/August/19
