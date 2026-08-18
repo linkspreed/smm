@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.08.2026
+- Topic: UIID v2.9.1
+- Directory: /posts/2026/August/21
+- Description: ``` Discover the future of borderless, decentralized identity management with UIID v2.9.1, offering fast, private, and secure access across all your digital services: https://youtu.be/Zpygu-fu4Z8 ```
+
 ### 20.08.2026
 - Topic: NY Kids Act
 - Directory: /posts/2026/August/20
