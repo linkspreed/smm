@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.08.2026
+- Topic: Super Crazy UIID Ideas
+- Directory: /posts/2026/August/22
+- Description: ``` Discover 50 unexpected ways people use UIID for borderless, privacy-first identity management—ranging from smart home fixes like raccoon-proof pet doors to off-grid emergency relief and advanced security. Watch the full breakdown here: https://youtu.be/67rEZoT5Dfs?is=3D0F5nNykplaXQpz ```
+
 ### 21.08.2026
 - Topic: UIID v2.9.1
 - Directory: /posts/2026/August/21
