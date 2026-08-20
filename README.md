@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.08.2026
+- Topic: EVERYTHING.
+- Directory: /posts/2026/August/23
+- Description: ``` Discover how Linkspreed Group is reshaping its digital footprint by rebranding the TRIVE Google Play profile to EVERYTHING COMPANY, separating niche Web4 infrastructure from accessible, free software for global users: https://youtu.be/UkaAtDqzDQY?is=D027SrDodfaUb8D4 ```
+
 ### 22.08.2026
 - Topic: Super Crazy UIID Ideas
 - Directory: /posts/2026/August/22
