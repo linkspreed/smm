@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.08.2026
+- Topic: UIID SSO
+- Directory: /posts/2026/August/24
+- Description: ``` Traditional single sign-on centralizes sensitive data, creating major security vulnerabilities and password fatigue. LINKSPREED's Universal Integrated Identity (UIID) changes this with a privacy-first, passwordless SSO framework that uses zero-knowledge proofs and biometric authentication. It simplifies access for users while offering developers easy REST API integration and drastically reducing enterprise data breach risks. Watch the video to learn more: https://youtu.be/jJqiOsa1oJs ```
+
 ### 23.08.2026
 - Topic: EVERYTHING.
 - Directory: /posts/2026/August/23
