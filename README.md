@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.08.2026
+- Topic: VIVON - An Easy Explanation
+- Directory: /posts/2026/August/25
+- Description: ``` Traditional telecom carriers compromise your privacy at the hardware level. VIVON fixes this with a sovereign Web4 connection, borderless eSIMs, and direct calls to cryptographic IDs instead of phone numbers. Watch the video to see how decentralized mobile access works: http://www.youtube.com/watch?v=bFuFOvCWI_U ```
+
 ### 24.08.2026
 - Topic: UIID SSO
 - Directory: /posts/2026/August/24
