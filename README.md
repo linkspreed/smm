@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.08.2026
+- Topic: Community
+- Directory: /posts/2026/August/26
+- Description: ``` Tired of endless ads and algorithms dictating your feed? Linkspreed breaks down how Social Networks as a Service lets you build and truly own your own online community in minutes with no coding required. Take back control of your digital space and stop renting your audience. Watch Video: https://youtu.be/5WAS0xvLcTY?is=BrSz1NDF1g9AdiTw ```
+
 ### 25.08.2026
 - Topic: VIVON - An Easy Explanation
 - Directory: /posts/2026/August/25
