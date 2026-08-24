@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.08.2026
+- Topic: Community Management in 2026
+- Directory: /posts/2026/August/27
+- Description: ``` Forget vanity metrics—building a thriving online community in 2026 comes down to authentic human connection, consistent value, and empowering your core members over chasing follower counts.
+https://youtu.be/LYrpKVgcSdc?is=x88FbX75qHduouSI ```
+
 ### 26.08.2026
 - Topic: Community
 - Directory: /posts/2026/August/26
