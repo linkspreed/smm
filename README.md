@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.08.2026
+- Topic: Web4 Studio Theme Editor
+- Directory: /posts/2026/August/28
+- Description: ``` Learn how to customize and launch your upcoming digital community without writing code using the new visual theme editor coming to Web4 Studio, giving you full control over your future network's design and data sovereignty. Check out the full breakdown at https://youtu.be/nfyKa9QIJMg ```
+
 ### 27.08.2026
 - Topic: Community Management in 2026
 - Directory: /posts/2026/August/27
