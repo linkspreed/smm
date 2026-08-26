@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.08.2026
+- Topic: UIID for Social Networks
+- Directory: /posts/2026/August/29
+- Description: ``` Discover how Linkspreed's UIID decoupled digital identity proposes a root-level fix for online privacy, security, and data sovereignty by replacing passwords and centralized databases with local biometrics and zero-knowledge proofs.
+https://youtu.be/WJ365ydSE68?is=NrzP_2AT6Tnl82Xc ```
+
 ### 28.08.2026
 - Topic: Web4 Studio Theme Editor
 - Directory: /posts/2026/August/28
