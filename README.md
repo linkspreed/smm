@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.08.2026
+- Topic: Web4 Paper
+- Directory: /posts/2026/August/30
+- Description: ``` True digital ownership requires full control across identity, compute, and naming. Web4 moves beyond Web3 by introducing the power to act through sovereign autonomous agents without relying on rented platform rails. https://youtu.be/B2FWcntMXhg ```
+
 ### 29.08.2026
 - Topic: UIID for Social Networks
 - Directory: /posts/2026/August/29
