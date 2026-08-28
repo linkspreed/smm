@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.08.2026
+- Topic: LINKSPREED Partner Program
+- Directory: /posts/2026/August/31
+- Description: ``` Get access to comprehensive marketing materials, full onboarding training, and 24/7 technical support to easily onboard businesses, consultants, and agencies while earning recurring rewards. Visit partner.linkspreed.com to explore the partner portal today.
+https://youtu.be/yPnxQDkexkc ```
+
 ### 30.08.2026
 - Topic: Web4 Paper
 - Directory: /posts/2026/August/30
