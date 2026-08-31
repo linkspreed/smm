@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.09.2026
+- Topic: Meet Build a Brand Community
+- Directory: /posts/2026/September/02
+- Description: ``` Stop relying on passive followers and start building a real brand community! 🚀 Watch our quick video breakdown to learn how an owned community boosts customer loyalty, drives ROI, and accelerates your growth with Atrium by Linkspreed: https://youtu.be/FR01R0hNIv0?si=tcJFnUYWcdG8tB2C #BrandCommunity #MarketingStrategy #CustomerEngagement #BusinessGrowth ```
+
 ### 01.09.2026
 - Topic: Meet The Golden Age of Social Networks
 - Directory: /posts/2026/September/01
