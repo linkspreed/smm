@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.09.2026
+- Topic: Brand Community
+- Directory: /posts/2026/September/03
+- Description: ``` Stop building your most valuable brand asset on rented social media land! 🚀 True brand communities increase customer retention by 40%, lower acquisition costs by 32%, and turn passive followers into active advocates. Stop relying on algorithm-throttled feeds—own your data and create a digital home that directly drives revenue and loyalty. Watch the video to learn how to scale your brand community: https://youtu.be/gq3_fB0Szvk?si=IbrjI2ftkqaqmTSj ```
+
 ### 02.09.2026
 - Topic: Meet Build a Brand Community
 - Directory: /posts/2026/September/02
