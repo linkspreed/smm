@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.09.2026
+- Topic: UIID and the ticket industry
+- Directory: /posts/2026/September/04
+- Description: ``` Tired of losing concert tickets to scalper bots in seconds? 🎟️🤖 This video breaks down how Linkspreed's UIID protocol is solving the $32B ticket scalping crisis for good! By using hardware-anchored digital identity and zero-knowledge proofs, UIID verifies unique human fans, eliminates counterfeit scams with dynamic ticket co-signing, and enforces fair resale price caps—without harvesting your private data. Watch the full breakdown here: https://youtu.be/WieDDvkljas?si=Cmse8fe-JmVKWG3U ```
+
 ### 03.09.2026
 - Topic: Brand Community
 - Directory: /posts/2026/September/03
