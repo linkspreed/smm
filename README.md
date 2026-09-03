@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.09.2026
+- Topic: Agentic Internet
+- Directory: /posts/2026/September/05
+- Description: ``` For decades, we’ve mistaken the browser window for the internet itself. Web4 moves beyond Read (Web1), Write (Web2), and Own (Web3) to introduce a powerful new verb: ACT. Discover how Linkspreed’s architectural blueprint uses sovereign identity, temporary capability grants, and decentralized infrastructure to empower autonomous AI agents—without sacrificing security or control.
+https://youtu.be/H51t34CcQg4?si=ZN80MxNBAPid3JNw ```
+
 ### 04.09.2026
 - Topic: UIID and the ticket industry
 - Directory: /posts/2026/September/04
