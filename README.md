@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.09.2026
+- Topic: UIID v2.9.2
+- Directory: /posts/2026/September/06
+- Description: ``` A quick look back at UIID v2.9.2—the update that brought LINKSPREED's system-adaptive "legendary dark mode" to late-night workflows based on real user data. While we're currently on v2.10.1, this release set the benchmark for data-driven, eye-friendly design.
+http://www.youtube.com/watch?v=j1RKmqKVQ78 ```
+
 ### 05.09.2026
 - Topic: Agentic Internet
 - Directory: /posts/2026/September/05
