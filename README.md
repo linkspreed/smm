@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.09.2026
+- Topic: .uiid File
+- Directory: /posts/2026/September/07
+- Description: ``` 🔐 What if your next login was a file you actually own? LINKSPREED's new .uiid format for Web4 puts true data sovereignty in your hands with portable, privacy-focused identity containers and scoped aliases that stop cross-site tracking. Take back control of your digital life: https://youtu.be/s-UDmPYKP0U?si=hajQfStpEMo_rfvq ```
+
 ### 06.09.2026
 - Topic: UIID v2.9.2
 - Directory: /posts/2026/September/06
