@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.09.2026
+- Topic: UIID API Cookbook
+- Directory: /posts/2026/September/08
+- Description: ``` Build zero-trust, passwordless Web4 apps fast with the updated Linkspreed UIID API v1 Cookbook! Featuring full API coverage, multi-language SDK support (JS, Python, PHP, Go, Curl), and a local Dockerized mock server, it has everything developers need to implement sovereign identity securely—check it out here: https://youtu.be/3JWiU5QZ1Xk?si=mE06U5N4QIiIewaw 🚀🔐 ```
+
 ### 07.09.2026
 - Topic: .uiid File
 - Directory: /posts/2026/September/07
