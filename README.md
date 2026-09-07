@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.09.2026
+- Topic: Biometric & UIID
+- Directory: /posts/2026/September/09
+- Description: ``` In the age of AI deepfakes and automated bots, relying on old-school data collection and storing centralized identity honeypots is a massive security risk. Discover how Universal Interplanetary Identity (UIID) combined with zero-knowledge proofs and match-on-device biometric verification allows platforms to verify human identity in milliseconds without collecting or exposing sensitive personal data. Watch the full video here: https://youtu.be/9nPIK0AlnlU?si=O7AnEtaF47qMnnTw ```
+
 ### 08.09.2026
 - Topic: UIID API Cookbook
 - Directory: /posts/2026/September/08
