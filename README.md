@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.09.2026
+- Topic: Meta Lawsuit
+- Directory: /posts/2026/September/10
+- Description: ``` A $1.4 trillion lawsuit could change Big Tech forever. Watch our explainer on Meta’s landmark legal battle and how decentralized Web4 networks let you own your online platform instead of being the product 👇 https://youtu.be/mvOc2MV-jsw ```
+
 ### 09.09.2026
 - Topic: Biometric & UIID
 - Directory: /posts/2026/September/09
