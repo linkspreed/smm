@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.09.2026
+- Topic: ATRIUM
+- Directory: /posts/2026/September/12
+- Description: ``` Most online groups fade away quickly, but long-term retention comes down to simple, repeatable mechanics. Building active, 10-year communities requires lowering barriers for quiet members, staying consistent with core rituals, and maintaining full control over your group's digital environment. With ATRIUM by LINKSPREED, you can launch your own fully owned social network or super app from a single prompt and foster lasting engagement.
+https://youtu.be/RyH6uF2wyYw?si=WOeKA6pfAl9AXxwX ```
+
 ### 11.09.2026
 - Topic: Studio App
 - Directory: /posts/2026/September/11
