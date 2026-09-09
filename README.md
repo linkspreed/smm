@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.09.2026
+- Topic: Studio App
+- Directory: /posts/2026/September/11
+- Description: ``` Create and launch your own fully decentralized social network in just 60 seconds straight from your phone with Linkspreed’s Web 4 Studio Android app! Enjoy 100% data ownership, zero platform taxes, and simple AI-powered setup—no desktop or coding required. Watch the full breakdown here: https://youtu.be/elwMMKF7ej8?si=UwyvmitH5JhaMrxs ```
+
 ### 10.09.2026
 - Topic: Meta Lawsuit
 - Directory: /posts/2026/September/10
