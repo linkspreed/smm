@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.09.2026
+- Topic: BRIDGE
+- Directory: /posts/2026/September/13
+- Description: ``` Say goodbye to legacy browsing! Linkspreed’s BRIDGE Browser leverages Web4 and LNS to give you true, permanent digital ownership with zero recurring fees or centralized gatekeepers. Upgrade to a completely decentralized, uncensorable internet: http://www.youtube.com/watch?v=NDKJIxz3Ybg ```
+
 ### 12.09.2026
 - Topic: ATRIUM
 - Directory: /posts/2026/September/12
