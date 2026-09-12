@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.09.2026
+- Topic: UIID v2.10
+- Directory: /posts/2026/September/14
+- Description: ``` Stop renting your digital footprint and start owning it. With the release of UIID v2.10, identity theft and corporate data leaks are met with true self-owned security. Explore per-alias credential exports, 4 customizable security tiers, and enterprise-grade compliance including eIDAS 2.0 and NIST integration—all with no proprietary lock-ins or single points of failure. Take complete control at uiid.me today. Watch the full walkthrough: https://youtu.be/OOaTQXNqKg0 ```
+
 ### 13.09.2026
 - Topic: BRIDGE
 - Directory: /posts/2026/September/13
