@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.09.2026
+- Topic: What's a Super App
+- Directory: /posts/2026/September/15
+- Description: ``` Traditional monolith super apps lock you into centralized platforms. Web4 shifts control back to operators and communities through self-owned identity, flat-fee application delivery, and zero platform take-rates. Watch the full deep dive into small-scale super apps and the decentralized Web4 model here: https://youtu.be/AUf4BhkBhUA?si=Mf8hUX_HN3_hDI4x ```
+
 ### 14.09.2026
 - Topic: UIID v2.10
 - Directory: /posts/2026/September/14
