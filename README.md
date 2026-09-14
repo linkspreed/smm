@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.09.2026
+- Topic: The .uiid File
+- Directory: /posts/2026/September/16
+- Description: ``` Stop renting your digital identity. The .uiid file format turns user authentication into portable, self-owned JSON files with built-in data privacy and progressive security. Developers can ditch complex OAuth flows and integrate full authentication in a single afternoon using standard HTTP primitives.  https://youtu.be/FxkpdP8ilKk ```
+
 ### 15.09.2026
 - Topic: What's a Super App
 - Directory: /posts/2026/September/15
