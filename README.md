@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.09.2026
+- Topic: Countries with Digital IDs
+- Directory: /posts/2026/September/17
+- Description: ``` National digital ID rollouts are accelerating globally, but most state-run schemes suffer from critical flaws: centralized honeypots, cross-service tracking, and illusionary consent. Our UIID architecture (Layer 1 of Web4) addresses these vulnerabilities at the structural level. By decoupling identity into an immutable Core ID and context-specific aliases, it enables zero-knowledge verification while giving users direct authority to revoke access on demand. Watch the complete breakdown: https://youtu.be/ORWvI5G5CxE?si=jKZjbS0F3nxb_bm8 ```
+
 ### 16.09.2026
 - Topic: The .uiid File
 - Directory: /posts/2026/September/16
