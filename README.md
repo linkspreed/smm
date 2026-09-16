@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.09.2026
+- Topic: Big Tech
+- Directory: /posts/2026/September/18
+- Description: ``` Big Tech’s $18B settlement proves that relying on massive platforms to keep youth safe isn’t working. The real path forward isn’t waiting for corporate promises—it’s shifting to community-led, decentralized alternatives where moderation is human-scale and privacy is guaranteed by design through Web4, Atrium, and UIID. Read the full breakdown and see how we take digital sovereignty back:  https://youtu.be/p_1Pq256_4s?si=6azXVSCjVG10ikzN ```
+
 ### 17.09.2026
 - Topic: Countries with Digital IDs
 - Directory: /posts/2026/September/17
