@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.09.2026
+- Topic: Transparency Update
+- Directory: /posts/2026/September/19
+- Description: ``` Linkspreed has completely revamped its knowledge base by launching three new transparent pillars: daily deep-dive blog posts, a redesigned structured helpdesk, and an open-source status page powered by Uptime to give developers complete visibility into Web 4 infrastructure.
+https://youtu.be/IPegRTEGj0Y?is=Amct-dq_-OzVeYRu ```
+
 ### 18.09.2026
 - Topic: Big Tech
 - Directory: /posts/2026/September/18
