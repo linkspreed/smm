@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.09.2026
+- Topic: UIID Beginner Guide
+- Directory: /posts/2026/September/20
+- Description: ``` Stop letting corporate databases hold your personal data hostage. UIID (Universal Integrated Identity Decoupled) is LINKSPREED's live Web4 architecture that replaces password-based logins with a self-owned identity vault. By splitting your digital presence into a private Core ID and disposable Aliases, UIID eliminates cross-platform tracking and renders password leaks mathematically impossible. Watch the full guide to claim your digital sovereignty: https://youtu.be/tkBKN8YcVls?si=8s1MnULeVx-IoaVc ```
+
 ### 19.09.2026
 - Topic: Transparency Update
 - Directory: /posts/2026/September/19
