@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.09.2026
+- Topic: First GRAVITY51 Partner!
+- Directory: /posts/2026/September/21
+- Description: ``` A single startup cannot build a hyperscaler — a group can. Through GRAVITY 51, we acquire 51% majority stakes while founders keep 49% equity and day-to-day control, supercharging their vision with the full Web4 GROUP technology stack. Watch our latest explainer video: https://youtu.be/Cwz9fdE6LIo or read the blog article: https://blog.linkspreed.com/press/gravity-51-first-portfolio-company/ ```
+
 ### 20.09.2026
 - Topic: UIID Beginner Guide
 - Directory: /posts/2026/September/20
