@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.09.2026
+- Topic: LINKSPREED invests more in social networks
+- Directory: /posts/2026/September/22
+- Description: ``` Stop renting your audience on big tech platforms and launch a fully sovereign digital home with ATRIUM (Layer 6 of Web4). Deploy a complete, custom social network in 30 seconds via a single AI prompt—featuring native sovereign identity authentication via UIID, custom domain support, expanded template libraries, and an interactive Web4 Studio AI control room, all with zero platform commissions. https://youtu.be/fWUhxT8l7xc?si=l7WeRSZAyenoEerA ```
+
 ### 21.09.2026
 - Topic: First GRAVITY51 Partner!
 - Directory: /posts/2026/September/21
