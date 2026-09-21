@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.09.2026
+- Topic: UIID v2.10.1 (Recap)
+- Directory: /posts/2026/September/23
+- Description: ``` 🚀 UIID 2.10.1 Recap — This update introduces Encrypted QR Payloads (Beta) to shield data during real-world scans, Portable PDF IDs (Beta) for offline/legacy use, Business Badges for verified employee credentials, and Frictionless Business Onboarding via simple email verification. (Recap version) Watch the video: https://youtu.be/dMK4GPIMs0c?si=bdBVpTC025ays46D ```
+
 ### 22.09.2026
 - Topic: LINKSPREED invests more in social networks
 - Directory: /posts/2026/September/22
