@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.09.2026
+- Topic: Healthcare x Web4
+- Directory: /posts/2026/September/24
+- Description: ``` Healthcare data interoperability isn't a storage problem—it's an identity problem. See how the UIID Smart-on-FHIR Bridge uses decentralized identity to give patients total control over their EHR data, streamline login friction, and provide doctors with critical, life-saving context in emergencies. Read the breakdown: https://blog.linkspreed.com/blog/uiid-smart-on-fhir-bridge/ Watch the video: https://youtu.be/DRm-uSkLLIw?is=GOGNCG5fOgfpHpSR ```
+
 ### 23.09.2026
 - Topic: UIID v2.10.1 (Recap)
 - Directory: /posts/2026/September/23
