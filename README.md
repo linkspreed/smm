@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.09.2026
+- Topic: UIID v2.10.2 Recap
+- Directory: /posts/2026/September/25
+- Description: ``` UIID v2.10.2 Recap: Catch up on what came with our v2.10.2 update! While an even newer version is already out, this release focused on vital security patches and core stability tweaks. Watch the video here: https://youtu.be/kch3k_6Y8Vo or read the full blog post here: https://blog.linkspreed.com/press/uiid-v2-10-2-security-stability/ ```
+
 ### 24.09.2026
 - Topic: Healthcare x Web4
 - Directory: /posts/2026/September/24
