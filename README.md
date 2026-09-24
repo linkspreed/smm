@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.09.2026
+- Topic: Pakistan x Web4
+- Directory: /posts/2026/September/26
+- Description: ``` Pakistan as the flagship national deployment for Web4. With 139M people not yet locked into foreign Web2 accounts, Pakistan is positioned to leapfrog legacy networks directly to a sovereign, 7-layer ownership architecture. No blockchain, no gas fees, 0% freelancer commissions, and passwordless biometric identity with UIID.   📺 Watch: https://youtu.be/rf7XBat3haw?si=l8i3NY_0zVSLS-wm📖 Read: https://blog.linkspreed.com/blog/web4-pakistan-national-deployment/ ```
+
 ### 25.09.2026
 - Topic: UIID v2.10.2 Recap
 - Directory: /posts/2026/September/25
