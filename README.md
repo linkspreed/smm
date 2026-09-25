@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.09.2026
+- Topic: Web4 UI
+- Directory: /posts/2026/September/27
+- Description: ``` Most design systems fail because ambient cues—like subtle shadows and gradients—cause visual drift and break in dark mode. To solve this permanently, Linkspreed built Soft Brutalism: a durable identity with a zero-shadow codebase where hierarchy is driven strictly by pure black/white borders (1px to 4px) and softened by generous corner radii. Systems built on subjective taste erode; systems built on explicit prohibitions hold.
+https://youtu.be/9s0QAvdaysk?si=aY8oCsJ03ml-DWzf ```
+
 ### 26.09.2026
 - Topic: Pakistan x Web4
 - Directory: /posts/2026/September/26
