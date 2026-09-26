@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.09.2026
+- Topic: ATRIUM 2.0
+- Directory: /posts/2026/September/28
+- Description: ``` Stop building isolated web apps and start vibe-coding integrated mini apps where your community already lives! Powered by Web 4, TRIVE, Glacier, and Atrium, you can deploy self-owned, zero-hosting tools with built-in biometric identity (UIID)—no digital landlords, zero platform fees, and 100% data control. Learn more: https://blog.linkspreed.com/blog/trive-vibe-coding-mini-apps/ and https://youtu.be/V907ZHlw_Ys ```
+
 ### 27.09.2026
 - Topic: Web4 UI
 - Directory: /posts/2026/September/27
