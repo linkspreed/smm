@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.09.2026
+- Topic: UIID v2.11 Recap
+- Directory: /posts/2026/September/30
+- Description: ``` We released UIID v2.11 one week ago—here is a quick recap of the update, covering key improvements to our self-owned identity layer:   Watch the recap: https://youtu.be/UTx1rU8b-JI?si=PK7gnAEvjTa7GjO5Read the release notes: https://blog.linkspreed.com/press/uiid-v2-11-release/ ```
+
 ### 29.09.2026
 - Topic: Vibe Code Your Mini Apps
 - Directory: /posts/2026/September/29
