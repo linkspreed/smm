@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.10.2026
+- Topic: LNS in 2026
+- Directory: /posts/2026/October/01
+- Description: ``` While traditional DNS forces you to rent your address, LNS turns domain naming into true digital ownership anchored to UIID. We are holding the registry launch until BRIDGE and W4OS hit full native resolution—because handing out a domain without a browser that can resolve it is giving you a deed to a house with no road leading to it.   https://youtu.be/wm98pOMLTxY?si=MH_jJgb6JIrx-iWmhttps://blog.linkspreed.com/blog/lns-registry-waiting-on-bridge/ ```
+
 ### 30.09.2026
 - Topic: UIID v2.11 Recap
 - Directory: /posts/2026/September/30
