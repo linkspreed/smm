@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.10.2026
+- Topic: Web3 is dead
+- Directory: /posts/2026/October/02
+- Description: ``` FBI data reveals crypto fraud losses reached $11.36B in a single year—exposing how Web3’s irreversible, pseudonymous design ultimately favored criminals over users and highlighting the urgent shift toward Web4 systems built on accountability.
+https://youtu.be/vW8qu3fGAPg
+https://blog.linkspreed.com/blog/web3-has-failed-the-numbers/ ```
+
 ### 01.10.2026
 - Topic: LNS in 2026
 - Directory: /posts/2026/October/01
