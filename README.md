@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.10.2026
+- Topic: Declaration of Internet Independence
+- Directory: /posts/2026/October/03
+- Description: ``` Big Tech algorithms optimize for engagement over well-being, but Web4 architecture restores your digital sovereignty with sovereign data ownership. Reclaim your digital independence today: https://youtu.be/MxeaBbD06pw and https://blog.linkspreed.com/blog/declaration-of-independence-big-tech/ ```
+
 ### 02.10.2026
 - Topic: Web3 is dead
 - Directory: /posts/2026/October/02
