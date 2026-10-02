@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.10.2026
+- Topic: SAFE on Web4
+- Directory: /posts/2026/October/04
+- Description: ``` The internet's architecture is undergoing a fundamental shift to combat online exploitation and abuse. Linkspreed's vision introduces Web4 identity architecture—leveraging device-anchored, self-sovereign IDs (UID) to dismantle anonymous spaces used by bad actors while protecting individual user privacy from platform tracking.
+https://youtu.be/F0rcU3dNgNc?is=po1PC1GmKqqK9NRa
+
 ### 03.10.2026
 - Topic: Declaration of Internet Independence
 - Directory: /posts/2026/October/03
