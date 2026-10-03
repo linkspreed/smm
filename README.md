@@ -5,11 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.10.2026
+- Topic: Web4 - Escape the Matrix
+- Directory: /posts/2026/October/05
+- Description: ``` Escape the broken internet with Web4—a sovereign framework built on decentralized identity (UIID), local biometric safety, user-owned property, and transparent open-source architecture designed to return true control and privacy back to you. Read more about Matrix refugees at https://blog.linkspreed.com/blog/matrix-refugees-web4-uiid/ and discover how Web4 redefines our digital future: http://www.youtube.com/watch?v=r9X5oUu0rzg ```
+
 ### 04.10.2026
 - Topic: SAFE on Web4
 - Directory: /posts/2026/October/04
 - Description: ``` The internet's architecture is undergoing a fundamental shift to combat online exploitation and abuse. Linkspreed's vision introduces Web4 identity architecture—leveraging device-anchored, self-sovereign IDs (UID) to dismantle anonymous spaces used by bad actors while protecting individual user privacy from platform tracking.
-https://youtu.be/F0rcU3dNgNc?is=po1PC1GmKqqK9NRa
+https://youtu.be/F0rcU3dNgNc?is=po1PC1GmKqqK9NRa ```
 
 ### 03.10.2026
 - Topic: Declaration of Internet Independence
