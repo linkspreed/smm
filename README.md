@@ -5,13 +5,18 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.10.2026
+- Topic: 20 Open Source Projects
+- Directory: /posts/2026/October/07
+- Description: ``` 🚀 Linkspreed released 20 production-ready open-source projects to help build a decentralized, transparent web. Learn more in the press release: https://blog.linkspreed.com/press/linkspreed-open-source-investment/ or check out the video: https://www.youtube.com/watch?v=TrB1emZqDrM ```
+
 ### 06.10.2026
 - Topic: The Everything App
 - Directory: /posts/2026/October/06
 - Description: ``` A privacy-first super app ecosystem without centralized surveillance or platform lock-in. Powered by UIID for self-owned identity across messaging and payments.
 📖 Read article: https://blog.linkspreed.com/press/everything-app-uiid-wechat-alternative/
 📺 Watch video: https://youtu.be/AIB9liiSB0g?si=k4CXJ49PunvgNPRR
-🌐 uiid.me  ```
+🌐 uiid.me ```
 
 ### 05.10.2026
 - Topic: Web4 - Escape the Matrix
