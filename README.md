@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.10.2026
+- Topic: HORIZON Sci-Fi Projects
+- Directory: /posts/2026/October/08
+- Description: ``` HORIZON—the internal moonshot research division of Y-LAB inside the EVERYTHING Company—is opening its research portfolio. Spanning 20 long-shot programs across quantum teleportation, traversable wormholes, programmable matter, and parallel universes, HORIZON pursues extreme theoretical ideas with rigorous scientific standards and full transparency on the odds.
+Check out the video and read the full press release:
+▶️ https://youtu.be/BtaLAJc8ZB4?si=1kIuUB3yh0KOhTtO
+📰 https://blog.linkspreed.com/press/horizon-moonshot-research-portfolio/ ```
+
 ### 07.10.2026
 - Topic: 20 Open Source Projects
 - Directory: /posts/2026/October/07
