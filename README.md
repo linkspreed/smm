@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.10.2026
+- Topic: ONLY Linkspreed builds Web4
+- Directory: /posts/2026/October/09
+- Description: ``` Most digital platforms claim user control, but force users into rental models across identity, data, and compute. Web4 redefines this paradigm by engineering a truly sovereign architecture—built on W3C Decentralized Identifiers (DIDs) and Verifiable Credentials rather than blockchain bloat or gas fees. It restores direct ownership across every layer while introducing secure, time-limited delegation for autonomous AI agents.   
+https://youtu.be/9CqLpYfyCj8?si=OxN5kZqDw4_ehqip
+https://blog.linkspreed.com/blog/web4-sovereign-architecture/ ```
+
 ### 08.10.2026
 - Topic: HORIZON Sci-Fi Projects
 - Directory: /posts/2026/October/08
