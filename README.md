@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 10.10.2026
+- Topic: 170M IDScan Leak
+- Directory: /posts/2026/October/10
+- Description: ``` The 170M identity exposure proves the danger of the "verify and retain" model—holding raw document scans creates permanent targets. UIID eliminates this risk with a strict "verify and discard" architecture: document images exist only temporarily during verification and are never written to storage. Its plain-text KV store cannot hold images, making it structurally immune to becoming a document vault. Verify what you need, drop the document, and kill the liability. Read the lesson: https://blog.linkspreed.com/blog/idscan-breach-document-vault-lesson/ Watch: https://youtu.be/f74i6CYLCX4 ```
+
 ### 09.10.2026
 - Topic: ONLY Linkspreed builds Web4
 - Directory: /posts/2026/October/09
