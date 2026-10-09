@@ -5,6 +5,12 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.10.2026
+- Topic: Web4 & WebMCP
+- Directory: /posts/2026/October/11
+- Description: ``` Learn how Web4, WebMCP, Cloudflare, and UIID agents work together to stop anonymous bots in their tracks:
+📺 Watch the video: https://www.youtube.com/watch?v=2opv6_XWNc0 📖 Read the full guide: https://blog.linkspreed.com/blog/linkspreed-webmcp-cloudflare-uiid-agents/ ```
+
 ### 10.10.2026
 - Topic: 170M IDScan Leak
 - Directory: /posts/2026/October/10
