@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 12.10.2026
+- Topic: UIID & EUDI
+- Directory: /posts/2026/October/12
+- Description: ``` 🇪🇺 Linkspreed has registered on Germany's official EUDI Wallet service provider marketplace! Discover how their Universal Digital Identity (UID) platform is taking steps toward eIDAS 2.0 readiness ahead of Germany's 2027 digital identity launch. 🎥 Watch video: https://youtu.be/09I67y6BPQc?si=ncsm_nGh1Wro3BX5 📰 Read press release: https://blog.linkspreed.com/press/linkspreed-germany-eudi-wallet-marketplace/ ```
+
 ### 11.10.2026
 - Topic: Web4 & WebMCP
 - Directory: /posts/2026/October/11
