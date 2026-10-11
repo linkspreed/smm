@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.10.2026
+- Topic: WISP
+- Directory: /posts/2026/October/13
+- Description: ``` Web4 just got safer! 🌐 Linkspreed launched Wisp—a sandboxed, capability-secured language built to run untrusted code without risking host app security. 📖 Read: https://blog.linkspreed.com/press/linkspreed-wisp-sandboxed-language/ 🎥 Watch: https://www.youtube.com/watch?v=PJ1pYyQmwtU ```
+
 ### 12.10.2026
 - Topic: UIID & EUDI
 - Directory: /posts/2026/October/12
