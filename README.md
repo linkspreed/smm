@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.10.2026
+- Topic: Custom CSS for ATRIUM
+- Directory: /posts/2026/October/14
+- Description: ``` Tired of boring, identical social media profiles? 🎨 Custom CSS profiles have arrived on LINKSPREED! Reclaim your online identity, ditch the cookie-cutter templates, and design your own unique social network space using AI-powered "vibe coding." Watch the video: https://youtu.be/cRoI86LQK6I?si=P9m0z4e2IrAz1Ocp | Read the full article: https://blog.linkspreed.com/press/linkspreed-custom-css-profiles/ ```
+
 ### 13.10.2026
 - Topic: WISP
 - Directory: /posts/2026/October/13
