@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.10.2026
+- Topic: Trusted Web4 Tester
+- Directory: /posts/2026/October/15
+- Description: ``` 🚀 Join the LINKSPREED Trusted Tester Program! Get early access to new UIID features, test cutting-edge security tools, and help shape our product roadmap. Watch the application guide: https://youtu.be/hkLM2KGJO5c?si=6gcAhJWwMq3CFSTk | Read full details & apply: https://blog.linkspreed.com/blog/uiid-trusted-tester-program/ #BetaTesting #Tech #LINKSPREED #UIID ```
+
 ### 14.10.2026
 - Topic: Custom CSS for ATRIUM
 - Directory: /posts/2026/October/14
