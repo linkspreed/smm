@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.10.2026
+- Topic: UIID WRAP
+- Directory: /posts/2026/October/17
+- Description: ``` Take back control of your digital identity with UIID WRAP 🛡️ Moving beyond legacy password vaults, WRAP pairs self-owned identity with isolated aliases, secure relay emails, and strict origin matching to make phishing structurally impossible—putting you in full control while keeping your core data completely private. Watch the explainer on YouTube: https://youtu.be/fKjaX4K_8DQ?si=SyL6S9yjIrnDbFJQ — Explore the core identity stack at: https://uiid.me ```
+
 ### 16.10.2026
 - Topic: HIVE
 - Directory: /posts/2026/October/16
