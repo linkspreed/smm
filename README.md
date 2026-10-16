@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.10.2026
+- Topic: UIID Mail for Trusted Tester
+- Directory: /posts/2026/October/18
+- Description: ``` Most alternative email services simply bolt an identity layer onto legacy server infrastructure, but UIID Mail is built differently from the ground up. Powered by live UIID infrastructure, it delivers true passwordless and self-sovereign email routing. Watch the overview video here: https://youtu.be/9xzOEPLhfFo?si=DcytjBXGdW-K7_vi — and apply for the Trusted Testers program in the official announcement post here: https://blog.linkspreed.com/blog/uiid-mail-trusted-testers/ ```
+
 ### 17.10.2026
 - Topic: UIID WRAP
 - Directory: /posts/2026/October/17
