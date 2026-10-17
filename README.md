@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.10.2026
+- Topic: UIID On-Device ID
+- Directory: /posts/2026/October/19
+- Description: ``` Check out our latest update on on-device identity and UIID! Watch the video here: https://youtu.be/Y-KA33o0HWQ and read the full blog post for more details: https://blog.linkspreed.com/blog/on-device-identity-uiid/ ```
+
 ### 18.10.2026
 - Topic: UIID Mail for Trusted Tester
 - Directory: /posts/2026/October/18
