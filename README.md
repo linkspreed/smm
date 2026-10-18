@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.10.2026
+- Topic: NO Discord, JUST Web4
+- Directory: /posts/2026/October/20
+- Description: ``` Stop renting your community's home on chat platforms that hide your content—deploy a fully owned network with 0% platform fees in under 60 seconds and own your audience's future today! Watch: https://youtu.be/oMiVnYUhHkg?si=FQdxppWy1En2qjk5 | Read: https://blog.linkspreed.com/blog/brand-communities-deep-dive/ ```
+
 ### 19.10.2026
 - Topic: UIID On-Device ID
 - Directory: /posts/2026/October/19
