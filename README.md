@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 21.10.2026
+- Topic: UIID x IP
+- Directory: /posts/2026/October/21
+- Description: ``` IP addresses only show location, not identity. Web4 and UIID replace temporary IP locations with permanent, hardware-rooted cryptographic identities for people, IoT devices, and AI agents, enabling secure authentication before connections even start.
+Watch the video: https://youtu.be/TjTzbDNhSy8?si=oGp9nOmWY8AX2Okj
+Read the article: https://blog.linkspreed.com/blog/ip-addresses-to-identity-web4/ ```
+
 ### 20.10.2026
 - Topic: NO Discord, JUST Web4
 - Directory: /posts/2026/October/20
