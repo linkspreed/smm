@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 22.10.2026
+- Topic: WebMCP & Web4
+- Directory: /posts/2026/October/22
+- Description: ``` The web is shifting to autonomous AI execution with WebMCP and Cloudflare Edge. LINKSPREED Web4 solves the ghost agent problem by combining WebMCP (what an agent can do) with UIID identity control (who is authorized)—ensuring every machine carries a verifiable passport tied to human accountability. 🎥 Video: https://youtu.be/NAZPYVtD1Rk?si=GA7Eb1G45l0w4cPY 📖 Blog: https://blog.linkspreed.com/blog/linkspreed-webmcp-cloudflare-uiid-agents/ ```
+
 ### 21.10.2026
 - Topic: UIID x IP
 - Directory: /posts/2026/October/21
