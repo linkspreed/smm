@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.10.2026
+- Topic: VIVON - P2P Calls
+- Directory: /posts/2026/October/23
+- Description: ``` 🔒 True P2P Calling with VIVON: Cut out the middleman server. VIVON uses Web4 peer-to-peer tech and crypto UIIDs for direct, end-to-end encrypted calls with zero metadata tracking. 🎥 Watch: https://youtu.be/FAuAGzfi46k?si=lqHwJ4z6EEOWIDCV 📖 Read: https://blog.linkspreed.com/blog/calls-without-a-middleman/ ```
+
 ### 22.10.2026
 - Topic: WebMCP & Web4
 - Directory: /posts/2026/October/22
