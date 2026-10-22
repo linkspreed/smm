@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.10.2026
+- Topic: AI / SI Lab
+- Directory: /posts/2026/October/24
+- Description: ``` Linkspreed is solving the "ghost agent crisis" by introducing cryptographically verifiable digital passports (UIID 2.0) to give AI agents, hardware nodes, and services their own verifiable identities with zero-knowledge privacy—ensuring digital capability never operates without true accountability! 🎥 Watch: https://youtu.be/g1otn-EHQNk 📖 Read: https://blog.linkspreed.com/blog/linkspreed-ai-lab-verified-identities/ ```
+
 ### 23.10.2026
 - Topic: VIVON - P2P Calls
 - Directory: /posts/2026/October/23
