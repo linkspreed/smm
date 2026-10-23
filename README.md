@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.10.2026
+- Topic: UIID 1 Click Login
+- Directory: /posts/2026/October/25
+- Description: ``` Integrating federated authentication no longer requires hours of complex backend development. The UIID Embeddable Login Button by LINKSPREED brings secure, zero-backend, passwordless authentication to any website through a single copy-and-paste snippet. Built with PKCE security, auto-adapting themes, and dynamic localization, it slashes setup times from half a day to under 10 minutes for developers, no-code creators, and site owners alike. Watch the explainer video: https://youtu.be/_8woJV6MUhg?si=GSQrBArqSXsow0cO — Read the official press release: https://blog.linkspreed.com/press/uiid-embeddable-login-button/ ```
+
 ### 24.10.2026
 - Topic: AI / SI Lab
 - Directory: /posts/2026/October/24
