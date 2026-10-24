@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.10.2026
+- Topic: Digital ID in Q3 2026
+- Directory: /posts/2026/October/26
+- Description: ``` Empowering Next-Gen Decentralized Identity: Dive into the Q3 2026 Digital ID Review to explore how UIID technology, zero-knowledge proofs, and Web4 infrastructure are reshaping self-sovereign identity and user privacy across the digital ecosystem. 🎥 Watch: https://youtu.be/zAFLYcOVHPI 📖 Read: https://blog.linkspreed.com/blog/digital-id-q3-2026-review/ ```
+
 ### 25.10.2026
 - Topic: UIID 1 Click Login
 - Directory: /posts/2026/October/25
