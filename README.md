@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.10.2026
+- Topic: UIID and Passkeys
+- Directory: /posts/2026/October/27
+- Description: ``` 🔒 Why UIID and Passkeys Belong Together: Passwords are dead—passkeys use local biometrics and public-key cryptography to eliminate stolen credentials and phishing attacks natively. Linkspreed’s UIID protocol acts as an independent, local-first passkey provider, giving you end-to-end encrypted, non-custodial identity control without corporate platform lock-in. 🎥 Watch: https://youtu.be/ubFt-V6wvHg?si=39hocnTrxI9rAkWX 📖 Read: https://blog.linkspreed.com/blog/uiid-passkey-provider/ ```
+
 ### 26.10.2026
 - Topic: Digital ID in Q3 2026
 - Directory: /posts/2026/October/26
