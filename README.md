@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.10.2026
+- Topic: Brand Community
+- Directory: /posts/2026/October/28
+- Description: ``` 🚀 Stop building on rented land! With organic social reach plummeting to just 1.25%, smart brands are launching their own algorithm-free social networks to truly own their customer relationships and engagement.
+📺 Watch the YouTube Video:https://youtu.be/W6i0V_nIXx0?si=kq25mu-7xkrI-tDi
+📖 Read the Blog Deep Dive:https://blog.linkspreed.com/blog/brand-communities-deep-dive/ ```
+
 ### 27.10.2026
 - Topic: UIID and Passkeys
 - Directory: /posts/2026/October/27
