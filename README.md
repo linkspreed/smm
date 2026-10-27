@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.10.2026
+- Topic: Project Mindlink
+- Directory: /posts/2026/October/29
+- Description: ``` Is general, non-invasive brain-to-brain telepathy scientifically realistic or just sci-fi? 🧠 In this deep dive on Project MindLink (HORIZON / Y-LAB), we break down the signal bottlenecks, the "stadium wall" skull effect, and current bandwidth limits: https://youtu.be/F9Nm0s7H8Y0?si=n8fHorokGmBXIm-U | Read the full breakdown: https://blog.linkspreed.com/blog/project-mindlink-brain-to-brain/ ```
+
 ### 28.10.2026
 - Topic: Brand Community
 - Directory: /posts/2026/October/28
