@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.10.2026
+- Topic: UIID Issuer
+- Directory: /posts/2026/October/30
+- Description: ``` 🚀 LINKSPREED UIID Issuer: Issue UIIDs directly inside your app to eliminate redirect drop-offs, maximize conversion rates, and deliver full Web4 identity ownership to your users. 🎥 Watch: https://youtu.be/5mUb4yu8uig?si=lQhGcf7GjtyttSgA | 📖 Read: https://blog.linkspreed.com/press/uiid-issuer-announcement/ ```
+
 ### 29.10.2026
 - Topic: Project Mindlink
 - Directory: /posts/2026/October/29
