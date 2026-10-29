@@ -5,6 +5,13 @@
 
 ## Stay up to date with our official social media announcements
 
+### 31.10.2026
+- Topic: Community Management in Q3 2026
+- Directory: /posts/2026/October/31
+- Description: ``` While 84.5% of operators consider community mission-critical, only 17% can actually quantify its financial ROI—a gap we address head-on in our Q3 2026 update. Stop relying on vanity metrics like likes or weekly posts; learn how to structure and prove real financial returns across retention, support deflection, acquisition, and account growth.   
+YouTube Video: https://youtu.be/5ZTMAV_0Krg?si=xS-y8lffPM9y95lO
+Blog Article: https://blog.linkspreed.com/blog/community-management-q3-2026/ ```
+
 ### 30.10.2026
 - Topic: UIID Issuer
 - Directory: /posts/2026/October/30
