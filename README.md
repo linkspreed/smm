@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 01.11.2026
+- Topic: UIID x National Identities
+- Directory: /posts/2026/November/01
+- Description: ``` The future of identity is here—discover how LINKSPREED UIID combines privacy-first Web4 identity with national digital IDs: Watch the video (https://youtu.be/KlfOl_d9Tv0) and read the full breakdown (https://blog.linkspreed.com/blog/uiid-national-digital-ids/). #Web4 #LINKSPREED #UIID #DigitalIdentity ```
+
 ### 31.10.2026
 - Topic: Community Management in Q3 2026
 - Directory: /posts/2026/October/31
