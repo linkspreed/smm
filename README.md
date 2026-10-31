@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 02.11.2026
+- Topic: EUDI vs UIID
+- Directory: /posts/2026/November/02
+- Description: ``` 🌐 State-Issued vs. Decentralized Zero-Knowledge Identity: While the state-backed EUDI Wallet provides legally binding credentials under eIDAS 2.0, its reliance on centralized registries and policy enforcement leaves privacy vulnerable to changing legislation—whereas UIID enforces structural, machine-checked privacy directly on your local device using Zero-Knowledge proofs, WebAuthn, and context-specific aliases. 🎥 Watch: https://www.youtube.com/watch?v=1-_aPXTpMTI 📖 Read: https://blog.linkspreed.com/blog/eu-wallet-vs-uiid/ ```
+
 ### 01.11.2026
 - Topic: UIID x National Identities
 - Directory: /posts/2026/November/01
