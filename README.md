@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 03.11.2026
+- Topic: VIVON and P2P Calls
+- Directory: /posts/2026/November/03
+- Description: ``` 📱 True P2P Calling with VIVON: Learn how VIVON revolutionizes global communication by replacing traditional eSIMs and VoIP with secure Web4 peer-to-peer technology, end-to-end encryption, and UIIDs for total privacy. 🎥 Watch: https://youtu.be/e5_fqKncync 📖 Read: https://blog.linkspreed.com/blog/esim-voip-vivon-explained/ ```
+
 ### 02.11.2026
 - Topic: EUDI vs UIID
 - Directory: /posts/2026/November/02
