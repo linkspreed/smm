@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 04.11.2026
+- Topic: Passkeys in UIID v2.12
+- Directory: /posts/2026/November/04
+- Description: ``` 🔑 Passwordless Authentication with UIID v2.12 Passkeys: Upgrade your authentication flow to complete passwordless security using FIDO2/WebAuthn passkeys anchored natively to your UIID identity layer. Protect user sign-ins across Touch ID, Face ID, and hardware tokens with domain-bound, phishing-resistant public key cryptography. 🎥 Watch: https://youtu.be/b8x4YPZK2-w 📖 Read: https://blog.linkspreed.com/press/uiid-v2-12-passkeys/ ```
+
 ### 03.11.2026
 - Topic: VIVON and P2P Calls
 - Directory: /posts/2026/November/03
