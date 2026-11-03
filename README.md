@@ -5,6 +5,15 @@
 
 ## Stay up to date with our official social media announcements
 
+### 05.11.2026
+- Topic: Retro: UIID v2.12
+- Directory: /posts/2026/November/05
+- Description: ``` With UIID v2.12, we eliminated shared secrets by bringing native biometric passkeys (Touch ID, Face ID, Windows Hello, YubiKeys) directly to UIID. We also launched WebAuthn as a Service (/api/v1/passkey-provider), letting devs offload FIDO2 and CBOR/COSE complexity while keeping full UX control, backed by dual-control admin queues and step-up OTPs.   
+▶️ Watch the Video Breakdown:
+https://www.youtube.com/watch?v=6aCAa_3T410
+📖 Read the Deep-Dive Article:
+https://blog.linkspreed.com/blog/passkey-as-a-service/ ```
+
 ### 04.11.2026
 - Topic: Passkeys in UIID v2.12
 - Directory: /posts/2026/November/04
