@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 06.11.2026
+- Topic: Retro: UIID v2.13 and the MCP Server
+- Directory: /posts/2026/November/06
+- Description: ``` With UIID 2.13 natively supporting the Model Context Protocol (MCP), users get biometrically secured, scoped permissions and Zero-Knowledge Proofs for full agent control without compromising privacy. 🌐 Blog: https://blog.linkspreed.com/blog/sports-brand-social-network/ 🎥 Video: https://www.youtube.com/watch?v=lTezxo6MX8Q ```
+
 ### 05.11.2026
 - Topic: Retro: UIID v2.12
 - Directory: /posts/2026/November/05
