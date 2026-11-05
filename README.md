@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 07.11.2026
+- Topic: Retro: Build a Social Network
+- Directory: /posts/2026/November/07
+- Description: ``` Stop chasing algorithm trends on rented social media platforms and start building your own owned community space! Learn how to transition from endless creator burnout to full digital ownership with a 90-day strategy using ATRIUM and Web4 technology. 🎥 Watch: https://youtu.be/9nAqsDufYDI | 📖 Read: https://blog.linkspreed.com/blog/social-media-trends-2026/ ```
+
 ### 06.11.2026
 - Topic: Retro: UIID v2.13 and the MCP Server
 - Directory: /posts/2026/November/06
