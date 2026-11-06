@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 08.11.2026
+- Topic: 20-Person Networks
+- Directory: /posts/2026/November/08
+- Description: ``` The Power of 20-Person Networks: Why chase massive follower counts when real connection happens in tight-knit groups? Small networks leverage Dunbar's number to defeat algorithm noise and social loafing, fostering true digital ownership and authentic trust. 🎥 Watch: https://youtu.be/fmq1ALyTBe8 📖 Read: https://blog.linkspreed.com/blog/small-social-networks/ ```
+
 ### 07.11.2026
 - Topic: Retro: Build a Social Network
 - Directory: /posts/2026/November/07
