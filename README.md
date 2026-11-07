@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 09.11.2026
+- Topic: LNS & BRIDGE
+- Directory: /posts/2026/November/09
+- Description: ``` Watch our video breakdown and read the full blog post to see how LNS and Bridge are building the future of the web. 🎬 Watch Video: https://youtu.be/2b-zidDB_No 📖 Read Blog: https://blog.linkspreed.com/blog/lns-and-bridge-web4/ ```
+
 ### 08.11.2026
 - Topic: 20-Person Networks
 - Directory: /posts/2026/November/08
