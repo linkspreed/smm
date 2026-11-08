@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 11.11.2026
+- Topic: Agent Identity Standard
+- Directory: /posts/2026/November/11
+- Description: ``` 🤖 Machine identities now outnumber humans 109 to 1, yet most companies can't answer a critical question when something goes wrong: Who actually owns this AI agent? Most agents run as system "ghosts," borrowing human credentials and leaving dangerous security blind spots. Discover why verified ownership at birth is vital for AI safety and how protocols like UIID v2.8 fix the fleet. 📺 Watch Video: https://youtu.be/VXHgIviFUTo?si=EjOKvpKYYiwjBVc3 📖 Read Article: https://blog.linkspreed.com/blog/who-owns-this-agent/ ```
+
 ### 10.11.2026
 - Topic: ARCTIC Layer 3
 - Directory: /posts/2026/November/10
