@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 13.11.2026
+- Topic: SSO on UIID
+- Directory: /posts/2026/November/13
+- Description: ``` Are you still relying on classic SSO, or are you ready to move beyond vulnerable password honeypots? 🔐 In our latest deep dive, we explore how device-bound biometrics, zero-knowledge proofs, and dual-layer identity are transforming security for both human users and AI agents 🚀 📌 Release Info: https://blog.linkspreed.com/press/uiid-v2-14-release/ | 🎥 Watch Video: https://youtu.be/pePS0vB4Za0P ```
+
 ### 12.11.2026
 - Topic: Build Your Own Social Media
 - Directory: /posts/2026/November/12
