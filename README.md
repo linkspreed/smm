@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 14.11.2026
+- Topic: Retro: UIID v2.13
+- Directory: /posts/2026/November/14
+- Description: ``` UIID v2.13 brings sovereign identity to AI, featuring a native MCP server with 25 identity tools, captcha-free agent onboarding via skill.md, and zero-trust cryptographic proofs while leaving full, instant revocation control in human hands. 📖 Read the Blog Post: https://blog.linkspreed.com/press/uiid-v2-13-mcp-server/ 🎬 Watch the Video: https://youtu.be/-pKGSVj4Wpk ```
+
 ### 13.11.2026
 - Topic: SSO on UIID
 - Directory: /posts/2026/November/13
