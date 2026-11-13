@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 15.11.2026
+- Topic: Retro: Dynamic OAuth - UIID v2.14
+- Directory: /posts/2026/November/15
+- Description: ``` 🛡️ Take Full Control of Your App Permissions with Dynamic OAuth in UIID v2.14: Say goodbye to "all-or-nothing" login screens—UIID v2.14 introduces granular, selective consent, 15-minute time-limited access tokens, and seamless step-up authorization so apps and AI agents only access the exact Web4 identity data you approve, when you approve it. 🎥 Watch: https://youtu.be/2aAlFrVC61k | 📖 Read: https://blog.linkspreed.com/press/uiid-v2-14-release/ ```
+
 ### 14.11.2026
 - Topic: Retro: UIID v2.13
 - Directory: /posts/2026/November/14
