@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 16.11.2026
+- Topic: UIID v2.14 (Retro)
+- Directory: /posts/2026/November/16
+- Description: ``` 🔐 UIID v2.14: Enterprise SSO & Passwordless Sign-In: Say goodbye to weak passwords and all-or-nothing app permissions with unified Enterprise SSO (supporting OIDC, SAML 2.0, Azure AD, and Okta), customizable white-label login portals, and Dynamic OAuth with granular 15-minute access grants for true zero-trust security. 🎥 Watch: https://youtu.be/rq_mzzCzRr8 | 📖 Read: https://blog.linkspreed.com/press/uiid-v2-14-release/ ```
+
 ### 15.11.2026
 - Topic: Retro: Dynamic OAuth - UIID v2.14
 - Directory: /posts/2026/November/15
