@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 17.11.2026
+- Topic: One Update per Week
+- Directory: /posts/2026/November/17
+- Description: ``` 🔒 The Future of Digital Identity at Light Speed: LINKSPREED is cutting UIID release cycles in half to a weekly cadence—and aiming for major updates every 3 to 4 days—to deliver continuous, transparent Web4 identity innovation. 🎥 Watch: https://youtu.be/yXDlgoPzkcs   |   📖 Read: https://blog.linkspreed.com/press/uiid-weekly-updates/ ```
+
 ### 16.11.2026
 - Topic: UIID v2.14 (Retro)
 - Directory: /posts/2026/November/16
