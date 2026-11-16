@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 19.11.2026
+- Topic: Passkeys as a Service
+- Directory: /posts/2026/November/19
+- Description: ``` 🔐 Say Goodbye to Passwords with UIID Passkey as a Service: Ditch complex server-side WebAuthn cryptography and add phishing-resistant, passwordless authentication to your app using just four simple REST API calls and a zero-dependency Node.js demo. 🎥 Watch: https://youtu.be/_PZSjfjZxbQ  |  📖 Read: https://blog.linkspreed.com/blog/passkey-as-a-service/ ```
+
 ### 18.11.2026
 - Topic: How's Web4 doing?
 - Directory: /posts/2026/November/18
