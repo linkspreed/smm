@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 18.11.2026
+- Topic: How's Web4 doing?
+- Directory: /posts/2026/November/18
+- Description: ``` 🌐 Web4 Ecosystem Update: The Roadmap and Recent Milestones: The rental era of the internet is officially ending as Linkspreed bridges Web2 usability with true Web3 ownership across 160+ sovereign Atrium social networks, zero-knowledge UIID identities, accountable MCP-governed AI agents, and decentralized Arctic infrastructure. Discover how we are building an identity-addressed internet where you hold the digital keys to your life! 🎥 Watch: https://youtu.be/nphfq8cgAAY | 📖 Read: https://blog.linkspreed.com/blog/web4-sovereign-architecture/ ```
+
 ### 17.11.2026
 - Topic: One Update per Week
 - Directory: /posts/2026/November/17
