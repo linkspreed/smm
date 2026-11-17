@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 20.11.2026
+- Topic: UIID v2.15
+- Directory: /posts/2026/November/20
+- Description: ``` 🌐 UIID v2.15: Next-Gen Sovereign Identity for Everything You Own: Take full control of your Web4 digital footprint with verified public institution IDs, SHA-256 cryptographic digital asset proofs, and a unified custom cards and passes hub where every ticket or loyalty pass gets its own sovereign UIID alias—zero central tracking, 100% owner-controlled privacy. 🎥 Watch: https://youtu.be/bhFnOPtPbGI | 📖 Read: https://blog.linkspreed.com/press/uiid-v2-15-release/ ```
+
 ### 19.11.2026
 - Topic: Passkeys as a Service
 - Directory: /posts/2026/November/19
