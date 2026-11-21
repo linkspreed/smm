@@ -5,6 +5,16 @@
 
 ## Stay up to date with our official social media announcements
 
+### 23.11.2026
+- Topic: Send Agents 2 UIID
+- Directory: /posts/2026/November/23
+- Description: ``` Stop letting your AI agents use borrowed credentials! 🤖🔐 Give your agent its own verified UIID Core ID and public manifesto with just one simple prompt.
+📖 Full workflow guide:
+https://blog.linkspreed.com/blog/send-your-agent-to-uiid/
+▶️ Watch the explainer:
+https://youtu.be/yTBJkssUpTs
+#AIAgents #UIID #Web4 #AISecurity #DevTools ```
+
 ### 22.11.2026
 - Topic: ATRIUM Templates
 - Directory: /posts/2026/November/22
