@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 24.11.2026
+- Topic: UIID v2.16 Retro
+- Directory: /posts/2026/November/24
+- Description: ``` Log In Without Revealing Everything! UIID v2.16 Alias Login: Say goodbye to all-or-nothing master key logins—LINKSPREED UIID v2.16 introduces dedicated alias login with scoped sessions, granular read/write permissions, and encrypted credential downloads so you can keep your core identity hidden while giving collaborators or AI agents access only to what they need. 🎥 Watch: https://youtu.be/D9pzYmGtaso | 📖 Read: https://blog.linkspreed.com/press/uiid-v2-16-alias-login/ ```
+
 ### 23.11.2026
 - Topic: Send Agents 2 UIID
 - Directory: /posts/2026/November/23
