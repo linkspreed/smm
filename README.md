@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 25.11.2026
+- Topic: UIID Zero Zero
+- Directory: /posts/2026/November/25
+- Description: ``` 🗳️ Securing Future Elections with UIID: Discover how LINKSPREED's Web4 identity architecture protects democratic integrity by separating a verified Core ID from single-use election aliases, stopping duplicate votes and impersonation through zero-knowledge proofs and hardware-bound passkeys without ever exposing your personal identity or ballot choices. 🎥 Watch: https://youtu.be/MG00vVOzi0U | 📖 Read: https://blog.linkspreed.com/blog/uiid-secure-elections/ ```
+
 ### 24.11.2026
 - Topic: UIID v2.16 Retro
 - Directory: /posts/2026/November/24
