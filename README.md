@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 26.11.2026
+- Topic: UIID Zero PII
+- Directory: /posts/2026/November/26
+- Description: ``` 🛠️ Seamless Identity & AI Agent Integration with UIID v2.17: Say goodbye to disruptive sign-in detours with Smart Routing, which returns users straight to their starting application after authentication, while the new MCP Marketplace empowers developers and AI agents with 27 ready-to-use tools, enforced S256 PKCE security, and dynamic client registration. 🎥 Watch: https://youtu.be/4KOWgd3ZEao  |  📖 Read: https://blog.linkspreed.com/press/uiid-v2-17-smart-routing/ ```
+
 ### 25.11.2026
 - Topic: UIID Zero Zero
 - Directory: /posts/2026/November/25
