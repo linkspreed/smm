@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 27.11.2026
+- Topic: UIID FSF
+- Directory: /posts/2026/November/27
+- Description: ``` 🛡️ Delegate Access Safely with UIID Alias Login: Stop risking your entire digital identity with a single master password—UIID v2.16 introduces mathematically isolated alias sessions with dedicated passwords, passkeys, read-only permissions, and encrypted credential files so you can grant exact access to teams or AI agents without ever exposing your core ID. 🎥 Watch: https://youtu.be/xWRTk8a0ayI 📖 Read: https://blog.linkspreed.com/blog/uiid-alias-login/ ```
+
 ### 26.11.2026
 - Topic: UIID Zero PII
 - Directory: /posts/2026/November/26
