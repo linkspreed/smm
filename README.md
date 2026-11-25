@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 28.11.2026
+- Topic: ATRIUM API & MCP
+- Directory: /posts/2026/November/28
+- Description: ``` 🚀 Launch Web4 Social Networks with AI & Code via ATRIUM: LINKSPREED is opening up ATRIUM with a planned MCP server and public API, empowering AI agents and developers to spin up and manage independent communities through simple prompts or automated workflows. Retain 100% data ownership with 0% platform fees while ensuring verifiable AI agent accountability powered by UIID. 🎥 Watch: https://youtu.be/xDcJ3Bz_tBY | 📖 Read: https://blog.linkspreed.com/press/atrium-mcp-server-and-api/ ```
+
 ### 27.11.2026
 - Topic: UIID FSF
 - Directory: /posts/2026/November/27
