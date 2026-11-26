@@ -5,6 +5,14 @@
 
 ## Stay up to date with our official social media announcements
 
+### 29.11.2026
+- Topic: UIID Issuer SDK
+- Directory: /posts/2026/November/29
+- Description: ``` Replace passwords with biometric, zero-knowledge verifiable credentials—and let organizations become trusted roots of verification at scale with the UIID Organizations Issuer SDK.
+📖 Blog & SDK: https://blog.linkspreed.com/blog/uiid-organizations-issuer-sdk/
+▶️ Video: http://www.youtube.com/watch?v=yLeY5VKAIlA 
+#UIID #Web4 #DID ```
+
 ### 28.11.2026
 - Topic: ATRIUM API & MCP
 - Directory: /posts/2026/November/28
