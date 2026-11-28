@@ -5,6 +5,11 @@
 
 ## Stay up to date with our official social media announcements
 
+### 30.11.2026
+- Topic: UIID v2.18
+- Directory: /posts/2026/November/30
+- Description: ``` 🔑 Meet UIID v2.18 & The New Issuer Program: Organizations can now issue self-owned, passwordless digital identities on Web4 with API keys, a dedicated dashboard, and zero-knowledge privacy by default—without holding unnecessary personal data. 🎥 YouTube Video: https://youtu.be/pQkOiPBpbn4 ── 📖 Blog Post: https://blog.linkspreed.com/press/uiid-v2-18-issuer-program/ ```
+
 ### 29.11.2026
 - Topic: UIID Issuer SDK
 - Directory: /posts/2026/November/29
